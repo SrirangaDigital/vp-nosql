@@ -75,58 +75,12 @@ class Model {
 
 	}
 
-	public function beforeDbUpdate($data){
-
-		if(isset($data['Date'])){
-
-			if(preg_match('/^0000\-/', $data['Date'])) {
-
-				unset($data['Date']);
-			}
-		}
-		return $data;
-	}
-
-	public function insertDataExistsFlag($data){
-
-		$leaves = glob(PHY_DATA_URL . $data['id'] . '/thumbs/*' . PHOTO_FILE_EXT);
-		$data['DataExists'] = (sizeof($leaves)) ? '1' : '0';
-
-		return $data;
-	}
-
 	public function filterSpecialChars($string){
 
 		$string = str_replace('/', '_', $string);
 		$string = urlencode($string);
 
 		return $string;
-	}
-
-	public function getForeignKeyTypes($db){
-
-		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
-		$result = $collection->distinct(FOREIGN_KEY_TYPE);
-		return $result;
-	}
-
-	public function insertForeignKeyDetails($db, $artefactDetails , $foreignKeys){
-
-		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
-
-		$data = [];
-		foreach($foreignKeys as $fkey){
-
-			if(array_key_exists($fkey, $artefactDetails)){
-				
-				$result = $collection->findOne([$fkey => $artefactDetails[$fkey]]);
-				$result = $this->unsetControlParams($result);
-
-				$artefactDetails = array_merge((array) $artefactDetails, (array) $result);
-			}
-		}
-
-		return $artefactDetails;
 	}
 
 	public function unsetControlParams($data){

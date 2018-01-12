@@ -1,0 +1,77 @@
+<?php
+
+class articles extends Controller {
+
+	public function __construct() {
+		
+		parent::__construct();
+	}
+
+	public function all($query = [], $letter = DEFAULT_LETTER) {
+
+		// Albhabetic list of article displayed letter wise
+		// articles/all/A
+
+		// Get data from api
+		// get('api/articles?title=@^' . $letter)
+
+		$url = BASE_URL . 'api/articles?title=@^' . $letter;
+		$result = json_decode($this->model->getDataFromApi($url), true);
+		$result['pageTitle'] = ARCHIVE . ' > ' . ARTICLES;
+		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
+	}
+
+	public function toc($query = []) {
+
+		// Table of contents. This accepts one or more structural parameters
+		// articles/toc?volume=001&part=01
+		// articles/toc?number=123
+
+		// Get data from api
+		// get('api/articles?volume=001&part=01)
+
+		$filter = $this->model->filterArrayToString($query);
+		$url = BASE_URL . 'api/articles?' . $filter;
+		$result = json_decode($this->model->getDataFromApi($url), true);
+		$result['pageTitle'] = ARCHIVE . ' > ' . TOC;
+		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
+	}
+
+	public function author($query = [], $author = DEFAULT_STRING) {
+
+		// Chronological list of article written by an author
+		// articles/author/author1
+
+		// Get data from api
+		// get('api/articles?author=author1
+
+		$url = BASE_URL . 'api/articles?author.name=' . $this->model->filterSpecialChars($author);
+		$result = json_decode($this->model->getDataFromApi($url), true);
+		$result['pageTitle'] = ARCHIVE . ' > ' . AUTHOR;
+		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
+	}
+
+	public function category($query = [], $category = DEFAULT_STRING, $categoryValue = DEFAULT_STRING) {
+
+		// Chronological list of article in a given category
+		// articles/category/feature/Editorial
+
+		// Get data from api
+		// get('api/articles?feature=Editorial
+
+		$url = BASE_URL . 'api/articles?' . $category . '=' . $categoryValue;
+		$result = json_decode($this->model->getDataFromApi($url), true);
+		$result['pageTitle'] = ARCHIVE . ' > ' . FEATURES;
+		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
+	}
+
+	public function search($query = []) {
+
+		// Chronological list of article served as search results
+		// articles/search?title='value1'&author.name='value1'
+		// Here while doing the api call, care is to be taken to invoke regular expression for each search term
+		($result) ? $this->view('articles/articles', $result) : $this->view('error/index');
+	}
+}
+
+?>

@@ -4,7 +4,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Indian Institute of Technology Madras</title>
+    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Vivekaprabha</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -12,86 +12,53 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- FONT
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" id="royal_enqueue_Lato-css" href="https://fonts.googleapis.com/css?family=Lato%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&amp;ver=1.0.0" type="text/css" media="all">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700' rel='stylesheet' type='text/css'>
-    <link href="https://fonts.googleapis.com/css?family=Raleway:100,400,300,600" rel="stylesheet" type="text/css">
-
     <!-- Javascript calls
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="<?=PUBLIC_URL?>js/jquery-1.11.0.min.js"></script>
-	<script type="text/javascript" src="<?=PUBLIC_URL?>js/lightbox.js"></script>
- 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+    <script src="<?=PUBLIC_URL?>js/jquery.columnizer.js"></script>
+    
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/normalize.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <!-- <link rel="stylesheet" href="css/skeleton.css"> -->
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/carousel.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/homepage.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/flat.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/form.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/aux.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/social.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css">
-    <script type="text/javascript">var base_url = "<?= BASE_URL?>";</script>
+    <?php require_once('public/css/variables.css.php');?>
+
+    <!-- Fonts
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Raleway:200,300,400|Roboto:300,400&amp;subset=latin-ext" rel="stylesheet"> -->
+
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.png">
+    <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.ico">
 </head>
 <body>
-<?php // echo file_get_contents( BASE_URL . 'vendor/analyticstracking.php' ); ?>
     <!-- Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <nav class="navbar navbar-default navbar-fixed-top wider">
-        <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-primary-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
-            <div class="collapse navbar-collapse" id="navbar-primary-collapse">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="<?=BASE_URL?>#home">Heritage Centre</a></li>
-                    <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#about">About</a></li>
-                    <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#collection">Collection</a></li>
-                    <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>
-                    <li><a href="<?=BASE_URL?>#physical">Physical Space</a></li>
-                    <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#contribute">Contribute</a></li>
-                    <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#contact">Contact</a></li>
-                    <li><a>·</a></li>
-                    <li>
-<?php
-if(isset($_SESSION['login']))
-{
-    echo ($_SESSION['login'] == 1) ? '<a href="' . BASE_URL . 'user/logout">Logout</a>' : '<a href="' . BASE_URL . 'user/login">Login</a>';
-}
-else
-{
-    echo '<a href="' . BASE_URL . 'user/login">Login</a>';
-}
-?>
-                    </li>
+    <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg fixed-top">
+        <div class="container-fluid clear-paddings">
+            <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo" class="logo"></a>
+            <p class="navbar-text" id="navbarText">ವಿವೇಕಪ್ರಭ<br /><small>ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಏಕೈಕ ಕನ್ನಡ ಮಾಸಪತ್ರಿಕೆ</small></p>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <p class="ml-auto"></p>
+            <div class="collapse navbar-collapse flex-column" id="navbarNav">
+                <ul class="navbar-nav nav  ml-auto math-location">
+                    <li>ಶ್ರೀರಾಮಕೃಷ್ಣ ಆಶ್ರಮ, ಮೈಸೂರು</li>
                 </ul>
-            </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
+                <ul class="navbar-nav nav flex-row ml-auto text-bold">
+                    <li><a href="<?=BASE_URL?>">ವಿವೇಕಪ್ರಭ</a></li>
+                    <li><a href="<?=BASE_URL?>About">ಧ್ಯೇಯ</a></li>
+                    <li><a href="<?=BASE_URL?>listing/distinct/volume">ಸಂಪುಟಗಳು</a></li>
+                    <li><a href="<?=BASE_URL?>listing/volumes">ಸಹಾಯ</a></li>
+                </ul>
+            </div>
+        </div>
     </nav>
     <!-- End Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

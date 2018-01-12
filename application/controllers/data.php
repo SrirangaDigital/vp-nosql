@@ -20,11 +20,11 @@ class data extends Controller {
 			$content = json_decode($contentString, true);
 
 			foreach ($content['toc'] as $article) {
-				# code...
 
 				$data = $content;
-				unset($data['toc']);
-				$data['article'] = $article;
+				$data['Type'] = 'Journal';
+				if(isset($data['toc']))	unset($data['toc']);
+				$data = $data + $article;
 				$data['id'] = $data['id'] . '/' . $article['page'];
 				$data = array_filter($data);
 				$result = $collection->insertOne($data);
@@ -35,21 +35,13 @@ class data extends Controller {
 	// Use this method for global changes in json files
 	public function modify() {
 
-		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/index.json$/i');
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
+
+		$iterator = $collection->find(['volume' => ['$regex' => '01[2-9]', ], 'issue' => '01'], ['projection' => ['id' => 1, 'volume' => 1, '_id' => 0], 'sort' => ['volume' => 1, 'page' => 1]]);
+		foreach ($iterator as $value) {
 		
-		foreach ($jsonFiles as $jsonFile) {
-
-			if(preg_match('/IMFG/', $jsonFile)){
-
-				var_dump($jsonFile);
-			}
-			// $contentString = file_get_contents($jsonFile);
-			// $content = json_decode($contentString, true);
-
-			// $content = array_filter($content);
-			// $json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-	
-			// file_put_contents($jsonFile, $json);
+			var_dump((array)$value);
 		}
 	}
 }

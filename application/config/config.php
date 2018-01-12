@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://localhost/vp-nosql/');
+define('BASE_URL', 'http://192.168.1.101/vp-nosql/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('DATA_URL', PUBLIC_URL . 'data/');
 define('METADATA_URL', PUBLIC_URL . 'metaData/');
@@ -25,11 +25,11 @@ define('DB_NAME', 'vpARCHIVES');
 define('DB_USER', 'vpUSER');
 define('DB_PASSWORD', 'vp123');
 
-// Git config
-define('GIT_USER_NAME', 'shruthisdst');
-define('GIT_PASSWORD', 'shruthitr14');
-define('GIT_REPO', 'github.com/SrirangaDigital/vp-nosql.git');
-define('GIT_REMOTE', 'https://' . GIT_USER_NAME . ':' . GIT_PASSWORD . '@' . GIT_REPO);
-define('GIT_EMAIL', 'shruthitr.nayak@gmail.com');
+//~ // Git config
+//~ define('GIT_USER_NAME', 'shruthisdst');
+//~ define('GIT_PASSWORD', 'shruthitr14');
+//~ define('GIT_REPO', 'github.com/SrirangaDigital/vp-nosql.git');
+//~ define('GIT_REMOTE', 'https://' . GIT_USER_NAME . ':' . GIT_PASSWORD . '@' . GIT_REPO);
+//~ define('GIT_EMAIL', 'shruthitr.nayak@gmail.com');
 
 ?>

@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Nudi';
+  src: url('NUDIUNI01K.ttf');
+  unicode-range: U+0C80-0CFF;
+}
+a {
+  color: #1565C0;
+}
+
+.flat-page, .dynamic-page{
+    margin-top: 80px;
+}
+
+.dynamic-page{
+    min-height: 75vh;
+    font-family: 'Nudi';
+    color: #222;
+}
+
+.vol-caption{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.vol-title{
+  font-size: 18px;
+  color: #D50000;  
+}
+
+.col-division{
+  border: 1px solid #D50000;  
+}
+ul.inline{
+  margin-bottom: 40px;
+}
+ul.inline li{
+  display: inline;
+  margin-right: 50px; 
+  text-align: left;
+
+}
+@media(min-width:768px) {
+    .flat-page, .dynamic-page{
+        margin-top: 120px;
+    }
+}

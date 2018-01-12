@@ -7,35 +7,28 @@ class listing extends Controller {
 		parent::__construct();
 	}
 
-	public function categories($query = [], $type = DEFAULT_TYPE) {
+	public function structure($query = []) {
 
-		if($type == 'Miscellaneous') $this->redirect('listing/artefacts/Miscellaneous/' . MISCELLANEOUS_NAME);
-
-		$query['select'] = (isset($query['select'])) ? $query['select'] : ''; $selectKey = $query['select']; unset($query['select']);
-		$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);
-
-		$precastSelectKeys = $this->model->getPrecastKey($type, 'selectKey');
-		if(array_search($selectKey, $precastSelectKeys) === false) {$this->view('error/index');return;}
-
-		$categories = $this->model->getCategories($type, $selectKey, $page, $query);
-
-		if($page == '1')
-			($categories != 'noData') ? $this->view('listing/categories', $categories) : $this->view('error/index');
-		else
-			echo json_encode($categories);
+		// Get structural params from json-precast
+		// listing/structure
 	}
 
-	public function artefacts($query = [], $type = DEFAULT_TYPE) {
+	public function articles($query = []) {
 
-		$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);
-		$sortKey = $this->model->getPrecastKey($type, 'sortKey');
+		// Redirect to articles/all/A
+		// listing/articles
+	}
 
-		$artefacts = $this->model->getArtefacts($type, $sortKey, $page, $query);
+	public function authors($query = [], $letter = DEFAULT_LETTER) {
 
-		if($page == '1')
-			($artefacts != 'noData') ? $this->view('listing/artefacts', $artefacts) : $this->view('error/index');
-		else
-			echo json_encode($artefacts);
+		// Albhabetic list of authors displayed letter wise
+		// listing/authors/A
+	}
+
+	public function category($query = [], $param = DEFAULT_PARAM) {
+
+		// Listing of various categories such as features and series
+		// listing/category/feature
 	}
 }
 

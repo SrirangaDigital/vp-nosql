@@ -1,17 +1,9 @@
 {
-	"Photograph" : {
+	"Journal" : {
 		"selectKey" : [
-			"Collection",
-			"Album"
+			"Volume",
+			"Issue"
 		],
-		"sortKey" : "Caption"
-	},
-	"Publication" : {
-		"selectKey" : ["Publication"],
-		"sortKey" : "Date"
-	},
-	"Multimedia" : {
-		"selectKey" : ["Media"],
-		"sortKey" : "Description"
+		"sortKey" : "Default"
 	}
 }

@@ -31,10 +31,13 @@ class articles extends Controller {
 		// Get data from api
 		// get('api/articles?volume=001&part=01)
 
+		require_once 'application/views/viewHelper.php';
+		$viewHelper = new viewHelper();
+
 		$filter = $this->model->filterArrayToString($query);
 		$url = BASE_URL . 'api/articles?' . $filter;
 		$result = json_decode($this->model->getDataFromApi($url), true);
-		$result['pageTitle'] = ARCHIVE . ' > ' . TOC . ' > ' . ARCHIVE_VOLUME . ' ' . $this->model->rlZero($query['volume']) . ', ' . ARCHIVE_ISSUE . ' '. $this->model->rlZero($query['issue']);
+		$result['pageTitle'] = ARCHIVE . ' > ' . TOC . ' > ' . ARCHIVE_VOLUME . ' ' . $viewHelper->roman2Kannada($viewHelper->rlZero($query['volume'])) . ', ' . ARCHIVE_ISSUE . ' '. $viewHelper->roman2Kannada($viewHelper->rlZero($query['issue']));
 		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
 	}
 
@@ -48,7 +51,7 @@ class articles extends Controller {
 
 		$url = BASE_URL . 'api/articles?author.name=' . $this->model->filterSpecialChars($author);
 		$result = json_decode($this->model->getDataFromApi($url), true);
-		$result['pageTitle'] = ARCHIVE . ' > ' . AUTHOR;
+		$result['pageTitle'] = ARCHIVE . ' > ' . AUTHORS . ' > ' . $author;
 		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
 	}
 
@@ -60,9 +63,9 @@ class articles extends Controller {
 		// Get data from api
 		// get('api/articles?feature=Editorial
 
-		$url = BASE_URL . 'api/articles?' . $category . '=' . $categoryValue;
+		$url = BASE_URL . 'api/articles?' . $category . '=' . $this->model->filterSpecialChars($categoryValue);
 		$result = json_decode($this->model->getDataFromApi($url), true);
-		$result['pageTitle'] = ARCHIVE . ' > ' . FEATURE;
+		$result['pageTitle'] = ARCHIVE . ' > ' . constant(strtoupper($category)) . ' > ' . $categoryValue;
 		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
 	}
 

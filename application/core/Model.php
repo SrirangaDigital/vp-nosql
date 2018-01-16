@@ -32,6 +32,13 @@ class Model {
 		return $string;
 	}
 
+	public function getPrecastKey($type, $key){
+
+	    $structure = json_decode(file_get_contents(PHY_JSON_PRECAST_URL . 'archive-structure.json'), true);
+
+		return (isset($structure{$type}['selectKey'])) ? $structure{$type}{$key} : '';
+	}
+
 	public function preProcessQueryFilter($filter){
 
 		foreach ($filter as $key => $value) {
@@ -61,6 +68,7 @@ class Model {
 			
 			$filter{$key} = str_replace('_', '/', $filter{$key});
 		}
+
 
 		return $filter;
 	}
@@ -92,11 +100,6 @@ class Model {
 		$alphabetList = (sizeof($alphabetList) > 0) ? array_unique($alphabetList) : '';
 
 		return $alphabetList;
-	}
-
-	public function rlZero($term) {
-
-		return preg_replace('/^0+|\-0+/', '', $term);
 	}
 
 }

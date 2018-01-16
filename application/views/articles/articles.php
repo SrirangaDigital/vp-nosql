@@ -14,14 +14,14 @@
             </p>
 
 <?php } ?>
-            <h5 class="text-right"><?= sizeof($data['articles'])?> <?=ARTICLES?></h5>
+            <h5 class="text-right"><?= $viewHelper->roman2Kannada(sizeof($data['articles']))?> <?=ARTICLES?></h5>
 <?php foreach ($data['articles'] as $article) { ?>
     
             <div class="full-width-card blue-edge">
                 <h4 class="publication-details">
                     <span class="red"><a href="<?=BASE_URL?>articles/category/feature/<?=$article['feature']?>"><?=(isset($article['feature'])) ? $article['feature'] : ''?></a></span>
                     <span class="brown"><a href="<?=BASE_URL?>articles/category/series/<?=$article['series']?>"><?=(isset($article['series'])) ? $article['series'] : ''?></a></span>
-                    <span class="gray"><a href="<?=BASE_URL?>articles/toc?volume=<?=$article['volume']?>&issue=<?=$article['issue']?>"><?=$viewHelper->kannadaMonth($article['month'])?>, <?=$article['year']?> (<?=ARCHIVE_VOLUME?> <?=$viewHelper->rlZero($article['volume'])?>, <?=ARCHIVE_ISSUE?> <?=$viewHelper->rlZero($article['issue'])?>)</a></span>
+                    <span class="gray"><a href="<?=BASE_URL?>articles/toc?volume=<?=$article['volume']?>&issue=<?=$article['issue']?>"><?=$viewHelper->kannadaMonth($article['month'])?>, <?=$viewHelper->roman2Kannada($article['year'])?> (<?=ARCHIVE_VOLUME?> <?=$viewHelper->roman2Kannada($viewHelper->rlZero($article['volume']))?>, <?=ARCHIVE_ISSUE?> <?=$viewHelper->roman2Kannada($viewHelper->rlZero($article['issue']))?>)</a></span>
                 </h4>
                 <h2 class="title">
                     <a target="_blank" href="#" class="pdf"><?=$article['title']?></a>

@@ -19,11 +19,11 @@
 <?php } ?>
 <?php foreach ($data['values'] as $row) { ?>
     
-            <div class="full-width-card red-edge">
     <?php if(isset($row['item'])) { ?>
+            <div class="full-width-card red-edge">
                 <h3 class="author"><a href="<?=$data['nextUrl']?><?=$row['item']?>"><?=$row['item']?></a></h3>
-    <?php } ?>
             </div>
+    <?php } ?>
 <?php } ?>
         </div>
     </div>

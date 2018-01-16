@@ -7,10 +7,21 @@ class listing extends Controller {
 		parent::__construct();
 	}
 
-	public function structure($query = []) {
+	public function structure($query = [], $type = DEFAULT_TYPE) {
 
 		// Get structural params from json-precast
 		// listing/structure
+
+		$query = $this->model->preProcessURLQuery($query);
+		
+		$query['select'] = (isset($query['select'])) ? $query['select'] : ''; $selectKey = $query['select']; unset($query['select']);
+
+		$precastSelectKeys = $this->model->getPrecastKey($type, 'selectKey');
+
+		if(array_search($selectKey, $precastSelectKeys) === false) {$this->view('error/index');return;}
+		$categories['values'] = $this->model->getCategories($type, $selectKey, $query);
+		
+		($categories) ? $this->view('listing/structure', json_encode($categories)) : $this->view('error/index');
 	}
 
 	public function articles() {

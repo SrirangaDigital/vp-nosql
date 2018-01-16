@@ -68,10 +68,10 @@
             <a class="cd-sec-nav-trigger">Menu<span></span></a>
             <nav id="cd-sec-main-nav">
               <ul>
-                <li><a class="years" href="#"><i class="fa fa-calendar"></i> <?=NAV_ARCHIVE_VOLUME?></a></li>
-                <li><a class="titles" href="<?=BASE_URL?>articles/all/<?=DEFAULT_LETTER?>"><i class="fa fa-calendar"></i> <?=NAV_ARCHIVE_ARTICLES?></a></li>
+                <li><a class="years" href="<?=BASE_URL?>listing/structure/Journal?select=volume"><i class="fa fa-calendar"></i> <?=NAV_ARCHIVE_VOLUME?></a></li>
+                <li><a class="titles" href="<?=BASE_URL?>articles/all/<?=DEFAULT_LETTER?>"><i class="fa fa-files-o"></i> <?=NAV_ARCHIVE_ARTICLES?></a></li>
                 <li><a class="authors" href="<?=BASE_URL?>listing/authors/<?=DEFAULT_LETTER?>"><i class="fa fa-users"></i> <?=NAV_ARCHIVE_AUTHORS?></a></li>
-                <li><a class="features" href="<?=BASE_URL?>listing/features/<?=DEFAULT_LETTER?>"><i class="fa fa-tags"></i> <?=NAV_ARCHIVE_FEATURES?></a></li>
+                <li><a class="features" href="<?=BASE_URL?>listing/category/feature/<?=DEFAULT_LETTER?>"><i class="fa fa-tags"></i> <?=NAV_ARCHIVE_FEATURES?></a></li>
                 <li><a class="search" href="#"><i class="fa fa-search"></i> <?=NAV_ARCHIVE_SEARCH?></a></li>
               </ul>
             </nav> <!-- cd-sec-main-nav -->

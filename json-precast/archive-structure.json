@@ -1,8 +1,8 @@
 {
 	"Journal" : {
 		"selectKey" : [
-			"Volume",
-			"Issue"
+			"volume",
+			"issue"
 		],
 		"sortKey" : "Default"
 	}

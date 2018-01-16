@@ -23,6 +23,7 @@ class api extends Controller {
 		$sort = $query['sort'];
 		unset($query['sort']);
 
+
 		$data = $this->model->getArticles($query, $sort);
 
 		echo $data;

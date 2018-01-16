@@ -27,7 +27,12 @@ class viewHelper extends View {
 		$month = preg_replace('/11/', 'ನವೆಂಬರ್', $month);
 		$month = preg_replace('/12/', 'ಡಿಸೆಂಬರ್', $month);
 	
-	return $month;
+		return $month;
+	}
+
+	public function rlZero($term) {
+
+		return preg_replace('/^0+|\-0+/', '', $term);
 	}
 }
 

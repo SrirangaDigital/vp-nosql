@@ -61,7 +61,7 @@ class apiModel extends Model {
 		
 		$data = ['articles' => $articles, 'filter' => $filter, 'sort' => $sort];
 
-		return $data;
+		return json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 	}
 
 	public function reformSort($sort) {

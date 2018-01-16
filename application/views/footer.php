@@ -1,10 +1,7 @@
     <div class="container footer"><!-- container -->
         <div class="row justify-content-center"><!-- row -->
-            <div class="col-md-6 text-left">
-                <p><small><a href="javascript:void()">Terms of Use</a> | <a href="javascript:void()">Privacy Policy</a> | <a href="javascript:void()">Contact us</a></small></p>
-            </div>
-            <div class="col-md-6 text-right">
-                <p><small>&copy;2018 Sri Ramakrishna Ashrama, Mysore. All Rights Reserved</small></p>
+            <div class="col-md text-center">
+                <p><small>&copy; 2018 Sri Ramakrishna Ashrama, Mysore. All Rights Reserved.</small></p>
             </div>
         </div>
     </div>

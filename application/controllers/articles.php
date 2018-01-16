@@ -18,6 +18,7 @@ class articles extends Controller {
 		$url = BASE_URL . 'api/articles?title=@^' . $letter;
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = ARCHIVE . ' > ' . ARTICLES;
+		$result['alphabet'] = $this->model->getAlphabiticalList('title');
 		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
 	}
 
@@ -33,7 +34,7 @@ class articles extends Controller {
 		$filter = $this->model->filterArrayToString($query);
 		$url = BASE_URL . 'api/articles?' . $filter;
 		$result = json_decode($this->model->getDataFromApi($url), true);
-		$result['pageTitle'] = ARCHIVE . ' > ' . TOC;
+		$result['pageTitle'] = ARCHIVE . ' > ' . TOC . ' > ' . ARCHIVE_VOLUME . ' ' . $this->model->rlZero($query['volume']) . ', ' . ARCHIVE_ISSUE . ' '. $this->model->rlZero($query['issue']);
 		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
 	}
 

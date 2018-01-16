@@ -24,17 +24,28 @@ class listing extends Controller {
 
 		// Albhabetic list of authors displayed letter wise
 		// listing/authors/A
-		$url = BASE_URL . 'api/distinct/author.name/' . $letter;
+		$url = BASE_URL . 'api/distinct/author.name?author.name=@^' . $letter;
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = ARCHIVE . ' > ' . AUTHORS;
+		$result['subTitle'] = AUTHORS;
+		$result['nextUrl'] = BASE_URL . 'articles/author/';
 		$result['alphabet'] = $this->model->getAlphabiticalList('author.name');
-		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
+		($result) ? $this->view('listing/items', json_encode($result)) : $this->view('error/index');
 	}
 
 	public function category($query = [], $param = DEFAULT_PARAM) {
 
 		// Listing of various categories such as features and series
 		// listing/category/feature
+
+		$url = BASE_URL . 'api/distinct/' . $param;
+		// $url = BASE_URL . 'api/distinct/' . $param . '?'  . $param . '=@^' . $letter;
+		$result = json_decode($this->model->getDataFromApi($url), true);
+		$result['pageTitle'] = ARCHIVE . ' > ' . constant(strtoupper($param));
+		$result['nextUrl'] = BASE_URL . 'articles/category/' . $param . '/';
+		// $result['alphabet'] = $this->model->getAlphabiticalList('author.name');
+		($result) ? $this->view('listing/items', json_encode($result)) : $this->view('error/index');
+
 	}
 }
 

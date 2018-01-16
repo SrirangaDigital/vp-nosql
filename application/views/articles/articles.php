@@ -14,7 +14,7 @@
             </p>
 
 <?php } ?>
-            <h5><?= sizeof($data['articles'])?> <?=ARTICLES?></h5>
+            <h5 class="text-right"><?= sizeof($data['articles'])?> <?=ARTICLES?></h5>
 <?php foreach ($data['articles'] as $article) { ?>
     
             <div class="full-width-card blue-edge">

@@ -7,12 +7,12 @@ class apiModel extends Model {
 		parent::__construct();
 	}
 
-	public function getDistinct($param, $filter){
+	public function getDistinct($param, $filter) {
 
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
-		
 		$filter = $this->reformFilter($filter);
+
 		
 		$match = ['$match' => $filter];
 		$aggregatePipeline = [

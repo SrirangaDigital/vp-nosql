@@ -62,7 +62,7 @@ class articles extends Controller {
 
 		$url = BASE_URL . 'api/articles?' . $category . '=' . $categoryValue;
 		$result = json_decode($this->model->getDataFromApi($url), true);
-		$result['pageTitle'] = ARCHIVE . ' > ' . FEATURES;
+		$result['pageTitle'] = ARCHIVE . ' > ' . FEATURE;
 		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
 	}
 

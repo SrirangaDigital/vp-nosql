@@ -36,7 +36,7 @@ define('ARTICLES', 'ಲೇಖನಗಳು');
 define('ARCHIVE', 'ಸಂಗ್ರಹ');
 define('AUTHORS', 'ಲೇಖಕರು');
 define('AUTHOR', 'ಲೇಖಕ');
-define('FEATURES', 'ಸ್ಥಿರ ಶೀರ್ಷಿಕೆ');
+define('FEATURE', 'ಸ್ಥಿರ ಶೀರ್ಷಿಕೆ');
 define('SERIES', 'ಸರಣಿ ಲೇಖನಗಳು');
 define('TOC', 'ಪರಿವಿಡಿ');
 

@@ -1,6 +1,7 @@
 <?php
 //Collections
 define('ARTEFACT_COLLECTION', 'articles');
+define('ALPHABET_COLLECTION', 'alphabet');
 define('USER_COLLECTION', 'userdetails');
 
 //Default Values

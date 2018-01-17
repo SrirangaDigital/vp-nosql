@@ -13,6 +13,8 @@ class data extends Controller {
 
 		$db = $this->model->db->useDB();
 		$collection = $this->model->db->createCollection($db, ARTEFACT_COLLECTION);
+		$titleAlphabet = [];
+		$authorAlphabet = [];
 
 		foreach ($jsonFiles as $jsonFile) {
 
@@ -28,8 +30,30 @@ class data extends Controller {
 				$data['id'] = $data['id'] . '/' . $article['page'];
 				$data = array_filter($data);
 				$result = $collection->insertOne($data);
+
+				if(isset($article['author'])) {
+
+					foreach ($article['author'] as $author) 
+					array_push($authorAlphabet, preg_replace('/(^.).*/u', '$1', $author['name']));
+				}
+
+				array_push($titleAlphabet, preg_replace('/(^.).*/u', '$1', $article['title']));
 			}
 		}
+
+		sort($titleAlphabet); sort($authorAlphabet);
+		$this->insertAlphabet(array_unique($titleAlphabet), array_unique($authorAlphabet));
+	}
+	
+	public function insertAlphabet($titleAlphabet, $authorAlphabet) {
+
+		$data = [];
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->createCollection($db, ALPHABET_COLLECTION);
+		$data['title'] = $titleAlphabet;
+		$data['author'] = $authorAlphabet;
+
+		$result = $collection->insertOne($data);
 	}
 	
 	// Use this method for global changes in json files

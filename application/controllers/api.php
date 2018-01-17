@@ -28,6 +28,11 @@ class api extends Controller {
 
 		echo $data;
 	}
+
+	public function alphabet() {
+
+		echo $this->model->getAlphabet();
+	}
 }
 
 ?>

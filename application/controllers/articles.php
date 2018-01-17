@@ -18,7 +18,8 @@ class articles extends Controller {
 		$url = BASE_URL . 'api/articles?title=@^' . $letter;
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = ARCHIVE . ' > ' . ARTICLES;
-		$result['alphabet'] = $this->model->getAlphabiticalList('title');
+		$url = BASE_URL . 'api/alphabet/';
+		$result['alphabet'] = json_decode($this->model->getDataFromApi($url), true)['title'];
 		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
 	}
 

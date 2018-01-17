@@ -50,8 +50,8 @@ class data extends Controller {
 		$data = [];
 		$db = $this->model->db->useDB();
 		$collection = $this->model->db->createCollection($db, ALPHABET_COLLECTION);
-		$data['title'] = $titleAlphabet;
-		$data['author'] = $authorAlphabet;
+		$data['title'] = array_values($titleAlphabet);
+		$data['author'] = array_values($authorAlphabet);
 
 		$result = $collection->insertOne($data);
 	}

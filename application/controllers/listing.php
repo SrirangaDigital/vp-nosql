@@ -40,7 +40,11 @@ class listing extends Controller {
 		$result['pageTitle'] = ARCHIVE . ' > ' . AUTHORS;
 		$result['subTitle'] = AUTHORS;
 		$result['nextUrl'] = BASE_URL . 'articles/author/';
-		$result['alphabet'] = $this->model->getAlphabiticalList('author.name');
+
+		// getting alphabet list
+		$url = BASE_URL . 'api/alphabet/';
+		$result['alphabet'] = json_decode($this->model->getDataFromApi($url), true)['author'];
+
 		($result) ? $this->view('listing/items', json_encode($result)) : $this->view('error/index');
 	}
 
@@ -54,7 +58,6 @@ class listing extends Controller {
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = ARCHIVE . ' > ' . constant(strtoupper($param));
 		$result['nextUrl'] = BASE_URL . 'articles/category/' . $param . '/';
-		// $result['alphabet'] = $this->model->getAlphabiticalList('author.name');
 		($result) ? $this->view('listing/items', json_encode($result)) : $this->view('error/index');
 
 	}

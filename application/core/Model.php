@@ -83,25 +83,6 @@ class Model {
 
 		return $result;
 	}
-
-	public function getAlphabiticalList($field) {
-
-		$url = BASE_URL . 'api/distinct/' . $field;
-		$result = json_decode($this->getDataFromApi($url), true);
-
-		$alphabetList = [];
-
-		foreach ($result['values'] as $row) {
-				
-			array_push($alphabetList,preg_replace('/(^.).*/u', '$1', $row['item']));	
-		}
-
-		sort($alphabetList);
-		$alphabetList = (sizeof($alphabetList) > 0) ? array_unique($alphabetList) : '';
-
-		return $alphabetList;
-	}
-
 }
 
 ?>

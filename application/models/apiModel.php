@@ -44,7 +44,7 @@ class apiModel extends Model {
 	public function getArticles($filter, $sort = '') {
 		
 		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);	
+		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 		
 		$filter = $this->reformFilter($filter);
 
@@ -62,6 +62,15 @@ class apiModel extends Model {
 		$data = ['articles' => $articles, 'filter' => $filter, 'sort' => $sort];
 
 		return json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+	}
+
+	public function getAlphabet() {
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, ALPHABET_COLLECTION);
+		$result = $collection->findOne();
+		unset($result['_id']);
+		return json_encode($result, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 	}
 
 	public function reformSort($sort) {

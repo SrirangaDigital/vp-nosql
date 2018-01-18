@@ -15,7 +15,7 @@ class articles extends Controller {
 		// Get data from api
 		// get('api/articles?title=@^' . $letter)
 
-		$url = BASE_URL . 'api/articles?title=@^' . $letter;
+		$url = BASE_URL . 'api/articles?title=@^' . $letter . '&sort=title';
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = ARCHIVE . ' > ' . ARTICLES;
 		$url = BASE_URL . 'api/alphabet/';

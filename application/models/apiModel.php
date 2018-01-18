@@ -12,7 +12,6 @@ class apiModel extends Model {
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 		$filter = $this->reformFilter($filter);
-
 		
 		$match = ['$match' => $filter];
 		$aggregatePipeline = [
@@ -70,6 +69,7 @@ class apiModel extends Model {
 		$collection = $this->db->selectCollection($db, ALPHABET_COLLECTION);
 		$result = $collection->findOne();
 		unset($result['_id']);
+		
 		return json_encode($result, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 	}
 

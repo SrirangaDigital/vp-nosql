@@ -1,16 +1,22 @@
 {
     "volume": "002",
     "issue": "10",
-    "month": "10",
     "year": "2001",
+    "month": "10",
     "theme": "",
     "id": "002/10",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0003-0003",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,26 @@
         {
             "title": "ಪಂಚಕೋಶ ವಿಚಾರ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0005-0008",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +57,26 @@
         {
             "title": "ಶರಣಾಗತಿಯ ಆರು ಲಕ್ಷಣಗಳು",
             "feature": "",
-            "text": "",
             "page": "0009-0012",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -45,8 +87,30 @@
         {
             "title": "ಗ್ರಾಮದೇವಾ ಯಜ್ಞ",
             "feature": "",
-            "text": "",
             "page": "0013-0017",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಆತ್ಮವಿದಾನಂದ",
@@ -57,8 +121,22 @@
         {
             "title": "ಗಾಂಧೀಜಿ ದೃಷ್ಟಿಯಲ್ಲಿ ಸತ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0018-0020",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -69,8 +147,22 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ವೈಜ್ಞಾನಿಕ ಮನೋಭಾವ",
             "feature": "",
-            "text": "",
             "page": "0020-0022",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಸ್ವಾಮಿ ಪ್ರೊ. ಎನ್.",
@@ -81,8 +173,18 @@
         {
             "title": "ವಚನವೇದ-ದ ಓದು ಅಧ್ಯಯನಯೋಗ",
             "feature": "",
-            "text": "",
             "page": "0022-0023",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಚೆನ್ನಬಸಪ್ಪ ಕೋ.",
@@ -93,8 +195,14 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ಭಗವತಿ ಲೀಲಾಮಯಿ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0024-0024",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -105,8 +213,14 @@
         {
             "title": "ಪೋಸ್ತಾಂ ಪರ್ಬು",
             "feature": "",
-            "text": "",
             "page": "0025-0025",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸುರೇಶಾನಂದ",
@@ -117,8 +231,22 @@
         {
             "title": "ನೇಪಾಳ ಒಂದು ದರ್ಶನ",
             "feature": "",
-            "text": "",
             "page": "0026-0028",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಆಶಾ ಕುಮಾರಿ",
@@ -129,8 +257,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0029-0029",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +275,18 @@
         {
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಒಂದು ಪತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0030-0031",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +297,18 @@
         {
             "title": "ಸದಾಚಾರದಿಂದ ಉದ್ಧಾರ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0032-0033",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -165,8 +319,14 @@
         {
             "title": "ಶಾಲೆಯ ಪಠ್ಯಕ್ರಮದಲ್ಲಿ ಇರಬೇಕಾದ ಮುಖ್ಯಾಂಶಗಳು",
             "feature": "",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +337,14 @@
         {
             "title": "ಧರ್ಮದಲ್ಲಿ ಪ್ರಜಾಸತ್ತೆ, ಸತ್ಯದೂರ ಸುದ್ದಿ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0035-0035",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +355,14 @@
         {
             "title": "ಮೂಕವೃಕ್ಷದ ದಾನ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +373,14 @@
         {
             "title": "ಶಿಬಿಯ ದಾನ-ಕಥಾಚಿತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -213,8 +391,14 @@
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -225,8 +409,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

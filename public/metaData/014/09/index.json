@@ -1,28 +1,58 @@
 {
     "volume": "014",
     "issue": "09",
-    "month": "09",
     "year": "2013",
+    "month": "09",
     "theme": "",
     "id": "014/09",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ, ವಚನ ಸಂಗ್ರಹ: ಕಾಯವೇ ಕೈಲಾಸ-ದೇಹವೇ ದೇಗುಲ",
             "feature": "",
-            "text": "",
-            "page": "0005-0005"
+            "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 2
         },
         {
             "title": "ನಿಮ್ಮ ಮುಟ್ಟಿದವರೆಲ್ಲ ನಿಮ್ಮಂತಪ್ಪರಯ್ಯಾ",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
-            "page": "0007-0009"
+            "page": "0007-0009",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4
         },
         {
             "title": "ಶರಣರ ನೀತಿ",
             "feature": "",
-            "text": "",
             "page": "0010-0011",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂ. ಶಿ. ಭೂಸನೂರಮಠ",
@@ -33,14 +63,30 @@
         {
             "title": "ಪವಿತ್ರ ಪತ್ರಮಾಲೆ: ಸ್ವಾಮಿ ಶಿವಾನಂದಜಿ ಅವರ ಒಂದು ಪತ್ರ",
             "feature": "",
-            "text": "",
-            "page": "0012-0012"
+            "page": "0012-0012",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9
         },
         {
             "title": "ಅಲ್ಲಮಪ್ರಭುವಿನ ವಚನ-ನಿರ್ವಚನ",
             "feature": "",
-            "text": "",
             "page": "0013-0014",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಪಾರ್ವಮ್ಮ ಚಂದ್ರಣ್ಣ",
@@ -51,8 +97,14 @@
         {
             "title": "ಶಿಕ್ಷಕರೇ ಗಮನಿಸಿ: ತರಗತಿಯಲ್ಲಿ ಪ್ರಾಯೋಗಿಕ ಮನಶ್ಶಾಸ್ತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0015-0015",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಪ್ರೊ. ಎಸ್. ದಂಡಪಾಣಿ",
@@ -63,8 +115,18 @@
         {
             "title": "ವಚನ ಸಾಹಿತ್ಯದ ಮಹತ್ವ",
             "feature": "",
-            "text": "",
             "page": "0016-0017",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸಿದ್ಧರಾಮಯ್ಯ",
@@ -75,14 +137,34 @@
         {
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳೇ ಗಮನಿಸಿ: ಏಕಾಗ್ರತೆಗೆ ಉಪಾಯಗಳು - ಆಸಕ್ತಿ",
             "feature": "",
-            "text": "",
-            "page": "0018-0018"
+            "page": "0018-0018",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15
         },
         {
             "title": "ಬಸವಣ್ಣನವರ ಆತ್ಮಪರಿಶೀಲನೆ",
             "feature": "",
-            "text": "",
             "page": "0019-0021",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಸ. ಸ. ಮಾಳವಾಡ",
@@ -93,8 +175,26 @@
         {
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ: ತನಗೆ ತಾನೇ ಮಿತ್ರ ತನಗೆ ತಾನೇ ಶತ್ರು",
             "feature": "",
-            "text": "",
             "page": "0022-0025",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -105,8 +205,18 @@
         {
             "title": "ಶ್ರೀರಾಮಾನುಜರು - ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "feature": "",
-            "text": "",
             "page": "0026-0027",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಎಚ್.ವಿ. ಸರೋಜ",
@@ -117,8 +227,22 @@
         {
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ",
             "feature": "",
-            "text": "",
             "page": "0028-0030",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಎ. ಮುರಳೀಧರ",
@@ -129,8 +253,22 @@
         {
             "title": "ಬುದ್ಧ ಮರಳಿ ತಾಯ್ನಾಡಿಗೆ",
             "feature": "",
-            "text": "",
             "page": "0031-0033",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -141,14 +279,30 @@
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "",
-            "text": "",
-            "page": "0034-0035"
+            "page": "0034-0035",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31
         },
         {
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -159,20 +313,50 @@
         {
             "title": "ಜಪಾನಿನ ಕಥೆಗಳು: ಚಿನ್ನದ ಹಕ್ಕಿ",
             "feature": "",
-            "text": "",
-            "page": "0037-0037"
+            "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34
         },
         {
             "title": "ಚಿತ್ರಕಥೆ: ಶಿವಭಕ್ತ ವಿದ್ಯಾಪತಿ",
             "feature": "",
-            "text": "",
-            "page": "0038-0041"
+            "page": "0038-0041",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
-            "text": "",
-            "page": "0042-0042"
+            "page": "0042-0042",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39
         }
     ]
 }

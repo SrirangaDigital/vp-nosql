@@ -1,16 +1,22 @@
 {
     "volume": "003",
     "issue": "05",
-    "month": "05",
     "year": "2002",
+    "month": "05",
     "theme": "",
     "id": "003/05",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0003-0003",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,14 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ-ಬ್ರಹ್ಮಜ್ಞಾನ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0004-0004",
+            "fullText": [
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +45,22 @@
         {
             "title": "ಸತ್ಯ ಸಾಕ್ಷಾತ್ಕಾರ ಮತ್ತು ಕಾರ್ಯಕುಶಲತೆ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0005-0007",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -45,8 +71,26 @@
         {
             "title": "ಕರ್ಮವೊಂದು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ",
             "feature": "",
-            "text": "",
             "page": "0008-0011",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -57,8 +101,26 @@
         {
             "title": "ಪುರಾಣ-ವಾಸ್ತವ-ಅತೀತಗಳಲ್ಲಿ ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "",
-            "text": "",
             "page": "0012-0015",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಶಿವರುದ್ರಪ್ಪ ಡಾ. ಜಿ. ಎಸ್.",
@@ -69,8 +131,22 @@
         {
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಜೀವನದಲ್ಲಿ ವಿಶ್ವಾಸ",
             "feature": "",
-            "text": "",
             "page": "0016-0018",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ನಾರಾಯಣ ಬ್ರ.",
@@ -81,8 +157,18 @@
         {
             "title": "ಬೇಕಾದದ್ದು ಮನೆಯೊಳಗೇ ಇದೆ, ಆದರೆ ಹುಡುಖಾಡಿದ್ದು ಎಲ್ಲೆಲ್ಲೋ. . .",
             "feature": "",
-            "text": "",
             "page": "0019-0020",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -93,8 +179,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0020-0020",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -105,8 +197,18 @@
         {
             "title": "ಬುದ್ಧನು ಹೇಳಿದ ಕಥೆ.",
             "feature": "",
-            "text": "",
             "page": "0021-0022",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -117,8 +219,18 @@
         {
             "title": "ಕ್ಷಣಿಕವಾದ ಬಾಳಿನಲ್ಲಿ ಕ್ಷಣ ಕ್ಷಣದ ಪ್ರಜ್ಞೆ",
             "feature": "",
-            "text": "",
             "page": "0022-0023",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -129,8 +241,22 @@
         {
             "title": "ಆದರ್ಶ ಕುಟುಂಬ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
-            "text": "",
             "page": "0024-0026",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಜಯದೇವ ಜಿ. ಎಸ್.",
@@ -141,8 +267,18 @@
         {
             "title": "ಸ್ವಾಮಿ ಯತೀಶ್ವರಾನಂದಜಿಯವರ ಪತ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0027-0028",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +289,18 @@
         {
             "title": "ಕ್ಷೇತ್ರೇ ಕ್ಷೇತ್ರೇ ಧರ್ಮಂ ಕುರು",
             "feature": "",
-            "text": "",
             "page": "0029-0030",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಲಕ್ಷ್ಮೀಶ ವಿ.",
@@ -165,8 +311,18 @@
         {
             "title": "ಮನ-ಮೌನ",
             "feature": "",
-            "text": "",
             "page": "0031-0032",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ನಾಗರಾಜು ಪ್ರೊ. ಎಂ. ಆರ್.",
@@ -177,8 +333,22 @@
         {
             "title": "ಆತ್ಮಶಿಕ್ಷಣ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0033-0035",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -189,8 +359,14 @@
         {
             "title": "ಭಾರತದ ಋಣಭಾರ, ಶ್ರೀಮಂತಿಕೆಯ ಸ್ಪರ್ಧೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +377,14 @@
         {
             "title": "ನೀನೇ ಧನ್ಯ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -213,8 +395,14 @@
         {
             "title": "ಸಂಸಾರವೆಂಬ ಬೋನು",
             "feature": "",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -225,8 +413,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

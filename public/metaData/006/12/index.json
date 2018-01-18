@@ -1,16 +1,22 @@
 {
     "volume": "006",
     "issue": "12",
-    "month": "12",
     "year": "2005",
+    "month": "12",
     "theme": "",
     "id": "006/12",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,26 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರು ಮತ್ತು ಪೂಜೆಯ ಆದರ್ಶ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +57,26 @@
         {
             "title": "ಶಾಂತಿಧಾಮ -೨",
             "feature": "",
-            "text": "",
             "page": "0011-0014",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -45,8 +87,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0014-0014",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -57,8 +105,22 @@
         {
             "title": "ಐನ್ಸ್ಟೈನನ ಸಾಧನೆಯ ಒಂದು ಶತಾಬ್ದಿ",
             "feature": "",
-            "text": "",
             "page": "0015-0017",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಸ್ವಾಮಿ ಪ್ರೊ. ಎನ್.",
@@ -69,8 +131,26 @@
         {
             "title": "ಜೈನಮಹಾಕವಿಗಳಾದ ಪಂಪ-ರನ್ನರು",
             "feature": "",
-            "text": "",
             "page": "0018-0021",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯನಾರಸಿಂಹ",
@@ -81,8 +161,30 @@
         {
             "title": "ಶ್ರೀಹರಿಯಲ್ಲಿ ನವವಿಧ ಭಕ್ತಿ -೨",
             "feature": "",
-            "text": "",
             "page": "0022-0026",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -93,8 +195,18 @@
         {
             "title": "ಶ್ರೀಮಾತೆ ಶಾರದಾದೇವಿ -೩",
             "feature": "",
-            "text": "",
             "page": "0027-0028",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸರೋಜ",
@@ -105,8 +217,14 @@
         {
             "title": "ಯೇಸುಕ್ರಿಸ್ತನು ಪರ್ವತದ ಮೇಲೆ ಮಾಡಿದ ಉಪದೇಶ",
             "feature": "",
-            "text": "",
             "page": "0029-0029",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -117,8 +235,26 @@
         {
             "title": "ನಾವು ಮತ್ತು ನಮ್ಮ ದೋಷಗಳು",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0030-0033",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಪ್ರಹ್ಲಾದ ಬ್ರ.",
@@ -129,8 +265,14 @@
         {
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
-            "text": "",
             "page": "0033-0033",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +283,14 @@
         {
             "title": "ಇಗೋ ಇಲ್ಲಿದೆ ಒಳ್ಳೆಯ ಸುದ್ದಿ. ಕ್ಯಾಥೊಲಿಕ್ ಚರ್ಚುಗಳಲ್ಲಿ ಹಿಂದೂ ಪದ್ಧತಿಗಳು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +301,18 @@
         {
             "title": "ಸತ್ಯದರ್ಶನ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0035-0036",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +323,14 @@
         {
             "title": "ತೇಲದಿದ್ದರೆ ಶ್ರೀರಾಮನಾಣೆ",
             "feature": "",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ನಿರುಪಮಾನಂದ",
@@ -177,8 +341,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +359,22 @@
         {
             "title": "ವಾರ್ಷಿಕ ವಿಷಯಸೂಚಿ",
             "feature": "",
-            "text": "",
             "page": "0038-0040",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

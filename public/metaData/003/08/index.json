@@ -1,16 +1,22 @@
 {
     "volume": "003",
     "issue": "08",
-    "month": "08",
     "year": "2002",
+    "month": "08",
     "theme": "",
     "id": "003/08",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0003-0003",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,22 @@
         {
             "title": "ಸುಖಾನ್ವೇಷಣೆ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0005-0007",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +53,26 @@
         {
             "title": "ಸಂತ ಜ್ಞಾನೇಶ್ವರರು",
             "feature": "",
-            "text": "",
             "page": "0008-0011",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಗೋಪೀನಾಥ ಎನ್.",
@@ -45,8 +83,22 @@
         {
             "title": "ಗೋವರ್ಧನ ಗಿರಿಧಾರಿ",
             "feature": "",
-            "text": "",
             "page": "0012-0014",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಹರಿಹರಾನಂದ ಸರಸ್ವತೀ",
@@ -57,8 +109,30 @@
         {
             "title": "ಬಾಲ ರಾಮಕೃಷ್ಣ",
             "feature": "",
-            "text": "",
             "page": "0015-0019",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಹೆಚ್. ವಿ. ಸರೋಜ",
@@ -69,8 +143,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಕೃಪಾಪೋಷಿತ ರಸಿಕ",
             "feature": "",
-            "text": "",
             "page": "0020-0022",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಚೇತನಾನಂದ",
@@ -81,8 +169,18 @@
         {
             "title": "ನಮ್ಮ ಮಾತೃಭೂಮಿ ಭಾರತ",
             "feature": "",
-            "text": "",
             "page": "0023-0024",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ದೇಶಪಾಂಡೆ ನಾ. ವೆಂ.",
@@ -93,8 +191,22 @@
         {
             "title": "ಭವ್ಯ ಭಾರತದ ಕನಸು",
             "feature": "",
-            "text": "",
             "page": "0025-0027",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಅಬ್ದುಲ್ ಕಲಾಂ",
@@ -105,8 +217,14 @@
         {
             "title": "ಲಕ್ನೋದಲ್ಲಿ ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ಸೇವಾಶ್ರಮ",
             "feature": "",
-            "text": "",
             "page": "0028-0028",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -117,8 +235,14 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ-ಗುರುಕೃಪೆ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0029-0029",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -129,8 +253,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0030-0030",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +271,18 @@
         {
             "title": "ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ -ಯುವಶಕ್ತಿ-ರಾಷ್ಟ್ರನಿರ್ಮಾಣ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0031-0032",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಗನಾಳಮಠ ಯು. ಎನ್.",
@@ -153,8 +293,18 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ-ಭಾರತದ ಸಾಂಸ್ಕೃತಿಕ ರಾಯಭಾರಿ",
             "feature": "",
-            "text": "",
             "page": "0033-0034",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +315,14 @@
         {
             "title": "ಕ್ಷಮೆಯಿಂದ ಕ್ಷೇಮ,ಭೋಗೇ ರೋಗಭಯಂ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0035-0035",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +333,14 @@
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +351,14 @@
         {
             "title": "ಹಾಳು ಹಳ್ಳಿಗಳು",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +369,14 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ದೃಷ್ಟಾಂತ ಚಿತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -213,8 +387,14 @@
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

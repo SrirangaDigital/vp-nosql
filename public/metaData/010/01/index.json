@@ -1,16 +1,22 @@
 {
     "volume": "010",
     "issue": "01",
-    "month": "01",
     "year": "2009",
+    "month": "01",
     "theme": "",
     "id": "010/01",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 3,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,30 @@
         {
             "title": "ಪರಮ ಅನುಭಾವಿಯಾಗಿ ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0009-0013",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +61,22 @@
         {
             "title": "ನನ್ನ ಗುರುದೇವರ ಜೀವನ ಧ್ಯೇಯ",
             "feature": "",
-            "text": "",
             "page": "0014-0016",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ವಿವೇಕಾನಂದ",
@@ -45,8 +87,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ವೇದಾಂತ ದರ್ಶನ",
             "feature": "",
-            "text": "",
             "page": "0017-0019",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -57,8 +113,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಅವತಾರದ ವೈಶಿಷ್ಟ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0020-0022",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -69,8 +139,30 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಭಾರತೀಯ ಧರ್ಮಪ್ರಜ್ಞೆ",
             "feature": "",
-            "text": "",
             "page": "0023-0027",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -81,8 +173,34 @@
         {
             "title": "ಅಜ್ಞಾತ ರಾಮಕೃಷ್ಣರು",
             "feature": "",
-            "text": "",
             "page": "0028-0033",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -93,8 +211,14 @@
         {
             "title": "ಚಿಂತನಪ್ರಭ",
             "feature": "",
-            "text": "",
             "page": "0033-0033",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -105,8 +229,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಲೀಲಾಪ್ರಸಂಗ-ಒಂದು ಪರಿಚಯ",
             "feature": "",
-            "text": "",
             "page": "0034-0036",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸುಖಾತ್ಮಾನಂದ",
@@ -117,8 +255,22 @@
         {
             "title": "ಜೀವನೇ ಶಿವ",
             "feature": "",
-            "text": "",
             "page": "0037-0039",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -129,8 +281,26 @@
         {
             "title": "ಪರಿಪೂರ್ಣ ವ್ಯಕ್ತಿಯಾಗಿ ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "",
-            "text": "",
             "page": "0040-0043",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -141,8 +311,22 @@
         {
             "title": "ಸತ್ಯಯುಗದ ಪ್ರವರ್ತಕ ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "",
-            "text": "",
             "page": "0044-0046",
+            "fullText": [
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 42,
             "author": [
                 {
                     "name": "ದೇಶಿಕಾತ್ಮಾನಂದ",
@@ -153,8 +337,22 @@
         {
             "title": "ಭಾವಮುಖ ಎಂದರೆ ಏನು.",
             "feature": "",
-            "text": "",
             "page": "0047-0049",
+            "fullText": [
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 45,
             "author": [
                 {
                     "name": "ಹೃದಾನಂದ",
@@ -165,8 +363,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ವಿಶ್ವಧರ್ಮಗಳು",
             "feature": "",
-            "text": "",
             "page": "0050-0052",
+            "fullText": [
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 48,
             "author": [
                 {
                     "name": "ಅನುಪಮಾನಂದ",
@@ -177,8 +389,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಇತರ ಅವತಾರ ಪುರುಷರು",
             "feature": "",
-            "text": "",
             "page": "0053-0056",
+            "fullText": [
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 51,
             "author": [
                 {
                     "name": "ಆತ್ಮಜ್ಞಾನಂದ",
@@ -189,8 +419,26 @@
         {
             "title": "ಕರುಣಾಮೂರ್ತಿ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
-            "text": "",
             "page": "0057-0060",
+            "fullText": [
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 55,
             "author": [
                 {
                     "name": "ತ್ಯಾಗೀಶ್ವರಾನಂದ",
@@ -201,8 +449,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಅಂತಿಮ ದಿನಗಳು",
             "feature": "",
-            "text": "",
             "page": "0061-0063",
+            "fullText": [
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 59,
             "author": [
                 {
                     "name": "ಸೌಖ್ಯಾನಂದ",
@@ -213,8 +475,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ತಮ್ಮ ಶಿಷ್ಯರನ್ನು ಪರೀಕ್ಷಿಸಿದ ಬಗೆ",
             "feature": "",
-            "text": "",
             "page": "0064-0067",
+            "fullText": [
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 62,
             "author": [
                 {
                     "name": "ರಘುವೀರಾನಂದ",
@@ -225,8 +505,26 @@
         {
             "title": "ಜಾಗತಿಕ ಸಂದರ್ಭದಲ್ಲಿ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಪಾತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0068-0071",
+            "fullText": [
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                },
+                {
+                    "page": "0070",
+                    "text": ""
+                },
+                {
+                    "page": "0071",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 66,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -237,8 +535,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ-ಕಲಿಯುಗದ ವೇದ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0072-0074",
+            "fullText": [
+                {
+                    "page": "0072",
+                    "text": ""
+                },
+                {
+                    "page": "0073",
+                    "text": ""
+                },
+                {
+                    "page": "0074",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 70,
             "author": [
                 {
                     "name": "ವಿನಯಾನಂದ",
@@ -249,8 +561,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಶ್ರೀಶಾರದಾದೇವಿಯವರ ಆದರ್ಶ ದಾಂಪತ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0075-0078",
+            "fullText": [
+                {
+                    "page": "0075",
+                    "text": ""
+                },
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                },
+                {
+                    "page": "0078",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 73,
             "author": [
                 {
                     "name": "ಧರ್ಮಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -261,8 +591,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಅವರ ಭಕ್ತೆಯರು",
             "feature": "",
-            "text": "",
             "page": "0079-0082",
+            "fullText": [
+                {
+                    "page": "0079",
+                    "text": ""
+                },
+                {
+                    "page": "0080",
+                    "text": ""
+                },
+                {
+                    "page": "0081",
+                    "text": ""
+                },
+                {
+                    "page": "0082",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 77,
             "author": [
                 {
                     "name": "ತ್ಯಾಗಮಯೀ ಮಾತಾ",
@@ -273,8 +621,22 @@
         {
             "title": "ಶ್ರೀಮಧ್ಭಗವದ್ಗೀತೆ ಮತ್ತು ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "",
-            "text": "",
             "page": "0083-0085",
+            "fullText": [
+                {
+                    "page": "0083",
+                    "text": ""
+                },
+                {
+                    "page": "0084",
+                    "text": ""
+                },
+                {
+                    "page": "0085",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 81,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಕುಮಾರ್ ಡಾ. ಸಿ. ಪಿ.",
@@ -285,8 +647,26 @@
         {
             "title": "ಸನಾತನ ಧರ್ಮ ಮತ್ತು ಭಗವಾನ್ ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸರು",
             "feature": "",
-            "text": "",
             "page": "0086-0089",
+            "fullText": [
+                {
+                    "page": "0086",
+                    "text": ""
+                },
+                {
+                    "page": "0087",
+                    "text": ""
+                },
+                {
+                    "page": "0088",
+                    "text": ""
+                },
+                {
+                    "page": "0089",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 84,
             "author": [
                 {
                     "name": "ಶಂಕರನಾರಾಯಣ ಭಟ್ ಎದುರ್ಕಳ",
@@ -297,8 +677,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಉಪಮೆಗಳು - ಒಂದು ಸಮೀಕ್ಷೆ",
             "feature": "",
-            "text": "",
             "page": "0090-0092",
+            "fullText": [
+                {
+                    "page": "0090",
+                    "text": ""
+                },
+                {
+                    "page": "0091",
+                    "text": ""
+                },
+                {
+                    "page": "0092",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 88,
             "author": [
                 {
                     "name": "ನಾಗರಾಜರಾವ್ ವಿದ್ವಾನ್ ಹೆಚ್. ವಿ.",
@@ -309,8 +703,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ವೈಜ್ಞಾನಿಕ ಮನೋಭಾವ",
             "feature": "",
-            "text": "",
             "page": "0093-0096",
+            "fullText": [
+                {
+                    "page": "0093",
+                    "text": ""
+                },
+                {
+                    "page": "0094",
+                    "text": ""
+                },
+                {
+                    "page": "0095",
+                    "text": ""
+                },
+                {
+                    "page": "0096",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 91,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -321,8 +733,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ದಿವ್ಯಲೀಲಾಕಾರ್ಯಗಳು",
             "feature": "",
-            "text": "",
             "page": "0097-0100",
+            "fullText": [
+                {
+                    "page": "0097",
+                    "text": ""
+                },
+                {
+                    "page": "0098",
+                    "text": ""
+                },
+                {
+                    "page": "0099",
+                    "text": ""
+                },
+                {
+                    "page": "0100",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 95,
             "author": [
                 {
                     "name": "ಅನಂತರಾಮು ಡಾ. ಕೆ.",
@@ -333,8 +763,22 @@
         {
             "title": "ಸೇವೆಯ ಆಧ್ಯಾತ್ಮಿಕ ನೆಲ - ಸೆಲೆ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
-            "text": "",
             "page": "0101-0103",
+            "fullText": [
+                {
+                    "page": "0101",
+                    "text": ""
+                },
+                {
+                    "page": "0102",
+                    "text": ""
+                },
+                {
+                    "page": "0103",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 99,
             "author": [
                 {
                     "name": "ಸೋಮಸುಂದರಂ ಹೆಚ್. ಎನ್.",
@@ -345,8 +789,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಅವರ ಗುರುಗಳು",
             "feature": "",
-            "text": "",
             "page": "0104-0107",
+            "fullText": [
+                {
+                    "page": "0104",
+                    "text": ""
+                },
+                {
+                    "page": "0105",
+                    "text": ""
+                },
+                {
+                    "page": "0106",
+                    "text": ""
+                },
+                {
+                    "page": "0107",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 102,
             "author": [
                 {
                     "name": "ವಸಂತ ಕುಮಾರ",
@@ -357,8 +819,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಕರ್ನಾಟಕದ ಹರಿದಾಸರು",
             "feature": "",
-            "text": "",
             "page": "0108-0110",
+            "fullText": [
+                {
+                    "page": "0108",
+                    "text": ""
+                },
+                {
+                    "page": "0109",
+                    "text": ""
+                },
+                {
+                    "page": "0110",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 106,
             "author": [
                 {
                     "name": "ಮುರಳೀಧರ ಡಾ. ಹೆಚ್. ಎನ್.",
@@ -369,8 +845,26 @@
         {
             "title": "ಶ್ರೀ ಶ್ರೀರಾಮಕೃಷ್ಣ ಪೂಂಥಿ",
             "feature": "",
-            "text": "",
             "page": "0111-0114",
+            "fullText": [
+                {
+                    "page": "0111",
+                    "text": ""
+                },
+                {
+                    "page": "0112",
+                    "text": ""
+                },
+                {
+                    "page": "0113",
+                    "text": ""
+                },
+                {
+                    "page": "0114",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 109,
             "author": [
                 {
                     "name": "ಮೀನಾ ವಿ.",
@@ -381,8 +875,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಬಗ್ಗೆ ಶ್ರೀಮಾತೆಯವರು",
             "feature": "",
-            "text": "",
             "page": "0115-0118",
+            "fullText": [
+                {
+                    "page": "0115",
+                    "text": ""
+                },
+                {
+                    "page": "0116",
+                    "text": ""
+                },
+                {
+                    "page": "0117",
+                    "text": ""
+                },
+                {
+                    "page": "0118",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 113,
             "author": [
                 {
                     "name": "ಉಷಾ ಪಿ.",
@@ -393,8 +905,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಅಪ್ರಸಿದ್ಧ ಭಕ್ತರು",
             "feature": "",
-            "text": "",
             "page": "0119-0121",
+            "fullText": [
+                {
+                    "page": "0119",
+                    "text": ""
+                },
+                {
+                    "page": "0120",
+                    "text": ""
+                },
+                {
+                    "page": "0121",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 117,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -405,8 +931,22 @@
         {
             "title": "ಮಹಾನ್ ಚಿಂತಕರು ಕಂಡಂತೆ ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "",
-            "text": "",
             "page": "0122-0124",
+            "fullText": [
+                {
+                    "page": "0122",
+                    "text": ""
+                },
+                {
+                    "page": "0123",
+                    "text": ""
+                },
+                {
+                    "page": "0124",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 120,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -417,8 +957,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮತ್ತು ಆಧುನಿಕ ಮನಃಶಾಸ್ತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0125-0127",
+            "fullText": [
+                {
+                    "page": "0125",
+                    "text": ""
+                },
+                {
+                    "page": "0126",
+                    "text": ""
+                },
+                {
+                    "page": "0127",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 123,
             "author": [
                 {
                     "name": "ಚಂದ್ರಾ",
@@ -429,8 +983,14 @@
         {
             "title": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0128-0128",
+            "fullText": [
+                {
+                    "page": "0128",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 126,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -441,8 +1001,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0129-0129",
+            "fullText": [
+                {
+                    "page": "0129",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 127,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

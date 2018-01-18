@@ -1,16 +1,22 @@
 {
     "volume": "011",
     "issue": "01",
-    "month": "01",
     "year": "2010",
+    "month": "01",
     "theme": "",
     "id": "011/01",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0007-0007",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,30 @@
         {
             "title": "ಕನ್ನಡದ ಕಣ್ಮಣಿಗಳು: ಹರಿದಾಸರು",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0009-0013",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +61,30 @@
         {
             "title": "ಜೈನಧರ್ಮ ಸಿದ್ಧಾಂತ ಮತ್ತು ತತ್ತ್ವ",
             "feature": "",
-            "text": "",
             "page": "0014-0018",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಜ್ವಾಲಾ ಸುರೇಶ್",
@@ -45,8 +95,26 @@
         {
             "title": "ಜೈನಧರ್ಮ ಮತ್ತು ಕನ್ನಡ ಸಾಹಿತ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0019-0022",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ವೆಂಕಟಾಚಲ ಶಾಸ್ತ್ರೀ",
@@ -57,8 +125,46 @@
         {
             "title": "ಕರ್ನಾಟಕದ ಪ್ರಮುಖ ಜೈನಕ್ಷೇತ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0023-0031",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಅನಂತರಾಮು ಡಾ. ಕೆ.",
@@ -69,8 +175,22 @@
         {
             "title": "ಅದ್ವೈತ ಸಿದ್ಧಾತ-ಒಂದು ಸಮೀಕ್ಷೆ",
             "feature": "",
-            "text": "",
             "page": "0032-0034",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ನರಸಿಂಹಮೂರ್ತಿ ಡಾ. ಹೆಚ್. ವಿ.",
@@ -81,8 +201,26 @@
         {
             "title": "ಶಾರದಾಂಬೆಯ ಶೃಂಗೇರಿ",
             "feature": "",
-            "text": "",
             "page": "0035-0038",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಕಲ್ಯಾಣಿ ವೆಂಕಟರಾಮನ್",
@@ -93,8 +231,22 @@
         {
             "title": "ವಿಶಿಷ್ಟಾದ್ವೈತದರ್ಶನ",
             "feature": "",
-            "text": "",
             "page": "0039-0041",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಲಕ್ಷ್ಮೀತಾತಾಚಾರ್ಯ",
@@ -105,8 +257,30 @@
         {
             "title": "ಕರ್ನಾಟಕದ ಶ್ರೀವೈಷ್ಣವ ಕ್ಷೇತ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0042-0046",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ರಾಮಶೇಷನ್",
@@ -117,8 +291,26 @@
         {
             "title": "ದ್ವೈತದರ್ಶನ",
             "feature": "",
-            "text": "",
             "page": "0047-0050",
+            "fullText": [
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 45,
             "author": [
                 {
                     "name": "ರಾಘವೇಂದ್ರಾಚಾರ್",
@@ -129,8 +321,22 @@
         {
             "title": "ಕರ್ನಾಟಕದ ವೈಷ್ಣವ ಕ್ಷೇತ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0051-0053",
+            "fullText": [
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 49,
             "author": [
                 {
                     "name": "ಭಾರತಿ",
@@ -141,8 +347,30 @@
         {
             "title": "ವೀರಶೈವ ಧರ್ಮದ ತಾತ್ತ್ವಿಕತೆ",
             "feature": "",
-            "text": "",
             "page": "0054-0058",
+            "fullText": [
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 52,
             "author": [
                 {
                     "name": "ರಾಜಶೇಖರ ಜಮದಂಡಿ",
@@ -153,8 +381,30 @@
         {
             "title": "ವೀರಶೈವ ವಚನ ಸಾಹಿತ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0059-0063",
+            "fullText": [
+                {
+                    "page": "0059",
+                    "text": ""
+                },
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 57,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ್ ಡಾ. ಕೆ. ಬಿ.",
@@ -165,8 +415,38 @@
         {
             "title": "ವೀರಶೈವ ಪುಣ್ಯಕ್ಷೇತ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0064-0070",
+            "fullText": [
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                },
+                {
+                    "page": "0070",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 62,
             "author": [
                 {
                     "name": "ಮಲೆಯೂರು ಗುರುಸ್ವಾಮಿ",
@@ -177,8 +457,18 @@
         {
             "title": "ಜನಪದ ಕಾವ್ಯ ಮತ್ತು ಧರ್ಮ",
             "feature": "",
-            "text": "",
             "page": "0071-0072",
+            "fullText": [
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 69,
             "author": [
                 {
                     "name": "ಗೀತಾ",
@@ -189,8 +479,22 @@
         {
             "title": "ಕರ್ನಾಟಕದ ಜಾನಪದ ಪುಣ್ಯಕ್ಷೇತ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0073-0075",
+            "fullText": [
+                {
+                    "page": "0073",
+                    "text": ""
+                },
+                {
+                    "page": "0074",
+                    "text": ""
+                },
+                {
+                    "page": "0075",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 71,
             "author": [
                 {
                     "name": "ಮೊರಬದ ಮಲ್ಲಿಕಾರ್ಜುನ",
@@ -201,8 +505,22 @@
         {
             "title": "ಕರ್ನಾಟಕದಲ್ಲಿ ಕ್ರೈಸ್ತ ಧಾರ್ಮಿಕ ಸಂಪ್ರದಾಯ",
             "feature": "",
-            "text": "",
             "page": "0076-0078",
+            "fullText": [
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                },
+                {
+                    "page": "0078",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 74,
             "author": [
                 {
                     "name": "ಡಿಸೋಜ",
@@ -213,8 +531,26 @@
         {
             "title": "ಕರ್ನಾಟಕದ ಸೂಫೀ ಪರಂಪರೆ ಮತ್ತು ದರ್ಶನ",
             "feature": "",
-            "text": "",
             "page": "0079-0082",
+            "fullText": [
+                {
+                    "page": "0079",
+                    "text": ""
+                },
+                {
+                    "page": "0080",
+                    "text": ""
+                },
+                {
+                    "page": "0081",
+                    "text": ""
+                },
+                {
+                    "page": "0082",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 77,
             "author": [
                 {
                     "name": "ಅಬ್ದುಲ್ ಹಮೀದ್",
@@ -225,8 +561,30 @@
         {
             "title": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
-            "text": "",
             "page": "0083-0087",
+            "fullText": [
+                {
+                    "page": "0083",
+                    "text": ""
+                },
+                {
+                    "page": "0084",
+                    "text": ""
+                },
+                {
+                    "page": "0085",
+                    "text": ""
+                },
+                {
+                    "page": "0086",
+                    "text": ""
+                },
+                {
+                    "page": "0087",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 81,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -237,8 +595,30 @@
         {
             "title": "ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಕೇಂದ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0088-0092",
+            "fullText": [
+                {
+                    "page": "0088",
+                    "text": ""
+                },
+                {
+                    "page": "0089",
+                    "text": ""
+                },
+                {
+                    "page": "0090",
+                    "text": ""
+                },
+                {
+                    "page": "0091",
+                    "text": ""
+                },
+                {
+                    "page": "0092",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 86,
             "author": [
                 {
                     "name": "ಸುರೇಶ್ ಮೂನ",
@@ -249,8 +629,22 @@
         {
             "title": "ಕನ್ನಡನೆಲದಲ್ಲಿ ರಾಮಕೃಷ್ಣ ವಿವೇಕಾನಂದ ಭಾವಧಾರೆಯ ಆಂದೋಲನ",
             "feature": "",
-            "text": "",
             "page": "0093-0095",
+            "fullText": [
+                {
+                    "page": "0093",
+                    "text": ""
+                },
+                {
+                    "page": "0094",
+                    "text": ""
+                },
+                {
+                    "page": "0095",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 91,
             "author": [
                 {
                     "name": "ಸಂಗ್ರಹ",
@@ -261,8 +655,38 @@
         {
             "title": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಮೇಲೆ ಶ್ರೀರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದರ ಪ್ರಭಾವ",
             "feature": "",
-            "text": "",
             "page": "0096-0102",
+            "fullText": [
+                {
+                    "page": "0096",
+                    "text": ""
+                },
+                {
+                    "page": "0097",
+                    "text": ""
+                },
+                {
+                    "page": "0098",
+                    "text": ""
+                },
+                {
+                    "page": "0099",
+                    "text": ""
+                },
+                {
+                    "page": "0100",
+                    "text": ""
+                },
+                {
+                    "page": "0101",
+                    "text": ""
+                },
+                {
+                    "page": "0102",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 94,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಕುಮಾರ್ ಡಾ. ಸಿ. ಪಿ.",
@@ -273,8 +697,30 @@
         {
             "title": "ಆರಂಭಕಾಲದ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಮತ್ತು ರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದ ಆಂದೋಲನ",
             "feature": "",
-            "text": "",
             "page": "0103-0107",
+            "fullText": [
+                {
+                    "page": "0103",
+                    "text": ""
+                },
+                {
+                    "page": "0104",
+                    "text": ""
+                },
+                {
+                    "page": "0105",
+                    "text": ""
+                },
+                {
+                    "page": "0106",
+                    "text": ""
+                },
+                {
+                    "page": "0107",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 101,
             "author": [
                 {
                     "name": "ಮುರಳೀಧರ ಡಾ. ಹೆಚ್. ಎನ್.",
@@ -285,14 +731,74 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
-            "page": "0108-0109"
+            "page": "0108-0109",
+            "fullText": [
+                {
+                    "page": "0108",
+                    "text": ""
+                },
+                {
+                    "page": "0109",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 106
         },
         {
             "title": "ಜಾಹೀರಾತುಗಳು",
             "feature": "",
-            "text": "",
-            "page": "0110-0121"
+            "page": "0110-0121",
+            "fullText": [
+                {
+                    "page": "0110",
+                    "text": ""
+                },
+                {
+                    "page": "0111",
+                    "text": ""
+                },
+                {
+                    "page": "0112",
+                    "text": ""
+                },
+                {
+                    "page": "0113",
+                    "text": ""
+                },
+                {
+                    "page": "0114",
+                    "text": ""
+                },
+                {
+                    "page": "0115",
+                    "text": ""
+                },
+                {
+                    "page": "0116",
+                    "text": ""
+                },
+                {
+                    "page": "0117",
+                    "text": ""
+                },
+                {
+                    "page": "0118",
+                    "text": ""
+                },
+                {
+                    "page": "0119",
+                    "text": ""
+                },
+                {
+                    "page": "0120",
+                    "text": ""
+                },
+                {
+                    "page": "0121",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 108
         }
     ]
 }

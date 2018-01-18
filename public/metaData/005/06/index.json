@@ -1,16 +1,22 @@
 {
     "volume": "005",
     "issue": "06",
-    "month": "06",
     "year": "2004",
+    "month": "06",
     "theme": "",
     "id": "005/06",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,22 @@
         {
             "title": "ಚಿಂತೆಯನ್ನು ಕುರಿತ ಚಿಂತನೆ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0009",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +53,22 @@
         {
             "title": "ಪ್ರಕೃತಿ-ಪುರುಷ ಅಂದರೇನು?",
             "feature": "",
-            "text": "",
             "page": "0010-0012",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಚೆನ್ನಬಸಪ್ಪ ಕೋ.",
@@ -45,8 +79,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0013-0013",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -57,8 +97,22 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರ ಆಧ್ಯಾತ್ಮಿಕ ವ್ಯಕ್ತಿತ್ವ",
             "feature": "",
-            "text": "",
             "page": "0014-0016",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಅನಂತರಾಮು ಡಾ. ಕೆ.",
@@ -69,8 +123,22 @@
         {
             "title": "ಸಿಯನ್ನಾದ ಕ್ಯಾತರೀನ್",
             "feature": "",
-            "text": "",
             "page": "0017-0019",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಆದಿತ್ಯಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -81,8 +149,30 @@
         {
             "title": "ಏಕಾಗ್ರತೆ ಮತ್ತು ಧ್ಯಾನ -೪",
             "feature": "",
-            "text": "",
             "page": "0020-0024",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -93,8 +183,26 @@
         {
             "title": "ಕನ್ನಡಿಗರ ಭಾವುಕತೆಗೆ ಭವ್ಯಸಾಕ್ಷಿ- ಪಟ್ಟದಕಲ್ಲು-ಐಹೊಳೆ",
             "feature": "",
-            "text": "",
             "page": "0025-0028",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯನಾರಸಿಂಹ",
@@ -105,8 +213,30 @@
         {
             "title": "ಧೀರಮಾತಾ -೨",
             "feature": "",
-            "text": "",
             "page": "0029-0033",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಮೀನಾ ವಿ.",
@@ -117,8 +247,14 @@
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0033-0033",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -129,8 +265,14 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮಹಿಮಾ",
             "feature": "",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +283,22 @@
         {
             "title": "ಮಾನವ ಜೀವನದಲ್ಲಿ ಮೌಲ್ಯಗಳು ಏಕೆ ಬೇಕು?",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0035-0037",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ವಿಜಯಾ ಚಂದ್ರಮೌಳೇಶ್ವರ",
@@ -153,8 +309,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಮಾದರಿ ಕೈಂಕರ್ಯ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +327,14 @@
         {
             "title": "ಸಹವಾಸ ದೋಷ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +345,14 @@
         {
             "title": "ಮಹಾಪ್ರಭುವಿನ ಗುಲಾಮ",
             "feature": "",
-            "text": "",
             "page": "0040-0040",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +363,18 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0041-0042",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

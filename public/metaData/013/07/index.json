@@ -1,28 +1,78 @@
 {
     "volume": "013",
     "issue": "07",
-    "month": "07",
     "year": "2012",
+    "month": "07",
     "theme": "",
     "id": "013/07",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ:ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ  ಗುರು  ಮಹಾತ್ಮೆ",
             "feature": "",
-            "text": "",
-            "page": "0005-0005"
+            "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 2
         },
         {
             "title": "ಜ್ಞಾನಯೋಗದ ಪ್ರಜ್ವಲ ಬೆಳಕು",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
-            "page": "0007-0011"
+            "page": "0007-0011",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4
         },
         {
             "title": "ಗುರುಸೇವಾಧುರೀಣ-ಸ್ವಾಮಿ ರಾಮಕೃಷ್ಣಾನಂದ",
             "feature": "",
-            "text": "",
             "page": "0012-0016",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ಸುಮಿಮಲಚೈತನ್ಯ",
@@ -33,14 +83,54 @@
         {
             "title": "ಕತ್ತಲಿನಿಂದ ಬೆಳಕಿನೆಡೆಗೆ",
             "feature": "",
-            "text": "",
-            "page": "0017-0021"
+            "page": "0017-0021",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14
         },
         {
             "title": "ತಸ್ಮೈಶ್ರೀಗುರವೇ ನಮಃ",
             "feature": "",
-            "text": "",
             "page": "0022-0025",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ರಾಜಶೇಖರ ಮ.ಪಾಟೀಲ",
@@ -51,8 +141,30 @@
         {
             "title": "ಮಗುವಿನ ಹೃದಯ ಅರಿತ ಮರಿಯಾ ಮಾಂಟೆಸರಿ",
             "feature": "",
-            "text": "",
             "page": "0026-0030",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ",
@@ -63,8 +175,22 @@
         {
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
-            "text": "",
             "page": "0031-0033",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಕೆ.ಆರ್.ಮೋಹನ್",
@@ -75,8 +201,18 @@
         {
             "title": "ವಿವೇಕಕಿರಣ:ಮನವೆಂಬ ಮರ್ಕಟನಿಗೆ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಮದ್ದು",
             "feature": "",
-            "text": "",
             "page": "0034-0035",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್.ಜಯದೇವ",
@@ -87,8 +223,14 @@
         {
             "title": "ಮಾನಸಿಕ ಅಸ್ವಸ್ಥರ ಪುನಶ್ಚೇತನ: ಏಕೆ? ಹೇಗೆ?",
             "feature": "",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಿ.ಎನ್.ಸುನೀತಾ",
@@ -99,8 +241,18 @@
         {
             "title": "ಪ್ರೀತಿಯ ಮಗನಿಗೊಂದು ಒಲವಿನ ಓಲೆ",
             "feature": "",
-            "text": "",
             "page": "0037-0038",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ರಾ.ಲ.ಜಗದೀಶ",
@@ -111,20 +263,50 @@
         {
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳಿಗಾಗಿ ವಿವೇಕಾನಂದರು: ಆತ್ಮವಿಶ್ವಾಸ ಯುವ ಕುಶಲೋಪರ",
             "feature": "",
-            "text": "",
-            "page": "0039-0039"
+            "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36
         },
         {
             "title": "ಚಿತ್ರಕಥೆ: ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನದರ್ಶನ-೩",
             "feature": "",
-            "text": "",
-            "page": "0040-0043"
+            "page": "0040-0043",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
-            "text": "",
-            "page": "0044-0044"
+            "page": "0044-0044",
+            "fullText": [
+                {
+                    "page": "0044",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 41
         }
     ]
 }

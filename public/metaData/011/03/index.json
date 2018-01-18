@@ -1,16 +1,22 @@
 {
     "volume": "011",
     "issue": "03",
-    "month": "03",
     "year": "2010",
+    "month": "03",
     "theme": "",
     "id": "011/03",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,30 @@
         {
             "title": "ವಚನರೂಪಿ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0011",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +61,18 @@
         {
             "title": "ಕಥಾಮೃತವೇಕೆ ಅಷ್ಟು ಜನಪ್ರಿಯ?",
             "feature": "",
-            "text": "",
             "page": "0012-0013",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಸ್ವಾಹಾನಂದ",
@@ -45,8 +83,22 @@
         {
             "title": "ವಚನವೇದದ ಇತಿಹಾಸ",
             "feature": "",
-            "text": "",
             "page": "0014-0016",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಪ್ರಭಾನಂದ",
@@ -57,14 +109,42 @@
         {
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
-            "text": "",
-            "page": "0016-0016"
+            "page": "0016-0016",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15
         },
         {
             "title": "ಪರಿಪೂರ್ಣ ಭಕ್ತರಾಗಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
-            "text": "",
             "page": "0017-0021",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -75,8 +155,22 @@
         {
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧಕರಿಗೆ 'ವಚನವೇದ' ದ ಮಹತ್ವ",
             "feature": "",
-            "text": "",
             "page": "0022-0024",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -87,8 +181,14 @@
         {
             "title": "'ವಚನವೇದ' ದ ಮಹೋನ್ನತಿ",
             "feature": "",
-            "text": "",
             "page": "0025-0025",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಆಲ್ಡಸ್ ಹಕ್ಸ್ಲಿ",
@@ -99,8 +199,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಅವತಾರ ಕಾರ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0026-0029",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ರಾಮಸ್ವಾಮಿ ಎಸ್. ಆರ್.",
@@ -111,14 +229,38 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿಯಿಂದ",
             "feature": "",
-            "text": "",
-            "page": "0030-0030"
+            "page": "0030-0030",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29
         },
         {
             "title": "ನಾನು ಶ್ರೀರಾಮಕೃಷ್ಣರನ್ನು ಕಂಡಿದ್ದೇನೆ",
             "feature": "",
-            "text": "",
             "page": "0031-0034",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ರಾಮೇಂದ್ರಸುಂದರ ಭಟ್ಟಾಚಾರ್ಯ",
@@ -129,20 +271,46 @@
         {
             "title": "ಮಕ್ಕಳಿಗೆ ವಚನವೇದ",
             "feature": "",
-            "text": "",
-            "page": "0035-0036"
+            "page": "0035-0036",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34
         },
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
-            "page": "0036-0036"
+            "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35
         },
         {
             "title": "ಬನ್ನಿ, ಬೇಲೂರು ಮಠಕ್ಕೆ",
             "feature": "",
-            "text": "",
             "page": "0037-0038",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -153,20 +321,42 @@
         {
             "title": "ನಿತ್ಯಜೀವನದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕತೆ",
             "feature": "",
-            "text": "",
-            "page": "0039-0040"
+            "page": "0039-0040",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38
         },
         {
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
-            "page": "0041-0041"
+            "page": "0041-0041",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
-            "page": "0042-0042"
+            "page": "0042-0042",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 41
         }
     ]
 }

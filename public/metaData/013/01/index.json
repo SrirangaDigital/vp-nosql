@@ -1,28 +1,70 @@
 {
     "volume": "013",
     "issue": "01",
-    "month": "01",
     "year": "2012",
+    "month": "01",
     "theme": "",
     "id": "013/01",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "",
-            "text": "",
-            "page": "0005-0005"
+            "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 2
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ನಾಲ್ಕು ಮಹಾವಾಕ್ಯಗಳು",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
-            "page": "0007-0011"
+            "page": "0007-0011",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4
         },
         {
             "title": "ನನ್ನ ಗುರುದೇವರ ಸಂದೇಶ",
             "feature": "",
-            "text": "",
             "page": "0012-0014",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ವಿವೇಕಾನಂದ",
@@ -33,8 +75,26 @@
         {
             "title": "ಆದರ್ಶ ಗುರುವಾಗಿ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
-            "text": "",
             "page": "0015-0018",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಸೋಮನಾಥಾನಂದ",
@@ -45,8 +105,26 @@
         {
             "title": "ಎಂಟು ಸೂತ್ರಗಳಲ್ಲಿ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಉಪದೇಶಗಳು",
             "feature": "",
-            "text": "",
             "page": "0019-0022",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -57,8 +135,22 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಉಪದೇಶಿಸಿದ ಯುಗಧರ್ಮ",
             "feature": "",
-            "text": "",
             "page": "0023-0025",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -69,8 +161,30 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಅನುಪಮ ಸಂದೇಶಗಳು ಈಗಿನ ಶಿಕ್ಷಣ ಪದ್ಧತಿಗೆ ಅವುಗಳ ಪ್ರಸ್ತುತತೆ",
             "feature": "",
-            "text": "",
             "page": "0026-0030",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -81,8 +195,22 @@
         {
             "title": "ಆಧುನಿಕ ಯುಗಕ್ಕೆ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಉಪದೇಶಗಳು ಪ್ರಸ್ತುತವೇ?",
             "feature": "",
-            "text": "",
             "page": "0031-0033",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -93,8 +221,30 @@
         {
             "title": "ಶಾಸ್ತ್ರಗಳ ಬೆಳಕಿನಲ್ಲಿ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಬೋಧನೆ",
             "feature": "",
-            "text": "",
             "page": "0034-0038",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸಾಥನಂದ",
@@ -105,8 +255,34 @@
         {
             "title": "ಉಪಾಸನಾ ರೂಪದಲ್ಲಿ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಉಪದೇಶ",
             "feature": "",
-            "text": "",
             "page": "0039-0044",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸುನಿರ್ಮಲಾನಂದ",
@@ -117,8 +293,26 @@
         {
             "title": "ಭಗವತ್ಸಾಕ್ಷಾತ್ಕಾರವೇ ಮನುಷ್ಯ ಜೀವನದ ಉದ್ದೇಶ",
             "feature": "",
-            "text": "",
             "page": "0045-0048",
+            "fullText": [
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 42,
             "author": [
                 {
                     "name": "ಅನುಪಮಾನಂದ",
@@ -129,8 +323,18 @@
         {
             "title": "ಗೃಹಸ್ಥ ಭಕ್ತರಿಗೆ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಬೋಧನೆ",
             "feature": "",
-            "text": "",
             "page": "0049-0050",
+            "fullText": [
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 46,
             "author": [
                 {
                     "name": "ಸೌಖ್ಯಾನಂದ",
@@ -141,8 +345,30 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ದೃಷ್ಟಿಯಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಜೀವನದ ಸಾರ",
             "feature": "",
-            "text": "",
             "page": "0051-0055",
+            "fullText": [
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 48,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -153,8 +379,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ವ್ಯಾಕುಲತೆಯ ಸಂದೇಶ",
             "feature": "",
-            "text": "",
             "page": "0056-0059",
+            "fullText": [
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 53,
             "author": [
                 {
                     "name": "ಶಿವಕಾಂತಾನಂದ",
@@ -165,8 +409,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಭಕ್ತಿಯೋಗ",
             "feature": "",
-            "text": "",
             "page": "0060-0063",
+            "fullText": [
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 57,
             "author": [
                 {
                     "name": "ತ್ರಿಲೋಕಾತ್ಮಾನಂದ",
@@ -177,8 +439,22 @@
         {
             "title": "ಗುರುವಿನ ಆವಶ್ಯಕತೆ ಅವತಾರದ ಕೃಪೆ",
             "feature": "",
-            "text": "",
             "page": "0064-0066",
+            "fullText": [
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 61,
             "author": [
                 {
                     "name": "ಗಿರಿಜಾತ್ಮಾನಂದ",
@@ -189,8 +465,22 @@
         {
             "title": "ಸ್ತ್ರೀಭಕ್ತರಿಗೆ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಬೋಧನೆ",
             "feature": "",
-            "text": "",
             "page": "0067-0069",
+            "fullText": [
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 64,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಅತುಲಪ್ರಾಣಾ",
@@ -201,8 +491,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಜ್ಞಾನಯೋಗ",
             "feature": "",
-            "text": "",
             "page": "0070-0073",
+            "fullText": [
+                {
+                    "page": "0070",
+                    "text": ""
+                },
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                },
+                {
+                    "page": "0073",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 67,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಪರಮಪ್ರಾಣಾ",
@@ -213,8 +521,26 @@
         {
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಜೀವನದ ಪೂರಕ ಮತ್ತು ಮಾರಕ ಅಂಶಗಳು",
             "feature": "",
-            "text": "",
             "page": "0074-0077",
+            "fullText": [
+                {
+                    "page": "0074",
+                    "text": ""
+                },
+                {
+                    "page": "0075",
+                    "text": ""
+                },
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 71,
             "author": [
                 {
                     "name": "ಮಾತಾ ತ್ಯಾಗಮಯೀ",
@@ -225,8 +551,18 @@
         {
             "title": "ಧರ್ಮಸಾಮರಸ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0078-0079",
+            "fullText": [
+                {
+                    "page": "0078",
+                    "text": ""
+                },
+                {
+                    "page": "0079",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 75,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ನಿಗಮಚೈತನ್ಯ",
@@ -237,8 +573,26 @@
         {
             "title": "ಕರ್ಮಯೋಗ ಮತ್ತು ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "",
-            "text": "",
             "page": "0080-0083",
+            "fullText": [
+                {
+                    "page": "0080",
+                    "text": ""
+                },
+                {
+                    "page": "0081",
+                    "text": ""
+                },
+                {
+                    "page": "0082",
+                    "text": ""
+                },
+                {
+                    "page": "0083",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 77,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ಸುವಿಮಲಚೈತನ್ಯ",
@@ -249,8 +603,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
-            "text": "",
-            "page": "0084-0084"
+            "page": "0084-0084",
+            "fullText": [
+                {
+                    "page": "0084",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 81
         }
     ]
 }

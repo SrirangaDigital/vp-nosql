@@ -1,16 +1,22 @@
 {
     "volume": "002",
     "issue": "05",
-    "month": "05",
     "year": "2001",
+    "month": "05",
     "theme": "",
     "id": "002/05",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0003-0003",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,26 @@
         {
             "title": "ಜೀವನ ಮೌಲ್ಯಗಳು",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0005-0008",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +57,22 @@
         {
             "title": "ಹಿಮಾಚಲದ ಶಕ್ತಿಪೀಠಗಳಲ್ಲಿ ಮೂರು ದಿನ",
             "feature": "",
-            "text": "",
             "page": "0009-0011",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -45,8 +83,30 @@
         {
             "title": "ಸೇವೆಯ ಶ್ರೀಸಂದೇಶ",
             "feature": "",
-            "text": "",
             "page": "0012-0016",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಕುಮಾರ್ ಡಾ. ಸಿ. ಪಿ.",
@@ -57,8 +117,22 @@
         {
             "title": "ಭಗವಾನ್ ಬುದ್ದ",
             "feature": "",
-            "text": "",
             "page": "0017-0019",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -69,8 +143,22 @@
         {
             "title": "ಬಸವಣ್ಣನವರ ಜೀವನ ಮತ್ತು ಅವರ ಸಮಾಜ ಸುಧಾರಣೆ",
             "feature": "",
-            "text": "",
             "page": "0020-0022",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ವಿಶ್ವನಾಥಯ್ಯ ಎಂ. ಟಿ.",
@@ -81,8 +169,18 @@
         {
             "title": "ಸಂಕೇತಿಗಳ ಮರೆಯಲ್ಲಿ ಧರ್ಮಸೂಕ್ಷ್ಮ",
             "feature": "",
-            "text": "",
             "page": "0023-0024",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಪಾರ್ಥಸಾರಥಿ ಸತ್ಯಾಗಾಲಂ",
@@ -93,8 +191,18 @@
         {
             "title": "ಸಂಗೀತಯೋಗ",
             "feature": "",
-            "text": "",
             "page": "0025-0026",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -105,8 +213,14 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ ಸತ್ಯವಚನ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0027-0027",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -117,8 +231,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "",
-            "text": "",
             "page": "0028-0028",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -129,8 +249,30 @@
         {
             "title": "ಯುವಸ್ಪಂದನ",
             "feature": "",
-            "text": "",
             "page": "0029-0033",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +283,14 @@
         {
             "title": "ಶೂನ್ಯನ್ವೇಶಣೆ, ಮಾಹಿತಿಯ ಇತಿಮಿತಿ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +301,14 @@
         {
             "title": "ಋಣದ ಭಾರ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0035-0035",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +319,14 @@
         {
             "title": "ಯಾರೂ ನೋಡದ ಜಾಗ - ಕಥಾಚಿತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +337,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

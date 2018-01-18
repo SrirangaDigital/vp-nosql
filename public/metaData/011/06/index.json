@@ -1,22 +1,46 @@
 {
     "volume": "011",
     "issue": "06",
-    "month": "06",
     "year": "2010",
+    "month": "06",
     "theme": "",
     "id": "011/06",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
-            "page": "0005-0005"
+            "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 2
         },
         {
             "title": "ಭ್ರಷ್ಟಾಚಾರದ ಅಂತರಂಗ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -27,8 +51,18 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ನೈತಿಕತೆ",
             "feature": "",
-            "text": "",
             "page": "0011-0013",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಅನುಪಮಾನಂದ",
@@ -39,8 +73,26 @@
         {
             "title": "ಸಾರ್ವಜನಿಕ ಸೇವೆಗಳಲ್ಲಿ ಭ್ರಷ್ಟಾಚಾರ",
             "feature": "",
-            "text": "",
             "page": "0014-0017",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ವೆಂಕಟಾಚಲ",
@@ -51,8 +103,22 @@
         {
             "title": "ವಿಶ್ವಸದಾಚಾರ ಸಂಹಿತೆ",
             "feature": "",
-            "text": "",
             "page": "0018-0020",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ರಾಮಾಜೋಯಿಸ್",
@@ -63,8 +129,22 @@
         {
             "title": "ಸಾರ್ವಜನಿಕ ಭ್ರಷ್ಟಾಚಾರದ ವಿರುದ್ಧ ಸಮರ ಸಾಧ್ಯವೇ?",
             "feature": "",
-            "text": "",
             "page": "0021-0023",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ವಿಠಲ್",
@@ -75,14 +155,34 @@
         {
             "title": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
-            "page": "0023-0023"
+            "page": "0023-0023",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19
         },
         {
             "title": "ಪರಿಪೂರ್ಣ ಭಕ್ತರಾಗಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
-            "text": "",
             "page": "0024-0026",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -93,8 +193,26 @@
         {
             "title": "ವೇದಾಂತ ಮತ್ತು ರಾಮಕೃಷ್ಣ ವಿವೇಕಾನಂದ ದರ್ಶನ",
             "feature": "",
-            "text": "",
             "page": "0026-0029",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -105,14 +223,38 @@
         {
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
-            "text": "",
-            "page": "0029-0029"
+            "page": "0029-0029",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25
         },
         {
             "title": "ಭ್ರಷ್ಟಾಚಾರದ ಬಾಗಿಲುಗಳು",
             "feature": "",
-            "text": "",
             "page": "0029-0032",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಅನಂತರಾಮು ಡಾ. ಕೆ.",
@@ -123,8 +265,14 @@
         {
             "title": "ಕರ್ಮಸಿದ್ಧಾಂತ-ಒಂದು ವಿಶ್ಲೇಷಣೆ",
             "feature": "",
-            "text": "",
             "page": "0033-0033",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸೀತಾದೇವಿ",
@@ -135,8 +283,26 @@
         {
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿ ಅವರ ಸವಿನೆನಪುಗಳು",
             "feature": "",
-            "text": "",
             "page": "0034-0037",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ಜ್ಞಾನಾತ್ಮಚೈತನ್ಯ",
@@ -147,14 +313,30 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿಯಿಂದ",
             "feature": "",
-            "text": "",
-            "page": "0038-0038"
+            "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34
         },
         {
             "title": "ವಿಜ್ಞಾನ ಬೆಳೆದುಬಂದ ರೋಮಾಂಚಕ ಕಥೆ",
             "feature": "",
-            "text": "",
             "page": "0039-0040",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಚಿದಾನಂದ ಗೌಡ",
@@ -165,14 +347,26 @@
         {
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
-            "page": "0041-0041"
+            "page": "0041-0041",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
-            "page": "0042-0042"
+            "page": "0042-0042",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38
         }
     ]
 }

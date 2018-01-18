@@ -1,16 +1,22 @@
 {
     "volume": "004",
     "issue": "08",
-    "month": "08",
     "year": "2003",
+    "month": "08",
     "theme": "",
     "id": "004/08",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0003-0003",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,22 @@
         {
             "title": "ಪೂರ್ಣದೃಷ್ಟಿ - ಸಂಪಾದಕೀಯ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0005-0007",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +53,30 @@
         {
             "title": "ಸ್ವಾಮಿ ರಾಮಕೃಷ್ಣಾನಂದರು - ನಾ ಕಂಡಂತೆ",
             "feature": "",
-            "text": "",
             "page": "0008-0012",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ವಿರಜಾನಂದ",
@@ -45,8 +87,26 @@
         {
             "title": "ಭಾಗವತದ ಸಾರತತ್ತ್ವ",
             "feature": "",
-            "text": "",
             "page": "0013-0016",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ರಂಗನಾಥಾನಂದಜಿ ಮಹರಾಜ್",
@@ -57,8 +117,22 @@
         {
             "title": "ಸಂತ ನಾಮದೇವರು",
             "feature": "",
-            "text": "",
             "page": "0017-0019",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಗೋಪೀನಾಥ ಎನ್.",
@@ -69,8 +143,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0020-0020",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -81,8 +161,22 @@
         {
             "title": "ಮಹಾಯೋಗಿ ಶ್ರೀಅರವಿಂದರು",
             "feature": "",
-            "text": "",
             "page": "0021-0023",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ವರಾಹ ಮೂರ್ತಿ",
@@ -93,8 +187,26 @@
         {
             "title": "ಇಸ್ಲಾಮ್ ಧರ್ಮದ ಮಾನವೀಯ ಮೌಲ್ಯಗಳು",
             "feature": "",
-            "text": "",
             "page": "0024-0027",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -105,8 +217,18 @@
         {
             "title": "ಶ್ರೀಶಾರದೆ ಸರ್ವವಂದಿತೆ",
             "feature": "",
-            "text": "",
             "page": "0028-0029",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ವಿಜಯ ಭಾರತಿ",
@@ -117,8 +239,14 @@
         {
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ಪ್ರೇಮಾಭಕ್ತಿ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0030-0030",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -129,8 +257,22 @@
         {
             "title": "ಗಳಿಸಿದ ಸ್ವಾತಂತ್ರ್ಯ ಉಳಿಸಿಕೊಳ್ಳಬೇಕು ಹೇಗೆ?",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0031-0033",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -141,8 +283,18 @@
         {
             "title": "ಸತ್ವೇ ಭವತಿ - ಕ್ರಿಯಾಸಿದ್ಧಿ",
             "feature": "",
-            "text": "",
             "page": "0033-0034",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಓರ್ವ ಭಕ್ತರು",
@@ -153,8 +305,14 @@
         {
             "title": "ನೀರಿಗಾಗಿ ಕಣ್ಣೀರು, ಆತ್ಮಹತ್ಯೆಗೂ ಜೊತೆ ಬೇಕೆ? - ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0035-0035",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +323,14 @@
         {
             "title": "ಮನುಜನ ಬೆಲೆ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +341,14 @@
         {
             "title": "ಎಲ್ಲವೂ ಆಗುವುದು ನಮ್ಮ ಒಳ್ಳೆಯದಕ್ಕೇ",
             "feature": "",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +359,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

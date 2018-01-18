@@ -1,16 +1,22 @@
 {
     "volume": "008",
     "issue": "08",
-    "month": "08",
     "year": "2007",
+    "month": "08",
     "theme": "",
     "id": "008/08",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,22 @@
         {
             "title": "ಮನಸ್ಸಿನ ತರಬೇತಿ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0009",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +53,26 @@
         {
             "title": "ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು -೬",
             "feature": "",
-            "text": "",
             "page": "0010-0013",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ತಪಸ್ಯಾನಂದ",
@@ -45,8 +83,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸರು- ಕೆಲವು ಸಾಮ್ಯಗಳು -೧",
             "feature": "",
-            "text": "",
             "page": "0014-0017",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಶಿವರುದ್ರಪ್ಪ ಡಾ. ಜಿ. ಎಸ್.",
@@ -57,8 +113,14 @@
         {
             "title": "ದಿವ್ಯತ್ರಯರ ಸಂದೇಶಗಳಿಂದ ನನ್ನ ಜೀವನದ ಮೇಲೆ ಆಗಿರುವ ಪ್ರಭಾವ-೧",
             "feature": "",
-            "text": "",
             "page": "0018-0018",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಭಾರತಿ ಕೆ. ವಿ.",
@@ -69,8 +131,14 @@
         {
             "title": "ಮನನ- ಮಾನ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0019-0019",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -81,8 +149,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0019-0019",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -93,8 +167,14 @@
         {
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ಗೃಹಸ್ಥರಿಗೆ ಉಪದೇಶ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0020-0020",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -105,8 +185,22 @@
         {
             "title": "ಕಥಾಚಿತ್ರ- ಕರ್ಣನ ಹಿರಿಮೆ",
             "feature": "",
-            "text": "",
             "page": "0021-0023",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -117,8 +211,22 @@
         {
             "title": "ಶ್ರೀಶೈಲ ದರ್ಶನ",
             "feature": "",
-            "text": "",
             "page": "0024-0026",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಶಿಲ್ಪಿ",
@@ -129,8 +237,14 @@
         {
             "title": "ಅನಾಯಾಸೇನ ಮರಣಂ",
             "feature": "",
-            "text": "",
             "page": "0027-0027",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಮಹಾಬಲರಾಮ್ ಎಸ್.",
@@ -141,8 +255,22 @@
         {
             "title": "ಕಲ್ಪತರುವಿನಡಿಯಲ್ಲಿ",
             "feature": "",
-            "text": "",
             "page": "0028-0030",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮ ಕಾರಂತ ಪಿ.",
@@ -153,8 +281,18 @@
         {
             "title": "ಸುಂದರ ಗ್ರಂಥದ ಸುತ್ತಮುತ್ತ",
             "feature": "",
-            "text": "",
             "page": "0031-0032",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಿದ್ಧರಾಮಯ್ಯ",
@@ -165,8 +303,26 @@
         {
             "title": "ಓಂಕಾರ- ಬ್ರಹ್ಮಾಂಡದ ಉಸಿರಿನ ಉಸಿರು",
             "feature": "",
-            "text": "",
             "page": "0033-0036",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ನಾರಾಯಣಸ್ವಾಮಿ ಜ. ಹೋ.",
@@ -177,8 +333,18 @@
         {
             "title": "ಅಂತರಂಗವನ್ನು ಅರಳಿಸು",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0037-0038",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -189,8 +355,18 @@
         {
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
-            "text": "",
             "page": "0038-0039",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +377,14 @@
         {
             "title": "ಆಲೋಚನೆಯ ಶಕ್ತಿ ವಸ್ತುಗಳನ್ನು ಚಲಿಸಬಲ್ಲುದು- ಸಮುದಾಯ ಜೀವನದ ಪಾಠ- ಇರುವೆಗಳಿಂದ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0040-0040",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -213,8 +395,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0041-0041",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

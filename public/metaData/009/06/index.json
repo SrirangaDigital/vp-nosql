@@ -1,16 +1,22 @@
 {
     "volume": "009",
     "issue": "06",
-    "month": "06",
     "year": "2008",
+    "month": "06",
     "theme": "",
     "id": "009/06",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,14 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತು ಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
-            "text": "",
             "page": "0006-0006",
+            "fullText": [
+                {
+                    "page": "0006",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +45,26 @@
         {
             "title": "ಭವ- ರೋಗ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -45,8 +75,14 @@
         {
             "title": "ದಿವ್ಯಸ್ಮೃತಿಪ್ರಭ",
             "feature": "",
-            "text": "",
             "page": "0010-0010",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -57,8 +93,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮತ್ತು ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ಧರ್ಮಸಮನ್ವಯ -೫",
             "feature": "",
-            "text": "",
             "page": "0011-0014",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -69,8 +123,22 @@
         {
             "title": "ಮನಸ್ಸಿನ ರಹಸ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0015-0017",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -81,8 +149,18 @@
         {
             "title": "ಆರೋಗ್ಯಪಾಲನೆಗೆ ಸರಳವಿಧಾನಗಳು",
             "feature": "",
-            "text": "",
             "page": "0018-0019",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಹೆಗಡೆ ಡಾ. ಬಿ. ಎಂ.",
@@ -93,8 +171,14 @@
         {
             "title": "ವೈದ್ಯಕೀಯ ಸುಭಾಷಿತಗಳು",
             "feature": "",
-            "text": "",
             "page": "0020-0020",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -105,8 +189,18 @@
         {
             "title": "ಆತಂಕದ ನಿರ್ವಹಣೆ",
             "feature": "",
-            "text": "",
             "page": "0021-0022",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಉಮಾಪತಿ ಡಾ. ಎಂ. ಎಸ್.",
@@ -117,8 +211,18 @@
         {
             "title": "ಜೀವನಶೈಲಿ ಮತ್ತು ಆರೋಗ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0023-0024",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಶಂಕರ್ ಡಾ. ಪಿ. ಎಸ್.",
@@ -129,8 +233,14 @@
         {
             "title": "ಭಗವಂತನನ್ನು ಅರಸುತ್ತ",
             "feature": "",
-            "text": "",
             "page": "0025-0025",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಯತೀಶ್ವರಾನಂದ",
@@ -141,8 +251,18 @@
         {
             "title": "ಮಿದುಳು ಎಂಬ ಅದ್ಭುತ ಯಂತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0026-0027",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ಡಾ. ಜಿ.",
@@ -153,8 +273,22 @@
         {
             "title": "ಆಹಾರ ಮತ್ತು ಮನಸ್ಸು",
             "feature": "",
-            "text": "",
             "page": "0028-0030",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಉಮಾಶಂಕರ ಡಾ. ಕೆ. ಎಸ್.",
@@ -165,8 +299,14 @@
         {
             "title": "ವಿನೋದದಿಂದ ವೇದಾಂತ",
             "feature": "",
-            "text": "",
             "page": "0030-0030",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +317,18 @@
         {
             "title": "ನಮ್ಮ ಮಕ್ಕಳಿಗೆ ಆದರ್ಶವಾಗುವುದು ಹೇಗೆ?",
             "feature": "",
-            "text": "",
             "page": "0031-0032",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +339,18 @@
         {
             "title": "ಕಥಾಪ್ರಭ- ಚಿನ್ನದ ತಟ್ಟೆ ಕದ್ದವನು",
             "feature": "",
-            "text": "",
             "page": "0033-0034",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +361,14 @@
         {
             "title": "ಚಿಂತನಪ್ರಭ",
             "feature": "",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -213,8 +379,18 @@
         {
             "title": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ- ಕಣ್ಣು ತೆರೆಸಿದ ಪ್ರದರ್ಶನ",
             "feature": "",
-            "text": "",
             "page": "0035-0036",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -225,8 +401,18 @@
         {
             "title": "ಕರ್ನಾಟಕದ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ",
             "feature": "",
-            "text": "",
             "page": "0037-0038",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ವೇಣುಗೋಪಾಲ ಬಿ. ಎನ್.",
@@ -237,8 +423,18 @@
         {
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0039-0040",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -249,8 +445,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0041-0041",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -261,8 +463,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0042-0042",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 41,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

@@ -1,16 +1,22 @@
 {
     "volume": "005",
     "issue": "11",
-    "month": "11",
     "year": "2004",
+    "month": "11",
     "theme": "",
     "id": "005/11",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,30 @@
         {
             "title": "ಜಪಸಾಧನೆ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0011",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +61,26 @@
         {
             "title": "ನಿವೇದಿತಾ ವಿದ್ಯಾಲಯ ಹಾಗೂ ಭಗಿನಿ ಸುಧೀರಾ -೨",
             "feature": "",
-            "text": "",
             "page": "0012-0015",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಪರಮಾಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -45,8 +91,22 @@
         {
             "title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಯೋಗ",
             "feature": "",
-            "text": "",
             "page": "0016-0018",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ದೇಶಿಕಾತ್ಮಾನಂದ",
@@ -57,8 +117,14 @@
         {
             "title": "ಪ್ರಹಸನಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0018-0018",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -69,8 +135,34 @@
         {
             "title": "ಪಾಶ್ಚಾತ್ಯ ಚಿಂತನೆಯ ಮೇಲೆ ಭಾರತೀಯ ಪ್ರಭಾವ -೧",
             "feature": "",
-            "text": "",
             "page": "0019-0024",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -81,8 +173,26 @@
         {
             "title": "ಚಿತ್ತೇ ಕೃಪಾ ಸಮರನಿಷ್ಠುರತಾ. .",
             "feature": "",
-            "text": "",
             "page": "0025-0028",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಪ್ರಹ್ಲಾದ ಬ್ರ.",
@@ -93,8 +203,22 @@
         {
             "title": "ಪ್ರೇಮಾವತಾರ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
-            "text": "",
             "page": "0029-0031",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮ ಕಾರಂತ ಪಿ.",
@@ -105,8 +229,14 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣಮಹಿಮಾ",
             "feature": "",
-            "text": "",
             "page": "0032-0032",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -117,8 +247,26 @@
         {
             "title": "ಆತ್ಮವಿಶ್ವಾಸ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0033-0036",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -129,8 +277,14 @@
         {
             "title": "ಶಯನೋತ್ಸವ-ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +295,14 @@
         {
             "title": "ಅಮೆರಿಕದ ಬುಡಕಟ್ಟು ಜನಾಂಗಗಳು-ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +313,14 @@
         {
             "title": "ಸಕಾಲಕ್ಕೆ ಬರುತ್ತೇನೆ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +331,14 @@
         {
             "title": "ಸಮದರ್ಶಿತ್ವ",
             "feature": "",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +349,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0040-0040",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

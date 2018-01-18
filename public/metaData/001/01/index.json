@@ -1,16 +1,22 @@
 {
     "volume": "001",
     "issue": "01",
-    "month": "01",
     "year": "2000",
+    "month": "01",
     "theme": "",
     "id": "001/01",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0003-0003",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,14 @@
         {
             "title": "ಅಶೀರ್ವಚನ",
             "feature": "",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ರಂಗನಾಥಾನಂದಜಿ ಮಹರಾಜ್",
@@ -33,8 +45,22 @@
         {
             "title": "ಒಂದು ಹಿನ್ನೊಟ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0006-0008",
+            "fullText": [
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -45,8 +71,18 @@
         {
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘಕ್ಕೆ ಗಾಂಧೀ ಶಾಂತಿಪ್ರಶಸ್ತಿ",
             "feature": "",
-            "text": "",
             "page": "0009-0010",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -57,8 +93,22 @@
         {
             "title": "ಆಧುನಿಕ ಹಿಂದೂ ಸಮಾಜ ಮತ್ತು ಹಿಂದೂಧರ್ಮ",
             "feature": "",
-            "text": "",
             "page": "0011-0013",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -69,8 +119,22 @@
         {
             "title": "ದೇವಿಯೊ ಮಾನವಿಯೊ",
             "feature": "",
-            "text": "",
             "page": "0014-0016",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಪ್ರಭುಶಂಕರ ಡಾ.",
@@ -81,8 +145,26 @@
         {
             "title": "ವೇದಗಳಲ್ಲಿ ಸಮಷ್ಟಿಪ್ರಜ್ಞೆ",
             "feature": "",
-            "text": "",
             "page": "0017-0020",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -93,8 +175,22 @@
         {
             "title": "ಮಾಯಾದೂರ ಮಾಯಾವತಿ",
             "feature": "",
-            "text": "",
             "page": "0021-0023",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಆತ್ಮಜ್ಞಾನಂದ",
@@ -105,8 +201,18 @@
         {
             "title": "ಮಾಮನಿಸ್ಮರ ಯುದ್ಧ್ಯ ಚ",
             "feature": "",
-            "text": "",
             "page": "0024-0025",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -117,8 +223,22 @@
         {
             "title": "ಅಯಸ್ಕಾಂತೀಯ ಯುವಶಕ್ತಿ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0026-0028",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -129,8 +249,22 @@
         {
             "title": "ಉತ್ತಮ ಜೀವನದ ಹತ್ತು ಸೂತ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0028-0030",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +275,18 @@
         {
             "title": "ಜಿಪುಣರಾಗಬೇಡಿ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0031-0032",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +297,18 @@
         {
             "title": "ಪುಸ್ತಕ ಪಾಂಡಿತ್ಯ ಯಾತಕ್ಕೂ ಬಾರದು",
             "feature": "",
-            "text": "",
             "page": "0032-0033",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +319,14 @@
         {
             "title": "ಗಣೇಶ ಹೇಳಿದ ಕಥೆ-ಶ್ರೀರಾಮಕೃಷ್ಣರು ಹೇಳಿದ ಕಥೆ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0033-0033",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +337,14 @@
         {
             "title": "ಧರ್ಮ ನಮ್ಮ ಸ್ವಭಾವ ಕುಟುಂಬ ಜೀವನದ ಪ್ರಾಮುಖ್ಯ - ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +355,18 @@
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0035-0036",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +377,18 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0037-0038",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

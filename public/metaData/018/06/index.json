@@ -1,0 +1,150 @@
+{
+    "volume": "018",
+    "issue": "06",
+    "year": "2017",
+    "month": "06",
+    "theme": "",
+    "id": "018/06",
+    "toc": [
+        {
+            "title": "ಆದಿತ್ಯ ಹೃದಯದಿಂದ",
+            "feature": "ಪ್ರಾರ್ಥನೆ",
+            "text": "",
+            "page": "0004-0004",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ಬೆಳಕ ಬೀರುವ ಹಾದಿ-೧",
+            "feature": "ಸಂಪಾದಕೀಯ",
+            "text": "",
+            "page": "0007-0009",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ಸಾಧನೆಯ ಮಾರ್ಗಗಳು",
+            "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
+            "text": "",
+            "page": "0010-0010",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ಅದ್ವೈತವೇದಾಂತದ ಅಂತರಂಗಸಾಧನೆ",
+            "feature": "ವಿಶೇಷ ಲೇಖನ",
+            "text": "",
+            "page": "0011-0017",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಕರುಣಾಕರಾನಂದ",
+                    "salutation": "ಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀಮಾತೆ ಭಾಗ-೬",
+            "feature": "ಧಾರಾವಾಹಿ",
+            "text": "",
+            "page": "0018-0021",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಆಶುತೋಷ್ ಮಿತ್ರ",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "ವೇದ ವಾಙ್ಮಯ (ಒಂದು ಕಿರುಪರಿಚಯ)",
+            "feature": "ವಿಶೇಷ ಲೇಖನ",
+            "text": "",
+            "page": "0022-0026",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಕೆ. ಎಲ್. ಪ್ರಸನ್ನಾಕ್ಷೀ",
+                    "salutation": "ಡಾ"
+                }
+            ]
+        },
+        {
+            "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೭",
+            "feature": "ಧಾರಾವಾಹಿ",
+            "text": "",
+            "page": "0027-0031",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರದ್ಧಾನಂದ",
+                    "salutation": "ಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಜೀವನ್ಮುಕ್ತಿವಿವೇಕ",
+            "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
+            "text": "",
+            "page": "0032-0033",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ರೂಪ ಗೋಸ್ವಾಮಿ",
+            "feature": "ಸಂತರ ಜೀವನ",
+            "text": "",
+            "page": "0034-0037",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ವೀರೇಶಾನಂದ",
+                    "salutation": "ಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ದೇಗುಲ ನಿರ್ಮಾಣದ ಲೆಕ್ಕಪರಿಶೋಧನೆ",
+            "feature": "ಚಿತ್ರಕಥೆ",
+            "text": "",
+            "page": "0038-0041",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ಸುದ್ದಿಸಂಚಯ",
+            "feature": "",
+            "text": "",
+            "page": "0042-0042",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        }
+    ]
+}

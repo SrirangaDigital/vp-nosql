@@ -1,16 +1,22 @@
 {
     "volume": "008",
     "issue": "01",
-    "month": "01",
     "year": "2007",
+    "month": "01",
     "theme": "",
     "id": "008/01",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,26 @@
         {
             "title": "ಸೇವೆಯ ಪರಿಕಲ್ಪನೆ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +57,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0010-0010",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -45,8 +75,26 @@
         {
             "title": "ಒಂದು ಪತ್ರದ ಸುತ್ತಮುತ್ತ",
             "feature": "",
-            "text": "",
             "page": "0011-0014",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -57,8 +105,30 @@
         {
             "title": "ಯಾರು ದೇವಿ ಭಗವತಿಯೋ, ಅವರೇ",
             "feature": "",
-            "text": "",
             "page": "0015-0019",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಚೇತನಾನಂದ",
@@ -69,8 +139,14 @@
         {
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವಗಳು",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0020-0020",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -81,8 +157,26 @@
         {
             "title": "ಕಥಾಚಿತ್ರ - ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
-            "text": "",
             "page": "0021-0024",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -93,8 +187,22 @@
         {
             "title": "ಸ್ವಾಮಿ ವೀಎಕಾನಂದರು ಬೆಳಗಿದ ಹಣತೆ- ಸ್ವಾಮಿ ನಿಶ್ಚಯಾನಂದ",
             "feature": "",
-            "text": "",
             "page": "0025-0027",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -105,8 +213,22 @@
         {
             "title": "ಜೀವನಪ್ರಭ ಪುರಂದರದಾಸರು",
             "feature": "",
-            "text": "",
             "page": "0028-0030",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ರಾಜೇಶ್ವರಿ ಕೃಷ್ಣ",
@@ -117,8 +239,18 @@
         {
             "title": "ಯೋಗಪ್ರಭ - ಯೋಗ-ಪರಿಚಯ ಮತ್ತು ಪ್ರಯೋಜನ",
             "feature": "",
-            "text": "",
             "page": "0031-0032",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ರಾಘವೇಂದ್ರ ಪೈ ಡಾ. ಕೆ.",
@@ -129,8 +261,18 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನ ಮತ್ತು ಸಂದೇಶಗಳಲ್ಲಿ ನಾನು ಮೆಚ್ಚುವ ಅಂಶಗಳು",
             "feature": "",
-            "text": "",
             "page": "0033-0034",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಹೇಮಾ ಕೆ. ,",
@@ -141,8 +283,14 @@
         {
             "title": "ಬಾಲಕಿಯ ಮುಗ್ದತೆ ಮಾಡಿದ ಪವಾಡ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0035-0035",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +301,14 @@
         {
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +319,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ - ಕಲೆಗೆ ಆಸರೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +337,18 @@
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ - ಪ್ರಾಚೀನ ಮತ್ತು ಮಧ್ಯಯುಗೀನ ಹಿಂದೂ ಸಂಸ್ಕೃತಿ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0038-0039",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ನರಸಿಂಹಮೂರ್ತಿ ಡಾ. ಎ. ವಿ.",
@@ -189,8 +359,18 @@
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0040-0041",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

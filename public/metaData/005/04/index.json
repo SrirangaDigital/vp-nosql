@@ -1,16 +1,22 @@
 {
     "volume": "005",
     "issue": "04",
-    "month": "04",
     "year": "2004",
+    "month": "04",
     "theme": "",
     "id": "005/04",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,26 @@
         {
             "title": "ಅನುಭವ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +57,26 @@
         {
             "title": "ನಾಲ್ವರು ಮಹಾಶಿಷ್ಯರು -೧",
             "feature": "",
-            "text": "",
             "page": "0011-0014",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -45,8 +87,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0014-0014",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -57,8 +105,26 @@
         {
             "title": "ಏಕಾಗ್ರತೆ ಮತ್ತು ಧ್ಯಾನ -೨",
             "feature": "",
-            "text": "",
             "page": "0015-0018",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -69,8 +135,18 @@
         {
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಸೌಭಾಗ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0019-0020",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ವಿನಯಾನಂದ ಸರಸ್ವತಿ",
@@ -81,8 +157,26 @@
         {
             "title": "ವಾಸ್ತುಶಿಲ್ಪದಲ್ಲಿ ಸಮನ್ವಯ- ಬೇಲೂರಿನ ರಾಮಕೃಷ್ಣ ದೇವಾಲಯ",
             "feature": "",
-            "text": "",
             "page": "0021-0024",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ತತ್ತ್ವಜ್ಞಾನಾನಂದ",
@@ -93,8 +187,18 @@
         {
             "title": "ಶ್ರೀಮಾತೆ ಶಾರದಾದೇವಿ ಮತ್ತು ಭಿಕ್ಷುಕಿ ಹುಡುಗಿ",
             "feature": "",
-            "text": "",
             "page": "0025-0026",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ರಾಮೇಗೌಡ",
@@ -105,8 +209,26 @@
         {
             "title": "ಜೆನ್ ಅನುಭಾವ -೨",
             "feature": "",
-            "text": "",
             "page": "0027-0030",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಜಯದೇವ ಜಿ. ಎಸ್.",
@@ -117,8 +239,14 @@
         {
             "title": "ಶ್ರೀ ರಾಮಕೃಷ್ಣ ಮಹಿಮಾ",
             "feature": "",
-            "text": "",
             "page": "0031-0031",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -129,8 +257,18 @@
         {
             "title": "ಯುಗಾದಿ ಮರಳಿ ಬರುತಿದೆ",
             "feature": "",
-            "text": "",
             "page": "0032-0033",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -141,8 +279,22 @@
         {
             "title": "ಯುವಶಕ್ತಿ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0034-0036",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಕಳಸಾಪುರ ಸೀತಾರಾಮಶಾಸ್ತ್ರೀ",
@@ -153,8 +305,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಭಾರತೀಯ ವಿಜ್ಞಾನ ಯುವಕರಲ್ಲಿ ಧರ್ಮೋತ್ಸಾಹ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +323,14 @@
         {
             "title": "ದುರಹಂಕಾರ ಹಾನಿಕರವಾದುದು",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +341,14 @@
         {
             "title": "ಯಾವುದು ಸತ್ಯ?",
             "feature": "",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +359,14 @@
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0040-0040",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

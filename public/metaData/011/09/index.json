@@ -1,16 +1,22 @@
 {
     "volume": "011",
     "issue": "09",
-    "month": "09",
     "year": "2010",
+    "month": "09",
     "theme": "",
     "id": "011/09",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,30 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಶೈಕ್ಷಣಿಕ ತತ್ತ್ವ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0011",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +61,22 @@
         {
             "title": "ಕುಮೆಂಪು ಅವರ ಶೈಕ್ಷಣಿಕ ವಿಚಾರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0012-0014",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಕುಮಾರ್ ಡಾ. ಸಿ. ಪಿ.",
@@ -45,8 +87,22 @@
         {
             "title": "ಬಸವಣ್ಣನವರ ವಚನಗಳಲ್ಲಿ ನೈತಿಕ ಶಿಕ್ಷಣ",
             "feature": "",
-            "text": "",
             "page": "0015-0017",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ರಾಜಶೇಖರ ಜಮದಂಡಿ",
@@ -57,8 +113,18 @@
         {
             "title": "ಬೌದ್ಧಿಕ ಶಿಕ್ಷಣ-ಮಾನಸಿಕ ಶಿಕ್ಷಣ",
             "feature": "",
-            "text": "",
             "page": "0018-0019",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ರಾಜೇಂದ್ರ ಡಾ. ಡಿ. ಕೆ.",
@@ -69,8 +135,26 @@
         {
             "title": "ಪರಿಣಾಮಕಾರಿ ಬೋಧನೆ",
             "feature": "",
-            "text": "",
             "page": "0020-0023",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ರಘೋತ್ತಮ ರಾವ್",
@@ -81,14 +165,34 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
-            "page": "0023-0023"
+            "page": "0023-0023",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20
         },
         {
             "title": "ಶಿಕ್ಷಣ ಮತ್ತು ಶಿಕ್ಷಕರು",
             "feature": "",
-            "text": "",
             "page": "0024-0026",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ನಾಗರತನ್ನ",
@@ -99,8 +203,26 @@
         {
             "title": "ಶೈಕ್ಷಣಿಕ ರಂಗದ ಅದ್ಭುತ: ಆದರ್ಶ ವಿಜ್ಞಾನಿ ಮಾರಿಯೋ ಕೆಪಚ್ಚಿ",
             "feature": "",
-            "text": "",
             "page": "0027-0030",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಜಗದೀಶ್",
@@ -111,14 +233,38 @@
         {
             "title": "ಓದುವುದು ಹೇಗೆ?",
             "feature": "",
-            "text": "",
-            "page": "0031-0031"
+            "page": "0031-0031",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28
         },
         {
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿ ಅವರ ಸವಿನೆನಪುಗಳು",
             "feature": "",
-            "text": "",
             "page": "0032-0035",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ಜ್ಞಾನಾತ್ಮಚೈತನ್ಯ",
@@ -129,14 +275,30 @@
         {
             "title": "ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿಯಿಂದ",
             "feature": "",
-            "text": "",
-            "page": "0036-0036"
+            "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33
         },
         {
             "title": "ಬನ್ನಿ, ಬೇಲೂರು ಮಠಕ್ಕೆ",
             "feature": "",
-            "text": "",
             "page": "0037-0038",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -147,14 +309,34 @@
         {
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
-            "page": "0039-0041"
+            "page": "0039-0041",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
-            "page": "0042-0042"
+            "page": "0042-0042",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39
         }
     ]
 }

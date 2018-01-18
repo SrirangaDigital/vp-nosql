@@ -1,16 +1,22 @@
 {
     "volume": "004",
     "issue": "05",
-    "month": "05",
     "year": "2003",
+    "month": "05",
     "theme": "",
     "id": "004/05",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0003-0003",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,22 @@
         {
             "title": "ಕಾರ್ಯನೀತಿ - ಸಂಪಾದಕೀಯ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0005-0007",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +53,26 @@
         {
             "title": "ಆಚಾರ್ಯ ರಾಮಾನುಜ",
             "feature": "",
-            "text": "",
             "page": "0008-0011",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಪುಷ್ಪ ಶೇಷಾದ್ರಿ",
@@ -45,8 +83,22 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿರಜಾನಂದ",
             "feature": "",
-            "text": "",
             "page": "0012-0014",
+            "fullText": [
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಮೀನಾ ವಿ.",
@@ -57,8 +109,22 @@
         {
             "title": "ಪಾತಂಜಲ ಯೋಗದರ್ಶನ",
             "feature": "",
-            "text": "",
             "page": "0015-0017",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಮಾಧವರಾವ್ ಅರ್.",
@@ -69,8 +135,22 @@
         {
             "title": "ವಿವೇಕಾನಂದ ಬಾಲಕಸಂಘ",
             "feature": "",
-            "text": "",
             "page": "0018-0020",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸುರೇಶ ಮೂನ",
@@ -81,8 +161,14 @@
         {
             "title": "ಜಿಂಕೆಯ ತ್ಯಾಗ",
             "feature": "",
-            "text": "",
             "page": "0021-0021",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -93,8 +179,22 @@
         {
             "title": "ಆತ್ಮ ಸಮರ್ಪಣೆ",
             "feature": "",
-            "text": "",
             "page": "0022-0024",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ನೀರಗಟ್ಟಿ ಎಸ್. ಎಸ್.",
@@ -105,8 +205,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0024-0024",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -117,8 +223,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಅಂತ್ಯಲೀಲೆ",
             "feature": "",
-            "text": "",
             "page": "0025-0028",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಪ್ರಭಾನಂದ",
@@ -129,8 +253,14 @@
         {
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ತ್ರಿಗುಣಾತೀತ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0029-0029",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +271,18 @@
         {
             "title": "ಮಕ್ಕಳ ಜೀವನವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ತಂದೆ-ತಾಯಿಗಳ ಪಾತ್ರ - ಓದುಗರ ಸ್ಪಂದನ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
-            "text": "",
             "page": "0030-0031",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +293,14 @@
         {
             "title": "ಜೀತ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0032-0032",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಎಸ್. ಎಸ್. ಕುಮಾರಿ",
@@ -165,8 +311,18 @@
         {
             "title": "ಆತ್ಮಹತ್ಯೆ ಮತ್ತು ಯುವಜನಾಂಗ",
             "feature": "",
-            "text": "",
             "page": "0033-0034",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಮಂಜುಶ್ರೀ ಎಂ. ಕಡಕೋಳ",
@@ -177,8 +333,14 @@
         {
             "title": "ಸಾವಿಗೂ ಸಂಚಕಾರ, ಸ್ನೇಹೌಷಧ - ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0035-0035",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +351,14 @@
         {
             "title": "ಸ್ವೀಕರಿಸದ ಭಿಕ್ಷೆ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +369,14 @@
         {
             "title": "ರಾಮಕೃಷ್ಣರ ದೃಷ್ಟಾಂತ ಚಿತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -213,8 +387,14 @@
         {
             "title": "ಪುಸ್ತಕಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -225,8 +405,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

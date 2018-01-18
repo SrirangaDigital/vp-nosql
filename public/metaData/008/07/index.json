@@ -1,16 +1,22 @@
 {
     "volume": "008",
     "issue": "07",
-    "month": "07",
     "year": "2007",
+    "month": "07",
     "theme": "",
     "id": "008/07",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,22 @@
         {
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಅದರ ಬಗೆಗಳು",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0009",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +53,22 @@
         {
             "title": "ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರ ನೆನಪುಗಳು -೨",
             "feature": "",
-            "text": "",
             "page": "0010-0012",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ನಿರ್ವಾಣಾನಂದ",
@@ -45,8 +79,22 @@
         {
             "title": "ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು -೫",
             "feature": "",
-            "text": "",
             "page": "0013-0015",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ತಪಸ್ಯಾನಂದ",
@@ -57,8 +105,18 @@
         {
             "title": "ಶಂಕರಭಾಷ್ಯಾನುಸಾರೀ ಚತುಸ್ಸೂತ್ರೀ ವಿವರಣಮ್ -೨",
             "feature": "",
-            "text": "",
             "page": "0016-0017",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -69,8 +127,26 @@
         {
             "title": "ಬೇಲೂರು ಮಠದಲ್ಲಿರುವ ಶ್ರೀರಾಮಕೃಷ್ಣ ದೇವಾಲಯ -೨",
             "feature": "",
-            "text": "",
             "page": "0018-0021",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ವಿಮಲಾತ್ಮಾನಂದ",
@@ -81,8 +157,22 @@
         {
             "title": "ಕಥಾಚಿತ್ರ- ಭಗವನ್ನಾಮದ ಮಹಿಮೆ",
             "feature": "",
-            "text": "",
             "page": "0022-0024",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -93,8 +183,14 @@
         {
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ವಿಷಯಾಸಕ್ತಿ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0025-0025",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -105,8 +201,14 @@
         {
             "title": "ದಿವ್ಯತ್ರಯರ ಸಂದೇಶಗಳಿಂದ ನನ್ನ ಜೀವನದ ಮೇಲೆ ಆಗಿರುವ ಪ್ರಭಾವ-೫",
             "feature": "",
-            "text": "",
             "page": "0026-0026",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಜೀವಾಜಿ ಜೋಷಿ",
@@ -117,8 +219,26 @@
         {
             "title": "ಜೀವನಪ್ರಭ- ಶ್ರೀಧರ ಸ್ವಾಮಿಗಳು",
             "feature": "",
-            "text": "",
             "page": "0027-0030",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯನಾರಸಿಂಹ",
@@ -129,8 +249,18 @@
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "",
-            "text": "",
             "page": "0031-0032",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಕುಮಾರ್ ಡಾ. ಸಿ. ಪಿ.",
@@ -141,8 +271,14 @@
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "",
-            "text": "",
             "page": "0033-0033",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -153,8 +289,14 @@
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +307,22 @@
         {
             "title": "ಯುವ ವೇದಿಕೆ- ಎಂಥವರೂ ಎದ್ದಾರೆ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0035-0037",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಮೀನಾ ವಿ.",
@@ -177,8 +333,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +351,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಅಮೆರಿಕದಲ್ಲಿ ಶಾಂತಿಮಂತ್ರ, ದ್ವಾರಕೆಯ ಪಳೆಯುಳಿಕೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +369,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0040-0040",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

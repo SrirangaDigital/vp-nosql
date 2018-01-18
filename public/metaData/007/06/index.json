@@ -1,16 +1,22 @@
 {
     "volume": "007",
     "issue": "06",
-    "month": "06",
     "year": "2006",
+    "month": "06",
     "theme": "",
     "id": "007/06",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,26 @@
         {
             "title": "ಧರ್ಮದ ತಳಹದಿ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +57,26 @@
         {
             "title": "ಸ್ವಾಮಿ ಶಿವಾನಂದರ ನೆನಪುಗಳು",
             "feature": "",
-            "text": "",
             "page": "0011-0014",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -45,8 +87,22 @@
         {
             "title": "ಅದ್ವೈತದಲ್ಲಿ ಮಾಯೆಯ ಸ್ಥಾನ-೨",
             "feature": "",
-            "text": "",
             "page": "0015-0017",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಸುರೇಶಾನಂದ",
@@ -57,8 +113,14 @@
         {
             "title": "ಆರೋಗ್ಯದ ರಹಸ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0018-0018",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -69,8 +131,30 @@
         {
             "title": "ಸತ್ಸಂಗ",
             "feature": "",
-            "text": "",
             "page": "0019-0023",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಹೃದಾನಂದ",
@@ -81,8 +165,22 @@
         {
             "title": "ವರ್ಧಮಾನ ಮಹಾವೀರ- ಒಂದು ಕಿರು ಪರಿಚಯ",
             "feature": "",
-            "text": "",
             "page": "0024-0026",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯಕುಮಾರ್ ಡಾ.",
@@ -93,14 +191,30 @@
         {
             "title": "ಜಾತಿಪದ್ಧತಿ ಬಗ್ಗೆ ರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದರ ನಿಲುವು",
             "feature": "",
-            "text": "",
-            "page": "0027-0027"
+            "page": "0027-0027",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಲೀಲಾಸ್ಥಾನಗಳ ಸಚಿತ್ರ ಯಾತ್ರೆ",
             "feature": "",
-            "text": "",
             "page": "0028-0029",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -111,8 +225,18 @@
         {
             "title": "ಶಿಕ್ಷಣವೆತ್ತ ಸಾಗುತ್ತಿದೆ?",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0030-0031",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಶಶಾಂಕ ಹತ್ವಾರ್ ಚಿ.",
@@ -123,8 +247,22 @@
         {
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
-            "text": "",
             "page": "0031-0033",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -135,8 +273,22 @@
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0034-0036",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -147,8 +299,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -159,8 +317,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ನಿಮ್ಮ ಮಕ್ಕಳನ್ನು ಕೇಳಿ ನೋಡಿ ಯಾರು ಉತ್ತಮ?",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -171,8 +335,14 @@
         {
             "title": "ಸ್ವಾಮಿ ಪ್ರೇಮಾನಂದರು ಹೇಳಿದ ಕಥೆಗಳು",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -183,8 +353,14 @@
         {
             "title": "ಬುದ್ಧಿವಂತ ತಲೆ ಬುರುಡೆ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -195,8 +371,14 @@
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0040-0040",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

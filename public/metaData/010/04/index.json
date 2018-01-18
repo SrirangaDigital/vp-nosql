@@ -1,16 +1,22 @@
 {
     "volume": "010",
     "issue": "04",
-    "month": "04",
     "year": "2009",
+    "month": "04",
     "theme": "",
     "id": "010/04",
     "toc": [
         {
             "title": "ಓದುಗರ ಪ್ರತಿಕ್ರಿಯೆ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
-            "text": "",
             "page": "0004-0004",
+            "fullText": [
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,14 @@
         {
             "title": "ಪ್ರಾರ್ಥನೆ, ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 3,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +45,26 @@
         {
             "title": "ಚೈತನ್ಯದ ಬೆಂಬತ್ತಿ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -45,8 +75,70 @@
         {
             "title": "ಅಧ್ಯಾತ್ಮ ಮತ್ತು ಮಾಧ್ಯಮ",
             "feature": "",
-            "text": "",
             "page": "0011-0025",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -57,8 +149,14 @@
         {
             "title": "ರಾವಣನ ಉಪದೇಶ",
             "feature": "",
-            "text": "",
             "page": "0025-0025",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಶಾಂತಿನಾಥಾನಂದ",
@@ -69,8 +167,18 @@
         {
             "title": "ದಿವ್ಯಸ್ಮೃತಿ",
             "feature": "",
-            "text": "",
             "page": "0026-0027",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -81,8 +189,18 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಅಪ್ರಸಿದ್ಧ ಭಕ್ತರು",
             "feature": "",
-            "text": "",
             "page": "0028-0029",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -93,8 +211,14 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
-            "text": "",
             "page": "0030-0030",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -105,8 +229,22 @@
         {
             "title": "ಕಥಾಪ್ರಭ",
             "feature": "",
-            "text": "",
             "page": "0031-0033",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಜಗದೀಶ್",
@@ -117,8 +255,18 @@
         {
             "title": "ಶಿಕ್ಷಣಪ್ರಭ",
             "feature": "",
-            "text": "",
             "page": "0034-0035",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಪ್ರಶಾಂತ",
@@ -129,8 +277,22 @@
         {
             "title": "ಕರ್ನಾಟಕದ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ",
             "feature": "",
-            "text": "",
             "page": "0036-0038",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಶೈಲಜ",
@@ -141,8 +303,18 @@
         {
             "title": "ಮಕ್ಕಳ ನಾಟಕ- ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
-            "text": "",
             "page": "0039-0040",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸರೋಜ",
@@ -153,8 +325,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0041-0041",
+            "fullText": [
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

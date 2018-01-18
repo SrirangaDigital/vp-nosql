@@ -1,28 +1,54 @@
 {
     "volume": "014",
     "issue": "08",
-    "month": "08",
     "year": "2013",
+    "month": "08",
     "theme": "",
     "id": "014/08",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ, ಶ್ರೀಕೃಷ್ಣ ಸೂಕ್ತಿ, ಭಗವದ್ಗೀತೆಯ ಪ್ರಶಂಸೆ",
             "feature": "",
-            "text": "",
-            "page": "0005-0005"
+            "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 2
         },
         {
             "title": "ಭಗವದ್ಗೀತೆಯ ಸಾರಭೂತ ಅರ್ಥ",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
-            "page": "0007-0009"
+            "page": "0007-0009",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4
         },
         {
             "title": "ರಸಬೋಧೆ",
             "feature": "",
-            "text": "",
             "page": "0010-0010",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -33,8 +59,18 @@
         {
             "title": "ಬುದ್ಧ ಮರಳಿ ತಾಯ್ನಾಡಿಗೆ",
             "feature": "",
-            "text": "",
             "page": "0011-0012",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -45,14 +81,38 @@
         {
             "title": "ಪವಿತ್ರ ಪತ್ರಮಾಲೆ: ಸ್ವಾಮಿ ತುರೀಯಾನಂದಜಿ ಅವರ ಒಂದು ಪತ್ರ",
             "feature": "",
-            "text": "",
-            "page": "0013-0013"
+            "page": "0013-0013",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10
         },
         {
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ: ಅವತಾರತತ್ತ್ವ",
             "feature": "",
-            "text": "",
             "page": "0014-0017",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -63,8 +123,18 @@
         {
             "title": "ಶ್ರೀಕೃಷ್ಣಜನ್ಮಾಷ್ಟಮಿ",
             "feature": "",
-            "text": "",
             "page": "0018-0019",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಎಂ. ಅಬ್ದುಲ್ ನಬಿ",
@@ -75,8 +145,14 @@
         {
             "title": "ಶಿಕ್ಷಕರೇ ಗಮನಿಸಿ: ಶಿಷ್ಯ, ಶಿಕ್ಷಣ ಹಾಗೂ ಶಿಕ್ಷಕ",
             "feature": "",
-            "text": "",
             "page": "0020-0020",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಡಿ.ಕೆ.ರಾಜೇಂದ್ರ",
@@ -87,8 +163,26 @@
         {
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ",
             "feature": "",
-            "text": "",
             "page": "0021-0024",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಎ.ಮುರಳೀಧರ",
@@ -99,14 +193,26 @@
         {
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳೇ ಗಮನಿಸಿ: ಏಕಾಗ್ರತೆಯ ಉಪಾಯಗಳು - ಅಭ್ಯಾಸ",
             "feature": "",
-            "text": "",
-            "page": "0025-0025"
+            "page": "0025-0025",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22
         },
         {
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
-            "text": "",
             "page": "0026-0026",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -117,8 +223,18 @@
         {
             "title": "ಶ್ರೀರಾಮಾನುಜರು - ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "feature": "",
-            "text": "",
             "page": "0027-0028",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಎಚ್.ವಿ.ಸರೋಜ",
@@ -129,8 +245,14 @@
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ: ಜೀವಿ ವಚನ ಶತಕ",
             "feature": "",
-            "text": "",
             "page": "0029-0029",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಕೆ.ಬಿ.ಪ್ರಭುಪ್ರಸಾದ್",
@@ -141,8 +263,22 @@
         {
             "title": "ನೇತಾಜಿ ಸುಭಾಷರ ಪ್ರೇರಣಾಪುರುಷ: ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
-            "text": "",
             "page": "0030-0032",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಜೆ.ಎಸ್.ಕುಸಮಗೀತ",
@@ -153,14 +289,38 @@
         {
             "title": "ಜೀವಸೇವೆಯಲ್ಲಿ ಶಿವಸೇವೆ - ಮೈಸೂರು ಶ್ರೀರಾಮಕೃಷ್ಣ ಆಶ್ರಮದ ಸೇವಾಕಾರ್ಯಗಳು - ಒಂದು ಪಕ್ಷಿನೋಟ",
             "feature": "",
-            "text": "",
-            "page": "0033-0034"
+            "page": "0033-0034",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
-            "text": "",
             "page": "0035-0037",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಕೆ.ಆನಂತರಾಮು",
@@ -171,8 +331,14 @@
         {
             "title": "ಜಪಾನಿನ ಕಥೆಗಳು: ಏಡಿಗಳ ಓಟ",
             "feature": "",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ರಾಜಕೃಷ್ಣ ಭಟ್ಟಾಚಾರ್ಯ",
@@ -183,14 +349,38 @@
         {
             "title": "ಚಿತ್ರಕಥೆ: ತಾಮಾಜಿ ಪಂಡಿತ",
             "feature": "",
-            "text": "",
-            "page": "0038-0041"
+            "page": "0038-0041",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
-            "text": "",
-            "page": "0042-0042"
+            "page": "0042-0042",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39
         }
     ]
 }

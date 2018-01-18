@@ -1,34 +1,78 @@
 {
     "volume": "014",
     "issue": "12",
-    "month": "12",
     "year": "2013",
+    "month": "12",
     "theme": "",
     "id": "014/12",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ:ಸ್ವಾಮಿ ಅಭೇದಾನಂದಜಿ ಅವರ ಶ್ರೀಶಾರದಾ ಸ್ತೋತ್ರದಿಂದ",
             "feature": "",
-            "text": "",
-            "page": "0005-0005"
+            "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4
         },
         {
             "title": "ಶ್ರೀಮಾತೆಯವರಿಗೊಂದು ಪತ್ರ",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
-            "page": "0007-0009"
+            "page": "0007-0009",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6
         },
         {
             "title": "ಪವಿತ್ರ ಪತ್ರಮಾಲೆ: ಸ್ವಾಮಿ ತುರೀಯಾನಂದಜಿ ಅವರ ಒಂದು ಪತ್ರ",
             "feature": "",
-            "text": "ಸಂಗೀತ",
-            "page": "0010-0010"
+            "page": "0010-0010",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9
         },
         {
             "title": "ಶ್ರೀಮಾತೆಯವರ ತೀರ್ಥಯಾತ್ರೆಗಳು",
             "feature": "ಸಂಗೀತ",
-            "text": "",
             "page": "0011-0014",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಇಂದ್ರಾಣಿ ಬಾಲು",
@@ -39,8 +83,26 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರ ಜೀವನದ ಕಷ್ಟಕಾರ್ಪಣ್ಯಗಳು",
             "feature": "ಸಂಗೀತ",
-            "text": "",
             "page": "0015-0018",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಅನುರಾಧ ವಸಂತಕುಮಾರ್",
@@ -51,14 +113,38 @@
         {
             "title": "ಪೋಷಕರೇ, ಶಿಕ್ಷಕರೇ ಗಮನಿಸಿ: ಪ್ರಬುದ್ಧ ನಾಗರಿಕತೆ",
             "feature": "",
-            "text": "",
-            "page": "0019-0019"
+            "page": "0019-0019",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18
         },
         {
             "title": "ಶ್ರೀಮಾತೆಯವರ ಮೂರು ತಂಗುದಾಣಗಳು",
             "feature": "",
-            "text": "",
             "page": "0020-0023",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ",
@@ -69,8 +155,22 @@
         {
             "title": "ಹರಿಕ್ಷೇತ್ರದಿಂದ ಹರಿಕ್ಷೇತ್ರಕ್ಕೆ",
             "feature": "",
-            "text": "",
             "page": "0024-0026",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -81,14 +181,34 @@
         {
             "title": "ವಿವೇಕಾನಂದ ಘಟನಾವಳಿ",
             "feature": "",
-            "text": "",
-            "page": "0026-0026"
+            "page": "0026-0026",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25
         },
         {
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ",
             "feature": "",
-            "text": "",
             "page": "0027-0029",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಎ. ಮುರಳೀಧರ",
@@ -99,14 +219,38 @@
         {
             "title": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ: ವಿಕಾಸ್ ಏಕೆ ಊಟ ಮಾಡಲಿಲ್ಲ?",
             "feature": "",
-            "text": "",
-            "page": "0030-0030"
+            "page": "0030-0030",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29
         },
         {
             "title": "ತಪಸ್ಯೆಯಲ್ಲಿಯೇ ಆನಂದವನ್ನು ಕಂಡ ಮಹಾಚೇತನ",
             "feature": "ಸಂಪಾದಕೀಯ-1",
-            "text": "",
             "page": "0031-0034",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -117,8 +261,14 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "ಸಂಪಾದಕೀಯ-1",
-            "text": "",
             "page": "0035-0035",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -129,8 +279,18 @@
         {
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "ಸಂಪಾದಕೀಯ-1",
-            "text": "",
             "page": "0036-0037",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -141,14 +301,38 @@
         {
             "title": "ಚಿತ್ರಕಥೆ:ಚೆಂತನಾರ್",
             "feature": "",
-            "text": "",
-            "page": "0038-0041"
+            "page": "0038-0041",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
-            "text": "",
-            "page": "0042-0042"
+            "page": "0042-0042",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 41
         }
     ]
 }

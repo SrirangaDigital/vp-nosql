@@ -1,16 +1,22 @@
 {
     "volume": "008",
     "issue": "12",
-    "month": "12",
     "year": "2007",
+    "month": "12",
     "theme": "",
     "id": "008/12",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0007-0007",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,26 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರ ಪೂರ್ಣದೃಷ್ಟಿ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0009-0012",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +57,26 @@
         {
             "title": "ಸ್ವಾಮಿ ಶಾರದಾನಂದರ ನೆನಪುಗಳು-೩",
             "feature": "",
-            "text": "",
             "page": "0013-0016",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ನಿಖಿಲಾನಂದ",
@@ -45,8 +87,22 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರ ಅಂತಿಮಯಾತ್ರೆ",
             "feature": "",
-            "text": "",
             "page": "0017-0019",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಶಾರದೇಶಾನಂದ",
@@ -57,8 +113,22 @@
         {
             "title": "ಕಥಾಚಿತ್ರ - ನಿರಂತರ ಭಗವತ್ ಸ್ಮರಣೆ ಮೋಕ್ಷಕ್ಕೆ ಮಾರ್ಗ",
             "feature": "",
-            "text": "",
             "page": "0020-0022",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -69,8 +139,14 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
-            "text": "",
             "page": "0023-0023",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -81,8 +157,22 @@
         {
             "title": "ಲೋಕದಲ್ಲಿ ಹುಟ್ಟಿದ ಒಬ್ಬನೇ ಒಬ್ಬ ಪರಿಪೂರ್ಣ ಸೌಂದರ್ಯದ ವ್ಯಕ್ತಿ",
             "feature": "",
-            "text": "",
             "page": "0024-0026",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಹಸ್ಟನ್ ಸ್ಮಿತ್",
@@ -93,8 +183,26 @@
         {
             "title": "ಅನಘಾ-ಅದ್ಭುತಚಾರಿತ್ರಾ",
             "feature": "",
-            "text": "",
             "page": "0027-0030",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ತ್ಯಾಗಮಯೀ ಮಾತಾ",
@@ -105,8 +213,22 @@
         {
             "title": "ಬದುಕಿನ ದಾರಿಗೆ ಹೂವು ಚೆಲ್ಲಿದವರು",
             "feature": "",
-            "text": "",
             "page": "0031-0033",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಅನಂತರಾಮು ಡಾ. ಕೆ.",
@@ -117,8 +239,18 @@
         {
             "title": "ಆತ್ಮವಿಕಾಸ- ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಿವಿಮಾತು -೪",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0034-0035",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಪ್ರೇಮೇಶಾನಂದ",
@@ -129,8 +261,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಚೀನಾ ದೇಶದಲ್ಲಿ ಹಿಂದೂ ಧರ್ಮ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +279,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

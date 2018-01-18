@@ -1,28 +1,66 @@
 {
     "volume": "012",
     "issue": "12",
-    "month": "12",
     "year": "2011",
+    "month": "12",
     "theme": "",
     "id": "012/12",
     "toc": [
         {
             "title": "ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
-            "page": "0005-0005"
+            "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 2
         },
         {
             "title": "ಶ್ರೀಮಾತೆಯವರು ಕಂಡ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
-            "page": "0007-0010"
+            "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4
         },
         {
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ",
             "feature": "",
-            "text": "",
             "page": "0011-0013",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -33,8 +71,22 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರ ಚಿರಸಂಗಿನಿ ಯೋಗಿನ್ ಮಾ",
             "feature": "",
-            "text": "",
             "page": "0014-0016",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಇಂದ್ರಾಣಿ ಬಾಲು",
@@ -45,8 +97,26 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರ ಅಂಗರಕ್ಷಕಿ ಗೋಲಾಪ್ ಮಾ",
             "feature": "",
-            "text": "",
             "page": "0017-0020",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಅನುರಾಧ ವಸಂತಕುಮಾರ್",
@@ -57,8 +127,26 @@
         {
             "title": "ನವಯುಗದ ನೂತನ ಮಾನವ: ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
-            "text": "",
             "page": "0021-0024",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -69,8 +157,18 @@
         {
             "title": "ಇದು ಭಾವದ ವಿಷಯ",
             "feature": "",
-            "text": "",
             "page": "0025-0026",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ವೇದಾಂತಪ್ರಾಣಾ",
@@ -81,8 +179,18 @@
         {
             "title": "ನೆನಪಿನಂಗಳದಿಂದ",
             "feature": "",
-            "text": "",
             "page": "0027-0028",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಭಾರತೀಪ್ರಾಣಾ",
@@ -93,8 +201,22 @@
         {
             "title": "ಗುರುವಿನೊಡನೆ ದೇವರಡಿಗೆ",
             "feature": "",
-            "text": "",
             "page": "0029-0031",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -105,8 +227,26 @@
         {
             "title": "ಸ್ವಾಮಿ ಅದ್ವೈತಾನಂದ",
             "feature": "",
-            "text": "",
             "page": "0032-0035",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -117,8 +257,14 @@
         {
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳಿಗಿರಬೇಕಾದ ಗುಣಲಕ್ಷಣಗಳು",
             "feature": "",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಜಿ. ಮನೋರಮಾ",
@@ -129,8 +275,14 @@
         {
             "title": "ನಮ್ಮ ಸಂಸ್ಕೃತಿ ಪರಿಚಯ - ೭",
             "feature": "",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸೀತಾ ಲಖಾನಿ",
@@ -141,14 +293,38 @@
         {
             "title": "ಚಿತ್ರಕಥೆ - ಅನ್ನಪೂರ್ಣೆ",
             "feature": "",
-            "text": "",
-            "page": "0038-0041"
+            "page": "0038-0041",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
-            "text": "",
-            "page": "0042-0042"
+            "page": "0042-0042",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39
         }
     ]
 }

@@ -1,16 +1,22 @@
 {
     "volume": "003",
     "issue": "06",
-    "month": "06",
     "year": "2002",
+    "month": "06",
     "theme": "",
     "id": "003/06",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0003-0003",
+            "fullText": [
+                {
+                    "page": "0003",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,22 @@
         {
             "title": "ಪ್ರವೃತ್ತಿ-ನಿವೃತ್ತಿ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0005-0007",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                },
+                {
+                    "page": "0006",
+                    "text": ""
+                },
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +53,22 @@
         {
             "title": "ಕರ್ಮವೊಂದು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ",
             "feature": "",
-            "text": "",
             "page": "0008-0010",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -45,8 +79,22 @@
         {
             "title": "ಕರ್ಮಯೋಗಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಲವು ಪ್ರಾಯೋಗಿಕ ಸಲಹೆಗಳು",
             "feature": "",
-            "text": "",
             "page": "0011-0013",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -57,8 +105,26 @@
         {
             "title": "ಆಲ್ಬರ್ಟ್ ಐನ್ಸ್ಟೈನ್ ಜೀವನದ ರಸಮಯ ಅನುಭವಗಳು",
             "feature": "",
-            "text": "",
             "page": "0014-0017",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -69,8 +135,18 @@
         {
             "title": "ನಮ್ರತೆಯ ಹಂಬಲ",
             "feature": "",
-            "text": "",
             "page": "0018-0019",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಕಸ್ತೂರಿ ನೀಲತ್ತಹಳ್ಳಿ",
@@ -81,8 +157,18 @@
         {
             "title": "ಏಕಾಗ್ರತೆ",
             "feature": "",
-            "text": "",
             "page": "0020-0021",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ನೀರಗಟ್ಟಿ ಎಸ್. ಎಸ್.",
@@ -93,8 +179,14 @@
         {
             "title": "ಪವಿತ್ರ ದಾನ",
             "feature": "",
-            "text": "",
             "page": "0022-0022",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಪುಷ್ಪ ಶೇಷಾದ್ರಿ",
@@ -105,8 +197,22 @@
         {
             "title": "ಆದರ್ಶ ಕುಟುಂಬ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
-            "text": "",
             "page": "0023-0025",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -117,8 +223,14 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ-ಭಗವತ್ಪ್ರೇಮ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
-            "text": "",
             "page": "0026-0026",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -129,8 +241,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0027-0027",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +259,22 @@
         {
             "title": "ಪುಣೆಯಲ್ಲಿ ಶ್ರೀರಾಮಕೃಷ್ಣರ ವಿಶ್ವಭಾವೈಕ್ಯ ದೇವಾಲಯ",
             "feature": "",
-            "text": "",
             "page": "0028-0030",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +285,26 @@
         {
             "title": "ವ್ಯಕ್ತಿತ್ವವನ್ನು ರೂಪಿಸಿಕೊಳ್ಳುವುದು ಹೇಗೆ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0031-0034",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಹಳೇಕೋಟೆ ಎನ್. ರಮೇಶ",
@@ -165,8 +315,14 @@
         {
             "title": "ತಿಳಿಯುವ ಹಕ್ಕು, ಶಿವಜ್ಞಾನದಲ್ಲಿ ಜೀವಸೇವೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0035-0035",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +333,14 @@
         {
             "title": "ದೇವರೊಡನಿದ್ದ ಖಯ್ಯಾಮರು",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +351,14 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ದೃಷ್ಟಾಂತ ಚಿತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +369,14 @@
         {
             "title": "ಪುಸ್ತಕಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -213,8 +387,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

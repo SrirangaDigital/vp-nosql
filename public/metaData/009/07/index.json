@@ -1,16 +1,22 @@
 {
     "volume": "009",
     "issue": "07",
-    "month": "07",
     "year": "2008",
+    "month": "07",
     "theme": "",
     "id": "009/07",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,26 @@
         {
             "title": "ಭಗವದ್ರಹಸ್ಯ(ಭಾಗ ೧ - ಜಗತ್ತಿನ ರಹಸ್ಸ)",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +57,14 @@
         {
             "title": "ಭಗವಂತನನ್ನು ಅರಸುತ್ತ",
             "feature": "",
-            "text": "",
             "page": "0010-0010",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಯತೀಶ್ವರಾನಂದ",
@@ -45,8 +75,18 @@
         {
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಜೀವನದಲ್ಲಿ ಗುರುವಿನ ಪಾತ್ರ",
             "feature": "",
-            "text": "",
             "page": "0011-0012",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -57,8 +97,18 @@
         {
             "title": "ವಿವೇಕಾನಂದರು ಮತ್ತು ಸಂಸ್ಕೃತ ಶಿಕ್ಷಣ",
             "feature": "",
-            "text": "",
             "page": "0013-0014",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -69,8 +119,22 @@
         {
             "title": "ಗುರು ಎಂದರೆ ಯಾರು?",
             "feature": "",
-            "text": "",
             "page": "0015-0017",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಗುರುದಾಸ",
@@ -81,8 +145,18 @@
         {
             "title": "ಮರಳುಗಾಡಿನಲ್ಲಿ ಅರಳಿದ ಅರಿವು",
             "feature": "",
-            "text": "",
             "page": "0018-0019",
+            "fullText": [
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಥಾಮಸ್ ಮರ್ಟನ್",
@@ -93,8 +167,18 @@
         {
             "title": "ಕರುಣಾಳು ಗುರು",
             "feature": "",
-            "text": "",
             "page": "0020-0021",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸ್ವಾತ್ಮಾರಾಮಾನಂದ",
@@ -105,8 +189,18 @@
         {
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಗುರುಪರಂಪರೆ",
             "feature": "",
-            "text": "",
             "page": "0022-0023",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಮೀನಾ ವಿ.",
@@ -117,8 +211,18 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಗುರುತತ್ತ್ವ",
             "feature": "",
-            "text": "",
             "page": "0024-0025",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಮುರಳೀಧರ ಡಾ. ಹೆಚ್. ಎನ್.",
@@ -129,8 +233,18 @@
         {
             "title": "ಆರೋಗ್ಯಪಾಲನೆಗೆ ಸರಳ ನಿಯಮಗಳು",
             "feature": "",
-            "text": "",
             "page": "0026-0027",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಹೆಗಡೆ ಡಾ. ಬಿ. ಎಂ.",
@@ -141,8 +255,14 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
-            "text": "",
             "page": "0028-0028",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +273,14 @@
         {
             "title": "ಶಿಕ್ಷಣಪ್ರಭ- ಆದರ್ಶಗಳ ಅನುಷ್ಠಾನ",
             "feature": "",
-            "text": "",
             "page": "0029-0029",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +291,14 @@
         {
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
-            "text": "",
             "page": "0030-0030",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +309,18 @@
         {
             "title": "ಕಥಾಪ್ರಭ- ಜಾನುಶ್ರುತಿ ಮತ್ತು ಜ್ಞಾನಿ ರೈಕ್ವ",
             "feature": "",
-            "text": "",
             "page": "0031-0032",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -189,8 +331,14 @@
         {
             "title": "ವಿನೋದದಿಂದ ವೇದಾಂತ",
             "feature": "",
-            "text": "",
             "page": "0032-0032",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +349,18 @@
         {
             "title": "ಕರ್ನಾಟಕದ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ",
             "feature": "",
-            "text": "",
             "page": "0033-0034",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಪೂರ್ಣಿಮಾ ಗುಡಿಬಂಡೆ ಶ್ರೀಮತಿ",
@@ -213,8 +371,14 @@
         {
             "title": "ದಿವ್ಯಸ್ಮೃತಿಪ್ರಭ",
             "feature": "",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -225,8 +389,14 @@
         {
             "title": "ಚಿಂತನಪ್ರಭ",
             "feature": "",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -237,8 +407,18 @@
         {
             "title": "ವಿಚಾರಪ್ರಭ- ವಿಶಿಷ್ಟಾದ್ವೈತ ಸಿದ್ಧಾಂತ",
             "feature": "",
-            "text": "",
             "page": "0035-0036",
+            "fullText": [
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಹನುಮಂತರಾಯರು ಜಿ.",
@@ -249,8 +429,18 @@
         {
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0037-0038",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -261,8 +451,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -273,8 +469,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0040-0040",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

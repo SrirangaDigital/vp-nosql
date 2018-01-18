@@ -1,16 +1,30 @@
 {
     "volume": "011",
     "issue": "11",
-    "month": "11",
     "year": "2010",
+    "month": "11",
     "theme": "",
     "id": "011/11",
     "toc": [
         {
             "title": "ಸಮಸ್ಯೆಗಳ ಸುಳಿಯಲ್ಲಿ-೨",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0009",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +35,22 @@
         {
             "title": "ಅಧ್ಯಾತ್ಮ ಜೀವನದಲ್ಲಿ 'ಆನಂದ'",
             "feature": "",
-            "text": "",
             "page": "0010-0012",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಜಗದಂಬೆದಾಸ",
@@ -33,8 +61,22 @@
         {
             "title": "ಕುಂಭಮೇಳ-ವಿಶ್ವದ ಅತಿ ದೊಡ್ಡ ಉತ್ಸವ",
             "feature": "",
-            "text": "",
             "page": "0013-0015",
+            "fullText": [
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಆತ್ಮಶ್ರದ್ಧಾನಂದ",
@@ -45,8 +87,22 @@
         {
             "title": "ಆಚಾರ್ಯತ್ರಯರು",
             "feature": "",
-            "text": "",
             "page": "0016-0018",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸರೋಜ",
@@ -57,8 +113,22 @@
         {
             "title": "ಸಂತಕವಿ ಕಬೀರ",
             "feature": "",
-            "text": "",
             "page": "0019-0021",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಪುಷ್ಪ",
@@ -69,8 +139,26 @@
         {
             "title": "ಸಂತ ತಂದೆ-ಭಕ್ತೆ ಮಗಳು",
             "feature": "",
-            "text": "",
             "page": "0022-0025",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಕಲ್ಯಾಣಿ ವೆಂಕಟರಾಮನ್",
@@ -81,8 +169,18 @@
         {
             "title": "ನುಲಿಯ ಕಾಯಕದ ಚಂದಯ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0026-0027",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಬಸವರಡ್ಡಿ",
@@ -93,8 +191,26 @@
         {
             "title": "ಕೃತ್ತಿವಾಸ ರಾಮಾಯಣ",
             "feature": "",
-            "text": "",
             "page": "0028-0031",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -105,8 +221,14 @@
         {
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
-            "text": "",
             "page": "0031-0031",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -117,8 +239,18 @@
         {
             "title": "ಮಕ್ಕಳಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಹಿಂಸೆ",
             "feature": "",
-            "text": "",
             "page": "0032-0033",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಅಜಯ್ ಆಚಾರ್ಯ",
@@ -129,8 +261,14 @@
         {
             "title": "ಪುಸ್ತಕಗಳ ಪ್ರಪಂಚ ಜಾಪ್ಞಕಶಕ್ತಿಗೆ ಹತ್ತು ಸೂತ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0034-0034",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಬಸವಲಿಂಗಪ್ಪ",
@@ -141,14 +279,30 @@
         {
             "title": "ಭರತಖಂಡ (ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿಯಿಂದ)",
             "feature": "",
-            "text": "",
-            "page": "0036-0036"
+            "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33
         },
         {
             "title": "ಬನ್ನಿ, ದಕ್ಷಿಣೇಶ್ವರಕ್ಕೆ",
             "feature": "",
-            "text": "",
             "page": "0037-0038",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -159,14 +313,26 @@
         {
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
-            "page": "0039-0039"
+            "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
-            "page": "0040-0040"
+            "page": "0040-0040",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37
         }
     ]
 }

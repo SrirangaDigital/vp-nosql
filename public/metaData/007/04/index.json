@@ -1,16 +1,22 @@
 {
     "volume": "007",
     "issue": "04",
-    "month": "04",
     "year": "2006",
+    "month": "04",
     "theme": "",
     "id": "007/04",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,22 @@
         {
             "title": "ಭಾರತದ ಜನಜೀವನ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0007-0009",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +53,30 @@
         {
             "title": "ತುಲಸೀದಾಸರ ಶ್ರೀರಾಮಚರಿತಮಾನಸ",
             "feature": "",
-            "text": "",
             "page": "0010-0014",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿಪದಾನಂದ",
@@ -45,8 +87,14 @@
         {
             "title": "ಎರಡು ಪ್ರಲೋಭನೆಗಳು",
             "feature": "",
-            "text": "",
             "page": "0015-0015",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಮೋಹನ್ ಕೆ. ಆರ್.",
@@ -57,8 +105,22 @@
         {
             "title": "ಸಚಿತ್ರ ಕೈಲಾಸ ಯಾತ್ರೆ",
             "feature": "",
-            "text": "",
             "page": "0016-0018",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಅನುಪಮಾನಂದ",
@@ -69,8 +131,26 @@
         {
             "title": "ಅರಿವಿನ ತೃಪ್ತಿಗೆ ಅನುಭಾವವೇ ಆಶ್ರಯ",
             "feature": "",
-            "text": "",
             "page": "0019-0022",
+            "fullText": [
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -81,8 +161,26 @@
         {
             "title": "ಆರೋಗ್ಯದ ಪರಿಕಲ್ಪನೆ ಮತ್ತು ಯೋಗವಿಜ್ಞಾನ",
             "feature": "",
-            "text": "",
             "page": "0023-0026",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಗೌರಿ ಎಂ.",
@@ -93,8 +191,22 @@
         {
             "title": "ಮೀನಿನ ಬುಟ್ಟಿ",
             "feature": "",
-            "text": "",
             "page": "0027-0029",
+            "fullText": [
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮ ಕಾರಂತ ಪಿ.",
@@ -105,8 +217,22 @@
         {
             "title": "ಮಹಾರಾಷ್ಟ್ರದಲ್ಲಿ ಸಂತರ ಪ್ರಭಾವ",
             "feature": "",
-            "text": "",
             "page": "0030-0032",
+            "fullText": [
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ರತ್ನಾಕರ ಹ. ಕುಲಕರ್ಣಿ",
@@ -117,8 +243,26 @@
         {
             "title": "ಯುವಜನತೆಗೆ ಆಧ್ಯಾತ್ಮದ ಆವಶ್ಯಕತೆ- ಒಂದು ವಿಶ್ಲೇಷಣೆ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0033-0036",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ ಎನ್. ಜಿ.",
@@ -129,8 +273,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -141,8 +291,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ವ್ಯಂಗ್ಯಚಿತ್ರಗಳು ತಂದ ಜಾಗತಿಕ ಸಂಕಟ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +309,14 @@
         {
             "title": "ಗುರೂಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +327,14 @@
         {
             "title": "ಹುಚ್ಚ ಧುನ್ ನುನ್",
             "feature": "",
-            "text": "",
             "page": "0039-0039",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +345,14 @@
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0040-0040",
+            "fullText": [
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

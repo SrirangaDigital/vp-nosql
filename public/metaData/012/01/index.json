@@ -1,28 +1,70 @@
 {
     "volume": "012",
     "issue": "01",
-    "month": "01",
     "year": "2011",
+    "month": "01",
     "theme": "",
     "id": "012/01",
     "toc": [
         {
             "title": "ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
-            "page": "0005-0005"
+            "page": "0005-0005",
+            "fullText": [
+                {
+                    "page": "0005",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 2
         },
         {
             "title": "'ಪ್ರೀತಿ'ಯೆಂಬ ಮಹಾಮಂತ್ರ",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
-            "page": "0007-0010"
+            "page": "0007-0010",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 4
         },
         {
             "title": "ಗೃಹಸ್ಥ ಧರ್ಮ",
             "feature": "",
-            "text": "",
             "page": "0011-0014",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ವಿವೇಕಾನಂದ",
@@ -33,8 +75,30 @@
         {
             "title": "ಆಧ್ಯಾತ್ಮಿಕತೆಯಿಂದ ಆದರ್ಶ ಕುಟುಂಬ",
             "feature": "",
-            "text": "",
             "page": "0015-0019",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -45,8 +109,22 @@
         {
             "title": "ಆದರ್ಶ ಕುಟುಂಬಕ್ಕೆ ಮೂಲಸೂತ್ರಗಳು",
             "feature": "",
-            "text": "",
             "page": "0020-0022",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -57,8 +135,30 @@
         {
             "title": "ಮೌಲ್ಯಯುತ ಜೀವನದಿಂದ ಆದರ್ಶ ಕುಟುಂಬ",
             "feature": "",
-            "text": "",
             "page": "0023-0027",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -69,8 +169,26 @@
         {
             "title": "ಕೌಟುಂಬಿಕ ಶಾಂತಿಗೆ ಭಗವದ್ಗೀತಾ ಸಂದೇಶ",
             "feature": "",
-            "text": "",
             "page": "0028-0031",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಪರಮಪ್ರಾಣಾ",
@@ -81,8 +199,26 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರು ಮತ್ತು ಆದರ್ಶ ದಾಂಪತ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0032-0035",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಧರ್ಮಪ್ರಾಣಾ",
@@ -93,8 +229,22 @@
         {
             "title": "ಕೌಟುಂಬಿಕ ಜೀವನದಲ್ಲಿ ಧರ್ಮ",
             "feature": "",
-            "text": "",
             "page": "0036-0038",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಮಾತಾ ತ್ಯಾಗಮಯೀ",
@@ -105,8 +255,26 @@
         {
             "title": "ಕುಟುಂಬದಲ್ಲಿ ಮಕ್ಕಳ ಬೆಳವಣಿಗೆ",
             "feature": "",
-            "text": "",
             "page": "0039-0042",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಿ. ಆರ್. ಚಂದ್ರಶೇಖರ್",
@@ -117,8 +285,30 @@
         {
             "title": "ಮನೆಯಲ್ಲಿಯೇ ಮಾನಸಿಕ ಅಸ್ವಸ್ಥರ ಪುನಶ್ಚೇತನ",
             "feature": "",
-            "text": "",
             "page": "0043-0047",
+            "fullText": [
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                },
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಗಣೇಶ ನಾಡಿಗೇರ್",
@@ -129,8 +319,22 @@
         {
             "title": "ಕೌಟುಂಬಿಕ ಸಾಮರಸ್ಯಕ್ಕೆ ಆಪ್ತಸಲಹೆ",
             "feature": "",
-            "text": "",
             "page": "0048-0050",
+            "fullText": [
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                },
+                {
+                    "page": "0050",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 45,
             "author": [
                 {
                     "name": "ಕೆ. ಬಿ. ಪ್ರಭುಪ್ರಸಾದ್",
@@ -141,8 +345,26 @@
         {
             "title": "ಕೌಟುಂಬಿಕ ಜೀವನದಲ್ಲಿ ಆತಂಕ ನಿರ್ವಹಣೆ",
             "feature": "",
-            "text": "",
             "page": "0051-0054",
+            "fullText": [
+                {
+                    "page": "0051",
+                    "text": ""
+                },
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 48,
             "author": [
                 {
                     "name": "ಮಂಗಳಮ್ಮ",
@@ -153,8 +375,30 @@
         {
             "title": "ಪುಟ್ಟ ವ್ಯಕ್ತಿತ್ವ-ಪುಟ್ಟ ಮೇಧಾವಿ",
             "feature": "",
-            "text": "",
             "page": "0055-0059",
+            "fullText": [
+                {
+                    "page": "0055",
+                    "text": ""
+                },
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 52,
             "author": [
                 {
                     "name": "ಶಾಂತಾ ನಾಗರಾಜ್",
@@ -165,8 +409,26 @@
         {
             "title": "ಕಾನೂನು ಮತ್ತು ಕೌಟುಂಬಿಕ ಸುವ್ಯವಸ್ಥೆ",
             "feature": "",
-            "text": "",
             "page": "0060-0063",
+            "fullText": [
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                },
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 57,
             "author": [
                 {
                     "name": "ಸಿ. ಕೆ. ಎನ್. ರಾಜ",
@@ -177,8 +439,22 @@
         {
             "title": "ಕಾಳಿದಾಸನ ಕಾವ್ಯದಲ್ಲಿ ಕೌಟುಂಬಿಕ ಸಾಮರಸ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0064-0066",
+            "fullText": [
+                {
+                    "page": "0064",
+                    "text": ""
+                },
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 61,
             "author": [
                 {
                     "name": "ಎಚ್. ವಿ. ನಾಗರಾಜರಾವ್",
@@ -189,8 +465,22 @@
         {
             "title": "ಕೌಟುಂಬಿಕ ಸಮಸ್ಯೆಗಳು ಮತ್ತು ಪರಿಹಾರಗಳೂ",
             "feature": "",
-            "text": "",
             "page": "0067-0069",
+            "fullText": [
+                {
+                    "page": "0067",
+                    "text": ""
+                },
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 64,
             "author": [
                 {
                     "name": "ಬಸವರಾಜ ಸಿದ್ಧಾಶ್ರಮ",
@@ -201,8 +491,30 @@
         {
             "title": "ರಾಮಾಯಣದಲ್ಲಿ ಕೌಟುಂಬಿಕ ಮಾಲ್ಯಗಳು",
             "feature": "",
-            "text": "",
             "page": "0070-0074",
+            "fullText": [
+                {
+                    "page": "0070",
+                    "text": ""
+                },
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                },
+                {
+                    "page": "0073",
+                    "text": ""
+                },
+                {
+                    "page": "0074",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 67,
             "author": [
                 {
                     "name": "ಕೆ. ಎಲ್. ಪ್ರಸನ್ನಾಕ್ಷಿ",
@@ -213,8 +525,30 @@
         {
             "title": "ಹೆಣ್ಣುಮಕ್ಕಳು ಮತ್ತು ಕುಟುಂಬ ನಿರ್ವಹಣೆ",
             "feature": "",
-            "text": "",
             "page": "0075-0079",
+            "fullText": [
+                {
+                    "page": "0075",
+                    "text": ""
+                },
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                },
+                {
+                    "page": "0078",
+                    "text": ""
+                },
+                {
+                    "page": "0079",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 72,
             "author": [
                 {
                     "name": "ಸೇವಂತಿ ಡಿ. ರೈ",
@@ -225,8 +559,34 @@
         {
             "title": "ಸಮರಸವಾಗಲಿ ಸಂಸಾರ",
             "feature": "",
-            "text": "",
             "page": "0080-0085",
+            "fullText": [
+                {
+                    "page": "0080",
+                    "text": ""
+                },
+                {
+                    "page": "0081",
+                    "text": ""
+                },
+                {
+                    "page": "0082",
+                    "text": ""
+                },
+                {
+                    "page": "0083",
+                    "text": ""
+                },
+                {
+                    "page": "0084",
+                    "text": ""
+                },
+                {
+                    "page": "0085",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 77,
             "author": [
                 {
                     "name": "ಕೆ.ಜಗದೀಶ ಪೈ",
@@ -237,8 +597,30 @@
         {
             "title": "ಕುಟುಂಬದಲ್ಲಿ ಮಾನವೀಯ ಸಂಬಂಧಗಳು",
             "feature": "",
-            "text": "",
             "page": "0086-0090",
+            "fullText": [
+                {
+                    "page": "0086",
+                    "text": ""
+                },
+                {
+                    "page": "0087",
+                    "text": ""
+                },
+                {
+                    "page": "0088",
+                    "text": ""
+                },
+                {
+                    "page": "0089",
+                    "text": ""
+                },
+                {
+                    "page": "0090",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 83,
             "author": [
                 {
                     "name": "ವಸುಮತಿ ಉಡುಪ",
@@ -249,8 +631,22 @@
         {
             "title": "ಹಿರಿಯರು 'ಹೊರೆ' ಅಲ್ಲ, 'ಹೊಣೆ'",
             "feature": "",
-            "text": "",
             "page": "0091-0093",
+            "fullText": [
+                {
+                    "page": "0091",
+                    "text": ""
+                },
+                {
+                    "page": "0092",
+                    "text": ""
+                },
+                {
+                    "page": "0093",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 88,
             "author": [
                 {
                     "name": "ಹೆಚ್. ಎಲ್. ಸೀತಾದೇವಿ",
@@ -261,8 +657,18 @@
         {
             "title": "ಸಾಮರಸ್ಯಕ್ಕೆ ಹಬ್ಬ ಹರಿದಿನಗಳ ಆವಶ್ಯಕತೆ",
             "feature": "",
-            "text": "",
             "page": "0094-0095",
+            "fullText": [
+                {
+                    "page": "0094",
+                    "text": ""
+                },
+                {
+                    "page": "0095",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 91,
             "author": [
                 {
                     "name": "ವಿ. ಮೀನಾ",
@@ -273,8 +679,14 @@
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
-            "text": "",
-            "page": "0096-0096"
+            "page": "0096-0096",
+            "fullText": [
+                {
+                    "page": "0096",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 93
         }
     ]
 }

@@ -1,16 +1,22 @@
 {
     "volume": "009",
     "issue": "01",
-    "month": "01",
     "year": "2008",
+    "month": "01",
     "theme": "",
     "id": "009/01",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0009-0009",
+            "fullText": [
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,26 @@
         {
             "title": "ಜಾಗತಿಕ ಮಾನವ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0011-0014",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +57,18 @@
         {
             "title": "ಗೃಹಸ್ಥನ ಕರ್ತವ್ಯಗಳು",
             "feature": "",
-            "text": "",
             "page": "0015-0016",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ವಿವೇಕಾನಂದ",
@@ -45,8 +79,22 @@
         {
             "title": "ಇಂದಿನ ಪರಿಸರದಲ್ಲಿ ಧರ್ಮಾನುಷ್ಠಾನದ ಪ್ರಸ್ತುತತೆ",
             "feature": "",
-            "text": "",
             "page": "0017-0019",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -57,8 +105,18 @@
         {
             "title": "ಕ್ರಿಯಾಶೀಲ ಜೀವನಕ್ಕೆ ಭಗವದ್ಗೀತೆಯ ಸಂದೇಶ",
             "feature": "",
-            "text": "",
             "page": "0020-0021",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -69,8 +127,22 @@
         {
             "title": "ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಯೋಗ",
             "feature": "",
-            "text": "",
             "page": "0022-0024",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -81,8 +153,26 @@
         {
             "title": "ಆವರ್ತನಶೀಲ ಜಗತ್ತು",
             "feature": "",
-            "text": "",
             "page": "0025-0028",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸಿದ್ಧೇಶ್ವರ ಸ್ವಾಮೀಜಿ",
@@ -93,8 +183,22 @@
         {
             "title": "ಶಾಂತಿಯುತ ಬಾಳಿಗಾಗಿ ನನ್ನ ಅನ್ವೇಷಣೆ",
             "feature": "",
-            "text": "",
             "page": "0029-0031",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಅಬ್ದುಲ್ ಕಲಾಂ",
@@ -105,8 +209,26 @@
         {
             "title": "ತತ್ತ್ವಜಿಜ್ಞಾಸೆಯಿಂದ ಧರ್ಮಜಿಜ್ಞಾಸೆಯೆಡೆಗೆ",
             "feature": "",
-            "text": "",
             "page": "0032-0035",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಪ್ರಭುಶಂಕರ ಡಾ.",
@@ -117,8 +239,22 @@
         {
             "title": "ರಾಮಕೃಷ್ಣ ಸಂಘದ ಜಾಗತಿಕ ಆಯಾಮ",
             "feature": "",
-            "text": "",
             "page": "0036-0038",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -129,8 +265,26 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ಧಾರ್ಮಿಕ ಸಮನ್ವಯ",
             "feature": "",
-            "text": "",
             "page": "0039-0042",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -141,8 +295,22 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಸಂದೇಶದ ಅಗತ್ಯ- ಇಂದಿಗೂ, ಎಂದೆಂದಿಗೂ.",
             "feature": "",
-            "text": "",
             "page": "0043-0045",
+            "fullText": [
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                },
+                {
+                    "page": "0045",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 42,
             "author": [
                 {
                     "name": "ಯುಕ್ತೇಶಾನಂದ",
@@ -153,8 +321,26 @@
         {
             "title": "ಬಾಳಿಗೆ ಬೆಳಕು ನೀಡಿದ ದಿವ್ಯತ್ರಯರು",
             "feature": "",
-            "text": "",
             "page": "0046-0049",
+            "fullText": [
+                {
+                    "page": "0046",
+                    "text": ""
+                },
+                {
+                    "page": "0047",
+                    "text": ""
+                },
+                {
+                    "page": "0048",
+                    "text": ""
+                },
+                {
+                    "page": "0049",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 45,
             "author": [
                 {
                     "name": "ಅರುಣ ನಾರಾಯಣ",
@@ -165,8 +351,18 @@
         {
             "title": "ಶಾಂತಿಯ ಬದುಕಿಗೆ ಹಚ್ಚಿಟ್ಟ ಕೈದೀಪ",
             "feature": "",
-            "text": "",
             "page": "0050-0051",
+            "fullText": [
+                {
+                    "page": "0050",
+                    "text": ""
+                },
+                {
+                    "page": "0051",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 49,
             "author": [
                 {
                     "name": "ವಿಜಯ ಭಾರತಿ",
@@ -177,8 +373,26 @@
         {
             "title": "ಕನ್ನಡ ಕುಲದೈವದ ಒಂದು ಪುಟ್ಟ ವಿಗ್ರಹ",
             "feature": "",
-            "text": "",
             "page": "0052-0055",
+            "fullText": [
+                {
+                    "page": "0052",
+                    "text": ""
+                },
+                {
+                    "page": "0053",
+                    "text": ""
+                },
+                {
+                    "page": "0054",
+                    "text": ""
+                },
+                {
+                    "page": "0055",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 51,
             "author": [
                 {
                     "name": "ಸುಬ್ಬಣ್ಣ ಕೆ. ವಿ.",
@@ -189,8 +403,26 @@
         {
             "title": "ಆಧುನಿಕ ಯಂತ್ರ ಯುಗದಲ್ಲಿ ಜೀವನ ಸೌಖ್ಯ",
             "feature": "",
-            "text": "",
             "page": "0056-0059",
+            "fullText": [
+                {
+                    "page": "0056",
+                    "text": ""
+                },
+                {
+                    "page": "0057",
+                    "text": ""
+                },
+                {
+                    "page": "0058",
+                    "text": ""
+                },
+                {
+                    "page": "0059",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 55,
             "author": [
                 {
                     "name": "ನಾರಾಯಣರಾವ್ ಜಿ. ಟಿ.",
@@ -201,8 +433,18 @@
         {
             "title": "ನಾಗರೀಕತೆ-ನೆಮ್ಮದಿ",
             "feature": "",
-            "text": "",
             "page": "0060-0061",
+            "fullText": [
+                {
+                    "page": "0060",
+                    "text": ""
+                },
+                {
+                    "page": "0061",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 59,
             "author": [
                 {
                     "name": "ವೆಂಕಟಾಚಲ ಶಾಸ್ತ್ರೀ ಟಿ. ವಿ.",
@@ -213,8 +455,22 @@
         {
             "title": "ಆತ್ಮಹತ್ಯೆಯ ಸಮಸ್ಯೆ ಮನುಕುಲಕ್ಕೆ ಸವಾಲು",
             "feature": "",
-            "text": "",
             "page": "0062-0064",
+            "fullText": [
+                {
+                    "page": "0062",
+                    "text": ""
+                },
+                {
+                    "page": "0063",
+                    "text": ""
+                },
+                {
+                    "page": "0064",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 61,
             "author": [
                 {
                     "name": "ಚಂದ್ರಶೇಖರ್ ಡಾ. ಸಿ. ಆರ್.",
@@ -225,8 +481,22 @@
         {
             "title": "ಆತ್ಮಹತ್ಯೆಯನ್ನು ಮೆಟ್ಟಿನಿಂತ ವೀರನಾರಿಯರು",
             "feature": "",
-            "text": "",
             "page": "0065-0067",
+            "fullText": [
+                {
+                    "page": "0065",
+                    "text": ""
+                },
+                {
+                    "page": "0066",
+                    "text": ""
+                },
+                {
+                    "page": "0067",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 64,
             "author": [
                 {
                     "name": "ಸಾಯಿನಾಥ್ ಪಿ.",
@@ -237,8 +507,22 @@
         {
             "title": "ಸಂಸ್ಕೃತಿಯ ರಕ್ಷಕಿ ಮಹಿಳೆ",
             "feature": "",
-            "text": "",
             "page": "0068-0070",
+            "fullText": [
+                {
+                    "page": "0068",
+                    "text": ""
+                },
+                {
+                    "page": "0069",
+                    "text": ""
+                },
+                {
+                    "page": "0070",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 67,
             "author": [
                 {
                     "name": "ಸೇವಂತಿ ಡಿ. ರೈ",
@@ -249,8 +533,22 @@
         {
             "title": "ಜಾಗತೀಕರಣ ಮತ್ತು ಕುಟುಂಬ ವ್ಯವಸ್ಥೆ",
             "feature": "",
-            "text": "",
             "page": "0071-0073",
+            "fullText": [
+                {
+                    "page": "0071",
+                    "text": ""
+                },
+                {
+                    "page": "0072",
+                    "text": ""
+                },
+                {
+                    "page": "0073",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 70,
             "author": [
                 {
                     "name": "ಜಯದೇವ ಜಿ. ಎಸ್.",
@@ -261,8 +559,18 @@
         {
             "title": "ಜಾಗತೀಕರಣ ಮತ್ತು ವಿಶ್ವಶಾಂತಿ",
             "feature": "",
-            "text": "",
             "page": "0074-0075",
+            "fullText": [
+                {
+                    "page": "0074",
+                    "text": ""
+                },
+                {
+                    "page": "0075",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 73,
             "author": [
                 {
                     "name": "ಷೌಕತ್ ಅಲಿ",
@@ -273,8 +581,22 @@
         {
             "title": "ಕುರುಡನ ಹಾದಿಯಲ್ಲಿ",
             "feature": "",
-            "text": "",
             "page": "0076-0078",
+            "fullText": [
+                {
+                    "page": "0076",
+                    "text": ""
+                },
+                {
+                    "page": "0077",
+                    "text": ""
+                },
+                {
+                    "page": "0078",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 75,
             "author": [
                 {
                     "name": "ಚಕ್ರವರ್ತಿ ಸೂಲಿಬೆಲೆ",
@@ -285,8 +607,22 @@
         {
             "title": "ಜಾಗತೀಕರಣದ ಯುಗದಲ್ಲಿ ಜಾಗೃತೀಕರಣ",
             "feature": "",
-            "text": "",
             "page": "0079-0081",
+            "fullText": [
+                {
+                    "page": "0079",
+                    "text": ""
+                },
+                {
+                    "page": "0080",
+                    "text": ""
+                },
+                {
+                    "page": "0081",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 78,
             "author": [
                 {
                     "name": "ರಾಜ ಡಾ. ಸಿ. ಕೆ. ಎನ್.",
@@ -297,8 +633,26 @@
         {
             "title": "ಶಿಕ್ಷಣ ಮತ್ತು ಜಾಗತೀಕರಣ",
             "feature": "",
-            "text": "",
             "page": "0082-0085",
+            "fullText": [
+                {
+                    "page": "0082",
+                    "text": ""
+                },
+                {
+                    "page": "0083",
+                    "text": ""
+                },
+                {
+                    "page": "0084",
+                    "text": ""
+                },
+                {
+                    "page": "0085",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 81,
             "author": [
                 {
                     "name": "ಚಕ್ರವರ್ತಿ ಎನ್. ಎಸ್.",
@@ -309,8 +663,18 @@
         {
             "title": "ಸೋಲು ಗೆಲುವಾಗುವುದು, ನೋವು ನಲಿವಾಗುವುದು",
             "feature": "",
-            "text": "",
             "page": "0086-0087",
+            "fullText": [
+                {
+                    "page": "0086",
+                    "text": ""
+                },
+                {
+                    "page": "0087",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 85,
             "author": [
                 {
                     "name": "ಚೇತನ್ ರಾಮ್",
@@ -321,8 +685,30 @@
         {
             "title": "ಜಾಗತೀಕರಣದೊಂದಿಗೆ ಹೊಂದಿಕೊಂಡು ಬಾಳುವುದು ಹೇಗೆ?",
             "feature": "",
-            "text": "",
             "page": "0088-0092",
+            "fullText": [
+                {
+                    "page": "0088",
+                    "text": ""
+                },
+                {
+                    "page": "0089",
+                    "text": ""
+                },
+                {
+                    "page": "0090",
+                    "text": ""
+                },
+                {
+                    "page": "0091",
+                    "text": ""
+                },
+                {
+                    "page": "0092",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 87,
             "author": [
                 {
                     "name": "ನಂಜುಂಡಯ್ಯ ಎಂ. ಎಸ್.",
@@ -333,8 +719,22 @@
         {
             "title": "ಜಾಗತೀಕರಣವೆಂಬ ಜಂಝಾವಾತ -೧",
             "feature": "",
-            "text": "",
             "page": "0093-0095",
+            "fullText": [
+                {
+                    "page": "0093",
+                    "text": ""
+                },
+                {
+                    "page": "0094",
+                    "text": ""
+                },
+                {
+                    "page": "0095",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 92,
             "author": [
                 {
                     "name": "ರಾಮಸ್ವಾಮಿ ಎಸ್. ಆರ್.",
@@ -345,8 +745,22 @@
         {
             "title": "ನನ್ನ ಅನುಭವದಲ್ಲಿ ಗ್ರಾಮಾಭಿವೃದ್ಧಿ",
             "feature": "",
-            "text": "",
             "page": "0096-0098",
+            "fullText": [
+                {
+                    "page": "0096",
+                    "text": ""
+                },
+                {
+                    "page": "0097",
+                    "text": ""
+                },
+                {
+                    "page": "0098",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 95,
             "author": [
                 {
                     "name": "ಬಾಲಸುಬ್ರಮಣ್ಯಂ ಡಾ. ಆರ್.",
@@ -357,8 +771,14 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
-            "text": "",
             "page": "0099-0099",
+            "fullText": [
+                {
+                    "page": "0099",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 98,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -369,8 +789,18 @@
         {
             "title": "ಕಥಾಪ್ರಭ- ಮನೆ ಬಿಟ್ಟು ಹೋದ ಮಗ",
             "feature": "",
-            "text": "",
             "page": "0100-0101",
+            "fullText": [
+                {
+                    "page": "0100",
+                    "text": ""
+                },
+                {
+                    "page": "0101",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 99,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -381,8 +811,22 @@
         {
             "title": "ಓದುಗರ ವೇದಿಕೆ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
-            "text": "",
             "page": "0102-0104",
+            "fullText": [
+                {
+                    "page": "0102",
+                    "text": ""
+                },
+                {
+                    "page": "0103",
+                    "text": ""
+                },
+                {
+                    "page": "0104",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 101,
             "author": [
                 {
                     "name": "ಶಿವಕುಮಾರ್ ಡಾ. ಎಂ.",
@@ -393,8 +837,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಜಾಗತೀಕರಣ ಮತ್ತು ರಾಜಕಾರಣ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0105-0105",
+            "fullText": [
+                {
+                    "page": "0105",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 104,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -405,8 +855,18 @@
         {
             "title": "ನಗಾರಿಗೆ ಹೆದರಿದ ನರಿ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0106-0107",
+            "fullText": [
+                {
+                    "page": "0106",
+                    "text": ""
+                },
+                {
+                    "page": "0107",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 105,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -417,8 +877,14 @@
         {
             "title": "ಸುದ್ಧಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0108-0108",
+            "fullText": [
+                {
+                    "page": "0108",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 107,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

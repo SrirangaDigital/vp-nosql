@@ -1,0 +1,192 @@
+{
+    "volume": "018",
+    "issue": "10",
+    "year": "2017",
+    "month": "10",
+    "theme": "",
+    "id": "018/10",
+    "toc": [
+        {
+            "title": "ಭ್ರಮರಾಂಬಾಷ್ಟಕದಿಂದ",
+            "feature": "ಪ್ರಾರ್ಥನೆ",
+            "text": "",
+            "page": "0004-0004",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ಬೆಳಕ ಬೀರುವ ಹಾದಿ-೫",
+            "feature": "ಸಂಪಾದಕೀಯ",
+            "text": "",
+            "page": "0007-0009",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ರಾಮಾವತಾರ",
+            "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
+            "text": "",
+            "page": "0010-0010",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ಕೈಲಾಸ ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ",
+            "feature": "ವಿಶೇಷ ಲೇಖನ",
+            "text": "",
+            "page": "0011-0016",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಹೆಚ್. ಪಾಂಡುರಂಗ ವಿಠಲ",
+                    "salutation": "ಡಾ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀಮಾತೆ ಭಾಗ-೧೦",
+            "feature": "ಧಾರಾವಾಹಿ",
+            "text": "",
+            "page": "0017-0020",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಆಶುತೋಷ್ ಮಿತ್ರ",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "ಕೂರೇಶರ ಗುರುಭಕ್ತಿ",
+            "feature": "ವಿಶೇಷ ಲೇಖನ",
+            "text": "",
+            "page": "0021-0022",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಮಾತಾ ತ್ಯಾಗಮಯೀ",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "ಜಾನಕಿ ಷಾ",
+            "feature": "ವಿಶೇಷ ಲೇಖನ",
+            "text": "",
+            "page": "0023-0023",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಸ್ವರ್ಣಗೌರಿ",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀರಾಮಕೃಷ್ಣಸಂಘಸ್ತೋತ್ರಮ್",
+            "feature": "ಸ್ತೋತ್ರ ರಚನೆ",
+            "text": "",
+            "page": "0024-0025",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
+                    "salutation": "ಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೧",
+            "feature": "ಧಾರಾವಾಹಿ",
+            "text": "",
+            "page": "0026-0029",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಶ್ರದ್ಧಾನಂದ",
+                    "salutation": "ಸ್ವಾಮಿ"
+                }
+            ]
+        },
+        {
+            "title": "ಶ್ರೀ ಮಾತೆಯವರ ಪತ್ರಗಳು-೬",
+            "feature": "ಧಾರಾವಾಹಿ",
+            "text": "",
+            "page": "0030-0031",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "ಪ್ರವ್ರಾಜಿಕಾ ಧರ್ಮಪ್ರಾಣಾ",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "ದಿವ್ಯ ಸ್ಪರ್ಶದಿಂದ ಬೆಳಗಿದ ಬದುಕು",
+            "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
+            "text": "",
+            "page": "0032-0032",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ತ್ಯಾಗಿ ವೀರ ಸಂತ ತೇಗ್ ಬಹದ್ದೂರ್",
+            "feature": "ಸಂತರ ಜೀವನ",
+            "text": "",
+            "page": "0033-0037",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ಕಲಿಕಾಮ ನಾಯನಾರ್",
+            "feature": "ಚಿತ್ರಕಥೆ",
+            "text": "",
+            "page": "0038-0041",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        },
+        {
+            "title": "ಸುದ್ದಿಸಂಚಯ",
+            "feature": "",
+            "text": "",
+            "page": "0042-0042",
+            "relativePageNumber": 1,
+            "fullText": [
+
+            ]
+        }
+    ]
+}

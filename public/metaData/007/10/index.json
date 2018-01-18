@@ -1,16 +1,22 @@
 {
     "volume": "007",
     "issue": "10",
-    "month": "10",
     "year": "2006",
+    "month": "10",
     "theme": "",
     "id": "007/10",
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0007-0007",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -21,8 +27,22 @@
         {
             "title": "ಮಕ್ಕಳಿಗೆ ಧಾರ್ಮಿಕ ಶಿಕ್ಷಣ",
             "feature": "ಸಂಪಾದಕರು",
-            "text": "",
             "page": "0008-0010",
+            "fullText": [
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -33,8 +53,22 @@
         {
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿ- ಕೆಲವು ರೋಚಕ ಪ್ರಸಂಗಗಳು",
             "feature": "",
-            "text": "",
             "page": "0011-0013",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಪ್ರಭಾಕರ ಎನ್.",
@@ -45,8 +79,22 @@
         {
             "title": "ಜೀವನಪ್ರಭ- ಜಗನ್ನಾಥದಾಸರು",
             "feature": "",
-            "text": "",
             "page": "0014-0016",
+            "fullText": [
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -57,8 +105,14 @@
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
-            "text": "",
             "page": "0016-0016",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -69,8 +123,26 @@
         {
             "title": "ಆರೋಗ್ಯ-ಯೋಗ-ಅಧ್ಯಾತ್ಮ",
             "feature": "",
-            "text": "",
             "page": "0017-0020",
+            "fullText": [
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಮಂಜುನಾಥ ಐತಾಳ",
@@ -81,8 +153,18 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಲೀಲಾಸ್ಥಾನಗಳ ಸಚಿತ್ರ ಯಾತ್ರೆ -೨",
             "feature": "",
-            "text": "",
             "page": "0021-0022",
+            "fullText": [
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -93,8 +175,14 @@
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ತಂದೆ ಬರೆದ ಕಾದಂಬರಿ-ಸುಲೋಚನಾ",
             "feature": "",
-            "text": "",
             "page": "0023-0023",
+            "fullText": [
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಅದ್ವೈತ ಚೈತನ್ಯ ಬ್ರ.",
@@ -105,8 +193,26 @@
         {
             "title": "ಭಗವತಿಯ ಆರಾಧನೆ- ವಿವಿಧ ಆಯಾಮಗಳು",
             "feature": "",
-            "text": "",
             "page": "0024-0027",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಪುಷ್ಪಾ ಕುಮಾರಿ ಪಿ.",
@@ -117,8 +223,26 @@
         {
             "title": "ವ್ಯಕ್ತಿ- ವಿವಿಧ ಸಿದ್ಧಾಂತಗಳ ಹಿನ್ನೆಲೆಯಲ್ಲಿ",
             "feature": "",
-            "text": "",
             "page": "0028-0031",
+            "fullText": [
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -129,8 +253,22 @@
         {
             "title": "ಶಿಕ್ಷಕ-ಬದಲಾವಣೆಯ ಹರಿಕಾರ",
             "feature": "ಯುವವೇದಿಕೆ",
-            "text": "",
             "page": "0032-0034",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ನಿಖಿಲೇಶ್ವರಾನಂದ",
@@ -141,8 +279,18 @@
         {
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
-            "text": "",
             "page": "0034-0035",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -153,8 +301,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ದಕ್ಕುವಂತಾಯಿತು ಮಾಹಿತಿ ಹಕ್ಕು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -165,8 +319,14 @@
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಜಲದಿಂದ ಜೀವನ",
             "feature": "",
-            "text": "",
             "page": "0036-0036",
+            "fullText": [
+                {
+                    "page": "0036",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -177,8 +337,14 @@
         {
             "title": "ಕೊನೆಗೂ ಉಳಿದ ಬಾಗಿದ ಮರ",
             "feature": "ಕಥೋಪದೇಶ",
-            "text": "",
             "page": "0037-0037",
+            "fullText": [
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -189,8 +355,14 @@
         {
             "title": "ಮಾರುವೇಷದ ಹೃದಯವಂತಿಕೆ",
             "feature": "",
-            "text": "",
             "page": "0038-0038",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -201,8 +373,18 @@
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
-            "text": "",
             "page": "0039-0040",
+            "fullText": [
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                }
+            ],
+            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

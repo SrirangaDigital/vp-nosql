@@ -75,7 +75,17 @@ class articles extends Controller {
 		// Chronological list of article served as search results
 		// articles/search?title='value1'&author.name='value1'
 		// Here while doing the api call, care is to be taken to invoke regular expression for each search term
-		($result) ? $this->view('articles/articles', $result) : $this->view('error/index');
+
+		$query = array_filter($query); unset($query['submit']);
+
+		foreach ($query as $key => $value)
+			$query[$key] = '@' . $value;
+
+		$filterString = $this->model->filterArrayToString($query);
+		$url = BASE_URL . 'api/articles?' . $filterString;
+		$result = json_decode($this->model->getDataFromApi($url), true);
+		$result['pageTitle'] = ARCHIVE . ' > ' . SEARCH_RESULTS;
+		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
 	}
 }
 

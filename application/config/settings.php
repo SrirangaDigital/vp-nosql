@@ -28,18 +28,26 @@ define('AUTHOR_JOINER', 'ಮತ್ತು');
 
 
 // archive variables
-define('ARCHIVE_STRUCTURE_TYPE', 'pictorial'); //can take either pictorial or textual
 define('NAV_ARCHIVE_VOLUME', 'ಸಂಪುಟಗಳು');
 define('NAV_ARCHIVE_ARTICLES', 'ಲೇಖನಗಳು');
 define('NAV_ARCHIVE_AUTHORS', 'ಲೇಖಕರು');
 define('NAV_ARCHIVE_FEATURES', 'ಸ್ಥಿರ ಶೀರ್ಷಿಕೆಗಳು');
 define('NAV_ARCHIVE_SEARCH', 'ಹುಡುಕಿ');
+define('SEARCH_ARTICLE', 'ಲೇಖನ');
+define('SEARCH_AUTHOR', 'ಲೇಖಕರು');
+define('SEARCH_FEATURE', 'ಸ್ಥಿರ ಶೀರ್ಷಿಕೆ');
+define('SEARCH_WORD', 'ಪದ');
+define('SEARCH_SEARCH', 'ಹುಡುಕಿ');
+define('SEARCH_RESET', 'ಅಳಿಸಿ');
+define('SEARCH_RESULTS', 'ಫಲಿತಾಂಶಗಳು');
+define('ARCHIVE_STRUCTURE_TYPE', 'pictorial'); //can take either pictorial or textual
 define('ARCHIVE_VOLUME', 'ಸಂಪುಟ');
 define('ARCHIVE_ISSUE', 'ಸಂಚಿಕೆ');
-define('ARTICLES', 'ಲೇಖನಗಳು');
+define('ARTICLES', 'ಲೇಖನ(ಗಳು)');
 define('ARCHIVE', 'ಸಂಗ್ರಹ');
 define('AUTHORS', 'ಲೇಖಕರು');
 define('FEATURE', 'ಸ್ಥಿರ ಶೀರ್ಷಿಕೆ');
+define('SEARCH', 'ಹುಡುಕಿ');
 define('SERIES', 'ಸರಣಿ ಲೇಖನಗಳು');
 define('TOC', 'ಪರಿವಿಡಿ');
 

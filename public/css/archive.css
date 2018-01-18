@@ -26,6 +26,9 @@ Primary style
   color: #1565C0;
   font-weight: 400;
 }
+.mainpage h5{
+  color: #D50000;
+}
 .mainpage .full-width-card{
   font-family: 'Nudi', 'Roboto', sans-serif;
   margin: 30px 0;

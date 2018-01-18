@@ -43,7 +43,7 @@ define('SEARCH_RESULTS', 'ಫಲಿತಾಂಶಗಳು');
 define('ARCHIVE_STRUCTURE_TYPE', 'pictorial'); //can take either pictorial or textual
 define('ARCHIVE_VOLUME', 'ಸಂಪುಟ');
 define('ARCHIVE_ISSUE', 'ಸಂಚಿಕೆ');
-define('ARTICLES', 'ಲೇಖನ(ಗಳು)');
+define('ARTICLES', 'ಲೇಖನಗಳು');
 define('ARCHIVE', 'ಸಂಗ್ರಹ');
 define('AUTHORS', 'ಲೇಖಕರು');
 define('FEATURE', 'ಸ್ಥಿರ ಶೀರ್ಷಿಕೆ');

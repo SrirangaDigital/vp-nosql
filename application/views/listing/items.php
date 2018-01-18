@@ -15,7 +15,7 @@
 
 <?php } ?>
 <?php if(isset($data['subTitle'])) {?>
-            <h5 class="text-right"><?= sizeof($data['values'])?> <?=$data['subTitle']?></h5>
+            <h5 class="text-right"><?= $viewHelper->roman2Kannada(sizeof($data['values']))?> <?=$data['subTitle']?></h5>
 <?php } ?>
 <?php foreach ($data['values'] as $row) { ?>
     

@@ -24,7 +24,7 @@
                     <span class="gray"><a href="<?=BASE_URL?>articles/toc?volume=<?=$article['volume']?>&issue=<?=$article['issue']?>"><?=$viewHelper->kannadaMonth($article['month'])?>, <?=$viewHelper->roman2Kannada($article['year'])?> (<?=ARCHIVE_VOLUME?> <?=$viewHelper->roman2Kannada($viewHelper->rlZero($article['volume']))?>, <?=ARCHIVE_ISSUE?> <?=$viewHelper->roman2Kannada($viewHelper->rlZero($article['issue']))?>)</a></span>
                 </h4>
                 <h2 class="title">
-                    <a target="_blank" href="#" class="pdf"><?=$article['title']?></a>
+                    <a target="_blank" href="<?=BASE_URL?>article/text/<?=$article['volume']?>/<?=$article['issue']?>/#page=<?=$article['relativePageNumber']?>" class="pdf"><?=$article['title']?></a>
                 </h2>
     <?php if(isset($article['author'])) { ?>
                 <h3 class="author by">

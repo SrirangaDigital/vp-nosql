@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಕಾರ್ಯಪ್ರವೃತ್ತಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಸರ್ವಭಾವಮಯ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಕರ್ನಾಟಕದಲ್ಲಿ ಶ್ರೀರಾಮಾನುಜರು",
             "feature": "",
             "page": "0015-0016",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ರಾಮಕೃಷ್ಣಾನಂದ",
@@ -110,6 +110,7 @@
             "title": "ಮಾನವ ಜನ್ಮದ ಹಿರಿಮೆ",
             "feature": "",
             "page": "0017-0018",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0017",
@@ -120,7 +121,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಚಂದ್ರಶೇಖರ ಭಾರತೀ ಸ್ವಾಮಿಗಳು",
@@ -132,6 +132,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಮತ್ತು ಲಿಯೋ ಟಾಲ್ಸ್ಟಾಯ್- ಎರಡು ಸಮಕಾಲೀನ ಚಿಂತನಶಕ್ತಿಗಳು",
             "feature": "",
             "page": "0019-0022",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಅಭಯಚೈತನ್ಯ ಬ್ರ.",
@@ -162,6 +162,7 @@
             "title": "ಶ್ರೀರಾಮಾನುಜರು - ಜೀವನ ಮತ್ತು ಸಾಧನೆ -೧",
             "feature": "",
             "page": "0023-0027",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
@@ -184,7 +185,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ತಪಸ್ಯಾನಂದ",
@@ -196,6 +196,7 @@
             "title": "ಕರ್ನಾಟಕ ಸಂಗೀತದ ದಿಗ್ಗಜರು",
             "feature": "",
             "page": "0028-0032",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
@@ -218,7 +219,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯನಾರಸಿಂಹ",
@@ -230,13 +230,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0032-0032",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -248,13 +248,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮಹಿಮಾ",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -266,6 +266,7 @@
             "title": "ಉನ್ನತ ಜೀವನ- ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನದ ಸಾಧನೆ -೨",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0034-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -280,7 +281,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ವಸಂತ ಕುಮಾರ ಡಾ. ಇ.",
@@ -292,6 +292,7 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0036-0037",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
@@ -302,7 +303,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -314,13 +314,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಪುರಸ್ಕಾರ ಆಕೆಯನ್ನು ಅರಸಿತು ಆರೋಗ್ಯಕ್ಕೆ ಮಾರಕವಾಗಿರುವ ಪರಿಸರ ಮಾಲಿನ್ಯ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -332,13 +332,13 @@
             "title": "ಬಹುಜನ ಹಿತಾಯ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -350,6 +350,7 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0040-0041",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
@@ -360,7 +361,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

@@ -10,18 +10,19 @@
             "title": "ಸ್ವಾಮಿ ಅಚಲಾನಂದ ಸರಸ್ವತಿ ವಿರಚಿತ ಶ್ರೀಶಾರದಾ ಸುಪ್ರಭಾತದಿಂದ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಭಾರತ ಭಾಗ್ಯವಿಧಾತನ ಚೆನ್ನೈ ರಣಕಹಳೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಜ್ಯಾಮಿಟ್ರಿ ಬಾಕ್ಸ್",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಅಲ್ಪನಾ ಘೋಷ್",
@@ -76,13 +76,13 @@
             "title": "ಜ್ಞಾನದ ರೀತಿ",
             "feature": "",
             "page": "0015-0015",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ",
@@ -94,6 +94,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ಪತ್ರಗಳು",
             "feature": "",
             "page": "0016-0018",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -108,7 +109,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಪ್ರವಾಜಿಕ ಧರ್ಮಪ್ರಾಣಾ",
@@ -120,6 +120,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ಸನ್ನಿಧಿಯಲ್ಲಿ",
             "feature": "",
             "page": "0019-0021",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಸ್ವಸ್ವರೂಪಾನಂದ",
@@ -146,6 +146,7 @@
             "title": "ಮಹಾಸಂತ ಪವಾಹಾರಿ ಬಾಬಾ",
             "feature": "",
             "page": "0022-0024",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
@@ -160,7 +161,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸುವಿಮಲಚೈತನ್ಯ",
@@ -172,13 +172,13 @@
             "title": "ವಿದ್ಯಾರ್ಥಿ ಎಂದರೆ ಯಾರು?",
             "feature": "",
             "page": "0025-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಪುಷ್ಪಾ ಶೇಷಾದ್ರಿ",
@@ -190,6 +190,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -200,7 +201,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -212,6 +212,7 @@
             "title": "ಪ್ರಶ್ನೋಪನಿಷತ್",
             "feature": "",
             "page": "0028-0030",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -226,7 +227,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ವಿ. ಶ್ರೀಮತಿ",
@@ -238,6 +238,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0031-0034",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -256,7 +257,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -268,6 +268,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಮಾನವೀಯ ಮುಖ",
             "feature": "",
             "page": "0035-0037",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -282,7 +283,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್. ಜಯದೇವ",
@@ -294,6 +294,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನದರ್ಶನ-೮",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -311,20 +312,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಸಂಪಾದಕಿಯ- ಕಾರ್ಯನಿರ್ವಹಣೆ -೨",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0011",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -50,7 +51,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -62,6 +62,7 @@
             "title": "ಶ್ರೀರಾಮಾನುಜರ ಜೀವನ ಮತ್ತು ಸಾಧನೆ -೪",
             "feature": "",
             "page": "0012-0014",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0012",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ತಪಸ್ಯಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಭಗವದ್ಗೀತೆ ಎಂದರೇನು?",
             "feature": "",
             "page": "0015-0017",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -114,6 +114,7 @@
             "title": "ಭಾರತದ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ದೇವಾಲಯದ ಪಾತ್ರ",
             "feature": "",
             "page": "0018-0023",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0018",
@@ -140,7 +141,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಶ್ರೀನಿವಾಸಾಚಾರ್ ಸೋಸಲೆ",
@@ -152,13 +152,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0023-0023",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -170,6 +170,7 @@
             "title": "ಚಿಂತನದ ಬೆಂಕಿಕಡ್ಡಿ-ಜೆನ್",
             "feature": "",
             "page": "0024-0028",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
@@ -192,7 +193,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ್ ಡಾ. ಕೆ. ಬಿ.",
@@ -204,6 +204,7 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ- ಶ್ರೀವಿವೇಕಾನಂದ ಕರ್ಮಯೋಗ ಸೂತ್ರಶತಕಂ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0029-0031",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -218,7 +219,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಪ್ರಸನ್ನಾಕ್ಷಿ ಡಾ. ಕೆ. ಎಲ್.",
@@ -230,6 +230,7 @@
             "title": "ಶ್ರೀಕೃಷ್ಣ- ಸಂರಕ್ಷಣಾ ತಜ್ಞರ ತಜ್ಞ",
             "feature": "",
             "page": "0032-0033",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -240,7 +241,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಗೋಪಾಲನ್ ಪ್ರೊ. ಎಂ. ಎನ್.",
@@ -252,6 +252,7 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಪಂಚಶೀಲ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0034-0039",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -278,7 +279,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -290,13 +290,13 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -308,13 +308,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಸಮಸ್ಯೆಗಳ ಭಾರದಡಿ ಭಾರತೀಯ ರೈತರು ಜಾಗತಿಕ ದಿನಾಂಕ-ಜುಲೈ ೪",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -326,13 +326,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0041-0041",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

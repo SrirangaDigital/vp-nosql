@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 3,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 3,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಚೈತನ್ಯದ ಬೆಂಬತ್ತಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 5,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಶಿವಮಹಿಮ್ನಸ್ತೋತ್ರಮ್",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಚಿಂತನೆಗಳ ಪ್ರಸ್ತುತತೆ",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0015",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ರಾಮಸ್ವಾಮಿ ಎಸ್. ಆರ್.",
@@ -118,6 +118,7 @@
             "title": "ಶಿವಾನಂದಲಹರೀ",
             "feature": "",
             "page": "0019-0022",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0019",
@@ -136,7 +137,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ನಾಗರಾಜರಾವ್ ವಿದ್ವಾನ್ ಹೆಚ್. ವಿ.",
@@ -148,6 +148,7 @@
             "title": "ವೇದಸಾರ ಶಿವ",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0023",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಪ್ರಸನ್ನಾಕ್ಷಿ ಡಾ. ಕೆ. ಎಲ್.",
@@ -174,6 +174,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಅಪ್ರಸಿದ್ಧ ಭಕ್ತರು",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0026",
@@ -184,7 +185,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -196,6 +196,7 @@
             "title": "ಓದುಗರ ವೇದಿಕೆ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
             "page": "0028-0029",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0028",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -218,13 +218,13 @@
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
             "page": "0030-0030",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0030",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -236,6 +236,7 @@
             "title": "ಕಥಾಪ್ರಭ",
             "feature": "",
             "page": "0031-0033",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0031",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಿದ್ಧಯ್ಯ ಪುರಾಣಿಕ",
@@ -262,13 +262,13 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ",
             "feature": "",
             "page": "0034-0034",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಮುರಳೀಧರ ಡಾ. ಹೆಚ್. ಎನ್.",
@@ -280,6 +280,7 @@
             "title": "೧೦ ನೆಯ ತರಗತಿಯ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಪರೀಕ್ಷೆಯನ್ನು ಎದುರಿಸಲು ಕೆಲವು ಸೂಚನೆಗಳು",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0035",
@@ -290,7 +291,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -302,6 +302,7 @@
             "title": "ಕರ್ನಾಟಕದ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ",
             "feature": "",
             "page": "0037-0038",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0037",
@@ -312,7 +313,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಶೈಲಜ",
@@ -324,6 +324,7 @@
             "title": "ಹಿತೋಪದೇಶದ ಕಥೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0040",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0039",
@@ -334,7 +335,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -346,13 +346,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0041-0041",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -364,13 +364,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

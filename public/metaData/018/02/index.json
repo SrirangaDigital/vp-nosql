@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ:ಶ್ರೀರಾಮಕೃಷ್ಣ ಸುಪ್ರಭಾತಮ್-೪ ಸೂಕ್ತಿಪ್ರಭ:ಶ್ರೀರಾಮಕೃಷ್ಣರ ಉಪದೇಶಗಳು",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 3,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 3
+            ]
         },
         {
             "title": "ಬೆಳ್ಳಕ್ಕಿ ಸಾಲಿನ ಹಿಂದೆ...",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,13 +36,13 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ವಿವೇಕಾನಂದರು ಕಂಡ ಭವಿಷ್ಯ ಭಾರತ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0015",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -76,6 +76,7 @@
             "title": "ಶ್ರೀಮಾತೆ ಭಾಗ-೨",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0016-0019",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0016",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಆಶುತೋಷ್ ಮಿತ್ರ",
@@ -106,6 +106,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಭಾವಮಂಜರಿ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0020-0022",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
@@ -120,7 +121,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ನಾರಾಯಣಿ ದಾಮೋದರ್",
@@ -132,6 +132,7 @@
             "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೩",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0023-0026",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಶ್ರದ್ಧಾನಂದ",
@@ -162,6 +162,7 @@
             "title": "ಮಂತ್ರ ದೀಕ್ಷೆ, ನಾಮಜಪದ ಮಹಿಮೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0027-0029",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಜೆ. ಶಶಿಧರ್",
@@ -188,6 +188,7 @@
             "title": "ಭಾರತೀಯ ಧಾರ್ಮಿಕ ಸಾಹಿತ್ಯದ ವರ್ಗೀಕೃತ ನಿರೂಪಣೆ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0030-0031",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಬಿ. ಎಸ್. ಎನ್. ಪ್ರಸಾದರ",
@@ -210,6 +210,7 @@
             "title": "ತ್ರೈಲಂಗ ಸ್ವಾಮಿಗಳು",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0032-0034",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -224,7 +225,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -236,6 +236,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ ಭಾ‌ಗ-೫",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0035-0038",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
@@ -253,13 +254,13 @@
                     "page": "0038",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
             "page": "0039-0040",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
@@ -269,8 +270,7 @@
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         }
     ]
 }

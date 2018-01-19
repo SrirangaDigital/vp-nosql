@@ -10,18 +10,19 @@
             "title": "ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಕಥಾಪ್ರಪಂಚ: ಪ್ರಾಯೋಗಿಕ ಆಧ್ಯಾತ್ಮಿಕತೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಸೇವೆ ಮತ್ತು ಧರ್ಮಶಿಕ್ಷಣ ಕೇಂದ್ರಗಳಾಗಿ ನಮ್ಮ ದೇಗುಲಗಳು- ಒಂದು ಕಾರ್ಯಯೋಜನೆ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -76,6 +76,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ ನೀಡಿದ ಅಂತಿಮ ಸಂದೇಶ: ಧೀರೋದಾತ್ತ ಹಿಂದೂಧರ್ಮ",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಸುನಿರ್ಮಲಾನಂದ",
@@ -106,6 +106,7 @@
             "title": "ನವಯುಗದ ನೂತನ ಮಾನವ: ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
             "page": "0019-0022",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -136,6 +136,7 @@
             "title": "ವಿವೇಕ-ಸುಖಾನಂದ ವರ್ಧಕ ಭಾಷ್ಯ",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -146,7 +147,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಪ್ರಸನ್ನಾಕ್ಷಿ",
@@ -158,6 +158,7 @@
             "title": "ನೆನಪಿನಂಗಳದಿಂದ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಭಾರತೀಪ್ರಾಣಾ",
@@ -180,6 +180,7 @@
             "title": "ಗುರುವಿನೊಡನೆ ದೇವರಡಿಗೆ",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -190,7 +191,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -202,6 +202,7 @@
             "title": "ಸ್ವಾಮಿ ತುರೀಯಾನಂದ",
             "feature": "",
             "page": "0029-0032",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -220,7 +221,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -232,6 +232,7 @@
             "title": "ಕರುಣಾಸಾಗರ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
             "page": "0033-0035",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -246,7 +247,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಗಿರೀಶ್ಚಂದ್ರ ಘೋಷ್",
@@ -258,13 +258,13 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳಿಗಿರಬೇಕಾದ ಗುಣಲಕ್ಷಣಗಳು",
             "feature": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ",
             "page": "0036-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಜಿ. ಮನೋರಮಾ",
@@ -276,13 +276,13 @@
             "title": "ನಮ್ಮ ಸಂಸ್ಕೃತಿ ಪರಿಚಯ - ೬",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸೀತಾ ಲಖಾನಿ",
@@ -294,6 +294,7 @@
             "title": "ಭಗವಂತನನ್ನೇ ಬರಹಗಾರನನ್ನಾಗಿ ಮಾಡಿಕೊಂಡ ಭಕ್ತೆ",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -311,8 +312,7 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         }
     ]
 }

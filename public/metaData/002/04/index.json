@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಮೌಲ್ಯವಂತ ಜೀನವ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0008",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ವೈಯಕ್ತಿಕತೆಯಿಂದ ಮಾನವೀಯತೆಯೆಡೆಗೆ",
             "feature": "",
             "page": "0009-0011",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0009",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ರಂಗನಾಥಾನಂದಜಿ ಮಹರಾಜ್",
@@ -84,6 +84,7 @@
             "title": "ರಾಜವಿದ್ಯಾ ರಾಜಗುಹ್ಯ ಯೋಗ",
             "feature": "",
             "page": "0012-0013",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0012",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಅಮೃತಾನಂದ",
@@ -106,6 +106,7 @@
             "title": "ಬಸವಣ್ಣನವರ ಜೀವನ ಮತ್ತು ಅವರ ಸಮಾಜಸುಧಾರಣೆ",
             "feature": "",
             "page": "0014-0017",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0014",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ವಿಶ್ವನಾಥಯ್ಯ ಎಂ. ಟಿ.",
@@ -136,13 +136,13 @@
             "title": "ನಿಮ್ಮಲ್ಲಿದ್ದರೆ",
             "feature": "",
             "page": "0018-0018",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0018",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -154,6 +154,7 @@
             "title": "ತಿರುಪ್ಪಾಣಾಳ್ವಾರ್",
             "feature": "",
             "page": "0019-0020",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0019",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಪುಷ್ಪ ಶೇಷಾದ್ರಿ",
@@ -176,6 +176,7 @@
             "title": "ಕನಸು ಕಂಗಳಿಗೆ ದನಿಯಾದ ವಚನಸಾಹಿತ್ಯ",
             "feature": "",
             "page": "0021-0022",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0021",
@@ -186,7 +187,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಮಂಜುಶ್ರೀ ಎಂ. ಕಡಕೋಳ",
@@ -198,6 +198,7 @@
             "title": "ಬಿನೋದಿನಿ ದಾಸಿ",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0023",
@@ -208,7 +209,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -220,13 +220,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ ಸಾಕ್ಷಾತ್ಕಾರದ ಪಥ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0025-0025",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0025",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -238,6 +238,7 @@
             "title": "ಆ ಕರಾಳದಿನದಂದು. . .",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0026",
@@ -248,7 +249,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -260,13 +260,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0028-0028",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -278,6 +278,7 @@
             "title": "ಯುವಜನತೆ ಮತ್ತು ಸಮಾಜ ಕಾರ್ಯ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0029-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
@@ -300,7 +301,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸೋಮಸುಂದರಂ ಹೆಚ್. ಎನ್.",
@@ -312,13 +312,13 @@
             "title": "ದಾನವಲ್ಲ ನ್ಯಾಯ, ಪುಸ್ತಕದ ಮಹಿಮೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0034-0034",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -330,13 +330,13 @@
             "title": "ಶಂಖವೂದಿದ ಪದ್ಮಲೋಚನ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -348,13 +348,13 @@
             "title": "ಗೀತೆಯ ಅರ್ಥ-ಕಥಾಚಿತ್ರ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -366,13 +366,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -384,13 +384,13 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

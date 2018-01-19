@@ -10,13 +10,13 @@
             "title": "ಓದುಗರ ಪ್ರತಿಕ್ರಿಯೆ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
             "page": "0004-0004",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,13 +28,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ, ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 3,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 3,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -46,13 +46,13 @@
             "title": "ಒಂದು ಮನವಿ",
             "feature": "",
             "page": "0006-0006",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0006",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಅಸೀಮಾತ್ಮಾನಂದ",
@@ -64,6 +64,7 @@
             "title": "ಸಾಧನೆಯ ಹಾದಿಯಲ್ಲಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 5,
             "fullText": [
                 {
                     "page": "0007",
@@ -82,7 +83,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -94,6 +94,7 @@
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಜನಸೇವಾದರ್ಶ",
             "feature": "",
             "page": "0011-0015",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0011",
@@ -116,7 +117,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಹೃದಾನಂದ",
@@ -128,6 +128,7 @@
             "title": "ಸ್ವಾಮಿ ರಾಮಕೃಷ್ಣಾನಂದರ ಗುರುಸೇವಾದರ್ಶ",
             "feature": "",
             "page": "0016-0020",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0016",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಶಿವಕಾಂತಾನಂದ",
@@ -162,6 +162,7 @@
             "title": "ಜನಸೇವೆಯೇ ಜನಾರ್ದನ ಸೇವೆ",
             "feature": "",
             "page": "0021-0025",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0021",
@@ -184,7 +185,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ್ ಡಾ. ಕೆ. ಬಿ.",
@@ -196,6 +196,7 @@
             "title": "ಆಧ್ಯಾತ್ಮ ವಿದ್ಯೆ ಮತ್ತು ಆಧುನಿಕ ಮಾಧ್ಯಮ",
             "feature": "",
             "page": "0026-0028",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0026",
@@ -210,7 +211,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಅನಂತರಾಮು ಡಾ. ಕೆ.",
@@ -222,13 +222,13 @@
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
             "page": "0028-0028",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -240,6 +240,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಉಗಮ - ಒಂದು ರೋಮಾಂಚಕ ಕತೆ",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0029",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -262,13 +262,13 @@
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
             "page": "0031-0031",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0031",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -280,6 +280,7 @@
             "title": "ಶಿಕ್ಷಣಪ್ರಭ",
             "feature": "",
             "page": "0032-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0032",
@@ -290,7 +291,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -302,6 +302,7 @@
             "title": "ಕರ್ನಾಟಕದ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ",
             "feature": "",
             "page": "0034-0035",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0034",
@@ -312,7 +313,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ನಾಗರತ್ನ",
@@ -324,13 +324,13 @@
             "title": "ಅಧ್ಯಾತ್ಮ ಪ್ರಹಸನ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0036-0036",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -342,6 +342,7 @@
             "title": "ನಿಜವಾದ ಸ್ನೇಹಿತ ಯಾರು?",
             "feature": "",
             "page": "0037-0038",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0037",
@@ -352,7 +353,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಬ್ರಹ್ಮಚಾರಿ",
@@ -364,13 +364,13 @@
             "title": "ಗ್ರೇಸ್ ಮತ್ತು ಲಿಂಕನ್ರ ಗಡ್ಡ",
             "feature": "",
             "page": "0039-0039",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -382,13 +382,13 @@
             "title": "ತಾಯಿಯ ಪ್ರಾರ್ಥನೆ",
             "feature": "",
             "page": "0040-0040",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -400,13 +400,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0041-0041",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -418,13 +418,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

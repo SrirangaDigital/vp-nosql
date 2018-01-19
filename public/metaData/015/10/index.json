@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ದೇವೀ ಆರಾಧನೆಯ ನೆಲೆಗಳು",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ನೆನಪಿನಂಗಳದಲ್ಲಿ ಮೂವರು ಶ್ರೇಷ್ಠ ಸಂನ್ಯಾಸಿಗಳು",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0011-0015",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಶ್ರೀಧರಾನಂದ",
@@ -80,18 +80,19 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ:ಆದ್ಯಾಶಕ್ತಿ",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0016-0016",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 13
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0017-0020",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -122,6 +122,7 @@
             "title": "ಭಗವದ್ ವಿಭೂತಿ",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0021-0023",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -136,7 +137,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -148,6 +148,7 @@
             "title": "ದಶಮಹಾವಿದ್ಯಾ",
             "feature": "ದಶಮಹಾವಿದ್ಯಾ",
             "page": "0024-0029",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
@@ -174,7 +175,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -186,6 +186,7 @@
             "title": "ಸ್ವಾಮಿ ಯತೀಶ್ವರಾನಂದ-ನಾವು ಕಂಡಂತೆ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0030-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -195,13 +196,13 @@
                     "page": "0031",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 27
+            ]
         },
         {
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ - ಶ್ರೀಕೃಷ್ಣನ ನಂತರದ ಭಾರತ",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0032-0034",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -216,7 +217,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಎ.ಮುರಳೀಧರ",
@@ -228,13 +228,13 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0035-0035",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -246,6 +246,7 @@
             "title": "ಭಗವದ್ಗೀತೆಯ ಒಂದು ಮುಖ:ಜೀವನವೇ ಒಂದು ಸವಾಲು",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0036-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -256,7 +257,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಧರ್ಮವ್ರತಾನಂದ",
@@ -268,6 +268,7 @@
             "title": "ಭೀಷ್ಮನ ಪ್ರತಿಜ್ಞೆ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -285,20 +286,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

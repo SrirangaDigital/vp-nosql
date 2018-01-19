@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಗುರುವಿನಿಂದ ಜ್ಞಾನ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಮಹಾಸಮಾಧಿ- ಇನ್ನಷ್ಟು ವಿವರಗಳು",
             "feature": "",
             "page": "0011-0015",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -80,7 +81,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಚಂದ್ರಶೇಖರ ಚಟ್ಟೋಪಾಧ್ಯಾಯ",
@@ -92,6 +92,7 @@
             "title": "ವೇದಾಂತದ ಮೂರು ತತ್ತ್ವಸಿದ್ಧಾಂತಗಳು ಹಾಗೂ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಸಮನ್ವಯ ಸಿದ್ಧಾಂತ-೧",
             "feature": "",
             "page": "0016-0019",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0016",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ರಾಮಕೃಷ್ಣಾನಂದ",
@@ -122,6 +122,7 @@
             "title": "ಸ್ವಾಮಿ ಶಿವಾನಂದರ ನೆನಪುಗಳು-೨",
             "feature": "",
             "page": "0020-0024",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
@@ -144,7 +145,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -156,6 +156,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಲೀಲಾಸ್ಥಾನಗಳು ಸಚಿತ್ರ ಯಾತ್ರೆ -೧",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -166,7 +167,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -178,6 +178,7 @@
             "title": "ಗುರುಪೂರ್ಣಿಮಾ",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಎಂ. ಶೆಟ್ಟಿ, ಕುಮಾರಿ",
@@ -200,6 +200,7 @@
             "title": "ತೌಲನಿಕ ಧರ್ಮದ ಬಗ್ಗೆ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು -೧",
             "feature": "",
             "page": "0029-0032",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -218,7 +219,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -230,6 +230,7 @@
             "title": "ಕೃತಜ್ಞತೆಯ ಆಯಾಮಗಳು",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -240,7 +241,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ರೂಪಾ ಡಾ.",
@@ -252,6 +252,7 @@
             "title": "ಭಾವೋದ್ವೇಗ ನಿಗ್ರಹ-೧",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0035-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
@@ -266,7 +267,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -278,13 +278,13 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -296,13 +296,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -314,13 +314,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಚೀನಾದಲ್ಲಿ ಭಾರತೀಯ ವೈದ್ಯಕೀಯ ವಿದ್ಯಾರ್ಥಿಗಳು, ಅಸಹಿಷ್ಣು ಭಾರತ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -332,6 +332,7 @@
             "title": "ಸ್ವಾಮಿ ಪ್ರೇಮಾನಂದರು ಹೇಳಿದ ಕಥೆಗಳು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0040-0041",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
@@ -342,7 +343,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -354,13 +354,13 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 41,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

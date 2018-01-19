@@ -10,18 +10,19 @@
             "title": "ವೇದಾಂತ ದೇಶಿಕ ವಿರಚಿತ ಶ್ರೀಸ್ತುತಿಯಿಂದ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಜನಚೇತನವನ್ನು ಬಡಿದೆಬ್ಬಿಸಿದ ರಾಷ್ಟ್ರೋದ್ಧಾರಕನ ಮಿಂಚಿನ ನುಡಿಗಳು",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಮಹಾಸಂತ ಪವಾಹಾರಿ ಬಾಬಾ",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಬ್ರ. ಸುವಿಮಲಚೈತನ್ಯ",
@@ -72,6 +72,7 @@
             "title": "ಸ್ವಾಮಿ ಶಾರದಾನಂದರ ನೆನಪುಗಳು",
             "feature": "",
             "page": "0014-0016",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಶಾರದೇಶಾನಂದ",
@@ -98,6 +98,7 @@
             "title": "ಪ್ರಕೃತಿ ಮಾತೆಯ ಕಗ್ಗೊಲೆ!",
             "feature": "",
             "page": "0017-0020",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -116,7 +117,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಟಿಪ್ಪುಸುಲ್ತಾನ ಜೆ. ನಾಯ್ಕವಾಡಿ",
@@ -128,6 +128,7 @@
             "title": "ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರ ಜೀವಿತ ಚರಿತೆ",
             "feature": "",
             "page": "0021-0024",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -146,7 +147,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಎಚ್.ವಿ. ಸರೋಜ",
@@ -158,6 +158,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -180,6 +180,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -190,7 +191,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಕೆ.ಆರ್. ಮೋಹನ್",
@@ -202,6 +202,7 @@
             "title": "ಈಶಾವಾಸ್ಯ ಉಪನಿಷತ್ತಿನ ಒಂದು ಪಕ್ಷಿನೋಟ",
             "feature": "",
             "page": "0029-0031",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -216,7 +217,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ವಿ. ಲಕ್ಷ್ಮೀಶ್",
@@ -228,6 +228,7 @@
             "title": "ಶಿಕ್ಷಣದ ಬಗ್ಗೆ ಕೆಲವು ಚಿಂತನೆಗಳು",
             "feature": "",
             "page": "0032-0034",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -254,6 +254,7 @@
             "title": "ಸಂಸ್ಕೃತಿ ಮತ್ತು ಅಭಿವೃದ್ಧಿಗಳ ಸಂಬಂಧ ಕುರಿತು ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್. ಜಯದೇವ",
@@ -276,6 +276,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನದರ್ಶನ-೭",
             "feature": "",
             "page": "0037-0040",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
@@ -293,13 +294,13 @@
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0041-0042",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
@@ -309,8 +310,7 @@
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         }
     ]
 }

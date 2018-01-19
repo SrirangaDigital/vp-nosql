@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ - ದೇವೀಪ್ರಾತಃಸ್ಮರಣಸ್ತೋತ್ರಮ್ ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಆಚರಣೆಗಳು",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಅಂತರ್ಯಾಮಿ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ನವರಾತ್ರಿ ಅಥವಾ ದುರ್ಗಾಪೂಜೆಯ ಮಹತ್ವ ದುರ್ಗೆಯ ವಿವಿಧ ರೂಪಗಳು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0015",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -75,13 +76,13 @@
                     "page": "0015",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 8
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೧೨",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0016-0019",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -100,7 +101,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -112,6 +112,7 @@
             "title": "ಶ್ರೀ ತ್ಯಾಗರಾಜರ ಕೀರ್ತನೆಗಳಲ್ಲಿ ನವವಿಧ ಭಕ್ತಿ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0020-0024",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -146,6 +146,7 @@
             "title": "ದೈವಾಸುರ ಸಂಪತ್ತು",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0025-0029",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -180,6 +180,7 @@
             "title": "ಜಾಗತೀಕರಣ, ಶಿಕ್ಷಣ ಮತ್ತು ಸಮಾಜ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0030-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -190,7 +191,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಹೆಚ್.ಪಾಂಡುರಂಗ ವಿಠಲ",
@@ -202,6 +202,7 @@
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ",
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0032-0033",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -211,13 +212,13 @@
                     "page": "0033",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 29
+            ]
         },
         {
             "title": "ಶುಕ್ರಾಚಾರ್ಯನ ಕಥೆ",
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",
             "page": "0034-0036",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -232,7 +233,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -244,18 +244,19 @@
             "title": "ಸಾರಸ ಪಕ್ಷಿಯ ಕಥೆ",
             "feature": "ಜಪಾನಿನ ಕಥೆಗಳು",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ವಿಭೀಷಣನ ಶರಣಾಗತಿ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -273,20 +274,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

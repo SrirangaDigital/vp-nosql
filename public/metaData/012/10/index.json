@@ -10,18 +10,19 @@
             "title": "ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಕಥಾಪ್ರಪಂಚ: ತ್ಯಾಗ-ವೈರಾಗ್ಯ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 3,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 3
+            ]
         },
         {
             "title": "ನವಯುಗದ ನೂತನ ಮಾನವ:ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0011",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -72,6 +72,7 @@
             "title": "ಮಕರ ಸಂಕ್ರಾತಿಯ ಮಹತ್ವ",
             "feature": "",
             "page": "0014-0016",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0014",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -98,6 +98,7 @@
             "title": "ಹಬ್ಬಗಳನ್ನು ಅರಿತು ಆಚರಿಸೋಣ",
             "feature": "",
             "page": "0017-0020",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0017",
@@ -116,7 +117,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಕೆ. ಜಗದೀಶ ಪೈ",
@@ -128,6 +128,7 @@
             "title": "ದೀಪಾವಳಿಯ ಸೊಬಗು",
             "feature": "",
             "page": "0021-0024",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0021",
@@ -146,7 +147,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸಿ. ಎಸ್. ಮಂಗಳಮ್ಮ",
@@ -158,6 +158,7 @@
             "title": "ಗುರುವಿನೊಡನೆ ದೇವರಡಿಗೆ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0025",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -180,6 +180,7 @@
             "title": "ನೆನಪಿನಂಗಳದಿಂದ",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0027",
@@ -190,7 +191,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಭಾರತೀಪ್ರಾಣಾ",
@@ -202,6 +202,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಶಿಷ್ಯೋದ್ಯಾನ: ಸ್ವಾಮಿ ರಾಮಕೃಷ್ಣಾನಂದ",
             "feature": "",
             "page": "0029-0032",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0029",
@@ -220,7 +221,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -232,6 +232,7 @@
             "title": "ಅದ್ವಿತೀಯ ಮಹಿಳೆ ಮೇರಿ ಕ್ಯೂರಿ",
             "feature": "",
             "page": "0033-0035",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0033",
@@ -246,7 +247,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ರಾ.ಲ.ಜಗದೀಶ್",
@@ -258,13 +258,13 @@
             "title": "ನಮ್ಮ ಸಂಸ್ಕೃತಿ ಪರಿಚಯ - ೫",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸೀತಾ ಲಖಾನಿ",
@@ -276,13 +276,13 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳಿಗಿರಬೇಕಾದ ಗುಣಲಕ್ಷಣಗಳು",
             "feature": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ",
             "page": "0037-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಜಿ. ಮರೋರಮಾ",
@@ -294,6 +294,7 @@
             "title": "ಮಾಂಡವ್ಯ ಮಹರ್ಷಿ",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0038",
@@ -311,20 +312,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         }
     ]
 }

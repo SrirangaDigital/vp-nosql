@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಅಹಂಕಾರದ ಪರಿಪಕ್ವತೆ",
             "feature": "",
             "page": "0005-0008",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಅಪರಾಧಿಯ ಕಟ್ಟೆಯಲ್ಲಿ",
             "feature": "",
             "page": "0009-0012",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0009",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಮತ್ತು ಸಮಕಾಲೀನ ಪಾಶ್ಚಾತ್ಯ ವಿಜ್ಞಾನಿಗಳು",
             "feature": "",
             "page": "0013-0015",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0013",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ದೇಸಾಯಿ ಡಾ. ಎನ್. ಬಿ.",
@@ -114,6 +114,7 @@
             "title": "ವರ್ಣವ್ಯವಸ್ಥೆ",
             "feature": "",
             "page": "0016-0017",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0016",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸೂರ್ಯನಾರಾಯಣ ಭಟ್ಟ ಹಿತ್ಲಳ್ಳಿ",
@@ -136,6 +136,7 @@
             "title": "ಅಸಿಸ್ಸಿಯ ಅದ್ಭುತ ಸಂತ ಪ್ರಾನ್ಸಿಸ್",
             "feature": "",
             "page": "0018-0021",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0018",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಜಯದೇವ ಜಿ. ಎಸ್.",
@@ -166,6 +166,7 @@
             "title": "ನಮ್ಮಂತೆ ನಾವಿರೋಣ",
             "feature": "",
             "page": "0022-0023",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0022",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಬಾಲರಾಜ್ ಡಾ. ಕೆ. ವೈ.",
@@ -188,6 +188,7 @@
             "title": "ನಂದಿಮಿತ್ರನ ಉಪವಾಸ",
             "feature": "",
             "page": "0024-0025",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0024",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ನಾರಾಯಣ ಬ್ರ.",
@@ -210,6 +210,7 @@
             "title": "ಭಗವದ್ಗೀತೆಯ ವಿಶ್ವಸಂದೇಶ",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0026",
@@ -220,7 +221,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ರಫೀಕ್ ಜಕಾರಿಯಾ ಡಾ.",
@@ -232,13 +232,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ-ಶ್ರೀಕೃಷ್ಣ ಲೀಲೆ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0028-0028",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -250,6 +250,7 @@
             "title": "ಯುವ ಸ್ಪಂದನ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0029-0031",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -276,13 +276,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0032-0032",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -294,13 +294,13 @@
             "title": "ಭಕ್ತಿಯಿದ್ದಲ್ಲಿ ಭಗವಂತ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0033-0033",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -312,13 +312,13 @@
             "title": "ಕರ್ತವ್ಯವನ್ನು ಬಿಡದಿರು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0034-0034",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -330,13 +330,13 @@
             "title": "ಸಾವು ಕಾಣದ ಮನೆ",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -348,13 +348,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -366,6 +366,7 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0037-0038",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
@@ -376,7 +377,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

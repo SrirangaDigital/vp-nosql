@@ -10,18 +10,19 @@
             "title": "ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಕಥಾಪ್ರಪಂಚ - ವ್ಯಾಕುಲತೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಶೋಷಣೆಯ ಬಹುಮುಖಗಳು",
             "feature": "",
             "page": "0011-0015",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಜಿ. ಎಸ್. ಜಯದೇವ್",
@@ -80,6 +80,7 @@
             "title": "ಆತ್ಮಜಾಗೃತಿಯಿಂದ ಶೋಷಣೆಯ ಭೂತೋಚ್ಚಾಟನೆ",
             "feature": "",
             "page": "0016-0018",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ವಿಜಯಕುಮಾರ",
@@ -106,6 +106,7 @@
             "title": "ಹಸಿವು ಮತ್ತು ಶೋಷಣೆ-ಆರ್ಥಿಕ ರಂಗದ ಪರಿಣಾಮಗಳು",
             "feature": "",
             "page": "0019-0021",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -120,7 +121,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ರಾಜೇಶ್ವರಿ ಕೃಷ್ಣ",
@@ -132,18 +132,19 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮಹಿಮಾ",
             "feature": "",
             "page": "0022-0022",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 19
+            ]
         },
         {
             "title": "ಗುರುವಿನೊಡನೆ ದೇವರಡಿಗೆ",
             "feature": "ಸ್ವಾಮಿ",
             "page": "0023-0024",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -166,6 +166,7 @@
             "title": "ನೆನಪಿನಂಗಳದಿಂದ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕ ಭಾರತೀಪ್ರಾಣಾ",
@@ -188,6 +188,7 @@
             "title": "ಕರುಣಾಸಾಗರ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಗಿರೀಶ್ಚಂದ್ರ ಘೋಷ್",
@@ -210,6 +210,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಶಿಷ್ಯೋದ್ಯಾನ:ಸ್ವಾಮಿ ಅದ್ಭುತಾನಂದರು",
             "feature": "ಡಾ.",
             "page": "0029-0032",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -228,7 +229,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -240,6 +240,7 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ:ಅದ್ವಿತೀಯ ಮಹಿಳೆ ಮೇರಿ ಕ್ಯೂರಿ",
             "feature": "ಡಾ.",
             "page": "0033-0035",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -254,7 +255,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ರಾ. ಲ. ಜಗದೀಶ್",
@@ -266,13 +266,13 @@
             "title": "ನಮ್ಮ ಸಂಸ್ಕೃತಿ ಪರಿಚಯ-೪",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸೀತಾ ಲಖಾನಿ",
@@ -284,13 +284,13 @@
             "title": "ಚೆನ್ನಾಗಿ ಅಧ್ಯಯನ ಮಾಡಿ",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಜಿ. ಮನೋರಮಾ",
@@ -302,6 +302,7 @@
             "title": "ಜಪದ ಪರಿಣಾಮ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -319,20 +320,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

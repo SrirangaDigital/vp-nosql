@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ - ಅನ್ನಪೂರ್ಣಾಸ್ತೋತ್ರರತ್ನಮ್ ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಒಬ್ಬ ಸಾಧುವಿನ ಕಥೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಅಹಂಕಾರ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಬೋಧನೆಯ ಬೆಳಕಿನಲ್ಲಿ ಅಷ್ಟಾವಕ್ರ ಸಂಹಿತೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0016",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -80,7 +81,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಪರಹಿತಾನಂದ",
@@ -92,6 +92,7 @@
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೮",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0017-0020",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -122,6 +122,7 @@
             "title": "ಕೈಲಾಸ ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ",
             "feature": "ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ",
             "page": "0021-0024",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -140,7 +141,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ದಾಮೋದರಾನಂದ",
@@ -152,18 +152,19 @@
             "title": "ಯುವಚೇತನ",
             "feature": "",
             "page": "0025-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 22
+            ]
         },
         {
             "title": "ಅಸತೋ ಮಾ ಸದ್ಗಮಯ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0026-0029",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -182,7 +183,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಧರ್ಮವ್ರತಾನಂದ",
@@ -194,6 +194,7 @@
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ",
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0030-0032",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -207,20 +208,19 @@
                     "page": "0032",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 27
+            ]
         },
         {
             "title": "ಸೋಮಾರಿ ಹುಡುಗನ ಕಥೆ",
             "feature": "ಜಪಾನಿನ ನೀತಿಕಥೆಗಳು",
             "page": "0033-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ರಾಜಕೃಷ್ಣ ಭಟ್ಟಾಚಾರ್ಯ",
@@ -232,6 +232,7 @@
             "title": "ಕರ್ಕಟಿಯ ಕಥೆ",
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು:ಕಥಾಗುಚ್ಛ ೪",
             "page": "0034-0036",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -246,7 +247,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -258,18 +258,19 @@
             "title": "ಸೌಂದರ್ಯಲಹರೀ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಪಾಂಡುರಂಗನ ಭಕ್ತೆ ಗೋಮಾಬಾಯಿ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -287,20 +288,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

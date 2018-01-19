@@ -10,18 +10,19 @@
             "title": "ಶ್ರೀಹನುಮತ್ಪಂಚರತ್ನಂ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 3,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 3
+            ]
         },
         {
             "title": "ನವೋಲ್ಲಾಸದ ಕ್ಷಿತಿಜದತ್ತ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ಅಭ್ಯಾಸಯೋಗ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 9
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ನೆನಪುಗಳು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0013",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಭವತಾರಿಣೀ ದೇವಿ",
@@ -80,6 +80,7 @@
             "title": "ಶ್ರೀಮಾತೆ ಭಾಗ-೩",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0014-0017",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಆಶುತೋಷ್ ಮಿತ್ರ",
@@ -110,6 +110,7 @@
             "title": "ಭಗವದ್ಗೀತೆಯ ಕೃಪೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0018-0019",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0018",
@@ -120,7 +121,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸುದರ್ಶನ ಸಿಂಹ ಚಕ್ರ",
@@ -132,6 +132,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ಪತ್ರಗಳು - ೨",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0020-0021",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
@@ -141,13 +142,13 @@
                     "page": "0021",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 19
+            ]
         },
         {
             "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೪",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0022-0026",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0022",
@@ -170,7 +171,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಶ್ರದ್ಧಾನಂದ",
@@ -182,6 +182,7 @@
             "title": "ಚೈತನ್ಯ ದೇವನ ಭಕ್ತಿಮಾರ್ಗ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0027-0031",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
@@ -204,7 +205,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -216,6 +216,7 @@
             "title": "ಜಲಾಲುದ್ದೀನ್ ರೂಮಿ - ಸೂಫಿ ಕವಿ",
             "feature": "ಸಂತರ ಜೀವನ",
             "page": "0032-0034",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -230,7 +231,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -242,30 +242,31 @@
             "title": "ಮಮೋತಾರಾ",
             "feature": "ಜಪಾನಿನ ಕಥೆಗಳು",
             "page": "0035-0035",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ವಿವೇಕ ವಿಹಾರ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0036-0036",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ ಭಾ‌ಗ-೬",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
@@ -283,20 +284,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 41
+            ]
         }
     ]
 }

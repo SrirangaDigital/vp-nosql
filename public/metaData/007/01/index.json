@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಮಾನವನ ನೈತಿಕ ಹಾಗೂ ಸಾಂಸ್ಕೃತಿಕ ಬೆಳವಣಿಗೆ - ಭಾಗ ೧",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0011",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -50,7 +51,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -62,6 +62,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಸಂದೇಶ",
             "feature": "",
             "page": "0012-0013",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0012",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ತಥಾಗತಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಮಾತುಗಳಲ್ಲಿ ವೇದಾಂತದ ಸಂದೇಶ",
             "feature": "",
             "page": "0014-0017",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ತ್ಯಾಗಮಯೀ ಮಾತಾ",
@@ -114,6 +114,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಸ್ನೇಹಶೀಲ ವ್ಯಕ್ತಿತ್ವ",
             "feature": "",
             "page": "0018-0019",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0018",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಉದಯಶಂಕರ್ ಡಾ. ಎನ್. ಕೆ.",
@@ -136,6 +136,7 @@
             "title": "ವನವಾಸಿಗಳ ಸಬಲೀಕರಣ ಮತ್ತು ರಾಮಕೃಷ್ಣ ಮಿಷನ್",
             "feature": "",
             "page": "0020-0023",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ವಿಜಯ ಕುಮಾರ",
@@ -166,6 +166,7 @@
             "title": "ಸಚಿತ್ರ-ಯಾತ್ರೆ",
             "feature": "",
             "page": "0024-0025",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -188,6 +188,7 @@
             "title": "ಕ್ಷಮೆ ಯಾಚಿಸಿದ ಬನಿಯ",
             "feature": "",
             "page": "0026-0028",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -202,7 +203,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸೋಮಸುಂದರಂ ಹೆಚ್. ಎನ್.",
@@ -214,18 +214,19 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "",
             "page": "0028-0028",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 27
+            ]
         },
         {
             "title": "ರೋಮೇ ರೋಲಾ",
             "feature": "",
             "page": "0029-0031",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -240,7 +241,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -252,13 +252,13 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0032-0032",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -270,6 +270,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕನಸಿನ ರಾಷ್ಟ್ರನಿರ್ಮಾಣದಲ್ಲಿ ಯುವಕರ ಪಾತ್ರ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0033-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -288,7 +289,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಪೋಷಿಣಿ ಬಿ. ಟಿ.",
@@ -300,13 +300,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಬಿ. ಬಿ. ಸಿ. ತಿರಸ್ಕರಿಸಿದ ಆರ್ಯರ ಆಕ್ರಮಣ ಸಿದ್ಧಾಂತ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -318,13 +318,13 @@
             "title": "ಈ ಬದುಕಿನಲ್ಲಿ ಯಾವುದೂ ಆಶ್ಚರ್ಯವಲ್ಲ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -336,13 +336,13 @@
             "title": "ದುಶ್ಚಟ ಬಿಡುವುದು ಹೇಗೆ?",
             "feature": "",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -354,13 +354,13 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

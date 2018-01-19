@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ: ಶ್ಯಾಮಲಾ ದಂಡಕ; ಶ್ರೀರಾಮಕೃಷ್ಣರು ಕಂಡ ಜಗನ್ಮಾತೆ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಶಿವ-ಶಕ್ತಿ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಪವಿತ್ರ ಪತ್ರಮಾಲೆ: ಸ್ವಾಮಿ ತುರೀಯಾನಂದಜಿ ಅವರ ಒಂದು ಪತ್ರ",
             "feature": "",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ದೇವಿ ಕಾಮಾಖ್ಯ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಧರ್ಮಪ್ರಾಣಾ",
@@ -84,6 +84,7 @@
             "title": "ದೇವಿಯೇ ದೇವಿಯೆದುರು ಕೂರುವುದೆ ಹೀಗೆ!",
             "feature": "",
             "page": "0015-0016",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಶಿವಾತ್ಮಾನಂದ",
@@ -106,18 +106,19 @@
             "title": "ಪೋಷಕರೇ, ಗಮನಿಸಿ: ಹದಿಹರೆಯದ ಮಕ್ಕಳ ನಿಯಂತ್ರಣ",
             "feature": "",
             "page": "0017-0017",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 14
+            ]
         },
         {
             "title": "ಬಂಗಾಳದಲ್ಲಿ ದುರ್ಗಾಪೂಜೆ",
             "feature": "",
             "page": "0018-0021",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -136,7 +137,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಪಿ. ಉಷಾ",
@@ -148,18 +148,19 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳೇ ಗಮನಿಸಿ: ವಿದ್ಯೆಯ ಮಹತ್ವ",
             "feature": "",
             "page": "0022-0022",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 19
+            ]
         },
         {
             "title": "ಬುದ್ಧ ಮರಳಿ ತಾಯ್ನಾಡಿಗೆ",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -170,7 +171,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -182,6 +182,7 @@
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -196,7 +197,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಎ. ಮುರಳೀಧರ",
@@ -208,6 +208,7 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ: ಶ್ರೀಮನ್ನಾರಾಯಣಾಮೃತ ಧಾರಾ",
             "feature": "",
             "page": "0028-0029",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -218,7 +219,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಎಚ್. ಪಾಂಡುರಂಗವಿಠಲ",
@@ -230,6 +230,7 @@
             "title": "ಶ್ರೀರಾಮಾನುಜರು - ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "feature": "",
             "page": "0030-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -240,7 +241,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಎಚ್.ವಿ. ಸರೋಜ",
@@ -252,13 +252,13 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0032-0032",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -270,6 +270,7 @@
             "title": "ಶಿಕ್ಷಕರೇ, ಗಮನಿಸಿ: ಶಿಕ್ಷಣದ ಪರಾಕಾಷ್ಠೆ ಅಭಿವೃದ್ಧಿಯ ಮೇಲ್ಮೆ",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -280,7 +281,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಟಿಪ್ಪುಸುಲ್ತಾನ ಜೆ. ನಾಯ್ಕವಾಡಿ",
@@ -292,18 +292,19 @@
             "title": "ಜಪಾನಿನ ಕಥೆಗಳು: ಪುಟಾಣಿ ಹುಡುಗ ಮತ್ತು ರಾಜಕುಮಾರಿ",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 32
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0036-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -314,7 +315,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -326,6 +326,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ನೀಲಕಂಠ ದೀಕ್ಷಿತರು",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -343,20 +344,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

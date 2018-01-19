@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಉತ್ತರಮೀಮಾಂಸಾ ದರ್ಶನದಲ್ಲಿ ಬ್ರಹ್ಮಜಿಜ್ಞಾಸೆ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ವೇದಾಂತ ಮತ್ತು ರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದ ದರ್ಶನ",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ನ್ಯಾಯದರ್ಶನದಲ್ಲಿ 'ಅಪವರ್ಗ' ನಿರೂಪಣೆ",
             "feature": "",
             "page": "0014-0015",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0014",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ವಿದ್ವಾನ್ ಅನಂತಶರ್ಮಾ ಭುವನಗಿರಿ",
@@ -102,6 +102,7 @@
             "title": "ವೈಶೇಷಿಕ ದರ್ಶನದಲ್ಲಿ 'ಧರ್ಮ'",
             "feature": "",
             "page": "0015-0019",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0015",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಅನಂತ ನಾಗೇಂದ್ರಭಟ್ಟ",
@@ -136,18 +136,19 @@
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
             "page": "0019-0019",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0019",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 15
+            ]
         },
         {
             "title": "ಸಾಂಖ್ಯದರ್ಶನದಲ್ಲಿ ಪ್ರಕೃತಿ-ಪುರುಷ ವಿವೇಕ",
             "feature": "",
             "page": "0020-0022",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0020",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ವಿದ್ವಾನ್ ಶೇಷಾಚಲ ಶರ್ಮಾ",
@@ -174,6 +174,7 @@
             "title": "ಪಾತಂಜಲ ಯೋಗದರ್ಶನ",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0023",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಯೋಗಾಚಾರ್ಯ ಕೆ. ಕೇಶವಮೂರ್ತಿ",
@@ -200,6 +200,7 @@
             "title": "ಪೂರ್ವಮೀಮಾಂಸಾ ದರ್ಶನ",
             "feature": "",
             "page": "0026-0029",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0026",
@@ -218,7 +219,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಯೋಗಾಚಾರ್ಯ ನಾಗರಾಜ ಸೂರ್ರನಾರಾಯಣ ಪಾಂಡೆ",
@@ -230,6 +230,7 @@
             "title": "ಪರಿಪೂರ್ಣ ಭಕ್ತರಾಗಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0030-0032",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0030",
@@ -244,7 +245,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -256,6 +256,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಮಾತೆಯರು",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0033",
@@ -266,7 +267,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -278,30 +278,31 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0034-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 30
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿಯಿಂದ",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 31
+            ]
         },
         {
             "title": "ವಿಜ್ಞಾನ ಬೆಳೆದು ಬಂದ ರೋಮಾಂಚಕ ಕಥೆ",
             "feature": "",
             "page": "0036-0038",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0036",
@@ -316,7 +317,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಚಿದಾನಂದ ಗೌಡ",
@@ -328,6 +328,7 @@
             "title": "ಬನ್ನಿ, ಬೇಲೂರು ಮಠಕ್ಕೆ",
             "feature": "",
             "page": "0039-0040",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0039",
@@ -338,7 +339,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -350,25 +350,25 @@
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0041-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0041-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         }
     ]
 }

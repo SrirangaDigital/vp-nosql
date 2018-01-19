@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ವಿವೇಕಾನಂದ ಚಿಂತನ: ಚಿಕಾಗೋದಲ್ಲಿ ಚಮತ್ಕಾರ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0011",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -43,13 +44,13 @@
                     "page": "0011",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಕೈಲಾಸ ಮಾನಸ ಸರೋವರ: ನಿಸರ್ಗದ ಸ್ವರ್ಗೀಯ ನೋಟ",
             "feature": "",
             "page": "0012-0015",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0012",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಗೌರಾಂಗಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಆಧುನಿಕ ಕಾಲದ ನೂತನ ಮಾನವ: ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
             "page": "0016-0019",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -110,6 +110,7 @@
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ",
             "feature": "",
             "page": "0020-0022",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -136,6 +136,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಶಿಷ್ಯೋದ್ಯಾನ: ಸ್ವಾಮಿ ಸಬೋಧಾನಂದ",
             "feature": "",
             "page": "0025-0028",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -166,6 +166,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನನ್ನ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿದ್ದು ಹೇಗೆ?",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಆರ್. ಬಾಲಸುಬ್ರಮಣ್ಯಂ",
@@ -188,6 +188,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0031-0033",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -202,7 +203,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -214,6 +214,7 @@
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ: ಗುರುವಿನೊಡನೆ ದೇವರಡಿಗೆ...",
             "feature": "",
             "page": "0034-0036",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -228,7 +229,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -240,6 +240,7 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳಲ್ಲಿ ಪಂಚಶೀಲ",
             "feature": "",
             "page": "0037-0038",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -262,6 +262,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ನಿರ್ಗತಿಕನ ನಿಸ್ವಾರ್ಥ ಸೇವೆ",
             "feature": "",
             "page": "0039-0042",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0039",
@@ -279,13 +280,13 @@
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 36
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0043-0045",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0043",
@@ -299,8 +300,7 @@
                     "page": "0045",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 40
+            ]
         }
     ]
 }

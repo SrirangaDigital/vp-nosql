@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ತ್ಯಾಗವೇ ಜೀವನ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0006-0009",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0006",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಉಪಮಾ ರಾಮಕೃಷ್ಣಸ್ಯ",
             "feature": "",
             "page": "0010-0011",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0010",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಅಮೃತಾನಂದ",
@@ -80,13 +80,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0012-0012",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0012",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -98,6 +98,7 @@
             "title": "ಇಸ್ಲಾಂ ಧರ್ಮ ಮತ್ತು ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "",
             "page": "0013-0015",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0013",
@@ -112,7 +113,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಗೋಪೀನಾಥ ಎನ್.",
@@ -124,6 +124,7 @@
             "title": "ಬಡತನದಿಂದ ಹಿರಿತನಕ್ಕೆ",
             "feature": "",
             "page": "0016-0018",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0016",
@@ -138,7 +139,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -150,6 +150,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ - ಶಕ್ತಿಯ ಸಂಕೇತ",
             "feature": "",
             "page": "0018-0021",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0018",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಭಗವಾನ್ ಡಾ. ಕೆ. ಎಸ್.",
@@ -180,13 +180,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ಜ್ಞಾನ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0022-0022",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0022",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -198,6 +198,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಆಪ್ತ ಬಂಧು",
             "feature": "",
             "page": "0023-0026",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0023",
@@ -216,7 +217,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಸ್ವಾಮಿ ಪ್ರೊ. ಎನ್.",
@@ -228,6 +228,7 @@
             "title": "ಭವತಾರಿಣಿ ಕಾಳಿ",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0027",
@@ -238,7 +239,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ವಿಜಯ ಭಾರತಿ",
@@ -250,13 +250,13 @@
             "title": "ಮತ್ತೊಂದು ಸುತ್ತು - ಕವನ",
             "feature": "",
             "page": "0029-0029",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ವಿವೇಕಾನಂದ",
@@ -268,6 +268,7 @@
             "title": "ಯುವಕರ ಆದರ್ಶ - ಯುವ ವೇದಿಕೆ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0030-0032",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0030",
@@ -282,7 +283,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ವಿದ್ಯಾ ವಿಠಲ್",
@@ -294,13 +294,13 @@
             "title": "ಮಾನವನ ವೈಶಿಷ್ಟ್ಯ, ಧರ್ಮದ ಅಧ್ಯಯನ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0033-0033",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -312,13 +312,13 @@
             "title": "ಪುರಾತನ ಪ್ರೀಯತೆ, ಮಹಿಳೆಯರ ಮಹತ್ವ",
             "feature": "",
             "page": "0034-0034",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -330,6 +330,7 @@
             "title": "ಸತ್ಯದ ಒಂದು ಪ್ರಸಂಗ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0035-0036",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
@@ -340,7 +341,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಈರೇಗೌಡ ಡಿ. ಕೆ.",
@@ -352,13 +352,13 @@
             "title": "ಭಗವಂತನು ಹೇಗೆ ಬರುವನು ಒಳಗೆ - ಕಥನ ಕವನ",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -370,13 +370,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -388,13 +388,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಅಪೂರ್ವ ವ್ಯಕ್ತಿತ್ವ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಭಕ್ತಸಮಾಜ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಯಾರು?",
             "feature": "",
             "page": "0015-0019",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -122,13 +122,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0019-0019",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -140,6 +140,7 @@
             "title": "ನವಯುಗದ ಸ್ತ್ರೀಕುಲಕ್ಕೆ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಕರೆ",
             "feature": "",
             "page": "0020-0023",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
@@ -158,7 +159,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಉಷಾ ಪಿ.",
@@ -170,13 +170,13 @@
             "title": "ಏಕಶ್ಲೋಕೀ ರಾಮಕೃಷ್ಣ ಸ್ತೋತ್ರ",
             "feature": "",
             "page": "0024-0024",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಸ್ವಾಮಿ ಪ್ರೊ. ಎನ್.",
@@ -188,6 +188,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರಲ್ಲಿ ಪ್ರವಾದಿ ಮಹಮ್ಮದರನ್ನು ಕಂಡವರು",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -202,7 +203,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ದೇಸಾಯಿ ಡಾ. ಎನ್. ಬಿ.",
@@ -214,6 +214,7 @@
             "title": "ಬ್ರಾಹ್ಮಸಮಾಜದ ಮೇಲೆ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಪ್ರಬಾವ",
             "feature": "",
             "page": "0028-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
@@ -232,7 +233,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -244,6 +244,7 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0032-0033",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -254,7 +255,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -266,6 +266,7 @@
             "title": "ಪರಿಪೂರ್ಣ ಜೀವನದ ಅನ್ವೇಷಣೆಯಲ್ಲಿ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0034-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -284,7 +285,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -296,13 +296,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ - ಭಾರತೀಯತೆ ಎತ್ತ ಹೋಗಿದೆ? ವಿಫಲಗೊಂಡ ಉನ್ನತ ಶಿಕ್ಷಣ ವ್ಯವಸ್ಥೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -314,13 +314,13 @@
             "title": "ಮನುಷ್ಯತ್ವ, ಕಿವುಡು ಕಪ್ಪೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -332,13 +332,13 @@
             "title": "ವಿದ್ಯಾರೇಖೆ",
             "feature": "",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -350,6 +350,7 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0041-0042",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
@@ -360,7 +361,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ವಿವೇಕಾನಂದ ಚಿಂತನ: ಭಾವಪೂರ್ಣ ಭಕ್ತಿಮಾರ್ಗ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0011",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -43,13 +44,13 @@
                     "page": "0011",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಕಾಕ ಜಾತಕ",
             "feature": "",
             "page": "0012-0013",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0012",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -72,6 +72,7 @@
             "title": "ಜೈನಧರ್ಮ ಮತ್ತು ಶ್ರೀರಾಮಕೃಷ್ಣರು-೨",
             "feature": "",
             "page": "0014-0018",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಸುನಿರ್ಮಲಾನಂದ",
@@ -106,6 +106,7 @@
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ",
             "feature": "",
             "page": "0019-0024",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -132,7 +133,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -144,6 +144,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -158,7 +159,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -170,6 +170,7 @@
             "title": "ಕೈಲಾಸ, ಮಾನಸ ಸರೋವರ:ನಿಸರ್ಗದ ಸ್ವರ್ಗೀಯ ನೋಟ",
             "feature": "",
             "page": "0028-0032",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -192,7 +193,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಗೌರಾಂಗಾನಂದ",
@@ -204,6 +204,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ದೇವರು ಮತ್ತು ಧರ್ಮ",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -214,7 +215,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್.ಜಯದೇವ",
@@ -226,6 +226,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಶಿಷ್ಯೋದ್ಯಾನ: ಪುಷ್ಪ ೧೪ ಸ್ವಾಮಿ ಅಭೇದಾನಂದರು",
             "feature": "",
             "page": "0035-0039",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -248,7 +249,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -260,13 +260,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ಹುಟ್ಟಿದ್ದು ಹೇಗೆ?",
             "feature": "",
             "page": "0039-0039",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -278,6 +278,7 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳಲ್ಲಿ ಪಂಚಶೀಲ: ನೀತಿ",
             "feature": "",
             "page": "0040-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
@@ -288,7 +289,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -300,13 +300,13 @@
             "title": "ಬಾಲ್ಯದಲ್ಲೇ ಬೆಸೆದ ಬಂಧ",
             "feature": "",
             "page": "0041-0041",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಚಕ್ರವರ್ತಿ ಸೂಲಿಬೆಲೆ",
@@ -318,6 +318,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಜೀವನದರ್ಶನ-೧",
             "feature": "",
             "page": "0042-0045",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
@@ -335,20 +336,19 @@
                     "page": "0045",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0046-0046",
+            "relativePageNumber": 43,
             "fullText": [
                 {
                     "page": "0046",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 43
+            ]
         }
     ]
 }

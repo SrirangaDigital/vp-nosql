@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಯುವಶಕ್ತಿಯ ಸಾಕಾರಮೂರ್ತಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0008",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಪೂರ್ಣಾವತಾರ ಶ್ರೀಕೃಷ್ಣ",
             "feature": "",
             "page": "0009-0011",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0009",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ಪವಿತ್ರ ಉತ್ಸವ ಕುಂಭಮೇಳ",
             "feature": "",
             "page": "0012-0013",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0012",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -106,6 +106,7 @@
             "title": "ಧರ್ಮ ಜೀವನ",
             "feature": "",
             "page": "0014-0016",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0014",
@@ -120,7 +121,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ನಿರ್ವಾಣಾನಂದ",
@@ -132,13 +132,13 @@
             "title": "ಯಾವುದು ಸತ್ಯ?",
             "feature": "",
             "page": "0017-0017",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0017",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -150,6 +150,7 @@
             "title": "ಕರ್ಮ-ಧರ್ಮ ಸಮನ್ವಯ",
             "feature": "",
             "page": "0018-0021",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0018",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಪ್ರಭುಶಂಕರ ಡಾ.",
@@ -180,13 +180,13 @@
             "title": "ವಿವೇಕದ ಪ್ರಭೆ",
             "feature": "",
             "page": "0022-0022",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0022",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ನರಸಿಂಹಮೂರ್ತಿ ಡಾ. ಹೆಚ್. ವಿ.",
@@ -198,6 +198,7 @@
             "title": "ಯಾರು ನಮ್ಮ ಆದರ್ಶ?",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0023",
@@ -212,7 +213,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸುನಿರ್ಮಲಾನಂದ",
@@ -224,6 +224,7 @@
             "title": "ನಮ್ಮ ಪ್ರಶ್ನೆಗಳಿಗೆ ನಿಮ್ಮ ಉತ್ತರ-ಯುವಸ್ಪಂದನ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0026-0029",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0026",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -254,6 +254,7 @@
             "title": "ವಿವೇಕಾನಂದ ಸ್ಮೃತಿಮಾಲೆ",
             "feature": "",
             "page": "0030-0031",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0030",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -276,13 +276,13 @@
             "title": "ಸ್ಫೂರ್ತಿಯ ಎರಕದಲ್ಲಿ",
             "feature": "",
             "page": "0032-0032",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -294,13 +294,13 @@
             "title": "ಯಶಸ್ಸು ಯಾರಿಗೆ?",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -312,13 +312,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0034-0034",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -330,13 +330,13 @@
             "title": "ಈ ಶತಮಾನದಲ್ಲಿ ಮೇಲುಗೈ ಯಾರದು?",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -348,13 +348,13 @@
             "title": "ಟಿ. ವಿ. ಉನ್ಮತ್ತರಿಗೆ ಕಿವಿ ಮಾತು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -366,13 +366,13 @@
             "title": "ಮಂದ ಭಾರತ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -384,6 +384,7 @@
             "title": "ವಿವೇಕಾನಂದರು ಹೇಳಿದ ಕಥೆ-ಮೂರು ವರಗಳು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0037-0038",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
@@ -394,7 +395,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -406,13 +406,13 @@
             "title": "ಒಗ್ಗಟ್ಟಿನಲ್ಲಿ ಬಲವಿದೆ",
             "feature": "",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -424,13 +424,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -442,6 +442,7 @@
             "title": "ಓದುಗರ ಪ್ರತಿಕ್ರಿಯೆ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
             "page": "0040-0043",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0040",
@@ -460,7 +461,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 41,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

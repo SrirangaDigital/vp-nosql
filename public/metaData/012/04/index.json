@@ -10,18 +10,19 @@
             "title": "ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಕಥಾಪ್ರಪಂಚ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಕಲ್ಪನೆ ಮತ್ತು ಧ್ಯಾನ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ತಥಾಗತಾನಂದ",
@@ -76,6 +76,7 @@
             "title": "ಸಹಜ ಕ್ರಿಯೆಯಾಗಿ ಧ್ಯಾನ",
             "feature": "",
             "page": "0015-0017",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ತೇಜೋಮಯಾನಂದ",
@@ -102,6 +102,7 @@
             "title": "ಧ್ಯಾನದ ಅನುಷ್ಠಾನ",
             "feature": "",
             "page": "0018-0021",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -120,7 +121,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಭಾಸ್ಕರಾನಂದ",
@@ -132,6 +132,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಜನ್ಮಶತಮಾನೋತ್ಸವ",
             "feature": "",
             "page": "0022-0025",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸಂಬುದ್ಧಾನಂದ",
@@ -162,6 +162,7 @@
             "title": "ನಿರಂತರ ಕರುಣೆಯ ಝುರಿ-ಶ್ರೀಶಾರದಾಮಾತೆ",
             "feature": "ದಿವ್ಯಸ್ಮೃತಿಪ್ರಭ",
             "page": "0026-0028",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸುರೇಶ್ಚಂದ್ರ ಚೌಧುರಿ",
@@ -188,6 +188,7 @@
             "title": "ಪುಷ್ಪ ೨-ಸ್ವಾಮಿ ಯೋಗಾನಂದರು",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪುಷ್ಪೋದ್ಯಾನ",
             "page": "0029-0032",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -218,6 +218,7 @@
             "title": "ಕುಂಭಮೇಳ-ವಿಶ್ವದ ಅತಿದೊಡ್ಡ ಉತ್ಸವ",
             "feature": "",
             "page": "0033-0035",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -232,7 +233,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಆತ್ಮಶ್ರದ್ಧಾನಂದ",
@@ -244,6 +244,7 @@
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಶಿಕ್ಷಣ",
             "feature": "ಶಿಕ್ಷಣಪ್ರಭ",
             "page": "0036-0039",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -262,7 +263,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -274,6 +274,7 @@
             "title": "ಬದುಕಿನ ಸಾಧನೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0040-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
@@ -284,7 +285,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ರಾಮೇಶ್ವರ ಟಾಂಟಿಯಾ",
@@ -296,13 +296,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

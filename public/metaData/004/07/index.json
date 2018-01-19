@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಜ್ಞಾನಮೀಮಾಂಸೆ - ಸಂಪಾದಕೀಯ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0007",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಗುರುವಂದನಾ",
             "feature": "",
             "page": "0008-0011",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0008",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಸುಂದಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ರಾಮೇಶ್ವರಂ- ಒಂದು ತೀರ್ಥಕ್ಷೇತ್ರ",
             "feature": "",
             "page": "0012-0015",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0012",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -114,6 +114,7 @@
             "title": "ಮಾನವಪ್ರೇಮವೆ ನಿಜವಾದ ದೈವಭಕ್ತಿ",
             "feature": "",
             "page": "0016-0018",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0016",
@@ -128,7 +129,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಚೆನ್ನಬಸಪ್ಪ ಕೋ.",
@@ -140,6 +140,7 @@
             "title": "ದೇವರನ್ನು ನೋಡಿದ್ದೀರಾ",
             "feature": "",
             "page": "0018-0020",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0018",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಸ್ವಾಮಿ ಪ್ರೊ. ಎನ್.",
@@ -166,13 +166,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0020-0020",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0020",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -184,6 +184,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ- ಒಂದು ದಿವ್ಯಸ್ಮೃತಿ",
             "feature": "",
             "page": "0021-0024",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0021",
@@ -202,7 +203,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಸುಂದರರಾಮ ಐಯ್ಯರ್ ಕೆ.",
@@ -214,6 +214,7 @@
             "title": "ಬ್ರಹ್ಮಜ್ಞಾನಿ ಮಥುರಾದಾಸ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0025",
@@ -224,7 +225,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಉಷಾ ಪಿ.",
@@ -236,6 +236,7 @@
             "title": "ವಾಶಿಂಗ್ಟನ್ ಕಾರ್ವರ್",
             "feature": "",
             "page": "0027-0030",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0027",
@@ -254,7 +255,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -266,13 +266,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ಶರಣಾಗತಿ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0031-0031",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0031",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -284,6 +284,7 @@
             "title": "ಜೀವನ ಕೌಶಲಗಳು",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0032-0034",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0032",
@@ -298,7 +299,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ವಿಜಯ ಕುಮಾರ",
@@ -310,13 +310,13 @@
             "title": "ಕ್ರಿಯಾವೃದ್ದಿ-ವಯೋವೃದ್ದಿ,ರೋಗಮುಕ್ತ ಬದುಕು ಒಂದು ಭ್ರಮೆಯೇ.",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -328,13 +328,13 @@
             "title": "ಯಾರನ್ನೂ ನೋಯಿಸಬಾರದು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -346,13 +346,13 @@
             "title": "ಶ್ರೀರಮಕೃಷ್ಣ ದೃಷ್ಟಾಂತಚಿತ್ರ",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -364,13 +364,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

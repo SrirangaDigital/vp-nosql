@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಕಾತರತೆಯ ಯುಗ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0006-0008",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0006",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಸ್ವತಂತ್ರ ಭಾರತ - ವಿವೇಕಾನಂದ ದರ್ಶನ",
             "feature": "",
             "page": "0009-0011",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0009",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ರಂಗನಾಥಾನಂದಜಿ ಮಹರಾಜ್",
@@ -80,6 +80,7 @@
             "title": "ಶ್ರೀಕೃಷ್ಣನ ಕೊಳಲಿನ ಕರೆ",
             "feature": "",
             "page": "0012-0014",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0012",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಶಂಕರನಾರಾಯಣ ಭಟ್ ಎದುರ್ಕಳ ಕೆ.",
@@ -106,6 +106,7 @@
             "title": "ದೇವಾಲಯ",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0015",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಲಕ್ಷ್ಮಣದಾಸ ವೇಲಣಕರ್",
@@ -136,6 +136,7 @@
             "title": "ರವೀಂದ್ರನಾಥ ಠಾಕೂರರ ಮಾನವತಾ ಸಿದ್ಧಾಂತ",
             "feature": "",
             "page": "0019-0021",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0019",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ರಾಜೇಶ್ವರಿ ಕೃಷ್ಣ",
@@ -162,6 +162,7 @@
             "title": "ವೇದಕಾಲದ ಬ್ರಹ್ಮವಾದಿನಿಯರು",
             "feature": "",
             "page": "0022-0023",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0022",
@@ -172,7 +173,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ನಾಗರಾಜರಾವ್ ವಿದ್ವಾನ್ ಹೆಚ್. ವಿ.",
@@ -184,6 +184,7 @@
             "title": "ಒಂದು ವಿಶಿಷ್ಟ ಅನುಭವ",
             "feature": "",
             "page": "0024-0026",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0024",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಆತ್ಮಶ್ರದ್ಧಾನಂದ",
@@ -210,13 +210,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ಶ್ರೀಕೃಷ್ಣ",
             "feature": "",
             "page": "0027-0027",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0027",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -228,13 +228,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0028-0028",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -246,6 +246,7 @@
             "title": "ವ್ಯಕ್ತಿತ್ವದ ಬೆಳವಣಿಗೆ-೨",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0029-0032",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -276,13 +276,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣಪರಮಹಂಸ ದೇವರಿಗೆ - ಕವನ",
             "feature": "",
             "page": "0032-0032",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ರವೀಂದ್ರನಾಥ ಠಾಕೂರ್",
@@ -294,13 +294,13 @@
             "title": "ಧ್ಯಾನದಿಂದ ಆರೋಗ್ಯ - ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0033-0033",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -312,13 +312,13 @@
             "title": "ಭಾರತದ ಜನಸಂದಣಿ",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -330,13 +330,13 @@
             "title": "ಅಂತಃಸುಖ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0034-0034",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -348,13 +348,13 @@
             "title": "ಅಹಿಂಸೆ",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -366,13 +366,13 @@
             "title": "ಬಲಿದಾನ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -384,6 +384,7 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0037-0038",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
@@ -394,7 +395,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

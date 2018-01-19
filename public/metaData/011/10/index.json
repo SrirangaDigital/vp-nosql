@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಸಮಸ್ಯೆಗಳ ಸುಳಿಯಲ್ಲಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣದ ಅಂತರಂಗ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಕೃತ್ತಿವಾಸ ರಾಮಾಯಣ- ಒಂದು ಪರಿಚಯ",
             "feature": "",
             "page": "0015-0017",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -114,18 +114,19 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0017-0017",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 14
+            ]
         },
         {
             "title": "ಗೋಸ್ವಾಮಿ ತುಲಸೀದಾಸರು ಮತ್ತು ಅವರ ರಾಮಚರಿತಮಾನಸ",
             "feature": "",
             "page": "0018-0021",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -144,7 +145,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ನಾಗರಾಜ",
@@ -156,18 +156,19 @@
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
             "page": "0021-0021",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 18
+            ]
         },
         {
             "title": "ಸಾಧಕವರೇಣ್ಯ ಶ್ರೀರಾಮಚಂದ್ರ",
             "feature": "",
             "page": "0022-0023",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
@@ -178,7 +179,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಪಂಡಿತ್",
@@ -190,6 +190,7 @@
             "title": "ದರಿದ್ರದೇವೋ ಭವ",
             "feature": "",
             "page": "0024-0025",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
@@ -200,7 +201,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ವಿಜಯಕುಮಾರ",
@@ -212,6 +212,7 @@
             "title": "ರಾಮಾಯಣದಲ್ಲಿ ನೀತಿ",
             "feature": "",
             "page": "0026-0029",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -230,7 +231,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಪ್ರಸನ್ನಾಕ್ಷಿ ಡಾ. ಕೆ. ಎಲ್.",
@@ -242,13 +242,13 @@
             "title": "ಅಧ್ಯಯನಶೀಲತೆ",
             "feature": "",
             "page": "0030-0030",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -260,6 +260,7 @@
             "title": "ಉತ್ತಮ ವಿದ್ಯಾರ್ಥಿಯಾಗುವ ವಿಧಾನ",
             "feature": "",
             "page": "0031-0032",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -269,25 +270,25 @@
                     "page": "0032",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 28
+            ]
         },
         {
             "title": "ಓದುವುದು ಹೇಗೆ?",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 30
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿ ಅವರ ಸವಿನೆನಪುಗಳು",
             "feature": "",
             "page": "0034-0037",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -306,7 +307,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಜ್ಞಾನಾತ್ಮಚೈತನ್ಯ ಬ್ರ.",
@@ -318,18 +318,19 @@
             "title": "ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿಯಿಂದ",
             "feature": "",
             "page": "0038-0038",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಬನ್ನಿ, ದಕ್ಷಿಣೇಶ್ವರಕ್ಕೆ",
             "feature": "",
             "page": "0039-0040",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0039",
@@ -340,7 +341,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -352,25 +352,25 @@
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0041-0041",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

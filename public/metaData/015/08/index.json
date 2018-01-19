@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ನಾವು ಅರಸುವ ಅಂತಿಮ ನೆಲೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,13 +36,13 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಚಾರಿತ್ರ್ಯದ ಬೆಳವಣಿಗೆ ಮತ್ತು ರಾಷ್ಟ್ರ ನಿರ್ಮಾಣಕ್ಕಾಗಿ ಶಿಕ್ಷಣ",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0010-0014",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ರಂಗನಾಥಾನಂದ",
@@ -76,6 +76,7 @@
             "title": "ಭಗವಾನ್ ರಮಣ ಮಹರ್ಷಿಗಳೊಂದಿಗೆ",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0015-0018",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ದಾಮೋದರಾನಂದ",
@@ -106,18 +106,19 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ:ಸಾಕಾರ-ನಿರಾಕಾರ",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0019-0019",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 16
+            ]
         },
         {
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ: ಚತುರ್ವಿಧ ಭಕ್ತರು",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0020-0022",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -132,7 +133,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -144,6 +144,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ಭಾರತದ ಆದರ್ಶಮಹಿಳೆ ಮತ್ತು ಸ್ತ್ರೀ-ಶಿಕ್ಷಣ",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0023-0027",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -166,7 +167,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ನವದುರ್ಗಾನಂದ",
@@ -178,6 +178,7 @@
             "title": "ಜೀವನ ಮಕರಂದ: ಬಿತ್ತಿದಂತೆ ಬೆಳೆ ಸುಳ್ಳಲ್ಲ",
             "feature": "ಪುಸ್ತಕ ಸಂಗ್ರಹ",
             "page": "0028-0029",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -200,6 +200,7 @@
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ - ಗುರುಕುಲ ವಾಸ",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0030-0033",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -218,7 +219,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಎ.ಮುರಳೀಧರ",
@@ -230,6 +230,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0034-0035",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -240,7 +241,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -252,6 +252,7 @@
             "title": "ಸರಹದ್ದುಗಳಿಲ್ಲದ ಸಂತರ ನೆನಪಿನ ಚಿತ್ರಗಳು",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0036-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -261,13 +262,13 @@
                     "page": "0037",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ಚಿತ್ರಕಥೆ: ಶಿವಕ್ಷೇತ್ರ ನಾಗೇಶ್ವರ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -285,20 +286,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

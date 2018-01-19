@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಧರ್ಮದ ತಳಹದಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಸ್ವಾಮಿ ಶಿವಾನಂದರ ನೆನಪುಗಳು",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಅದ್ವೈತದಲ್ಲಿ ಮಾಯೆಯ ಸ್ಥಾನ-೨",
             "feature": "",
             "page": "0015-0017",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಸುರೇಶಾನಂದ",
@@ -114,13 +114,13 @@
             "title": "ಆರೋಗ್ಯದ ರಹಸ್ಯ",
             "feature": "",
             "page": "0018-0018",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0018",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -132,6 +132,7 @@
             "title": "ಸತ್ಸಂಗ",
             "feature": "",
             "page": "0019-0023",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಹೃದಾನಂದ",
@@ -166,6 +166,7 @@
             "title": "ವರ್ಧಮಾನ ಮಹಾವೀರ- ಒಂದು ಕಿರು ಪರಿಚಯ",
             "feature": "",
             "page": "0024-0026",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
@@ -180,7 +181,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯಕುಮಾರ್ ಡಾ.",
@@ -192,18 +192,19 @@
             "title": "ಜಾತಿಪದ್ಧತಿ ಬಗ್ಗೆ ರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದರ ನಿಲುವು",
             "feature": "",
             "page": "0027-0027",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 26
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಲೀಲಾಸ್ಥಾನಗಳ ಸಚಿತ್ರ ಯಾತ್ರೆ",
             "feature": "",
             "page": "0028-0029",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
@@ -214,7 +215,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -226,6 +226,7 @@
             "title": "ಶಿಕ್ಷಣವೆತ್ತ ಸಾಗುತ್ತಿದೆ?",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0030-0031",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
@@ -236,7 +237,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಶಶಾಂಕ ಹತ್ವಾರ್ ಚಿ.",
@@ -248,6 +248,7 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0031-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0031",
@@ -262,7 +263,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -274,6 +274,7 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0034-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -288,7 +289,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -300,13 +300,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0036-0036",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -318,13 +318,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ನಿಮ್ಮ ಮಕ್ಕಳನ್ನು ಕೇಳಿ ನೋಡಿ ಯಾರು ಉತ್ತಮ?",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -336,13 +336,13 @@
             "title": "ಸ್ವಾಮಿ ಪ್ರೇಮಾನಂದರು ಹೇಳಿದ ಕಥೆಗಳು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -354,13 +354,13 @@
             "title": "ಬುದ್ಧಿವಂತ ತಲೆ ಬುರುಡೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -372,13 +372,13 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

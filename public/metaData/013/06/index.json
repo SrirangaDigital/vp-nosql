@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಜ್ಞಾನಯೋಗದ ಪ್ರಜ್ವಲ ಬೆಳಕು",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಈಶ್ವರ ದರ್ಶನಕ್ಕೆ ಉಪಾಯ: ಜಪ-ಧ್ಯಾನ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ವೀರೇಶ್ವರಾನಂದ",
@@ -76,6 +76,7 @@
             "title": "ಧ್ಯಾನಕ್ಕೆ ಸಿದ್ಧತೆ ಹೇಗೆ?",
             "feature": "",
             "page": "0015-0017",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -102,13 +102,13 @@
             "title": "ಬದುಕಿಗೊಂದು ಬೆಳಕು: ಇಂತಹವರೂ ಇದ್ದರೇ?",
             "feature": "",
             "page": "0017-0017",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಶರತ್ಚಂದ್ರ ಪೆಂಡಾರ್ಕರ್",
@@ -120,6 +120,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಸಂದೇಶ",
             "feature": "",
             "page": "0018-0020",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಮನಮೋಹನ್ ಸಿಂಗ್",
@@ -146,6 +146,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0021-0023",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -160,7 +161,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಕೆ.ಆರ್.ಮೋಹನ್",
@@ -172,6 +172,7 @@
             "title": "ಚಿರಸ್ಮರಣೀಯವಾದ ದಿವ್ಯ, ಭವ್ಯ ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಸಮ್ಮಿಲನ",
             "feature": "",
             "page": "0024-0033",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
@@ -213,13 +214,13 @@
                     "page": "0033",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 21
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಶಿಷ್ಯೋದ್ಯಾನ: ಪುಷ್ಪ೧೫ ಸ್ವಾಮಿ ವಿಜ್ಞಾನಾನಂದ",
             "feature": "",
             "page": "0034-0037",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -238,7 +239,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -250,6 +250,7 @@
             "title": "ವಿವೇಕಕಿರಣ: ಸಾರ್ವತ್ರಿಕ ನೀತಿಸೂತ್ರ",
             "feature": "",
             "page": "0038-0039",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -260,7 +261,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್.ಜಯದೇವ",
@@ -272,6 +272,7 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳಲ್ಲಿ ಪಂಚಶೀಲ: ಸೇವೆ",
             "feature": "",
             "page": "0040-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
@@ -282,7 +283,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -294,6 +294,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನದರ್ಶನ-೨",
             "feature": "",
             "page": "0042-0045",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
@@ -311,8 +312,7 @@
                     "page": "0045",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

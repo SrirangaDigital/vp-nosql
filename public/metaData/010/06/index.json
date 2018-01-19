@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ, ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 3,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 3,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಚೈತನ್ಯದ ಬೆಂಬತ್ತಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0011",
+            "relativePageNumber": 5,
             "fullText": [
                 {
                     "page": "0007",
@@ -50,7 +51,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -62,6 +62,7 @@
             "title": "ಮೃತ್ಯು ಚಿಂತನೆ",
             "feature": "",
             "page": "0012-0015",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0012",
@@ -80,7 +81,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -92,6 +92,7 @@
             "title": "ಕೆಡುಕಿನ ನಿಗ್ರಹ",
             "feature": "",
             "page": "0016-0019",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0016",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಅರುಣ ಬ್ರಹ್ಮಚಾರಿ",
@@ -122,6 +122,7 @@
             "title": "ಜೀವನಶೈಲಿ ಮತ್ತು ಮಾನಸಿಕ ಒತ್ತಡ",
             "feature": "",
             "page": "0020-0022",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0020",
@@ -136,7 +137,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಶ್ರೀಧರ್",
@@ -148,6 +148,7 @@
             "title": "ಸೆರೆಮನೆಯ ವರದಾನ",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0023",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ ಎನ್. ಜಿ.",
@@ -174,6 +174,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಉಗಮ - ಒಂದು ರೋಮಾಂಚಕ ಕತೆ",
             "feature": "",
             "page": "0026-0028",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0026",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -200,13 +200,13 @@
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
             "page": "0029-0029",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -218,13 +218,13 @@
             "title": "ಶಿಕ್ಷಣಪ್ರಭ",
             "feature": "",
             "page": "0030-0030",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0030",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -236,13 +236,13 @@
             "title": "ಎಲ್ಲ ಧರ್ಮಗಳಿಗೂ ಒಬ್ಬನೇ ಪ್ರಭು",
             "feature": "",
             "page": "0031-0031",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0031",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಶಾಂತಿನಾಥಾನಂದ",
@@ -254,6 +254,7 @@
             "title": "ಸಂತ ಜ್ಞಾನದೇವರು",
             "feature": "",
             "page": "0032-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0032",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ದೇಶಪಾಂಡೆ ಡಾ. ಸಿ. ಎನ್.",
@@ -276,13 +276,13 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ",
             "feature": "",
             "page": "0034-0034",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಶಂಕರನಾರಾಯಣ ಭಟ್ ಎದುರ್ಕಳ",
@@ -294,6 +294,7 @@
             "title": "ಕರ್ನಾಟಕದ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ",
             "feature": "",
             "page": "0035-0038",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0035",
@@ -312,7 +313,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಅಕ್ಕಮಹಾದೇವಿ",
@@ -324,13 +324,13 @@
             "title": "ಗ್ರೇಸ್ ಮತ್ತು ಲಿಂಕನ್ರ ಗಡ್ಡ",
             "feature": "",
             "page": "0039-0039",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -342,6 +342,7 @@
             "title": "ತಾಯಿಯ ಪ್ರಾರ್ಥನೆ",
             "feature": "",
             "page": "0040-0041",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0040",
@@ -352,7 +353,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -364,13 +364,13 @@
             "title": "ಪಶ್ಚಿಮ ಬಂಗಾಳದಲ್ಲಿ ರಾಮಕೃಷ್ಣ ಮಿಷನ್ನಿನ ಪರಿಹಾರ ಕಾರ್ಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಕಾರ್ಯನಿರ್ವಹಣೆ -೩",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0011",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -50,7 +51,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -62,6 +62,7 @@
             "title": "ನಮ್ಮ ಜೀವನದ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸುವ ಬಗೆ ಹೇಗೆ?",
             "feature": "",
             "page": "0012-0015",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0012",
@@ -80,7 +81,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಪ್ರಬುದ್ಧಾನಂದ",
@@ -92,6 +92,7 @@
             "title": "ಹೃದಯವಂತಿಕೆಯ ಜೀವನ",
             "feature": "",
             "page": "0016-0018",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0016",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಬಾಲರಾಜ್ ಡಾ. ಕೆ. ವೈ.",
@@ -118,6 +118,7 @@
             "title": "ಕಾಂಚನಕ್ಕೆ ವೇಳೆಯಲ್ಲದೆ ಲಿಂಗಕ್ಕೆ ವೇಳೆಯಿಲ್ಲ",
             "feature": "",
             "page": "0019-0020",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -128,7 +129,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಶುಭದತ್ ಕೆ. ಪಿ.",
@@ -140,6 +140,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ವಿವೇಕಾನಂದ ಶೈಕ್ಷಣಿಕ ಮತ್ತು ಸಂಶೋಧನಾ ಸಂಸ್ಧೆ",
             "feature": "",
             "page": "0021-0024",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
@@ -158,7 +159,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ವಿಜಯ ಕುಮಾರ",
@@ -170,6 +170,7 @@
             "title": "ಸಾರಸಜ್ಜನರ ಸಂಗ ಲೇಸು ಕಂಡಯ್ಯಾ",
             "feature": "",
             "page": "0025-0028",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ ಎನ್. ಜಿ.",
@@ -200,6 +200,7 @@
             "title": "ಉದ್ಧರೇದಾತ್ಮನಾತ್ಮಾನಂ",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -210,7 +211,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಶ್ರೀಕಂಠಕುಮಾರಸ್ವಾಮಿ ಪ್ರೊ. ಆರ್. ಕೆ.",
@@ -222,13 +222,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0031-0031",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0031",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -240,6 +240,7 @@
             "title": "ವಿದ್ಯಾರ್ಧಿಗಳಿಗೆ ಕಿವಿಮಾತು",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0032-0034",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -254,7 +255,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ವಿಮಲಾನಂದ",
@@ -266,13 +266,13 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0034-0034",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -284,6 +284,7 @@
             "title": "ಎಲೆ ಮರೆಯ ಹೂವು",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
@@ -294,7 +295,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯನಾರಸಿಂಹ",
@@ -306,13 +306,13 @@
             "title": "ಪ್ರಾರ್ಥನೆಯ ಪ್ರಭಾವಶಾಲಿ ಪರಿಣಾಮಗಳು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -324,13 +324,13 @@
             "title": "ಮಾನವನ ಜೀವಿತ ನೂರು ವರ್ಷ- ಏಕೆ? ಹೇಗೆ?",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -342,13 +342,13 @@
             "title": "ಆತ್ಮಹತ್ಯೆ-ತಿಪ್ಪೆ",
             "feature": "",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -360,13 +360,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

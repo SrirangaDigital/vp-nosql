@@ -10,18 +10,19 @@
             "title": "ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "೨೧ ನೆಯ ಶತಮಾನದಲ್ಲಿ ಶ್ರೀರಾಮಕೃಷ್ಣರ ಜೀವನ-ಸಂದೇಶಗಳ ಪ್ರಸ್ತುತತೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0011",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -43,13 +44,13 @@
                     "page": "0011",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಭಾಗವತ ದರ್ಶನ",
             "feature": "",
             "page": "0012-0014",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0012",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -76,6 +76,7 @@
             "title": "ಕಪಿಲೋಪದೇಶ",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಎಚ್. ವಿ. ನಾಗರಾಜರಾವ್",
@@ -106,6 +106,7 @@
             "title": "ಶ್ರೀಕೃಷ್ಣನ ಕಡೆಯ ಉಪದೇಶ-ಉದ್ಧವ ಗೀತೆ",
             "feature": "",
             "page": "0019-0022",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ರಮಾ ವಿ. ಬೆಣ್ಣೂರ್",
@@ -136,6 +136,7 @@
             "title": "ಗುರುವಿನೊಡನೆ ದೇವರಡಿಗೆ",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -146,7 +147,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -158,6 +158,7 @@
             "title": "ನೆನಪಿನಂಗಳದಿಂದ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಭಾರತೀಪ್ರಾಣಾ",
@@ -180,6 +180,7 @@
             "title": "ನಮ್ಮ ಗದಾಯ್ ಠಾಕೂರ್",
             "feature": "",
             "page": "0027-0029",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -194,7 +195,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಶೇಖ್ ಉಮೇದ್ ಅಲಿ",
@@ -206,6 +206,7 @@
             "title": "ಸ್ವಾಮಿ ಶಾರದಾನಂದರು",
             "feature": "",
             "page": "0030-0033",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -224,7 +225,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -236,25 +236,25 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮಹಿಮಾ",
             "feature": "",
             "page": "0034-0034",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 31
+            ]
         },
         {
             "title": "ಇಂದು ಎಂತಹ ಶಿಕ್ಷಣ ಬೇಕು?",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಿ. ರಾಮಚಂದ್ರ ಉಪಾಧ್ಯಾಯ",
@@ -266,13 +266,13 @@
             "title": "ನಮ್ಮ ಸಂಸ್ಕೃತಿ ಪರಿಚಯ-೩",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸೀತಾ ಲಖಾನಿ",
@@ -284,13 +284,13 @@
             "title": "ಜ್ಞಾಪಕಶಕ್ತಿಯನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದು ಹೇಗೆ?",
             "feature": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಜಿ. ಮನೋರಮಾ",
@@ -302,6 +302,7 @@
             "title": "ಗುರು ಗೋವಿಂದಸಿಂಗ್",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -319,20 +320,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

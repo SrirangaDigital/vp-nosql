@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಕಲಿಯುಗದ ಸೀತೆ -ಶ್ರೀಶಾರದಾಮಾತೆ",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ನಿವೇದಿತಾ ವಿದ್ಯಾಲಯ ಹಾಗೂ ಭಗಿನಿ ಸುಧೀರಾ -೧",
             "feature": "",
             "page": "0014-0017",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಪರಮಾಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -114,6 +114,7 @@
             "title": "ಹೇ, ರಾಂಗೋ ಜುಬಾನ್",
             "feature": "",
             "page": "0018-0022",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0018",
@@ -136,7 +137,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಧರ್ಮಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -148,13 +148,13 @@
             "title": "ಪ್ರಹಸನಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0022-0022",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0022",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -166,6 +166,7 @@
             "title": "ಯೋಗಸಾಧನೆಯ ಪ್ರದೀಪ್ತ ಭಾಸ್ಕರ ತ್ರೈಲಂಗಸ್ವಾಮಿಗಳು",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
@@ -180,7 +181,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಉಷಾ ಪಿ.",
@@ -192,6 +192,7 @@
             "title": "ಶ್ರೀರಾಮದಾಸರು",
             "feature": "",
             "page": "0026-0028",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರರಾಜು ಕೆ. ಆರ್.",
@@ -218,6 +218,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ಆಶ್ರಮ, ಬೆಳಗಾಂ- ಒಂದು ಪರಿಚಯ",
             "feature": "",
             "page": "0029-0031",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -232,7 +233,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -244,13 +244,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣಮಹಿಮಾ",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -262,6 +262,7 @@
             "title": "ಉನ್ನತ ಜೀವನ -೩",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0034-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -276,7 +277,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ವಸಂತ ಕುಮಾರ ಡಾ. ಇ.",
@@ -288,13 +288,13 @@
             "title": "ನಿಜವಾದ ಮಗಳು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -306,13 +306,13 @@
             "title": "ಏಕಾಗ್ರತೆಯ ಬೆಲೆ",
             "feature": "",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -324,13 +324,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

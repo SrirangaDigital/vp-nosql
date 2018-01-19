@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಧ್ಯಾನ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಶ್ರೀಮಾತೆ ಶಾರದಾದೇವಿ ದುಷ್ಟಶಿಕ್ಷಕಿ ಶಿಷ್ಟರಕ್ಷಕಿ",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ರಾಜಾಸ್ಥಾನದ ತೀರ್ಥಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಹತ್ತುದಿನ",
             "feature": "",
             "page": "0014-0018",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -118,6 +118,7 @@
             "title": "ಪಾಶ್ಚಾತ್ಯ ಚಿಂತನೆಯ ಮೇಲೆ ಭಾರತೀಯ ಪ್ರಭಾವ -೨",
             "feature": "",
             "page": "0019-0023",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -140,7 +141,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -152,6 +152,7 @@
             "title": "ತತ್ತ್ವ ಹೇಳುವುದಕ್ಕಲ್ಲ ಬದುಕುವುದಕ್ಕೆ",
             "feature": "",
             "page": "0024-0025",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ್ ಡಾ. ಕೆ. ಬಿ.",
@@ -174,6 +174,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಿದ್ಯಾರ್ಥಿ ಮಂದಿರಂ",
             "feature": "",
             "page": "0026-0029",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -192,7 +193,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸುರೇಶ ಮೂನ",
@@ -204,13 +204,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣಮಹಿಮಾ",
             "feature": "",
             "page": "0030-0030",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -222,6 +222,7 @@
             "title": "ಕ್ಷಮೆ ತರುವ ಅಗಣಿತ ಕ್ಷೇಮಗಳು",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0031-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0031",
@@ -236,7 +237,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -248,13 +248,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಉಷ್ಣ ಜಗತ್ತು ತರುವ ಆಪತ್ತು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0034-0034",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -266,13 +266,13 @@
             "title": "ಆರುವ ದೀಪ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0035-0035",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -284,13 +284,13 @@
             "title": "ಸಂಯಮ ಎಂದರೆ ಏನು?",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -302,13 +302,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -320,6 +320,7 @@
             "title": "ವಾರ್ಷಿಕ ವಿಷಯ ಸೂಚಿ",
             "feature": "",
             "page": "0038-0040",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
@@ -334,7 +335,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

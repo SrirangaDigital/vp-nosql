@@ -10,13 +10,13 @@
             "title": "ಕಾಲಾ ಬಾಬು ಕುಂಜ್ - ಒಂದು ಮನವಿ",
             "feature": "",
             "page": "0004-0004",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸುಪ್ರಕಾಶಾನಂದ",
@@ -28,13 +28,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ, ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 3,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 3,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -46,6 +46,7 @@
             "title": "ಸಾಧನೆಯ ಹಾದಿಯಲ್ಲಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 5,
             "fullText": [
                 {
                     "page": "0007",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -76,6 +76,7 @@
             "title": "ಉಪನಿಷತ್ತುಗಳ ಅನುಷ್ಠಾನಪರತೆ (ಉಪನಿಷತ್ ದರ್ಶನ)",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0011",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಸೋಮನಾಥಾನಂದ",
@@ -102,13 +102,13 @@
             "title": "ವಾಲ್ಟೇರ್ ಹೇಳಿದ ಬ್ರಾಹ್ಮಣನ ಕತೆ",
             "feature": "",
             "page": "0013-0013",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0013",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -120,6 +120,7 @@
             "title": "ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ ಭಗವದನುಗ್ರಹ",
             "feature": "",
             "page": "0014-0016",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0014",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಪ್ರಬುದ್ಧಾನಂದ",
@@ -146,6 +146,7 @@
             "title": "ಉಪನಿಷತ್ತುಗಳ ಪ್ರಸ್ತುತತೆ",
             "feature": "",
             "page": "0017-0019",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0017",
@@ -160,7 +161,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -172,6 +172,7 @@
             "title": "ತೈತ್ತಿರೀಯೋಪನಿಷತ್ತಿನ ಸಾರ",
             "feature": "",
             "page": "0020-0021",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0020",
@@ -182,7 +183,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಶ್ರೀಕಂಠಕುಮಾರಸ್ವಾಮಿ ಪ್ರೊ. ಆರ್. ಕೆ.",
@@ -194,6 +194,7 @@
             "title": "ಆಧ್ಯಾತ್ಮ ಪತ್ರಿಕೆಗಳು ಮತ್ತು ಆಧುನಿಕ ಸಮಾಜ",
             "feature": "",
             "page": "0022-0023",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0022",
@@ -204,7 +205,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ರಘು",
@@ -216,13 +216,13 @@
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
             "page": "0023-0023",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0023",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -234,6 +234,7 @@
             "title": "ವೀರಭಕ್ತ ಗಿರೀಶ್ ಚಂದ್ರ ಘೋಷ್",
             "feature": "",
             "page": "0024-0026",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0024",
@@ -248,7 +249,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಪರಮಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -260,13 +260,13 @@
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
             "page": "0027-0027",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0027",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -278,6 +278,7 @@
             "title": "ನವಸಮಾಜ-ಯುವಜನತೆಯ ಪಾತ್ರ",
             "feature": "",
             "page": "0028-0029",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0028",
@@ -288,7 +289,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ರಮೇಶ",
@@ -300,6 +300,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ಮಧುರ ಸ್ಮೃತಿ",
             "feature": "",
             "page": "0030-0031",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0030",
@@ -310,7 +311,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ವಾಸುದೇವಾನಂದ",
@@ -322,6 +322,7 @@
             "title": "ದಾಸರೆಂದರೆ ಪುರಂದರದಾಸರಯ್ಯಾ",
             "feature": "",
             "page": "0032-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0032",
@@ -336,7 +337,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ನಾಗರತ್ನ",
@@ -348,13 +348,13 @@
             "title": "ಅಧ್ಯಾತ್ಮ ಪ್ರಹಸನ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0035-0035",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -366,6 +366,7 @@
             "title": "ನಿಜವಾದ ಸ್ನೇಹಿತ ಯಾರು? - ೨",
             "feature": "",
             "page": "0036-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0036",
@@ -376,7 +377,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಬ್ರಹ್ಮಚಾರಿ",
@@ -388,13 +388,13 @@
             "title": "ಅದ್ಕೆ ಹೀಗಿರೋದು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0038-0038",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಈರೇಗೌಡ ಡಿ. ಕೆ.",
@@ -406,13 +406,13 @@
             "title": "ಈಗ ಇದು ನನ್ನ ಮಗಳ ಮನೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮ ಕಾರಂತ ಪಿ.",
@@ -424,13 +424,13 @@
             "title": "ಭಾರತ ದೇಶದ ಮಹಾಪುರುಷರು - ಚರಕ",
             "feature": "",
             "page": "0039-0039",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -442,6 +442,7 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0040-0041",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0040",
@@ -452,7 +453,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -464,13 +464,13 @@
             "title": "ಪಶ್ಚಿಮ ಬಂಗಾಳದಲ್ಲಿ ರಾಮಕೃಷ್ಣ ಮಿಷನ್ನಿನ ಪರಿಹಾರ ಕಾರ್ಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

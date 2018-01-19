@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ವಿವೇಕಾನಂದ ಚಿಂತನ: ಕರ್ಮಯೋಗದ ಕಂಪು",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಜೈನಧರ್ಮ ಮತ್ತು ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಸುನಿರ್ಮಲಾನಂದ",
@@ -76,6 +76,7 @@
             "title": "ಯೋಗದ ವಿಷಯದಲ್ಲಿ ಜೈನ ಮತ್ತು ವೈದಿಕ ಸಂಸ್ಕೃತಿಗಳಲ್ಲಿನ ಸಾಮ್ಯತೆ",
             "feature": "",
             "page": "0015-0019",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಪವಿತ್ರ",
@@ -110,13 +110,13 @@
             "title": "ದೇವಪೂಜಾಫಲ",
             "feature": "",
             "page": "0020-0020",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಹೇಮಲತಾ ಧರ್ಮರಾಜ್",
@@ -128,6 +128,7 @@
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ",
             "feature": "",
             "page": "0021-0026",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -166,6 +166,7 @@
             "title": "ಕೈಲಾಸ ಮಾನಸ ಸರೋವರ: ನಿಸರ್ಗದ ಸ್ವರ್ಗೀಯ ನೋಟ",
             "feature": "",
             "page": "0027-0030",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -184,7 +185,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಗೌರಾಂಗಾನಂದ",
@@ -196,6 +196,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0031-0032",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -218,6 +218,7 @@
             "title": "ವಿವೇಕಕಿರಣ: ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಸಂತೋಷ",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -228,7 +229,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್.ಜಯದೇವ",
@@ -240,6 +240,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಶಿಷ್ಯೋದ್ಯಾನ:ಪುಷ್ಪ ೧೩ ಸ್ವಾಮಿ ಅಖಂಡಾನಂದ",
             "feature": "",
             "page": "0035-0039",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -262,7 +263,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -274,6 +274,7 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳಲ್ಲಿ ಪಂಚಶೀಲ: ಶಕ್ತಿ",
             "feature": "",
             "page": "0040-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
@@ -284,7 +285,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -296,6 +296,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ಫೂತ್ಕರಿಸು, ಕಡಿಯಬೇಡ!",
             "feature": "",
             "page": "0042-0045",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
@@ -313,20 +314,19 @@
                     "page": "0045",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0046-0046",
+            "relativePageNumber": 43,
             "fullText": [
                 {
                     "page": "0046",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 43
+            ]
         }
     ]
 }

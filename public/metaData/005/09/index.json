@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಸಾಮರಸ್ಯ ಸುಖರಹಸ್ಯ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಯಶೋದೆಯು ಶ್ರೀಕೃಷ್ಣನನ್ನು ಕಟ್ಟಿದಳೇ?- ಒಂದು ತಾತ್ತ್ವಿಕ ಚಿಂತನೆ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದಿವ್ಯಸ್ಮೃತಿ",
             "feature": "",
             "page": "0015-0017",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಶ್ರೀನಿವಾಸ ಪೈ ಎ.",
@@ -114,6 +114,7 @@
             "title": "ನಾನು ನಿನ್ನ ನಿಜವಾದ ತಾಯಿ",
             "feature": "",
             "page": "0018-0019",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0018",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಚಂದ್ರಾ ಕೆ. ಎಸ್.",
@@ -136,6 +136,7 @@
             "title": "ಭಾಗವತ ಭಾವಧಾರೆ",
             "feature": "",
             "page": "0020-0022",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಉದಯಶಂಕರ್ ಡಾ. ಎನ್. ಕೆ.",
@@ -162,6 +162,7 @@
             "title": "ಆನಂದವನದ ತಪೋಮೂರ್ತಿ",
             "feature": "",
             "page": "0023-0026",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
@@ -180,7 +181,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯನಾರಸಿಂಹ",
@@ -192,6 +192,7 @@
             "title": "ಮಂಗಳೂರಿನ ರಾಮಕೃಷ್ಣಮಿಷನ್ ಬಾಲಕಾಶ್ರಮ",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
@@ -202,7 +203,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -214,6 +214,7 @@
             "title": "ಶ್ರೀ ಆಳಸಿಂಗ ಪೆರುಮಾಳ್",
             "feature": "",
             "page": "0029-0031",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -228,7 +229,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ರಮಾಮಣಿ ಕೆ. ಎಲ್.",
@@ -240,13 +240,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣಮಹಿಮಾ",
             "feature": "",
             "page": "0032-0032",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -258,6 +258,7 @@
             "title": "ಉನ್ನತ ಜೀವನ -೨",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0033-0035",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -272,7 +273,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ವಸಂತ ಕುಮಾರ ಡಾ. ಇ.",
@@ -284,6 +284,7 @@
             "title": "ಪುಸ್ತಕಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0036-0037",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
@@ -294,7 +295,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -306,13 +306,13 @@
             "title": "ಪ್ರಹಸನಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -324,13 +324,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಟಿ. ವಿ. ವೀಕ್ಷಕರಿಗೆ ಕಿವಿಮಾತು ಸೋಮಾರಿಗಳಿಗೆ ಸದವಕಾಶ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -342,13 +342,13 @@
             "title": "ಅಭ್ಯಾಸದ ಬಲ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -360,13 +360,13 @@
             "title": "ಲಾವೊ ತ್ಸೆ ಪಡೆದ ಉಪದೇಶ",
             "feature": "",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -378,13 +378,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0041-0041",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

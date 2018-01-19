@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಸೂಕ್ತಿಪ್ರಭ: ಶ್ರೀ ರಾಮಕೃಷ್ಣ ಪ್ರಶಸ್ತಿ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಮಾನವ: ಹೊಸ ಜಗತ್ತಿನಲ್ಲಿ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಸರಳತೆ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ನೌಮಿ ಗುರುವಿವೇಕಾನಂದಮ್",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0016",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -80,7 +81,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಚೇತನಾನಂದ",
@@ -92,6 +92,7 @@
             "title": "ಅಧ್ಯಯನ ಮತ್ತು ಕ್ರಿಯಾಶೀಲತೆ:ಒಂದು ಚಿಂತನೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0017-0019",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಸರಗೂರು ರಮೇಶ್",
@@ -118,6 +118,7 @@
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೧೬",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0020-0025",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -144,7 +145,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -156,18 +156,19 @@
             "title": "ಮುಗಿಲು ಮುಟ್ಟಿ ದ ಬಿದಿರು ಗಿಡ",
             "feature": "ಜಪಾನಿನ ಕಥೆಗಳು",
             "page": "0026-0026",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 23
+            ]
         },
         {
             "title": "ದಿವ್ಯ ದಂಪತಿಗಳ ದಿವ್ಯ ಲೀಲೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0027-0030",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -186,7 +187,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸಿ.ಎಸ್. ಮಂಗಳಮ್ಮ",
@@ -198,6 +198,7 @@
             "title": "ಅಸ್ಸಾಮಿನ ಅಧ್ಯಾತ್ಮ ಜ್ಯೋತಿ ಶ್ರೀಮಂತ ಶಂಕರದೇವ",
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0031-0034",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -216,7 +217,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -228,6 +228,7 @@
             "title": "ಡಾ.ಸಿ.ಪಿ.ಕೆ. ಅವರ ಎರಡು ಕೃತಿಗಳು",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0035-0037",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -241,13 +242,13 @@
                     "page": "0037",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 32
+            ]
         },
         {
             "title": "ಪುಷ್ಪದಂತ ಮಹರ್ಷಿ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -265,20 +266,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

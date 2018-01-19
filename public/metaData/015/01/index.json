@@ -10,6 +10,7 @@
             "title": "ಪ್ರಾರ್ಥನೆ:ವಿವೇಕ ಸ್ಮೃತಿ",
             "feature": "",
             "page": "0005-0006",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
@@ -20,7 +21,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಕೈಯ್ಯಾರ ಕಿಞ್ಞಣ್ಣ ರೈ",
@@ -32,6 +32,7 @@
             "title": "ಶಿವಜ್ಞಾನೇ ಜೀವಸೇವಾ ಎಂಬ ಆಧುನಿಕ ಮಹಾವಾಕ್ಯ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -49,13 +50,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ಸಂಗೀತ ಮತ್ತು ವಿವೇಕಾನಂದರು",
             "feature": "ಸಂಗೀತ",
             "page": "0011-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -74,7 +75,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -86,6 +86,7 @@
             "title": "ರಾಷ್ಣ್ರ ಜಾಗೃತಿಯ ಹರಿಕಾರ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "ಸಂಗೀತ",
             "page": "0015-0018",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -104,7 +105,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -116,6 +116,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಸಂಸ್ಥಾಪಕರಾಗಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "ಸಂಗೀತ",
             "page": "0019-0022",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -146,6 +146,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನದೃಷ್ಠಿ",
             "feature": "",
             "page": "0023-0028",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
@@ -172,7 +173,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -184,6 +184,7 @@
             "title": "ಭಾರತೀಯ ಸಮಾಜದ ಪುನರುತ್ಥಾನಕ್ಕಾಗಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಯೋಜನೆಗಳು",
             "feature": "ಸಂಪಾದಕೀಯ-1",
             "page": "0029-0033",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -218,6 +218,7 @@
             "title": "ಆತ್ಮನೋ ಮೋಕ್ಷಾರ್ಥಂ ಜಗದ್ಧಿತಾಯ ಚ - ಒಂದು ವಿವರಣೆ",
             "feature": "ಸಂಪಾದಕೀಯ-1",
             "page": "0034-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -232,7 +233,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಗಿರಿಜಾತ್ಮಾನಂದ",
@@ -244,6 +244,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ವೈದ್ಯಕೀಯ ಕಾರ್ಯ",
             "feature": "ಸಂಪಾದಕೀಯ-1",
             "page": "0038-0043",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
@@ -270,7 +271,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಪರಮಪ್ರಾಣಾ",
@@ -282,6 +282,7 @@
             "title": "ರಾಮಕೃಷ್ಟ ಮಹಾಸಂಘದ ಶೈಕ್ಷಣಿಕ ಸೇವೆ",
             "feature": "",
             "page": "0044-0047",
+            "relativePageNumber": 43,
             "fullText": [
                 {
                     "page": "0044",
@@ -300,7 +301,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 43,
             "author": [
                 {
                     "name": "ಮಾತಾ ತ್ಯಾಗಮಯೀ",
@@ -312,6 +312,7 @@
             "title": "ಸೇವಾಕಲ್ಪತರು ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ಆಸ್ಪತ್ರೆ, ಇಟಾನಗರ್",
             "feature": "",
             "page": "0048-0052",
+            "relativePageNumber": 47,
             "fullText": [
                 {
                     "page": "0048",
@@ -334,7 +335,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 47,
             "author": [
                 {
                     "name": "ಬ್ರ.ಸುವಿಮಲಚೈತನ್ಯ",
@@ -346,6 +346,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘ ಮತ್ತು ಗಿರಿಜನ ಸೇವೆ",
             "feature": "",
             "page": "0053-0058",
+            "relativePageNumber": 52,
             "fullText": [
                 {
                     "page": "0053",
@@ -372,7 +373,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 52,
             "author": [
                 {
                     "name": "ಕೆ.ಬಿ.ಪ್ರಭುಪ್ರಸಾದ್",
@@ -384,6 +384,7 @@
             "title": "ದಕ್ಷಿಣ ಭಾರತದಲ್ಲಿ ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಮಾತೃಸಂಸ್ಥೆ ಚೆನ್ನೈ ಶ್ರೀರಾಮಕೃಷ್ಣ ಮಠ",
             "feature": "",
             "page": "0059-0063",
+            "relativePageNumber": 58,
             "fullText": [
                 {
                     "page": "0059",
@@ -406,7 +407,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 58,
             "author": [
                 {
                     "name": "ಮಂಗಳಮ್ಮ",
@@ -418,6 +418,7 @@
             "title": "ಕೃಷ್ಣನ ನಡಿನಲ್ಲಿ ಸೇವಾಯೋಗ - ಬೃಂದಾವನ ಸೇವಾಶ್ರಮ",
             "feature": "",
             "page": "0064-0069",
+            "relativePageNumber": 63,
             "fullText": [
                 {
                     "page": "0064",
@@ -444,7 +445,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 63,
             "author": [
                 {
                     "name": "ಎನ್.ಪ್ರಭಾಕರ್",
@@ -456,6 +456,7 @@
             "title": "ಶ್ರೀ ವಿವೇಕಾನಂದ ಸೇವಾಶ್ರಮ ಮತ್ತು ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಶೈಕ್ಷಣಿಕ ಸಂಸ್ಥೆ",
             "feature": "",
             "page": "0070-0073",
+            "relativePageNumber": 69,
             "fullText": [
                 {
                     "page": "0070",
@@ -474,7 +475,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 69,
             "author": [
                 {
                     "name": "ಹೆಚ್.ವಿ.ಸರೋಜ",
@@ -486,6 +486,7 @@
             "title": "ಶತಮಾನಕ್ಕೂ ಹೆಚ್ಚಿನ ಅಪೂರ್ವ ಸೇವೆ ಸಲ್ಲಿಸಿದ ಚೆನ್ನೈ ಸ್ಟೂಡೆಂಟ್ ಹೋಮ್",
             "feature": "",
             "page": "0074-0076",
+            "relativePageNumber": 73,
             "fullText": [
                 {
                     "page": "0074",
@@ -500,7 +501,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 73,
             "author": [
                 {
                     "name": "ಬಿ.ವಿ.ವಸಂತಕುಮಾರ್",
@@ -512,6 +512,7 @@
             "title": "ನರೇಂದ್ರಪುರ ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ಆಶ್ರಮ",
             "feature": "",
             "page": "0078-0079",
+            "relativePageNumber": 77,
             "fullText": [
                 {
                     "page": "0078",
@@ -522,7 +523,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 77,
             "author": [
                 {
                     "name": "ಕೆ.ಆರ್.ಮೋಹನ್",
@@ -534,6 +534,7 @@
             "title": "ಪುಣ್ಯ ನಗರಿಯಲ್ಲೋಂದು ಅಪೂರ್ವ ಸಂಸ್ಥೆ - ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ಸೇವಾಶ್ರಮ, ವಾರಾಣಸಿ",
             "feature": "",
             "page": "0080-0083",
+            "relativePageNumber": 79,
             "fullText": [
                 {
                     "page": "0080",
@@ -552,7 +553,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 79,
             "author": [
                 {
                     "name": "ಪಿ.ಉಷಾ",
@@ -564,6 +564,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಪರಿಹಾರ ಕಾರ್ಯಗಳು",
             "feature": "",
             "page": "0084-0088",
+            "relativePageNumber": 83,
             "fullText": [
                 {
                     "page": "0084",
@@ -586,7 +587,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 83,
             "author": [
                 {
                     "name": "ಇ.ವಸಂತಕುಮಾರ್",
@@ -598,6 +598,7 @@
             "title": "ತ್ಯಾಗ ಹಾಗೂ ಸೇವೆಯನ್ನು ಕುರಿತಂತೆ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಸಂದೇಶ",
             "feature": "",
             "page": "0089-0090",
+            "relativePageNumber": 88,
             "fullText": [
                 {
                     "page": "0089",
@@ -608,7 +609,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 88,
             "author": [
                 {
                     "name": "ಆರ್.ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯಂ",
@@ -620,6 +620,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಸೇವಾಶ್ರಮ, ಕನಖಲ್ ಇದರ ಶತಮಾನದ ಹೆಜ್ಜೆಗುರುತು",
             "feature": "",
             "page": "0092-0094",
+            "relativePageNumber": 91,
             "fullText": [
                 {
                     "page": "0092",
@@ -634,7 +635,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 91,
             "author": [
                 {
                     "name": "ಕಬ್ಬಿನಾಲೆ ವಸಂತ ಭರದ್ವಾಜ್",
@@ -646,6 +646,7 @@
             "title": "ಬಂಗಾಳದ ಹಳ್ಳಿಯಲ್ಲಿ ಹೊಸಬೆಳಕು",
             "feature": "",
             "page": "0095-0097",
+            "relativePageNumber": 94,
             "fullText": [
                 {
                     "page": "0095",
@@ -660,7 +661,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 94,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ",
@@ -672,6 +672,7 @@
             "title": "ಶ್ರೀಶಾರದಾಮಠದ ಸೇವಾಕಾರ್ಯಗಳು",
             "feature": "",
             "page": "0098-0102",
+            "relativePageNumber": 97,
             "fullText": [
                 {
                     "page": "0098",
@@ -694,7 +695,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 97,
             "author": [
                 {
                     "name": "ಕೆ.ವಿ.ಸ್ವರ್ಣಗೌರಿ",
@@ -706,6 +706,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಗ್ರಾಮೋದ್ಧಾರ ಕಾರ್ಯಕ್ರಮಗಳು",
             "feature": "",
             "page": "0103-0106",
+            "relativePageNumber": 102,
             "fullText": [
                 {
                     "page": "0103",
@@ -724,7 +725,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 102,
             "author": [
                 {
                     "name": "ರಾಜೇಶ್ವರಿ ಕೃಷ್ಣ",
@@ -736,6 +736,7 @@
             "title": "ಸೇವಾ ಸಾಹಸಗಳ ಸ್ಫೂರ್ತಿಸೆಲೆ: ಸೇವಾ ರೂರಲ್, ಗುಜರಾತ್",
             "feature": "",
             "page": "0107-0111",
+            "relativePageNumber": 106,
             "fullText": [
                 {
                     "page": "0107",
@@ -758,7 +759,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 106,
             "author": [
                 {
                     "name": "ಎಸ್.ಜಿ.ಸೀತಾರಾಮ್",
@@ -770,6 +770,7 @@
             "title": "ಗಿರಿಜನರ ನಾಡಿನಲ್ಲಿ ಬೆಳಕು:ಅಲಾಂಗ್ ನರೋತ್ತಮ ನಗರದ ಜ್ಞಾನದೇಗುಲಗಳು",
             "feature": "",
             "page": "0112-0117",
+            "relativePageNumber": 111,
             "fullText": [
                 {
                     "page": "0112",
@@ -796,7 +797,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 111,
             "author": [
                 {
                     "name": "ವಂದನಾ ಸತೀಶ್",
@@ -808,6 +808,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಿಷನ್ನಿನ ಬೃಹತ್ ಶೈಕ್ಷಣಿಕ ಸಂಸ್ಥೆ:ಕೊಯಮತ್ತೂರಿನ ವಿದ್ಯಾಲಯ",
             "feature": "",
             "page": "0118-0121",
+            "relativePageNumber": 117,
             "fullText": [
                 {
                     "page": "0118",
@@ -826,7 +827,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 117,
             "author": [
                 {
                     "name": "ಎಸ್.ಆರ್.ರಮೇಶ್",
@@ -838,13 +838,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0122-0122",
+            "relativePageNumber": 121,
             "fullText": [
                 {
                     "page": "0122",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 121
+            ]
         }
     ]
 }

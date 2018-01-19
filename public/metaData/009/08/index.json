@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಭಗವದ್ರಹಸ್ಯ(ಭಾಗ ೨- ಜೀವಿಯ ರಹಸ್ಯ)",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಭಗವದ್ಗೀತೆಯ ಸಾರಸರ್ವಸ್ವ",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಅರ್ಜುನ ವಿಷಾದ",
             "feature": "",
             "page": "0013-0015",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0013",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -106,6 +106,7 @@
             "title": "ಹರಿದಾಸರು ಕೊಂಡಾಡಿದ ಶ್ರೀಕೃಷ್ಣ",
             "feature": "",
             "page": "0016-0018",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0016",
@@ -120,7 +121,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಅಚ್ಯುತದಾಸರು, ಸಂತ ಭದ್ರಗಿರಿ",
@@ -132,13 +132,13 @@
             "title": "ಚಿಂತನಪ್ರಭ",
             "feature": "",
             "page": "0018-0018",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0018",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -150,6 +150,7 @@
             "title": "ಜ್ಞಾನೇಶ್ವರಿಯಲ್ಲಿ ಕರ್ಮಜಿಜ್ಞಾಸೆ",
             "feature": "",
             "page": "0019-0020",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -160,7 +161,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ದೇಶಪಾಂಡೆ ಡಾ. ಸಿ. ಎನ್.",
@@ -172,6 +172,7 @@
             "title": "ಕುಮಾರವ್ಯಾಸ ವರ್ಣಿಸಿದ ಜರಾಸಂಧ ವಧೆ",
             "feature": "",
             "page": "0021-0022",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
@@ -182,7 +183,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಅನಂತರಾಮು ಡಾ. ಕೆ.",
@@ -194,6 +194,7 @@
             "title": "ಜನನಿ-ಜನ್ಮಭೂಮಿ",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
@@ -204,7 +205,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -216,6 +216,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಗುರುಪರಂಪರೆ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -226,7 +227,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಮೀನಾ ವಿ.",
@@ -238,13 +238,13 @@
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
             "page": "0026-0026",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -256,13 +256,13 @@
             "title": "ಜಪಯಜ್ಞದ ಅನುಭವ",
             "feature": "",
             "page": "0027-0027",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಲಲಿತಮ್ಮ ಡಾ. ಎಂ. ಎಲ್.",
@@ -274,13 +274,13 @@
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
             "page": "0028-0028",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -292,6 +292,7 @@
             "title": "ಶಿಕ್ಷಣಪ್ರಭ- ಆದರ್ಶಗಳ ಅನುಷ್ಠಾನ-೨",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -302,7 +303,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -314,13 +314,13 @@
             "title": "ದಿವ್ಯಸ್ಮೃತಿಪ್ರಭ",
             "feature": "",
             "page": "0030-0030",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -332,6 +332,7 @@
             "title": "ಕರ್ನಾಟಕದ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ",
             "feature": "",
             "page": "0031-0032",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0031",
@@ -342,7 +343,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಜಯಾ ರಾಜಶೇಖರ್ ಜಿ. ವಿ.",
@@ -354,6 +354,7 @@
             "title": "ಕಥಾಪ್ರಭ- ನಾರಾಯಣ ಭಟ್ಟತಿರಿ",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -364,7 +365,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಶಾಶ್ವತಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -376,13 +376,13 @@
             "title": "ಭಗವಂತನನ್ನು ಅರಸುತ್ತ",
             "feature": "",
             "page": "0034-0034",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -394,6 +394,7 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ- ವಿದ್ಯಾರ್ಥಿಗಳಿಗಾಗಿ ಪ್ರತಿಜ್ಞೆಗಳು",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
@@ -404,7 +405,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ನಿರ್ವೇದಾನಂದ",
@@ -416,6 +416,7 @@
             "title": "ವಿಚಾರಪ್ರಭ- ದ್ವೈತ ಸಿದ್ಧಾಂತ",
             "feature": "",
             "page": "0037-0038",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
@@ -426,7 +427,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಶ್ರೀನಿವಾಸನ್ ಡಾ. ಜಿ.",
@@ -438,13 +438,13 @@
             "title": "ವಿನೋದದಿಂದ ವೇದಾಂತ",
             "feature": "",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -456,6 +456,7 @@
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0040",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
@@ -466,7 +467,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -478,13 +478,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಶಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0041-0041",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -496,13 +496,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 41,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

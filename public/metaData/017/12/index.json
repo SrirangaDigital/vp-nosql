@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ:ಶ್ರೀರಾಮಕೃಷ್ಣ ಸುಪ್ರಭಾತಮ್ - ೨ ಸೂಕ್ತಿಪ್ರಭ: ಶ್ರೀಮಾತೆಯವರ ಉಪದೇಶಗಳು",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 3,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 3
+            ]
         },
         {
             "title": "ಇರುವಿಕೆ ಮತ್ತು ತೋರುವಿಕೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ಮನೋನಿಗ್ರಹ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 9
+            ]
         },
         {
             "title": "ಶ್ರೀಮಾತೆ-೧",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0011-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಆಶುತೋಷ್ ಮಿತ್ರ",
@@ -84,6 +84,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಮತ್ತು ಸ್ತ್ರೀಯರ ಪುನರುತ್ಥಾನ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0015-0020",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಶಾಂತಿವ್ರತಾನಂದ",
@@ -122,6 +122,7 @@
             "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೨",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0021-0024",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
@@ -140,7 +141,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಶ್ರದ್ಧಾನಂದ",
@@ -152,6 +152,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ಪತ್ರಗಳು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0025-0026",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ‌ ಧರ್ಮಪ್ರಾಣಾ",
@@ -174,6 +174,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಮತ್ತು ಏಸುಕ್ರಿಸ್ತನ ನಡುವಿನ ಸಾದೃಶ್ಯಗಳು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0027-0032",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
@@ -200,7 +201,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಪರಹಿತಾನಂದ",
@@ -212,6 +212,7 @@
             "title": "ತಾಯಿಯ ಸೇವೆಯಲ್ಲಿ ದೇವರನ್ನು ಕಂಡ ಸಂತ ಬಯಾಜಿದ್",
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0033-0037",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -234,7 +235,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -246,6 +246,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ ಭಾಗ-೪",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
@@ -263,20 +264,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 41
+            ]
         }
     ]
 }

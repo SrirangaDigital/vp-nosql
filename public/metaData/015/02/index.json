@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ:ಶಂಕಾರಾಚಾರ್ಯರ `ಹರಿಚರಣಾಷ್ಟಕಮ್`",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಯುವಚೇತನ - ರಾಷ್ಟ್ರಚೇತನ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,13 +36,13 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ರಾಷ್ಟ್ರಜಾಗೃಯಿಯ ಹರಿಕಾರ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -56,7 +57,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -68,6 +68,7 @@
             "title": "ವಿಶೇಷ ಪುರವಣಿ:ವಿವೇಕ ಯುವಚೇತನ ಶಿಬಿರ",
             "feature": "",
             "page": "0013-0024",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0013",
@@ -117,13 +118,13 @@
                     "page": "0024",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 12
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕರ್ಮಯೋಗ! ವಿವೇಕಿ ಜನರ ತತ್ತ್ವಭೋಗ!",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ವಿಭೂತಿಚೈತನ್ಯ",
@@ -146,6 +146,7 @@
             "title": "ಹರಿಕ್ಷೇತ್ರದಿಂದ ಹರಕ್ಷೇತ್ರಕ್ಕೆ",
             "feature": "",
             "page": "0027-0029",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
@@ -160,7 +161,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -172,6 +172,7 @@
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ",
             "feature": "",
             "page": "0030-0031",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
@@ -182,7 +183,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಎ.ಮುರಳೀಧರ",
@@ -194,6 +194,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಪರಿಹಾರ ಕಾರ್ಯಗಳು",
             "feature": "",
             "page": "0032-0036",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -216,7 +217,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಇ.ವಸಂತಕುಮಾರ್",
@@ -228,13 +228,13 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -246,6 +246,7 @@
             "title": "ಚಿತ್ರಕಥೆ:ಕೃಷ್ಣನ ಅನುಗ್ರಹವನ್ನು ಪಡೆದುಕೊಂಡ ಸುಲ್ತಾನ",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
@@ -263,20 +264,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 41
+            ]
         }
     ]
 }

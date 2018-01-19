@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ: ಸೂಕ್ತಿಪ್ರಭ: ತುಳಸೀದಾಸರ ವಚನಗಳು",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಆಧುನಿಕತೆಯ ಆತಂಕಗಳು",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,13 +36,13 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿಜ್ಞಾನಾನಂದರ ಸ್ಮೃತಿಗಳು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0010-0015",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಅಪೂರ್ವಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಶ್ರೀತ್ಯಾಗರಾಜರ ಕೀರ್ತನೆಗಳಲ್ಲಿ ನವವಿಧ ಭಕ್ತಿ ಭಾಗ-೨",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0016-0019",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್‍",
@@ -110,6 +110,7 @@
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೧೩",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0020-0024",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -132,7 +133,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -144,6 +144,7 @@
             "title": "ದೀಪಾವಳಿ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0025-0027",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -158,7 +159,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಕೆ.ಎಲ್‍.ಪ್ರಸನ್ನಾಕ್ಷೀ",
@@ -170,18 +170,19 @@
             "title": "ಆತ್ಮಜಾಗೃತಿ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0028-0028",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 25
+            ]
         },
         {
             "title": "ತತ್ತ್ವ-ಜ್ಞಾನ",
             "feature": "ತತ್ತ್ವ-ಜ್ಞಾನ",
             "page": "0029-0030",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -192,7 +193,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಪುಷ್ಪಾ ಶೇಷಾದ್ರಿ",
@@ -204,6 +204,7 @@
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ",
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0031-0032",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -213,13 +214,13 @@
                     "page": "0032",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 28
+            ]
         },
         {
             "title": "ಅಧ್ಯಾಪಕರಿಗೊಂದು ಹಿತನುಡಿ",
             "feature": "ಹಿತನುಡಿ",
             "page": "0033-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -230,7 +231,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಎಲ್‍.ಸಿ.ಎಸ್‍.ಮೂರ್ತಿ",
@@ -242,6 +242,7 @@
             "title": "ಭೀಮ, ಭಾಸ ಮತ್ತು ದೃಢರ ಕಥೆ",
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",
             "page": "0035-0037",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -256,7 +257,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -268,6 +268,7 @@
             "title": "ತಾಯಾಗಿ ಬಂದಳು ರಾಕ್ಷಸಿ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -285,20 +286,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

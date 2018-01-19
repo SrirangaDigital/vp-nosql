@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ: ಶ್ರೀ ಶ್ರೀ ವಿವೇಕಾನಂದರಿಗೆ  ಸೂಕ್ತಿಪ್ರಭ: ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಉಪದೇಶಗಳು",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಚಿರನೂತನ - ಚಿರಂತನ ಸ್ಪೂರ್ತಿ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ದೃಢ ವಿಶ್ವಾಸ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಪತ್ರ ಜಗತ್ತು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0015",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಡಿ. ಕೆ. ರಾಜೇಂದ್ರ",
@@ -88,6 +88,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ಕೃಪೆ ಭಾಗ -೨",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0016-0020",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಅಪೂರ್ವಾ‌ನಂದ",
@@ -122,6 +122,7 @@
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೧೫",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0021-0024",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -140,7 +141,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -152,6 +152,7 @@
             "title": "ಶ್ರದ್ಧಾತ್ರಯ",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0025-0030",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -178,7 +179,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -190,6 +190,7 @@
             "title": "ರಬಿಯಾ-ದೇವರ ಮಗಳು",
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0031-0034",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -208,7 +209,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -220,18 +220,19 @@
             "title": "ಗರಿಗಳಲ್ಲಿ ಗೀತಾಮೃತ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0035-0035",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 32
+            ]
         },
         {
             "title": "ನರಹರಿ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0036-0039",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -249,25 +250,25 @@
                     "page": "0039",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0040-0040",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         },
         {
             "title": "ರಾಮಕೃಷ್ಣಮಿಷನ್ ಆಡಳಿತ ಮಂಡಳಿಯ ವಾರ್ಷಿಕ ವರದಿಯ ಸಾರಾಂಶ - 2014-2015",
             "feature": "",
             "page": "0041-0042",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
@@ -277,8 +278,7 @@
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         }
     ]
 }

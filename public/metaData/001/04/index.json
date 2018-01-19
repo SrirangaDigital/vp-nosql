@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಯುಗಾದಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0006-0009",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0006",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಆಡಳಿತದಲ್ಲಿ ರಾಜರ್ಷಿ ಆದರ್ಶದ ಮಹತ್ವ",
             "feature": "",
             "page": "0010-0013",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0010",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ರಂಗನಾಥಾನಂದಜಿ ಮಹರಾಜ್",
@@ -88,6 +88,7 @@
             "title": "ಮಾತೆಯರಿಗೆ ಮತ್ತು ಭಗಿನಿಯರಿಗೆ ಎರಡು ಮಾತು",
             "feature": "",
             "page": "0014-0017",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0014",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -118,13 +118,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0017-0017",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0017",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -136,6 +136,7 @@
             "title": "ಕ್ರಾಂತಿಕಾರೀ ಸಂತ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0018-0020",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0018",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಶಿವರುದ್ರಪ್ಪ ಡಾ. ಜಿ. ಎಸ್.",
@@ -162,6 +162,7 @@
             "title": "ತಾಯಿಯೇ ದೇವರು",
             "feature": "",
             "page": "0021-0022",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0021",
@@ -172,7 +173,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -184,6 +184,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ಪಾದಚಿಹ್ನೆಗಳು",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0023",
@@ -194,7 +195,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಗೋಪೀನಾಥ ಎನ್.",
@@ -206,6 +206,7 @@
             "title": "ತಿರುಪತಿ ಪಾದಯಾತ್ರೆಯ ಕಿರುನೋಟ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0025",
@@ -216,7 +217,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ನಟರಾಜು ಎಸ್. ಸಿ.",
@@ -228,13 +228,13 @@
             "title": "ಏನೇನೊ ಗಳಿಸಿರಿತು ಪಡೆದೇನು? - ಕವನ",
             "feature": "",
             "page": "0027-0027",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0027",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಕುಮಾರ ನಿಜಗುಣ ಸ್ವಾಮಿಗಳು",
@@ -246,13 +246,13 @@
             "title": "ಅಯೋಧ್ಯಾರಾಮ ಮತ್ತು ರಾಮಕೃಷ್ಣ",
             "feature": "",
             "page": "0028-0028",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -264,13 +264,13 @@
             "title": "ಪರಸ್ಪರ ಸಹಾಯ",
             "feature": "",
             "page": "0029-0029",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಹೇಮಾ ಮಾಧವರಾವ್",
@@ -282,6 +282,7 @@
             "title": "ಏಕಾಗ್ರತಾ ಕಲೆ - ಯುವ ವೇದಿಕೆ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0030-0032",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0030",
@@ -296,7 +297,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -308,13 +308,13 @@
             "title": "ಸ್ತ್ರೀಯರ ವೈಶಿಷ್ಟ್ಯ, ಮಿದುಳು ದಶಕ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0033-0033",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -326,6 +326,7 @@
             "title": "ತನ್ನಂತೆ ಪರರು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0034-0035",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
@@ -336,7 +337,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -348,13 +348,13 @@
             "title": "ಮೃದು ವಚನ",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -366,13 +366,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -384,13 +384,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

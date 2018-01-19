@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಇಂದಿನ ನಾಗರಿಕತೆ ಹಾಗೂ ವೇದಾಂತದ ದೃಷ್ಟಿಕೋನ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ವೇದಾಂತವು ಶೋಧಕ ವಿಜ್ಞಾನ, ಅದು ಸಂಕುಚಿತ ಸಿದ್ಧಾಂತವಲ್ಲ",
             "feature": "",
             "page": "0010-0013",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಮುಖ್ಯಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ಅದ್ವೈತದಲ್ಲಿ ಮಾಯೆಯ ಸ್ಥಾನ-೧",
             "feature": "",
             "page": "0014-0016",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸುರೇಶಾನಂದ",
@@ -110,6 +110,7 @@
             "title": "ಶ್ರೀಮಾತೆಗೆ ಯಾರು ಅಸ್ಪೃಶ್ಯರಲ್ಲ",
             "feature": "",
             "page": "0017-0018",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0017",
@@ -120,7 +121,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -132,6 +132,7 @@
             "title": "ಹಿಂಸೆ-ಅಹಿಂಸೆ- ಒಂದು ವಿವೇಚನೆ",
             "feature": "",
             "page": "0019-0021",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -146,7 +147,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -158,6 +158,7 @@
             "title": "ಅರಿವಿನ ತೃಪ್ತಿಗೆ ಅನುಭಾವವೇ ಆಶ್ರಯ -೨",
             "feature": "",
             "page": "0022-0025",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0022",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -188,6 +188,7 @@
             "title": "ಪ್ರಾಚೀನ ಬೌದ್ಧ ಧರ್ಮ",
             "feature": "",
             "page": "0026-0029",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ವಿಜಯಲಕ್ಷ್ಮಿ ಮುರಳೀಧರ ಟಿ.",
@@ -218,13 +218,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0029-0029",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -236,6 +236,7 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0030-0031",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
@@ -246,7 +247,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -258,6 +258,7 @@
             "title": "ಕತ್ತಲ ಶಪಿಸದೆ ದೀಪ ಹಚ್ಚೋಣ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0032-0033",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -268,7 +269,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಬಸವಲಿಂಗಪ್ಪ ಶಿವನಕೆರೆ",
@@ -280,6 +280,7 @@
             "title": "ಓದುವ ಮೊದಲು ಕೇಳುವಿರಾ?",
             "feature": "",
             "page": "0034-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -298,7 +299,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -310,13 +310,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಸರ್ಕಾರಿ ನೌಕರರ ಸ್ತುತ್ಯ ಕಾರ್ಯ ಆರ್ಥಿಕ ಪ್ರಗತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸ್ವಾಸ್ಥ್ಯ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -328,13 +328,13 @@
             "title": "ಮನದಲ್ಲಿ ಮನೆ ಮಾಡಿರುವ ವ್ಯಾಪಾರಗಳು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -346,13 +346,13 @@
             "title": "ಸುಖ ನಿದ್ರೆಯ ರಹಸ್ಯ",
             "feature": "",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -364,13 +364,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0041-0041",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

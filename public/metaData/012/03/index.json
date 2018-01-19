@@ -10,18 +10,19 @@
             "title": "ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ರಾಮ, ಕೃಷ್ಟ-ರಾಮಕೃಷ್ಣ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಮನಸೆಳೆಯುವ ಕಿರುನಗೆ",
             "feature": "",
             "page": "0011-0012",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -56,7 +57,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -68,6 +68,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ 'ಸಾಧಕಭಾವ'",
             "feature": "",
             "page": "0013-0016",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0013",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಶಿವಕಾಂತಾನಂದ",
@@ -98,6 +98,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ 'ಗುರುಭಾವ'",
             "feature": "",
             "page": "0017-0020",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -116,7 +117,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಗಿರಿಜಾತ್ಮಾನಂದ",
@@ -128,6 +128,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ 'ದಿವ್ಯಭಾವ'",
             "feature": "",
             "page": "0021-0024",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -146,7 +147,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ಶಾಂತಿಚೈತನ್ಯ",
@@ -158,6 +158,7 @@
             "title": "ಮಹಾಶಿವರಾತ್ರಿಯ ಆಧ್ಯಾತ್ಮಿಕ ಮಹತ್ವ",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -172,7 +173,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಟಿ. ಎಂ. ಪಂಡಿತ್",
@@ -184,6 +184,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಶಿಷ್ಯೋದ್ಯಾನ-ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದ",
             "feature": "",
             "page": "0028-0032",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -218,6 +218,7 @@
             "title": "ಆಚಾರ್ಯತ್ರಯರು",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -228,7 +229,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಎಚ್. ವಿ. ಸರೋಜ",
@@ -240,6 +240,7 @@
             "title": "ಶ್ರೀಮಾತೆ ಮತ್ತು ಆಧುನಿಕ ಮಹಿಳೆ",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಪ್ರ. ಅಮಲಪ್ರಾಣಾ",
@@ -262,6 +262,7 @@
             "title": "ಕುಂಭಮೇಳ- ಅತಿ ದೊಡ್ಡ ಉತ್ಸವ",
             "feature": "",
             "page": "0037-0038",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
@@ -272,7 +273,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಆತ್ಮಶ್ರದ್ಧಾನಂದ",
@@ -284,6 +284,7 @@
             "title": "ಪರೀಕ್ಷೆಗೆ ಬರೆಯುವುದು ಹೇಗೆ?",
             "feature": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ",
             "page": "0039-0040",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0039",
@@ -293,32 +294,31 @@
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 36
+            ]
         },
         {
             "title": "ಕಥೋಪದೇಶ",
             "feature": "",
             "page": "0041-0041",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

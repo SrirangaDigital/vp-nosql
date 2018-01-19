@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಶ್ರೀಮಾತೆಯ ಅಂತರಾಳ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಭಾರತೀಯ ನಾರಿ ನಡೆದು ಬಂದ ದಾರಿ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಯಾರು ದೇವಿ ಭಗವತಿಯೋ, ಅವರೇ ಶಾರದಾ, ಸರಸ್ವತಿ-೨",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಚೇತನಾನಂದ",
@@ -118,6 +118,7 @@
             "title": "ಜೀವದ ಗೆಳೆಯರು- ನಿಮ್ಮ ಬದುಕಿನಲ್ಲಿ ಅಂತಹವರು ಇದ್ದಾರೆಯೆ?",
             "feature": "",
             "page": "0019-0021",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -132,7 +133,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಅಸಿತಾ ಪ್ರಭುಶಂಕರ",
@@ -144,6 +144,7 @@
             "title": "ಜೀವನಪ್ರಭ- ಹರಿಹರ",
             "feature": "",
             "page": "0022-0023",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0022",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -166,13 +166,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರಿಗೆ ಕ್ರಿಸ್ತನ ದರ್ಶನವಾದಾಗ",
             "feature": "",
             "page": "0024-0024",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -184,6 +184,7 @@
             "title": "ವನಸುಮದೊಲೆನ್ನ ಜೀವನವು ವಿಕಸಿಸುವಂತೆ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -194,7 +195,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಸದಾನಂದ ಕೆ. ಬಿ.",
@@ -206,13 +206,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0026-0026",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -224,18 +224,19 @@
             "title": "ಶ್ರೀಮಾತೆ ಶಾರದಾದೇವಿಯವರ ಕೆಲವು ಭಾವಚಿತ್ರಗಳು",
             "feature": "",
             "page": "0027-0027",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 26
+            ]
         },
         {
             "title": "ಶ್ರೀಮಾತೆ ಶಾರದಾದೇವಿ- ಶ್ರೀರಾಮಕೃಷ್ಣರ ಸಂನ್ಯಾಸಿ ಶಿಷ್ಯರ ದೃಷ್ಟಿಯಲ್ಲಿ -೨",
             "feature": "",
             "page": "0028-0032",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
@@ -258,7 +259,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಮೀನಾ ವಿ.",
@@ -270,6 +270,7 @@
             "title": "ಶಿಕ್ಷಕ-ಬದಲಾವಣೆಯ ಹರಿಕಾರ-೩",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0033-0034",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -280,7 +281,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ನಿಖಿಲೇಶ್ವರಾನಂದ",
@@ -292,13 +292,13 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0035-0035",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -310,13 +310,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಎಚ್ಚೆತ್ತ ಭಾರತ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0036-0036",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -328,13 +328,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಜೀವ ರಹಸ್ಯ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -346,13 +346,13 @@
             "title": "ದೊಡ್ಡ ಭಿಕ್ಷುಕರು",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -364,13 +364,13 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

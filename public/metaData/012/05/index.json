@@ -10,18 +10,19 @@
             "title": "ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಕಥಾಪ್ರಪಂಚ-೨",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಶ್ರೀ ಸಿದ್ಧಾಂತ ಶಿಖಾಮಣಿ",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಚಂದ್ರಶೇಖರ ಶಿವಾಚಾರ್ಯ ಮಹಾಸ್ವಾಮಿಗಳು",
@@ -72,6 +72,7 @@
             "title": "ಭಕ್ತಿ ಭಂಡಾರಿ ಬಸವಣ್ಣ",
             "feature": "",
             "page": "0014-0015",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -82,7 +83,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಸಿ.ಪಿ.ಕೃಷ್ಣಕುಮಾರ್",
@@ -94,6 +94,7 @@
             "title": "''ನೀವವನ ಕಂಡಿಹಿರಾ? ನಿಮಗವನು ಸಿಗುವನೇ?\"",
             "feature": "",
             "page": "0016-0019",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -112,7 +113,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಶಿಕಾರಿಪುರ ಹರಿಹರೇಶ್ವರ",
@@ -124,6 +124,7 @@
             "title": "''ಭಕ್ತಕಾಯ ಮಮ ಕಾಯ\"",
             "feature": "",
             "page": "0020-0022",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -138,7 +139,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಪಾರ್ವತಮ್ಮ ಚಂದ್ರಣ್ಣ",
@@ -150,6 +150,7 @@
             "title": "ನೆನಪಿನಂಗಳದಿಂದ",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಭಾರತೀಪ್ರಾಣಾ",
@@ -176,6 +176,7 @@
             "title": "ಕೃಪಾಸಾಗರ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "ದಿವ್ಯಸ್ಮೃತಿಪ್ರಭ",
             "page": "0026-0027",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -186,7 +187,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಗಿರೀಶ್ಚಂದ್ರ ಘೋಷ್",
@@ -198,6 +198,7 @@
             "title": "ದಾನದ ಮಹಿಮೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0028-0029",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -208,7 +209,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ವಿ.ಲಕ್ಷೀಶ್",
@@ -220,6 +220,7 @@
             "title": "ಸಂಸ್ಕೃತಿ ಪರಿಚಯ",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -230,7 +231,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸೀತಾ ಲಖಾನಿ",
@@ -242,6 +242,7 @@
             "title": "ಬನ್ನಿ, ದಕ್ಷಿಣೇಶ್ವರಕ್ಕೆ",
             "feature": "",
             "page": "0031-0033",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -256,7 +257,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -268,6 +268,7 @@
             "title": "ಪುಷ್ಪ ೩",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಶಿಷ್ಯೋದ್ಯಾನ",
             "page": "0034-0037",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -286,7 +287,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -298,6 +298,7 @@
             "title": "ಚಿತ್ರಕಥೆ - ಮಾಣಿಕವಾಚಕರ್",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -315,20 +316,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

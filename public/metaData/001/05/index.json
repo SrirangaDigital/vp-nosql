@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಯಜ್ಞದೃಷ್ಟಿ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0006-0008",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0006",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಮಹಾ ಮಾನವತಾವಾದಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0009-0011",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0009",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಶಿವರುದ್ರಪ್ಪ ಡಾ. ಜಿ. ಎಸ್.",
@@ -80,6 +80,7 @@
             "title": "ಪರಿವರ್ತನೆ",
             "feature": "",
             "page": "0012-0014",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0012",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸುನಿರ್ಮಲಾನಂದ",
@@ -106,6 +106,7 @@
             "title": "ಅಸ್ತಿತ್ವ ಮತ್ತು ದೇವರು",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0015",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -136,6 +136,7 @@
             "title": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಪ್ರವಾಸ",
             "feature": "",
             "page": "0019-0022",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0019",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ನಾರಾಯಣಸ್ವಾಮಿ ಎಮ್. ಆರ್.",
@@ -166,13 +166,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0022-0022",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0022",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -184,6 +184,7 @@
             "title": "ಧೈರ್ಯವಂತನಿಗೆ ನಾಶವಿಲ್ಲ",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0023",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ರೂಪಾ ಡಾ.",
@@ -210,13 +210,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ಭಕ್ತಿ",
             "feature": "",
             "page": "0026-0026",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0026",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -228,6 +228,7 @@
             "title": "ಮೈಸೂರಿನ ಶ್ರೀರಾಮಕೃಷ್ಣ ಆಶ್ರಮ ನಡೆಸು ಬಂದ ದಾರಿ",
             "feature": "",
             "page": "0027-0031",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0027",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ವಿವಿಕ್ತ ಚೈತನ್ಯ ಬ್ರ.",
@@ -262,6 +262,7 @@
             "title": "ವಿವೇಕಾನಂದರು ಬಯಸಿದ ಯುವಶಕ್ತಿ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0032-0034",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0032",
@@ -276,7 +277,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -288,13 +288,13 @@
             "title": "ಶಿಶು ಪಾಲನೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -306,13 +306,13 @@
             "title": "ಪ್ರಗತಿಯ ಹೊಸ ನಿರೂಪಣೆ",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -324,13 +324,13 @@
             "title": "ಪ್ರೀತಿಯ ಮಹಿಮೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -342,6 +342,7 @@
             "title": "ಶತ್ರುತ್ವ ನಮ್ಮನ್ನೇ ನಾಶ ಮಾಡುತ್ತದೆ",
             "feature": "",
             "page": "0036-0037",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
@@ -352,7 +353,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -364,13 +364,13 @@
             "title": "ಜ್ಞಾನಿ ಕೃಷಿಕ - ಶ್ರೀರಾಮಕೃಷ್ಣರು ಹೇಳಿದ ಕಥೆ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -382,13 +382,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -400,13 +400,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

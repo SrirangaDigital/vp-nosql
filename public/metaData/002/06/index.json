@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಅಹಂತತ್ವ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0008",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಪಂಚದಶಿಯಲ್ಲಿ ನಾಟಕ ದೀಪ",
             "feature": "",
             "page": "0008-0009",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0008",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ರಾಮಾನುಜಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಗಂಗಾತಟದಲ್ಲೊಂದು ಸೇವಾಯಜ್ಞಾ",
             "feature": "",
             "page": "0010-0013",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0010",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ವಿವಿಕ್ತ ಚೈತನ್ಯ ಬ್ರ.",
@@ -110,13 +110,13 @@
             "title": "ನಿಮ್ಮ ಯೋಗಸಾಧನೆಗೊಂದು ಪರೀಕ್ಷೆ",
             "feature": "",
             "page": "0014-0014",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0014",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -128,6 +128,7 @@
             "title": "ಅನ್ಯೋನ್ಯ ಅಸ್ತಿತ್ವ",
             "feature": "",
             "page": "0015-0016",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0015",
@@ -138,7 +139,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -150,13 +150,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸ ಗುರೋಃ ಅಷ್ಟಕಮ್",
             "feature": "",
             "page": "0017-0017",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0017",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಮಹಾಬಲಶಾಸ್ತ್ರೀ ವಿದ್ವಾನ್",
@@ -168,6 +168,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ಕರೆದಾಗ",
             "feature": "",
             "page": "0018-0019",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0018",
@@ -178,7 +179,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಷಾ ಸಿ. ಟಿ.",
@@ -190,6 +190,7 @@
             "title": "ಸ್ವಾಮಿ ಕಲ್ಯಾಣಾನಂದ",
             "feature": "",
             "page": "0020-0022",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0020",
@@ -204,7 +205,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -216,6 +216,7 @@
             "title": "ಸತ್ಯಮೇವ ಜಯತೇ",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0023",
@@ -226,7 +227,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಎಸ್. ಎಸ್. ಕುಮಾರಿ",
@@ -238,6 +238,7 @@
             "title": "ನಿರ್ಮಮತೆಯೇ ಮೋಕ್ಷ",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0025",
@@ -252,7 +253,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಕೆ. ಎ.",
@@ -264,13 +264,13 @@
             "title": "ಧ್ಯಾನ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0028-0028",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -282,13 +282,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0029-0029",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -300,6 +300,7 @@
             "title": "ಯುವಸ್ಪಂದನ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0030-0033",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0030",
@@ -318,7 +319,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -330,13 +330,13 @@
             "title": "ಶ್ರೇಷ್ಠ ವ್ಯಕ್ಯಿತ್ವ-ರಾಷ್ಟ್ರದ ಮಹತ್ವ",
             "feature": "",
             "page": "0034-0034",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -348,13 +348,13 @@
             "title": "ಮಾನವನ ಮಾರಾಟ ಯೋಗದ ಸುಯೋಗ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -366,13 +366,13 @@
             "title": "ಏಕ್ ದಿನ್ ಕಾ ಸುಲ್ತಾನ್",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -384,13 +384,13 @@
             "title": "ಜ್ಞಾನಕ್ಕೆ ಜಾತಿಯಿಲ್ಲ-ಕಥಾಚಿತ್ರ",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -402,13 +402,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

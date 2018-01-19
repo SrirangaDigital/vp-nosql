@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಕನ್ನಡದ ಕಣ್ಮಣಿಗಳು: ಹರಿದಾಸರು-೨",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಶಾಂತಿಗಾಗಿ ಸಂವಾದ-ಸಹಬಾಳ್ವೆಗೆ ಧರ್ಮದ ಕೊಡುಗೆ",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಸ್ಮರಣಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಪರಿಪೂರ್ಣ ಭಕ್ತರಾಗಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0015-0019",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -122,6 +122,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಮಾತೆಯರು",
             "feature": "",
             "page": "0020-0023",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -140,7 +141,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -152,6 +152,7 @@
             "title": "ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಕೇಂದ್ರಗಳು",
             "feature": "",
             "page": "0024-0028",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
@@ -174,7 +175,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಸುರೇಶ್ ಮೂನ",
@@ -186,18 +186,19 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿಯಿಂದ",
             "feature": "",
             "page": "0029-0029",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 26
+            ]
         },
         {
             "title": "ವೀರಭಕ್ತ ಗಿರೀಶ್ಚಂದ್ರ ಘೋಷ್",
             "feature": "",
             "page": "0030-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -208,7 +209,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಪರಮಪ್ರಾಣಾ",
@@ -220,6 +220,7 @@
             "title": "ಪರೀಕ್ಷೆಯೆಂಬ ಭೂತದಿಂದ ಪಾರಾಗಿರಿ",
             "feature": "",
             "page": "0032-0033",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -230,7 +231,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ",
@@ -242,18 +242,19 @@
             "title": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0033-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 30
+            ]
         },
         {
             "title": "ಬನ್ನಿ, ಬೇಲೂರು ಮಠಕ್ಕೆ",
             "feature": "",
             "page": "0034-0036",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -268,7 +269,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸ್ವಾಮಿ ಆಶುತೋಷಾನಂದ",
@@ -280,18 +280,19 @@
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ನಿತ್ಯಜೀವನದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕತೆ",
             "feature": "",
             "page": "0037-0038",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
@@ -301,13 +302,13 @@
                     "page": "0038",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0040",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0039",
@@ -317,13 +318,13 @@
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 36
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0041-0042",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
@@ -333,8 +334,7 @@
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         }
     ]
 }

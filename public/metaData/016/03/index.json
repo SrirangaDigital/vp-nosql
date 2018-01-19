@@ -10,30 +10,31 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪ್ರಾತಃಸ್ಮರಣಮ್",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮನ ಉಪದೇಶಗಳು",
             "feature": "ಸೂಕ್ತಿಪ್ರಭ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಸಂಸ್ಕೃತಿಯ ಹೆಜ್ಜೆಗುರುತು",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -47,25 +48,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "`ವಿನಾಭ'",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -83,13 +84,13 @@
                     "page": "0014",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 8
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೫",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0015-0017",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -104,7 +105,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -116,6 +116,7 @@
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ",
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0018-0019",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -125,13 +126,13 @@
                     "page": "0019",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 15
+            ]
         },
         {
             "title": "ಭಕ್ತನ ಲಕ್ಷಣ - ಭಾಗ ೩",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ",
             "page": "0020-0023",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -162,6 +162,7 @@
             "title": "ಶತಾನಂದ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0024-0026",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -188,6 +188,7 @@
             "title": "ಸ್ಮಾಮಿ ಪ್ರೇಮಾನಂದರು ಭಾಗ ೪",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0027-0030",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -218,6 +218,7 @@
             "title": "ಶುಕನ ಕಥೆ",
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",
             "page": "0031-0033",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -232,7 +233,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -244,6 +244,7 @@
             "title": "ನಿಗೂಢ ಭಾರತದಲ್ಲೊಂದು ಹುಡುಕಾಟ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0034-0035",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -253,13 +254,13 @@
                     "page": "0035",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 31
+            ]
         },
         {
             "title": "ಇಂದ್ರ ಮತ್ತು ಪ್ರಹ್ಲಾದ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0036-0039",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -277,20 +278,19 @@
                     "page": "0039",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0040-0040",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         }
     ]
 }

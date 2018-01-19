@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಧಾರ್ಮಿಕ ಶಿಕ್ಷಣದ ಅಗತ್ಯ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಹಿಂದೂ ಧರ್ಮದ ವಿಶ್ವಭಾವೈಕ್ಯತೆ",
             "feature": "",
             "page": "0010-0014",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಅನನ್ಯಾನಂದ",
@@ -88,13 +88,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0014-0014",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -106,6 +106,7 @@
             "title": "ಸರ್ವಜ್ಞ",
             "feature": "",
             "page": "0015-0016",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -116,7 +117,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -128,6 +128,7 @@
             "title": "ಅಸ್ಪೃಶ್ಯತೆಯನ್ನು ಹೋಗಲಾಡಿಸುವುದು ಹೇಗೆ?",
             "feature": "",
             "page": "0017-0018",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0017",
@@ -138,7 +139,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಚೆನ್ನಬಸಪ್ಪ ಕೋ.",
@@ -150,6 +150,7 @@
             "title": "ಹಫೀಜೆನ ಏಕನಿಷ್ಠೆ",
             "feature": "",
             "page": "0019-0020",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -160,7 +161,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಉಷಾ ಪಿ.",
@@ -172,6 +172,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಲೀಲಾಸ್ಥಾನಗಳ ಸಚಿತ್ರ ಯಾತ್ರೆ",
             "feature": "",
             "page": "0021-0022",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
@@ -182,7 +183,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -194,6 +194,7 @@
             "title": "ನಾಡು-ನುಡಿಗೆ ಸೇವೆಗೈದ ನಾರೀಮಣಿಯರು",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
@@ -208,7 +209,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯನಾರಸಿಂಹ",
@@ -220,6 +220,7 @@
             "title": "ಮೋಸಹೋಗಲು ಜನ ಸಿದ್ಧರಿರುವಾಗ ಮೋಸಮಾಡುವವರಿಗೆ ಬರವೇ?",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -230,7 +231,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಬಸವಲಿಂಗಪ್ಪ ಶಿವನಕೆರೆ",
@@ -242,6 +242,7 @@
             "title": "ತತ್ತ್ವಪರಿಭಾಷೆಯ ಕಥೆಗಳು",
             "feature": "",
             "page": "0028-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
@@ -260,7 +261,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯಕುಮಾರ್ ಡಾ.",
@@ -272,13 +272,13 @@
             "title": "ಜ್ಞಾನಿಯು ಎಂದಿಗೂ ತಪ್ಪು ಹೆಜ್ಜೆ ಇಡುವುದೇ ಇಲ್ಲ",
             "feature": "",
             "page": "0032-0032",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -290,6 +290,7 @@
             "title": "ವಿದ್ಯಾಭ್ಯಾಸ- ಒಂದು ಚಿಂತನೆ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0033-0035",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -304,7 +305,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಪ್ರಹ್ಲಾದ ಬ್ರ.",
@@ -316,6 +316,7 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0036-0037",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
@@ -326,7 +327,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -338,13 +338,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಭವಿಷ್ಯದ ಯುಗವು ದಾನವರ ಯುಗವೇ?",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -356,13 +356,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಬಗ್ಗಿದ ಬೆನ್ನುಮೂಳೆ ನೆಟ್ಟಗಾದುದು ಹೇಗೆ?",
             "feature": "",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -374,13 +374,13 @@
             "title": "ಸಾಧುಗಳ ಕೂಡ ಸತ್ಸಂಗ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -392,13 +392,13 @@
             "title": "ನಿಸ್ವಾರ್ಥತೆಯ ಮಂತ್ರಿ",
             "feature": "",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -410,13 +410,13 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0041-0041",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

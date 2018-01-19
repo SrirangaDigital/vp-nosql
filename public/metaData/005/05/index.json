@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ತಾಂತ್ರಿಕಪ್ರಭುತ್ವ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಮತ್ತು ಬುದ್ಧ",
             "feature": "",
             "page": "0010-0014",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -88,6 +88,7 @@
             "title": "ಏಕಾಗ್ರತೆ ಮತ್ತು ಧ್ಯಾನ -೩",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -118,6 +118,7 @@
             "title": "ನಾಲ್ವರು ಮಹಾಶಿಷ್ಯರು -೨",
             "feature": "",
             "page": "0019-0023",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -140,7 +141,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -152,6 +152,7 @@
             "title": "ಕನ್ನಡದಲ್ಲಿ ತಮಿಳು ದಿವ್ಯಪ್ರಬಂಧ",
             "feature": "",
             "page": "0024-0025",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಕಸ್ತೂರಿ ನೀಲತ್ತಹಳ್ಳಿ",
@@ -174,6 +174,7 @@
             "title": "ಧೀರಮಾತಾ- ೧",
             "feature": "",
             "page": "0026-0029",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -192,7 +193,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಮೀನಾ ವಿ.",
@@ -204,6 +204,7 @@
             "title": "ಪತಿತಪಾವನೆ ಶ್ರೀಮಾತೆ",
             "feature": "",
             "page": "0030-0032",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
@@ -218,7 +219,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಮುರುಗನ್ ಪಿ.",
@@ -230,13 +230,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮಹಿಮಾ",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -248,13 +248,13 @@
             "title": "ಪವಿತ್ರತೆಯ ಅದ್ಭುತ ಬೋಧಕ",
             "feature": "",
             "page": "0034-0034",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -266,6 +266,7 @@
             "title": "ಸರ್ವಜ್ಞನಪ್ಪಂ ನರಂ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0035-0036",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
@@ -276,7 +277,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ವಿಶ್ವನಾಥಯ್ಯ ಎಂ. ಟಿ.",
@@ -288,13 +288,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಸತ್ಸಂಗ ಉಗ್ರರನ್ನು ನಿರಾಯುಧಗೊಳಿಸಬಲ್ಲುದೆ?",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -306,13 +306,13 @@
             "title": "ಅಸ್ಪೃಶ್ಯನಾರು?",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -324,13 +324,13 @@
             "title": "ದ್ರೌಪದಿಯ ಭಕ್ತಿ",
             "feature": "",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -342,13 +342,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -360,13 +360,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0041-0041",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

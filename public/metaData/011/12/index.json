@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಶ್ರೀಮಾತೆ ಮತ್ತು ಸ್ತ್ರೀಸಮಾನತಾವಾದ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಶ್ರೀಮಾತೆ ಮತ್ತು ಆಧುನಿಕ ಮಹಿಳೆ",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಅಮಲಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -84,6 +84,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ರಾಮೇಶ್ವರ ಯಾತ್ರೆ",
             "feature": "",
             "page": "0014-0017",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಪ್ರಜ್ಞಾಪ್ರಾಣಾ",
@@ -114,6 +114,7 @@
             "title": "ಉದ್ಯಾನ ನಗರಿಯಲ್ಲಿ ಶ್ರೀದುರ್ಗಾ",
             "feature": "",
             "page": "0018-0020",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -128,7 +129,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಅತುಲಪ್ರಾಣಾ",
@@ -140,6 +140,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ದಾಕ್ಷಿಣಾತ್ಯ ಶಿಷ್ಯರು",
             "feature": "",
             "page": "0021-0024",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -158,7 +159,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಭವಾನೀಪ್ರಾಣಾ",
@@ -170,6 +170,7 @@
             "title": "ಶಾರದಾ ಮಠದ ಐತಿಹಾಸಿಕ ಮಹತ್ವ",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -184,7 +185,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಕುಮಾರಿಸ್ವರ್ಣಗೌರಿ",
@@ -196,18 +196,19 @@
             "title": "ಶಕ್ತಿಪೂಜೆ (ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿಯಿಂದ)",
             "feature": "",
             "page": "0028-0028",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 25
+            ]
         },
         {
             "title": "ಕುಂಭಮೇಳ- ವಿಶ್ವದ ಅತಿದೊಡ್ಡ ಉತ್ಸವ",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -218,7 +219,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಆತ್ಮಶ್ರದ್ಧಾನಂದ",
@@ -230,6 +230,7 @@
             "title": "ಆಚಾರ್ಯತ್ರಯರು",
             "feature": "",
             "page": "0031-0032",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -240,7 +241,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸರೋಜ",
@@ -252,6 +252,7 @@
             "title": "ಧರ್ಮದ ಅನುಷ್ಠಾನದ ಅವಶ್ಯಕತೆ",
             "feature": "",
             "page": "0033-0036",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -270,7 +271,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -282,13 +282,13 @@
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಜಯದೇವ ಜಿ. ಎಸ್.",
@@ -300,13 +300,13 @@
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
             "page": "0038-0038",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -318,18 +318,19 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 36
+            ]
         },
         {
             "title": "ವಾರ್ಷಿಕ ಪರಿವಿಡಿ",
             "feature": "",
             "page": "0040-0042",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
@@ -343,8 +344,7 @@
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         }
     ]
 }

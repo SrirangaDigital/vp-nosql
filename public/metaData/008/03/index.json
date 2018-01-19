@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ನಗರ ಜೀವನದ ಪಾಡು",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು-೧",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ತಪಸ್ಯಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಶ್ರೀರಾಮನು ಯಾರು? ಈಶ್ವರನೋ ಅಥವಾ ಮಾನವನೋ",
             "feature": "",
             "page": "0013-0016",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0013",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿಪದಾನಂದ",
@@ -110,6 +110,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ವೈಜ್ಞಾನಿಕ ದೃಷ್ಟಿ -೧",
             "feature": "",
             "page": "0017-0019",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0017",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ನಾರಾಯಣರಾವ್ ಜಿ. ಟಿ.",
@@ -136,13 +136,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0020-0020",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಭಗವದಾನಂದ",
@@ -154,6 +154,7 @@
             "title": "ಕಥಾಚಿತ್ರ-ಶಬರಿ",
             "feature": "",
             "page": "0021-0023",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -180,6 +180,7 @@
             "title": "ಜೀವನಪ್ರಭ-ನಿಜಗುಣ ಶಿವಯೋಗಿ",
             "feature": "",
             "page": "0024-0026",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
@@ -194,7 +195,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯನಾರಸಿಂಹ",
@@ -206,13 +206,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0026-0026",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -224,6 +224,7 @@
             "title": "ಕುಂಭಕರ್ಣನ ಉಪದೇಶದ ಪ್ರಸ್ತುತತೆ",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
@@ -234,7 +235,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಪ್ರಸನ್ನಾಕ್ಷಿ ಡಾ. ಕೆ. ಎಲ್.",
@@ -246,6 +246,7 @@
             "title": "ಯೋಗಪ್ರಭ- ನಮ್ಮ ಆಹಾರ",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -256,7 +257,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ರಾಘವೇಂದ್ರ ಪೈ ಡಾ. ಕೆ.",
@@ -268,6 +268,7 @@
             "title": "ಕರ್ಮಯೋಗ- ಜಗತ್ತಿನ ದಕ್ಷಿಣ ತುದಿಯಲ್ಲಿ",
             "feature": "",
             "page": "0031-0032",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0031",
@@ -278,7 +279,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಪೃಥಾಲಾಲ್",
@@ -290,13 +290,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0032-0032",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -308,6 +308,7 @@
             "title": "ಯೂವ ವೇದಿಕೆ- ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನ ಮತ್ತು ಸಂದೇಶಗಳಲ್ಲಿ ನಾನು ಮೆಚ್ಚುವ ಅಂಶಗಳು",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0033-0034",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -318,7 +319,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಪವನ್ ಆರ್. ನರಗುಂದೆ",
@@ -330,6 +330,7 @@
             "title": "ಕನಸಿನ ಗುರಿಮುಟ್ಟುವ ತನಕ ಹೋರಾಡೋಣ",
             "feature": "",
             "page": "0034-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -344,7 +345,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಬಸವಲಿಂಗಪ್ಪ ಶಿವನಕೆರೆ",
@@ -356,13 +356,13 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -374,13 +374,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಕಲಿಕೆಯಲ್ಲಿ ಏಕಾಗ್ರತೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -392,13 +392,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

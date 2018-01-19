@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ - ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಆಧುನಿಕ ಭಾರತ ಮತ್ತು ಸನಾತನ ಧರ್ಮ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ವಿಜ್ಞಾನಿ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೭",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಪರಿಹಾರ ಕಾರ್ಯದ ಕೆಲವು ನೆನಪುಗಳು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0014-0019",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಒಬ್ಬ ಅನಾಮಿಕ ಸಂನ್ಯಾಸಿ",
@@ -118,6 +118,7 @@
             "title": "ಸ್ಮಾಮಿ ಪ್ರೇಮಾನಂದರು ಭಾಗ ೬",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0020-0025",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -144,7 +145,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -156,6 +156,7 @@
             "title": "ಭಕ್ತನ ಲಕ್ಷಣ - ಭಾಗ ೫",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ",
             "page": "0026-0030",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -178,7 +179,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -190,18 +190,19 @@
             "title": "ಕಥಾಚಿಂತನ-ಮನೋಮಂಥನ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0031-0031",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 28
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ",
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0032-0033",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -211,13 +212,13 @@
                     "page": "0033",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 29
+            ]
         },
         {
             "title": "ಮಹಾತ್ಮನ ಕಥೆ",
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು:ಕಥಾಗುಚ್ಛ ೪",
             "page": "0034-0037",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -236,7 +237,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -248,6 +248,7 @@
             "title": "ಕಾಳಿದಾಸ ಮತ್ತು ಭೋಜರಾಜ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -265,20 +266,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

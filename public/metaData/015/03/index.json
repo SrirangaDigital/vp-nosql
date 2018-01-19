@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಶಾಸ್ತ್ರಸ್ವರೂಪಿ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ರಾಷ್ಟ್ರಜಾಗೃಯಿಯ ಹರಿಕಾರ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0011-0013",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -72,6 +72,7 @@
             "title": "ಜೀವನ ಮಕರಂದ",
             "feature": "ಪುಸ್ತಕ ಸಂಗ್ರಹ",
             "page": "0014-0017",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -102,6 +102,7 @@
             "title": "ಭಗವಂತನ ಅಸ್ತಿತ್ವದ ಪ್ರಮಾಣಪುರುಷರಾಗಿ ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಜನ್ಮಕ್ಷೇತ್ರ - ಕಾಮಾರಪುಕುರ",
             "page": "0018-0020",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0018",
@@ -116,7 +117,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -128,13 +128,13 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕರ್ಮಯೋಗ! ವಿವೇಕಿ ಜನರ ತತ್ತ್ವಭೋಗ!",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0021-0021",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ  ಭೂದೇವಚೈತನ್ಯ",
@@ -146,6 +146,7 @@
             "title": "ಸಾಮಾನ್ಯತೆಯ ಶ್ರೀಮೂರ್ತಿ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಜನ್ಮಕ್ಷೇತ್ರ - ಕಾಮಾರಪುಕುರ",
             "page": "0022-0025",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0022",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಹೆಚ್. ಎನ್. ಮುರಳೀಧರ",
@@ -176,6 +176,7 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ:ಆರೋಗ್ಯಮಸ್ತು",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0026-0027",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -186,7 +187,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಎಚ್. ಪಾಂಡುರಂಗವಿಠಲ",
@@ -198,6 +198,7 @@
             "title": "ಹರಿಕ್ಷೇತ್ರದಿಂದ ಹರಕ್ಷೇತ್ರಕ್ಕೆ",
             "feature": "",
             "page": "0028-0030",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
@@ -212,7 +213,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -224,6 +224,7 @@
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0031-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0031",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಎ. ಮುರಳೀಧರ",
@@ -254,6 +254,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0035-0036",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -276,6 +276,7 @@
             "title": "ಚಿತ್ರಕಥೆ:ಶ್ರೀರಾಮಕೃಷ್ಣರಿಗೆ ಶರಣಾದ ಭಕ್ತದಂಪತಿಗಳು",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0037-0040",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
@@ -293,13 +294,13 @@
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 36
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0041-0042",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
@@ -309,8 +310,7 @@
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 40
+            ]
         }
     ]
 }

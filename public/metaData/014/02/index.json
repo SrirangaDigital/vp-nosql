@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ, ವಿವೇಕವಾಣಿ, ಡಿ.ವಿ.ಜಿ. ವಾಣಿ, ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ನಮಗೆ ನಾವೇ ಪರಿಹಾರ ಕಂಡುಕೊಳ್ಳೋಣ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0008",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -31,25 +32,25 @@
                     "page": "0008",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಒಂದು ಅಪ್ರಕಟಿತ ಪತ್ರ",
             "feature": "",
             "page": "0009-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ವಿವೇಕ ವೈಭವ ಗಾಥಾ",
             "feature": "",
             "page": "0010-0011",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -72,13 +72,13 @@
             "title": "ರಸಬೋಧೆ",
             "feature": "",
             "page": "0012-0012",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0012",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -90,6 +90,7 @@
             "title": "ಶಿಕ್ಷಕರಲ್ಲಿ ಇರಬೇಕಾದ ಮೂರು ಗುಣಗಳು",
             "feature": "",
             "page": "0013-0015",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0013",
@@ -104,7 +105,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -116,30 +116,31 @@
             "title": "ಸ್ಫೂರ್ತಿಪ್ರಭ",
             "feature": "",
             "page": "0015-0015",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 12
+            ]
         },
         {
             "title": "ಗುರುವಾದ ದೊಣ್ಣೆ",
             "feature": "",
             "page": "0016-0016",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 13
+            ]
         },
         {
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ: ಜ್ಞಾನ-ಕರ್ಮ ಸಮುಚ್ಚಯ",
             "feature": "",
             "page": "0017-0018",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -162,18 +162,19 @@
             "title": "ಪವಿತ್ರ ಪತ್ರಮಾಲೆ: ಸ್ವಾಮಿ ಶಿವಾನಂದಜಿ ಅವರ ಒಂದು ಪತ್ರ",
             "feature": "",
             "page": "0019-0019",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 16
+            ]
         },
         {
             "title": "ಸಂತ ಶ್ರೇಷ್ಠ ಕವಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0020-0021",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -184,7 +185,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಜಯಪ್ಪ ಹೊನ್ನಾಳಿ",
@@ -196,18 +196,19 @@
             "title": "ಪೋಷಕರೇ ಗಮನಿಸಿ: ನಿಮ್ಮ ಮಕ್ಕಳಿಗೆ ಯಾರು ಆದರ್ಶ?",
             "feature": "",
             "page": "0022-0022",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 19
+            ]
         },
         {
             "title": "ವಿವೇಕಾನಂದ ಚಿಂತನ: ಭಾರತ ಭಾಗ್ಯವಿಧಾತನ ಚೆನ್ನೈ ರಣಕಹಳೆ - ೨",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -221,25 +222,25 @@
                     "page": "0025",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 20
+            ]
         },
         {
             "title": "ಶಿಕ್ಷಕರೇ ಗಮನಿಸಿ",
             "feature": "",
             "page": "0026-0026",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 23
+            ]
         },
         {
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -262,18 +262,19 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳೇ ಗಮನಿಸಿ",
             "feature": "",
             "page": "0029-0029",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 26
+            ]
         },
         {
             "title": "ಉಪನಿಷನ್ಮಂಜರಿ: ಬೃಹದಾರಣ್ಯಕೋಪನಿಷತ್",
             "feature": "",
             "page": "0030-0032",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -288,7 +289,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಗಂಗಾಧರ ವಿ. ಭಟ್ಟ",
@@ -300,25 +300,25 @@
             "title": "ಜೀವನಪ್ರಭ: ಒತ್ತಡ ನಿವಾರಣೆಗೆ ಐದು ಉಪಾಯಗಳು",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 30
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0034-0034",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಕೆ. ಆನಂತರಾಮು",
@@ -330,6 +330,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ಆಡಳಿತ ಮಂಡಳಿಯ ಸಂಕ್ಷಿಪ್ತ ವಾರ್ಷಿಕ ವರದಿ",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -339,13 +340,13 @@
                     "page": "0036",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 32
+            ]
         },
         {
             "title": "ಚಿತ್ರಕಥೆ: ನೇಮಿನಾಥ",
             "feature": "",
             "page": "0037-0040",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
@@ -363,20 +364,19 @@
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0041-0041",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         }
     ]
 }

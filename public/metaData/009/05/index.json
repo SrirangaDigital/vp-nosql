@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಬುದ್ಧ ಬೀರಿದ ಬೆಳಕು",
             "feature": "",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮತ್ತು ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ಧರ್ಮಸಮನ್ವಯ -೪",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಧರ್ಮದ ಅವಶ್ಯಕತೆ",
             "feature": "",
             "page": "0013-0014",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0013",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ದಲಾಯಿ ಲಾಮಾ",
@@ -102,13 +102,13 @@
             "title": "ವಿನೋದದಿಂದ ವೇದಾಂತ",
             "feature": "",
             "page": "0014-0014",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -120,6 +120,7 @@
             "title": "ವೇದಾಂತದ ದೃಷ್ಟಿಯಲ್ಲಿ ಬ್ರಹ್ಮತತ್ವ",
             "feature": "",
             "page": "0015-0016",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -130,7 +131,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಅಮೃತಾನಂದ",
@@ -142,6 +142,7 @@
             "title": "ಜೀವನ್ಮುಕ್ತನ ಲಕ್ಷಣಗಳು",
             "feature": "",
             "page": "0017-0018",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0017",
@@ -152,7 +153,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ವೈದೇಹಿ ಚೈತನ್ಯ",
@@ -164,6 +164,7 @@
             "title": "ಶ್ರೀಶಂಕರರ ದೃಷ್ಟಿಯಲ್ಲಿ ಬದುಕಿನ ಸಾರ್ಥಕ್ಯ",
             "feature": "",
             "page": "0019-0020",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -174,7 +175,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -186,6 +186,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ವೇದಾಂತಬೋಧಕ ಹಾಸ್ಯ",
             "feature": "",
             "page": "0021-0022",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
@@ -196,7 +197,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಕುಮಾರ್ ಡಾ. ಸಿ. ಪಿ.",
@@ -208,13 +208,13 @@
             "title": "ಭಗವಂತನನ್ನು ಅರಸುತ್ತ",
             "feature": "",
             "page": "0022-0022",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0022",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಯತೀಶ್ವರಾನಂದ",
@@ -226,13 +226,13 @@
             "title": "ಗುರುದೇವ ರವೀಂದ್ರರ ಜೀವನ",
             "feature": "",
             "page": "0023-0023",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಪಂಡಿತ್ ಪ್ರೊ. ಟಿ. ಎಂ.",
@@ -244,6 +244,7 @@
             "title": "ಪಂಚಕೋಶ ವಿವೇಕ",
             "feature": "",
             "page": "0024-0025",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
@@ -254,7 +255,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸೂರ್ಯನಾರಾಯಣ ಭಟ್ಟ ಹಿತ್ಲಳ್ಳಿ",
@@ -266,6 +266,7 @@
             "title": "ವೇದಾಂತ ಸಾಧನೆಯಲ್ಲಿ ಶ್ರದ್ಧೆಯ ಸ್ಥಾನ",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -276,7 +277,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ರೂಪಾ ಡಾ.",
@@ -288,13 +288,13 @@
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
             "page": "0028-0028",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -306,6 +306,7 @@
             "title": "ಮೌಲ್ಯಗಳ ಅರಿವು",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
@@ -316,7 +317,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -328,6 +328,7 @@
             "title": "ಬೋಧಿಸತ್ವನ ಆದರ್ಶ",
             "feature": "",
             "page": "0031-0032",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0031",
@@ -338,7 +339,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -350,6 +350,7 @@
             "title": "ವಿಚಾರಪ್ರಭ",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -360,7 +361,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಪರಮಾನಂದ ಭಾರತೀ",
@@ -372,6 +372,7 @@
             "title": "ಒಂದು ಸುಂದರ ಕನಸು",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
@@ -382,7 +383,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -394,13 +394,13 @@
             "title": "ದಿವ್ಯಸ್ಮೃತಿ ಪ್ರಭ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -412,6 +412,7 @@
             "title": "ಕರ್ನಾಟಕ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ",
             "feature": "",
             "page": "0037-0038",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
@@ -422,7 +423,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಚಿದಾನಂದ ಮೂರ್ತಿ ಡಾ. ಎಂ.",
@@ -434,6 +434,7 @@
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0040",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
@@ -444,7 +445,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -456,13 +456,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0041-0041",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -474,13 +474,13 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 41,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

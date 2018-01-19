@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಮತಾಂಧತೆಯ ಪಿಡುಗು",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು -೭",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ತಪಸ್ಯಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಆತ್ಮೋನ್ನತಿ ಮತ್ತು ಉಪಾಸನೆ",
             "feature": "",
             "page": "0013-0015",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0013",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಹೃದಾನಂದ",
@@ -106,6 +106,7 @@
             "title": "ಕರ್ನಾಟಕದ ಶಿವಶರಣರು ಮತ್ತು ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸರು- ಕೆಲವು ಸಾಮ್ಯಗಳು -೨",
             "feature": "",
             "page": "0016-0019",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0016",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಶಿವರುದ್ರಪ್ಪ ಡಾ. ಜಿ. ಎಸ್.",
@@ -136,13 +136,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ಕಾಮಕಾಂಚನ ಆಸಕ್ತಿಯ ತ್ಯಾಗ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0020-0020",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -154,6 +154,7 @@
             "title": "ಕಥಾಚಿತ್ರ- ಕುಬೇರನ ಗರ್ವಭಂಗ",
             "feature": "",
             "page": "0021-0024",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
@@ -172,7 +173,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -184,6 +184,7 @@
             "title": "ನೈಜ ಪ್ರೀತಿಯೇ ಜೀವನದ ಸಂಪತ್ತು",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -194,7 +195,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಪೂರ್ಣಾನಂದ ಆರ್. ಎಸ್.",
@@ -206,6 +206,7 @@
             "title": "ಅಮೃತತ್ವ ಪ್ರಾಪ್ತಿ ಹೇಗೆ?",
             "feature": "",
             "page": "0027-0028",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
@@ -216,7 +217,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ರೂಪಾ ಡಾ.",
@@ -228,13 +228,13 @@
             "title": "ದಿವ್ಯತ್ರಯರ ಸಂದೇಶಗಳಿಂದ ನನ್ನ ಜೀವನದ ಮೇಲೆ ಆಗಿರುವ ಪ್ರಭಾವ-೨",
             "feature": "",
             "page": "0029-0029",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ರಾಘವೇಂದ್ರ",
@@ -246,13 +246,13 @@
             "title": "ಮನನ- ಮಾನ್ಯ",
             "feature": "",
             "page": "0030-0030",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -264,13 +264,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0031-0031",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0031",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -282,6 +282,7 @@
             "title": "ಆತ್ಮವಿಕಾಸ- ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಿವಿ ಮಾತು -೧",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0032-0035",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -300,7 +301,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಪ್ರೇಮೇಶಾನಂದ",
@@ -312,6 +312,7 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0036-0037",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
@@ -322,7 +323,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -334,13 +334,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ರಾಜಕೀಯದ ಸಂತೆಯಲ್ಲಿ ನಡೆದಾಡಿದ ಸಂತ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -352,6 +352,7 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0041",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
@@ -366,7 +367,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

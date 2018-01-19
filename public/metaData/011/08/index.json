@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಸ್ಮರಣೆ ಒಂದೇ ಸಾಲದೆ ಗೋವಿಂದನ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ವೇದಾಂತ ಮತ್ತು ರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದ ಭಾವಧಾರೆ",
             "feature": "",
             "page": "0011-0012",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ದರಿದ್ರದೇವೋ ಭವ",
             "feature": "",
             "page": "0013-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0013",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ವಿಜಯಕುಮಾರ",
@@ -102,18 +102,19 @@
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
             "page": "0015-0015",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 12
+            ]
         },
         {
             "title": "ಆದ್ಯತೆಗಳಿಂದ ವಿಮುಖವಾದ ಆರ್ಥಿಕ ಕಲಾಪಗಳು",
             "feature": "",
             "page": "0016-0018",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -128,7 +129,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ರಾಮಸ್ವಾಮಿ ಎಸ್. ಆರ್.",
@@ -140,6 +140,7 @@
             "title": "ಬಡತನ ನಿರ್ಮೂಲನೆ: ಗಾಂಧೀ ಪರಿಹಾರ",
             "feature": "",
             "page": "0019-0021",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಸುರೇಂದ್ರ ಕೌಲಗಿ",
@@ -166,6 +166,7 @@
             "title": "ಬಡತನ ಒಂದು ವಿಶ್ಲೇಷಣೆ",
             "feature": "",
             "page": "0022-0024",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
@@ -180,7 +181,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಜಯದೇವ ಜಿ. ಎಸ್.",
@@ -192,6 +192,7 @@
             "title": "ಆತ್ಮಹತ್ಯೆಗಳು ಕಾಡುವುದು ಸತ್ತವರನ್ನಲ್ಲ, ಬದುಕಿರುವವರನ್ನು",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -202,7 +203,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಸಾಯಿನಾಥ್",
@@ -214,6 +214,7 @@
             "title": "ಪುಸ್ತಕಲೋಕ",
             "feature": "",
             "page": "0027-0029",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -227,25 +228,25 @@
                     "page": "0029",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 24
+            ]
         },
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0029-0029",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 26
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿ ಅವರ ಸವಿನೆನಪುಗಳು",
             "feature": "",
             "page": "0030-0032",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -259,25 +260,25 @@
                     "page": "0032",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 27
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿಯಿಂದ",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 30
+            ]
         },
         {
             "title": "ಬನ್ನಿ, ಬೇಲೂರು ಮಠಕ್ಕೆ",
             "feature": "",
             "page": "0034-0035",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -288,7 +289,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -300,6 +300,7 @@
             "title": "ನಿಮ್ಮ ಮೂರು ಶರೀರಗಳನ್ನೂ ಪವಿತ್ರಗೊಳಿಸಿಕೊಳ್ಳಿ",
             "feature": "",
             "page": "0036-0038",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -313,25 +314,25 @@
                     "page": "0038",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ಓದುವುದು ಹೇಗೆ?",
             "feature": "",
             "page": "0039-0039",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 36
+            ]
         },
         {
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0040-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
@@ -341,20 +342,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಚಿರಂಜೀವಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0005-0007",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ನಾ ಕಂಡಂತೆ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0008-0011",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0008",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಕ್ರಿಸ್ಟೈನ್ ಸಿಸ್ಟರ್",
@@ -84,6 +84,7 @@
             "title": "ಭಕ್ತಿಯೋಗ",
             "feature": "",
             "page": "0012-0016",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0012",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ವಿವೇಕಾನಂದ",
@@ -118,6 +118,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ-ನರೇಂದ್ರ",
             "feature": "",
             "page": "0017-0019",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0017",
@@ -132,7 +133,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಆತ್ಮಜ್ಞಾನಂದ",
@@ -144,6 +144,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ - ಆದರ್ಶ ಸಂನ್ಯಾಸಿ",
             "feature": "",
             "page": "0020-0023",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0020",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಅಭಯಚೈತನ್ಯ ಬ್ರ.",
@@ -174,6 +174,7 @@
             "title": "ನರೇಂದ್ರ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರಾದುದು ಹೇಗೆ?",
             "feature": "",
             "page": "0024-0026",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0024",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -200,6 +200,7 @@
             "title": "ವೇದಾಂತ ಭವಿಷ್ಯದ ಧರ್ಮವಾಗಬಲ್ಲುದೆ?",
             "feature": "",
             "page": "0027-0030",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0027",
@@ -218,7 +219,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸುರೇಶಾನಂದ",
@@ -230,6 +230,7 @@
             "title": "ತತ್ತ್ವಸಮನ್ವಯ",
             "feature": "",
             "page": "0031-0033",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0031",
@@ -244,7 +245,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -256,6 +256,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ಮಾಯೆ",
             "feature": "",
             "page": "0034-0037",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
@@ -274,7 +275,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -286,6 +286,7 @@
             "title": "ಮೂರನೆ ಸಹಸ್ರಮಾನಕ್ಕೆ ಅನುಷ್ಠಾನ ವೇದಾಂತ",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
@@ -304,7 +305,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ್ ಡಾ. ಕೆ. ಬಿ.",
@@ -316,6 +316,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಯೋಗಸಮನ್ವಯ",
             "feature": "",
             "page": "0042-0045",
+            "relativePageNumber": 43,
             "fullText": [
                 {
                     "page": "0042",
@@ -334,7 +335,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 43,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -346,6 +346,7 @@
             "title": "ಸರ್ವಜ್ಞಾನ ಸಮನ್ವಯ ಮೂರ್ತಿ-ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0046-0048",
+            "relativePageNumber": 47,
             "fullText": [
                 {
                     "page": "0046",
@@ -360,7 +361,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 47,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -372,6 +372,7 @@
             "title": "ಪೂರ್ವ-ಪಶ್ಚಿಮಗಳ ಸಮನ್ವಯ ಮೂರ್ತಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0049-0052",
+            "relativePageNumber": 50,
             "fullText": [
                 {
                     "page": "0049",
@@ -390,7 +391,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 50,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ್ ಡಾ. ಕೆ. ಬಿ.",
@@ -402,6 +402,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಮಾನವೀಯತೆ",
             "feature": "",
             "page": "0053-0056",
+            "relativePageNumber": 54,
             "fullText": [
                 {
                     "page": "0053",
@@ -420,7 +421,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 54,
             "author": [
                 {
                     "name": "ಸುನಿರ್ಮಲಾನಂದ",
@@ -432,6 +432,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಮತ್ತು ಆಧುನಿಕ ಮಹಿಳೆ",
             "feature": "",
             "page": "0057-0059",
+            "relativePageNumber": 58,
             "fullText": [
                 {
                     "page": "0057",
@@ -446,7 +447,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 58,
             "author": [
                 {
                     "name": "ಜಯಲಕ್ಷ್ಮಿ ಡಾ. ಟಿ. ಕೆ.",
@@ -458,6 +458,7 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0060-0061",
+            "relativePageNumber": 61,
             "fullText": [
                 {
                     "page": "0060",
@@ -468,7 +469,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 61,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -480,6 +480,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ಧರ್ಮವೂ ಒಂದು ವಿಜ್ಞಾನ",
             "feature": "",
             "page": "0062-0064",
+            "relativePageNumber": 63,
             "fullText": [
                 {
                     "page": "0062",
@@ -494,7 +495,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 63,
             "author": [
                 {
                     "name": "ಚೆನ್ನಬಸಪ್ಪ ಕೋ.",
@@ -506,6 +506,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನೀಡಿದ ಹಿಂದೂಧರ್ಮದ ಸಮಗ್ರಚಿತ್ರ",
             "feature": "",
             "page": "0065-0068",
+            "relativePageNumber": 66,
             "fullText": [
                 {
                     "page": "0065",
@@ -524,7 +525,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 66,
             "author": [
                 {
                     "name": "ಶಂಕರನಾರಾಯಣ ಭಟ್ ಎದುರ್ಕಳ ಕೆ.",
@@ -536,6 +536,7 @@
             "title": "ಸಮಷ್ಟಿ ಪ್ರಜ್ಞೆಯ ಆಯಾಮದಲ್ಲಿ ವ್ಯಕ್ತಿ ವಿಕಾಸ - ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನ ಸಂದೇಶ",
             "feature": "",
             "page": "0069-0072",
+            "relativePageNumber": 70,
             "fullText": [
                 {
                     "page": "0069",
@@ -554,7 +555,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 70,
             "author": [
                 {
                     "name": "ಜಿ. ಎಸ್. ಜಯದೇವ",
@@ -566,6 +566,7 @@
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಸಿದ್ಧಿ ಮತ್ತು ಕರ್ಮಕುಶಲತೆ",
             "feature": "",
             "page": "0073-0075",
+            "relativePageNumber": 74,
             "fullText": [
                 {
                     "page": "0073",
@@ -580,7 +581,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 74,
             "author": [
                 {
                     "name": "ಆತ್ಮವಿದಾನಂದ",
@@ -592,6 +592,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಇತಿಹಾಸತತ್ತ್ವ",
             "feature": "",
             "page": "0076-0078",
+            "relativePageNumber": 77,
             "fullText": [
                 {
                     "page": "0076",
@@ -606,7 +607,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 77,
             "author": [
                 {
                     "name": "ಎಸ್. ಶ್ರೀನಿವಾಸಾಚಾರ್",
@@ -618,6 +618,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಆರ್ಥಿಕ ಚಿಂತನೆ",
             "feature": "",
             "page": "0079-0082",
+            "relativePageNumber": 80,
             "fullText": [
                 {
                     "page": "0079",
@@ -636,7 +637,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 80,
             "author": [
                 {
                     "name": "ಡಿ. ಎಂ. ನಂಜುಂಡಪ್ಪ",
@@ -648,6 +648,7 @@
             "title": "ವಿವೇಕಾನಂದರ ಕಲ್ಪನೆಯ ಭಾರತ",
             "feature": "",
             "page": "0083-0084",
+            "relativePageNumber": 84,
             "fullText": [
                 {
                     "page": "0083",
@@ -658,7 +659,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 84,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -670,6 +670,7 @@
             "title": "ರಾಷ್ಟ್ರನಿರ್ಮಾಪಕ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0085-0088",
+            "relativePageNumber": 86,
             "fullText": [
                 {
                     "page": "0085",
@@ -688,7 +689,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 86,
             "author": [
                 {
                     "name": "ಇ. ವಸಂತಕುಮಾರ",
@@ -700,6 +700,7 @@
             "title": "ಸಾಹಿತಿಯಾಗಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0089-0091",
+            "relativePageNumber": 90,
             "fullText": [
                 {
                     "page": "0089",
@@ -714,7 +715,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 90,
             "author": [
                 {
                     "name": "ಸಿ. ಪಿ. ಕೃಷ್ಣಕುಮಾರು",
@@ -726,6 +726,7 @@
             "title": "ಶಾರ್ಕ್ ಮೀನಿನ ದುರಂತ ಕಥೆ",
             "feature": "",
             "page": "0092-0093",
+            "relativePageNumber": 93,
             "fullText": [
                 {
                     "page": "0092",
@@ -736,7 +737,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 93,
             "author": [
                 {
                     "name": "ವಿವೇಕಾನಂದ",
@@ -748,6 +748,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕಾವ್ಯಪ್ರತಿಭೆ",
             "feature": "",
             "page": "0094-0097",
+            "relativePageNumber": 95,
             "fullText": [
                 {
                     "page": "0094",
@@ -766,7 +767,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 95,
             "author": [
                 {
                     "name": "ಹೆಚ್. ಎನ್. ಮುರಳೀಧರ",
@@ -778,6 +778,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಮತ್ತು ಜಾಗತೀಕರಣ",
             "feature": "",
             "page": "0098-0101",
+            "relativePageNumber": 99,
             "fullText": [
                 {
                     "page": "0098",
@@ -796,7 +797,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 99,
             "author": [
                 {
                     "name": "ಎನ್. ಕೃಷ್ಣಸ್ವಾಮಿ",
@@ -808,6 +808,7 @@
             "title": "ಸೇವೆಯ ಕಡಲಿನಲ್ಲಿ ಮಾರ್ಮೊಳಗಿದ ಅಧ್ಯಾತ್ಮ ತರಂಗದ ದಿವ್ಯ ನಿರ್ಘೋಷ",
             "feature": "",
             "page": "0102-0103",
+            "relativePageNumber": 103,
             "fullText": [
                 {
                     "page": "0102",
@@ -818,7 +819,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 103,
             "author": [
                 {
                     "name": "ಪ್ರಭುಶಂಕರ",
@@ -830,25 +830,25 @@
             "title": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "feature": "",
             "page": "0104-0104",
+            "relativePageNumber": 105,
             "fullText": [
                 {
                     "page": "0104",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 105
+            ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
             "page": "0105-0105",
+            "relativePageNumber": 106,
             "fullText": [
                 {
                     "page": "0105",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 106
+            ]
         }
     ]
 }

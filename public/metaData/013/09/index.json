@@ -10,18 +10,19 @@
             "title": "ಮಹಾಭಾರತದಲ್ಲಿ ಬರುವ ಭೀಷ್ಮೋಪದೇಶ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ವೇದಾಂತದ ಅನುಷ್ಠಾನ-ಮಾನವತೆಗೊಂದು ವರದಾನ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0011",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -43,13 +44,13 @@
                     "page": "0011",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಮಹಾಭಾರತದಲ್ಲಿ ದರ್ಶನ",
             "feature": "",
             "page": "0012-0014",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0012",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಎ.ಆರ್.ಕೃಷ್ಣಶಾಸ್ತ್ರೀ",
@@ -76,6 +76,7 @@
             "title": "ಮಹಾಭಾರತದಲ್ಲಿ ನೀತಿ",
             "feature": "",
             "page": "0015-0017",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಬೆಳಗೋಡು ರಮೇಶ ಭಟ್",
@@ -102,6 +102,7 @@
             "title": "ಭಗವಂತನನ್ನು ಸ್ಪರ್ಶಿಸಿದ ಸೋದರಿ ಲಲಿತಾ",
             "feature": "",
             "page": "0018-0019",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -112,7 +113,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಬ್ರಹ್ಮಪ್ರಾಣಾ",
@@ -124,6 +124,7 @@
             "title": "ನಿಜಗುಣರ ಕೈವಲ್ಯಪದ್ಧತಿ-ಒಂದು ಸ್ಥೂಲ ಪರಿಚಯ",
             "feature": "",
             "page": "0020-0021",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಪಾರ್ವತಮ್ಮ ಚಂದ್ರಣ್ಣ",
@@ -146,6 +146,7 @@
             "title": "ಕೇನೋಪನಿಷತ್ತು",
             "feature": "",
             "page": "0022-0024",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
@@ -160,7 +161,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಕೆ.ಎಲ್.ಪ್ರಸನ್ನಾಕ್ಷಿ",
@@ -172,18 +172,19 @@
             "title": "ಪ್ರಮಾಣಿಕತೆಯ ಮಹತ್ವ",
             "feature": "",
             "page": "0024-0024",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 21
+            ]
         },
         {
             "title": "ರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದರನ್ನು ಮೆಚ್ಚಿದ ವಿಖ್ಯಾತ ವಿಜ್ಞಾನಿಗಳು",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಎನ್.ಬಿ.ದೇಸಾಯಿ",
@@ -210,6 +210,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0028-0030",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -224,7 +225,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -236,6 +236,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0031-0032",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -246,7 +247,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಕೆ.ಆರ್.ಮೋಹನ್",
@@ -258,6 +258,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಮತ್ತು ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯ",
             "feature": "",
             "page": "0033-0035",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -272,7 +273,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್.ಜಯದೇವ",
@@ -284,6 +284,7 @@
             "title": "ಕಲಿಯುವುದನ್ನು ಕಲಿಯಿರಿ, ಸಂತೋಷದಿಂದ ನಲಿಯಿರಿ",
             "feature": "",
             "page": "0036-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -293,13 +294,13 @@
                     "page": "0037",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ಚಿತ್ರಕಥೆ:ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನದರ್ಶನ-೫",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -317,20 +318,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ: ಗುರುವಂದನೆ ಸೂಕ್ತಿಪ್ರಭ: ಗುರುಮಹಿಮೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಅರಿವಿನ ಹಾದಿ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಧರ್ಮ ಸಾಮರಸ್ಯ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ನಾ ಮಾಡಿದಾ ಕರ್ಮ...",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಜೆ. ಶಶಿಧರ್",
@@ -80,6 +80,7 @@
             "title": "ಮನಸ್ಸೆಂಬುದು ಮಾಹಿತಿಗಳ ಕಣಜವಲ್ಲ, ಅದೊಂದು ಜಗೃತಗಳಿಸುವ ಶಕ್ತಿ",
             "feature": "ಲೇಖನ",
             "page": "0014-0015",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಸುದರ್ಶನ ಭಟ್ಟ, ಮೆಣಸೆ",
@@ -102,6 +102,7 @@
             "title": "ಸಾಧುವೊಬ್ಬನ ಚೀನಾ ಪರ್ಯಟನೆ-೩",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0016-0020",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ದುರ್ಗಾನಂದ",
@@ -136,6 +136,7 @@
             "title": "ಜೀವದ ಹಾಡು (ಉಪನಿಷತ್ ಕಾವ್ಯ)",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0021-0022",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -145,13 +146,13 @@
                     "page": "0022",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 18
+            ]
         },
         {
             "title": "ಪಂಚಕೇದಾರ ಯಾತ್ರೆ - ೪",
             "feature": "ಪ್ರವಾಸ ಲೇಖನ",
             "page": "0023-0029",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -182,7 +183,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಜ್ಞಾನಯೋಗಾನಂದ",
@@ -194,6 +194,7 @@
             "title": "ವರ್ಣವ್ಯವಸ್ಥೆ",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0030-0033",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -212,7 +213,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -224,6 +224,7 @@
             "title": "ದಿವ್ಯೋನ್ಮಾದದ ಸಾಧಕ ರಾಮಪ್ರಸಾದ್",
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0034-0037",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -254,6 +254,7 @@
             "title": "ಗುರುಭಕ್ತಿಯ ಮಹಿಮೆ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -271,20 +272,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

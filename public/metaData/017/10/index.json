@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ: ಶ್ರೀಗೋವಿಂದಾಷ್ಟಕಮ್ - 3",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಎರಡು ಜಾಗತಿಕ ಚಲನೆಗಳು",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0008",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -31,25 +32,25 @@
                     "page": "0008",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ನಿರ್ಲಿಪ್ತತೆ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0009-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ರಾಮನಾಥಪುರಂ ಆಶ್ರಮ - ಒಂದು ಪಕ್ಷಿನೋಟ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0010-0016",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
@@ -80,7 +81,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಅಭಿರಾಮಾನಂದ",
@@ -92,6 +92,7 @@
             "title": "ಪೊಳಲಿ ಶ್ರೀ ರಾಜರಾಜೇಶ್ವರಿ ದೇವಿ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0017-0020",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಸೇವಂತಿ ಡಿ. ರೈ",
@@ -122,6 +122,7 @@
             "title": "ಸೇಮೆಯ ದಿಗಂತದತ್ತ  ಶ್ರೀಶಾರದಾ ಮಠದ ಮತ್ತೊಂದು ಹೆಜ್ಜೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0021-0024",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -140,7 +141,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ",
@@ -152,6 +152,7 @@
             "title": "ನವದುರ್ಗೆಯರು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0025-0030",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -178,7 +179,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ವಿ. ಶ್ರೀಮತಿ",
@@ -190,6 +190,7 @@
             "title": "ಇಂದಿನ ಶೈಕ್ಷಣಿಕ ಸನ್ನಿವೇಶದಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಯ ಮುಂದಿರುವ ಸವಾಲುಗಳು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0031-0033",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -204,7 +205,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಹೆಚ್. ಎನ್. ಮುರಳೀಧರ",
@@ -216,6 +216,7 @@
             "title": "ರಾಮಕಿಂಕರ ಭದ್ರಾಚಲ ರಾಮದಾಸ",
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0034-0037",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -234,7 +235,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -246,6 +246,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ ಭಾಗ-2",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -263,20 +264,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

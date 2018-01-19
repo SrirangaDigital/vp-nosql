@@ -10,18 +10,19 @@
             "title": "ಶ್ರೀರಾಮ ಸ್ತವರಾಜ ಸ್ತೋತ್ರದಿಂದ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಆತ್ಮಾವಲೋಕನ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಸಿದ್ಧರು",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಚಾಮುಂಡೇಶ್ವರಿ ದೇಗುಲದರ್ಶನ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0012",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಸಿ.ಎಸ್.ಮಂಗಳಮ್ಮ",
@@ -76,6 +76,7 @@
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೬",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0013-0015",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0013",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -102,6 +102,7 @@
             "title": "ಸ್ಮಾಮಿ ಪ್ರೇಮಾನಂದರು ಭಾಗ ೫",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0016-0020",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -136,6 +136,7 @@
             "title": "ಭಕ್ತನ ಲಕ್ಷಣ - ಭಾಗ ೪",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ",
             "page": "0021-0024",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -166,13 +166,13 @@
             "title": "ಚಿಕ್ಕ ಬುದ್ಧ",
             "feature": "ಜಪಾನಿನ ನೀತಿಕಥೆಗಳು",
             "page": "0025-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ರಾಜಕೃಷ್ಣ ಭಟ್ಟಾಚಾರ್ಯ",
@@ -184,6 +184,7 @@
             "title": "ನಾಮನೌಕೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0026-0029",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -202,7 +203,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ವ್ಯೋಮಕೇನ ಚೈತನ್ಯ",
@@ -214,6 +214,7 @@
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ",
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0030-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -223,13 +224,13 @@
                     "page": "0031",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 27
+            ]
         },
         {
             "title": "ಉತ್ಪತ್ತಿ ಪ್ರಕರಣ-೧",
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು:ಕಥಾಗುಚ್ಛ ೩",
             "page": "0032-0034",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -244,7 +245,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -256,18 +256,19 @@
             "title": "ಪ್ರಭುಶಂಕರರ `ಮಿಂಚಿನತೇರು'",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0035-0035",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 32
+            ]
         },
         {
             "title": "ರಾಮ ನಾಮದ ಮಹಿಮೆ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0036-0039",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -285,20 +286,19 @@
                     "page": "0039",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0040-0040",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         }
     ]
 }

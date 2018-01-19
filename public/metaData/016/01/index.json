@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "`ನಾಮ'ದ ಹಿಂದೆ, ಮುಂದೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0008",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -31,13 +32,13 @@
                     "page": "0008",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಭಕ್ತಿಯೋಗದಲ್ಲಿ ಶಬ್ದ ಮತ್ತು ಪ್ರತೀಕ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0009-0011",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0009",
@@ -52,7 +53,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ವಿವೇಕಾನಂದ",
@@ -64,6 +64,7 @@
             "title": "ಮಂತ್ರಶಕ್ತಿ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0012-0016",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0012",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -98,6 +98,7 @@
             "title": "ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕತೆಯಲ್ಲಿ ನಾಮಜಪ ಮತ್ತು ನಾಮಮಹಿಮೆ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0017-0019",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -112,7 +113,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -124,6 +124,7 @@
             "title": "ಮಂತ್ರದೀಕ್ಷೆ ಹಾಗೂ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯಲ್ಲಿ ನಾಮದ ಮಹಿಮೆ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0020-0023",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -142,7 +143,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -154,6 +154,7 @@
             "title": "ತಜ್ಜಪಸ್ತದರ್ಥಭಾವನಮ್",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0024-0027",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
@@ -172,7 +173,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -184,6 +184,7 @@
             "title": "ನಾಮಜಪದ ಆಧ್ಯಾತ್ಮಿಕ ಔಚಿತ್ಯ ಮತ್ತು ಅದರ ಮಾನಸಿಕ ಪರಿಣಾಮ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0028-0030",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -210,6 +210,7 @@
             "title": "ಬೀಜಮಂತ್ರಗಳ ಮಹತ್ವ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0032-0036",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -232,7 +233,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಆತ್ಮಜ್ಞಾನಂದ",
@@ -244,6 +244,7 @@
             "title": "ಯಜ್ಞಾನಾಂ ಜಪಯಜ್ಞೋಽಸ್ಮಿ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0037-0040",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
@@ -262,7 +263,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಶಿವಾಕಾಂತಾನಂದ",
@@ -274,6 +274,7 @@
             "title": "ಓಂಕಾರ ತತ್ತ್ವ ಮತ್ತು ಉಪಾಸನೆ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0041-0046",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
@@ -300,7 +301,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ಭೂದೇವಚೈತನ್ಯ",
@@ -312,6 +312,7 @@
             "title": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0047-0049",
+            "relativePageNumber": 44,
             "fullText": [
                 {
                     "page": "0047",
@@ -326,7 +327,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 44,
             "author": [
                 {
                     "name": "ಎಚ್.ಎಂ.ನಾಗರಾಜರಾವ್",
@@ -338,6 +338,7 @@
             "title": "ಸಹಸ್ರನಾಮಗಳು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕತೆ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0050-0053",
+            "relativePageNumber": 47,
             "fullText": [
                 {
                     "page": "0050",
@@ -356,7 +357,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 47,
             "author": [
                 {
                     "name": "ಚಿ.ವಿ.ಶ್ರೀನಾಥಶಾಸ್ತ್ರೀ",
@@ -368,6 +368,7 @@
             "title": "ಭಗವನ್ನಾಮ ಮತ್ತು ನಾಮಸ್ಮರಣೆ",
             "feature": "ನಾಮ ಮಹಿಮೆ: ತತ್ತ್ವ ಮತ್ತು ಆಚರಣೆ",
             "page": "0054-0056",
+            "relativePageNumber": 51,
             "fullText": [
                 {
                     "page": "0054",
@@ -382,7 +383,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 51,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್.ಜಯದೇವ",
@@ -394,6 +394,7 @@
             "title": "ಅದ್ವೈತಸಿದ್ಧಾಂತದಲ್ಲಿ ಮಹಾವಾಕ್ಯಗಳ ಪ್ರಾಮುಖ್ಯತೆ",
             "feature": "ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0057-0060",
+            "relativePageNumber": 54,
             "fullText": [
                 {
                     "page": "0057",
@@ -412,7 +413,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 54,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -424,6 +424,7 @@
             "title": "ತಂತ್ರಶಾಸ್ತ್ರದಲ್ಲಿ ನಾಮಜಪ ಮತ್ತು ಮಂತ್ರದ ಮಹತ್ವ",
             "feature": "ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0061-0066",
+            "relativePageNumber": 58,
             "fullText": [
                 {
                     "page": "0061",
@@ -450,7 +451,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 58,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -462,6 +462,7 @@
             "title": "ಪಂಚಾಕ್ಷರೀ ಮಂತ್ರ ಮಹಿಮೆ",
             "feature": "ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0067-0068",
+            "relativePageNumber": 64,
             "fullText": [
                 {
                     "page": "0067",
@@ -472,7 +473,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 64,
             "author": [
                 {
                     "name": "ತೀರ್ಥಕರಾನಂದ",
@@ -484,6 +484,7 @@
             "title": "ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ ನಾಮ, ಜಪದ ಮಹತ್ವ",
             "feature": "ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0069-0071",
+            "relativePageNumber": 66,
             "fullText": [
                 {
                     "page": "0069",
@@ -498,7 +499,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 66,
             "author": [
                 {
                     "name": "ರಾಜೇಶ್ವರಿ ಕೃಷ್ಣ",
@@ -510,6 +510,7 @@
             "title": "ಪುರಾಣಗಳಲ್ಲಿ ನಾಮ ಮಹಿಮೆ",
             "feature": "ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0072-0077",
+            "relativePageNumber": 69,
             "fullText": [
                 {
                     "page": "0072",
@@ -536,7 +537,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 69,
             "author": [
                 {
                     "name": "ಹ.ರಾ.ನಾಗರಾಜಾಚಾರ್ಯ",
@@ -548,6 +548,7 @@
             "title": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಸ್ಮರಣ ಭಕ್ತಿ",
             "feature": "ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0078-0079",
+            "relativePageNumber": 75,
             "fullText": [
                 {
                     "page": "0078",
@@ -558,7 +559,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 75,
             "author": [
                 {
                     "name": "ಟಿ.ಎನ್.ನಾಗರತ್ನ",
@@ -570,6 +570,7 @@
             "title": "ಆಳ್ವಾರರು ಮತ್ತು ನಾಮಮಹಿಮೆ",
             "feature": "ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0080-0083",
+            "relativePageNumber": 77,
             "fullText": [
                 {
                     "page": "0080",
@@ -588,7 +589,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 77,
             "author": [
                 {
                     "name": "ಎನ್.ಕೆ.ರಾಮಶೇಷನ್",
@@ -600,6 +600,7 @@
             "title": "ರಾಮನಾಮದ ಮಹತ್ವ",
             "feature": "ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0084-0087",
+            "relativePageNumber": 81,
             "fullText": [
                 {
                     "page": "0084",
@@ -618,7 +619,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 81,
             "author": [
                 {
                     "name": "ಎಚ್.ಎಲ್.ಸೀತಾದೇವಿ",
@@ -630,6 +630,7 @@
             "title": "ನೀನ್ಯಾಕೋ ನಿನ್ನ ನಾಮದ ಬಲವಿದ್ದರೆ ಸಾಕೋ",
             "feature": "ಸಾಧುಸಂತರಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0088-0093",
+            "relativePageNumber": 85,
             "fullText": [
                 {
                     "page": "0088",
@@ -656,7 +657,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 85,
             "author": [
                 {
                     "name": "ಧರ್ಮವ್ರತಾನಂದ",
@@ -668,6 +668,7 @@
             "title": "ಉತ್ತರ ಭಾರತದ ಸಂತರುಗಳಲ್ಲಿ ನಾಮಜಪದ ಪ್ರಾಮುಖ್ಯತೆ",
             "feature": "ಸಾಧುಸಂತರಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0094-0098",
+            "relativePageNumber": 91,
             "fullText": [
                 {
                     "page": "0094",
@@ -690,7 +691,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 91,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -702,6 +702,7 @@
             "title": "ಶಂಕರಾಚಾರ್ಯರ ಕೃತಿಗಳಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "feature": "ಸಾಧುಸಂತರಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0099-0102",
+            "relativePageNumber": 96,
             "fullText": [
                 {
                     "page": "0099",
@@ -720,7 +721,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 96,
             "author": [
                 {
                     "name": "ಕೆ.ಲೀಲಾಪ್ರಕಶ್",
@@ -732,6 +732,7 @@
             "title": "ಅನ್ನಮಾಚಾರ್ಯರು ಮತ್ತು ಕೀರ್ತನ ಭಕ್ತಿ",
             "feature": "ಸಾಧುಸಂತರಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0103-0104",
+            "relativePageNumber": 100,
             "fullText": [
                 {
                     "page": "0103",
@@ -742,7 +743,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 100,
             "author": [
                 {
                     "name": "ಎಚ್.ಎಲ್.ಚಂದ್ರಶೇಖರ್",
@@ -754,6 +754,7 @@
             "title": "ನಾಮಯೋಗಿ ಶ್ರೀ ಬ್ರಹ್ಮಚೈತನ್ಯ ಮಹಾರಾಜ್",
             "feature": "ಸಾಧುಸಂತರಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0105-0108",
+            "relativePageNumber": 102,
             "fullText": [
                 {
                     "page": "0105",
@@ -772,7 +773,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 102,
             "author": [
                 {
                     "name": "ವಿಜಯಕುಮಾರ",
@@ -784,6 +784,7 @@
             "title": "ಜೈನ ದರ್ಶನದಲ್ಲಿ ದೇವ ನಾಮ ಸ್ಮರಣೆ",
             "feature": "ವಿವಿಧ ಧರ್ಮಗಳಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0109-0113",
+            "relativePageNumber": 106,
             "fullText": [
                 {
                     "page": "0109",
@@ -806,7 +807,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 106,
             "author": [
                 {
                     "name": "ಪ್ರೀತಿ ಶುಭಚಂದ್ರ",
@@ -818,6 +818,7 @@
             "title": "ಬೌದ್ಧಧರ್ಮ ಮತ್ತು ನಾಮಜಪ",
             "feature": "ವಿವಿಧ ಧರ್ಮಗಳಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0114-0116",
+            "relativePageNumber": 111,
             "fullText": [
                 {
                     "page": "0114",
@@ -832,7 +833,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 111,
             "author": [
                 {
                     "name": "ಬಿ.ನಂ.ಚಂದ್ರಯ್ಯ",
@@ -844,6 +844,7 @@
             "title": "ಇಸ್ಲಾಂ ಧರ್ಮದಲ್ಲಿ ನಾಮಸ್ಮರಣೆ",
             "feature": "ವಿವಿಧ ಧರ್ಮಗಳಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0117-0118",
+            "relativePageNumber": 114,
             "fullText": [
                 {
                     "page": "0117",
@@ -854,7 +855,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 114,
             "author": [
                 {
                     "name": "ಸಮೀರ್",
@@ -866,6 +866,7 @@
             "title": "ಕ್ರೆಸ್ತ ಧರ್ಮ ಮತ್ತು ನಾಮ ಮಹಿಮೆ",
             "feature": "ವಿವಿಧ ಧರ್ಮಗಳಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0119-0124",
+            "relativePageNumber": 116,
             "fullText": [
                 {
                     "page": "0119",
@@ -892,7 +893,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 116,
             "author": [
                 {
                     "name": "ರೆ.ಫಾ.ಎಸ್.ಡಿ.ಜೋಸೆಫ್",
@@ -904,6 +904,7 @@
             "title": "ಸಿಖ್ಖ್ ಧರ್ಮದಲ್ಲಿ ನಾಮ, ಜಪ, ಧ್ಯಾನದ ಮಹತ್ವ",
             "feature": "ವಿವಿಧ ಧರ್ಮಗಳಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0126-0128",
+            "relativePageNumber": 123,
             "fullText": [
                 {
                     "page": "0126",
@@ -918,7 +919,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 123,
             "author": [
                 {
                     "name": "ಹೆಚ್.ಪಾಂಡುರಂಗ ವಿಠಲ",
@@ -930,6 +930,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣವಚನವೇದದಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0129-0132",
+            "relativePageNumber": 126,
             "fullText": [
                 {
                     "page": "0129",
@@ -948,7 +949,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 126,
             "author": [
                 {
                     "name": "ತ್ರಿಲೋಕಾತ್ಮಾನಂದ",
@@ -960,6 +960,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣಸ್ತೋತ್ರಮ್",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0133-0136",
+            "relativePageNumber": 130,
             "fullText": [
                 {
                     "page": "0133",
@@ -978,7 +979,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 130,
             "author": [
                 {
                     "name": "ಮಂಗಳನಾಥಾನಂದ",
@@ -990,6 +990,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ದೃಷ್ಟಾಂತ ಕಥೆಗಳಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0137-0139",
+            "relativePageNumber": 134,
             "fullText": [
                 {
                     "page": "0137",
@@ -1004,7 +1005,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 134,
             "author": [
                 {
                     "name": "ಕೆ.ಬಿ.ಪ್ರಭುಪ್ರಸಾದ್",
@@ -1016,6 +1016,7 @@
             "title": "ಓಂ ಸಂಧ್ಯಾ ಗಾಯತ್ರೀ - ಶ್ರೀರಾಮಕೃಷ್ಣರು ಕಂಡಂತೆ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0140-0142",
+            "relativePageNumber": 137,
             "fullText": [
                 {
                     "page": "0140",
@@ -1030,7 +1031,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 137,
             "author": [
                 {
                     "name": "ಪ್ರಸನ್ನಾಕ್ಷೀ ಕೆ.ಎಲ್.",
@@ -1042,6 +1042,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ಜೀವನಲೀಲೆಯಲ್ಲಿ `ನಾಮ-ನಾಮಿ' ತತ್ತ್ವ ವಿಚಾರ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0143-0145",
+            "relativePageNumber": 140,
             "fullText": [
                 {
                     "page": "0143",
@@ -1056,7 +1057,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 140,
             "author": [
                 {
                     "name": "ಬಿ.ಕೃಷ್ಣ",
@@ -1068,6 +1068,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ದೃಷ್ಟಿಯಲ್ಲಿ ಜಪಸಾಧನೆ ಮತ್ತು ಮಂತ್ರದ ಮಹತ್ವ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0146-0148",
+            "relativePageNumber": 143,
             "fullText": [
                 {
                     "page": "0146",
@@ -1082,7 +1083,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 143,
             "author": [
                 {
                     "name": "ಮಾತಾ ತ್ಯಾಗಮಯೀ",
@@ -1094,6 +1094,7 @@
             "title": "ಸ್ವಾಮೀಜಿ ಕೃತಿಗಳಲ್ಲಿ ಮಂತ್ರ, ಭಗವನ್ನಾಮಗಳನ್ನು ಕುರಿತು",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0149-0150",
+            "relativePageNumber": 146,
             "fullText": [
                 {
                     "page": "0149",
@@ -1104,7 +1105,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 146,
             "author": [
                 {
                     "name": "ಕೆ.ಆರ್.ಮೋಹನ್",
@@ -1116,6 +1116,7 @@
             "title": "``ಶ್ರೀರಾಮಕೃಷ್ಣ ನಾಮಮೇ ಕಲಿಯುಗದ ಮಂತ್ರ\"(ಸ್ವಾಮಿ ಶಿವಾನಂದರು ಕಂಡಂತೆ ನಾಮಮಹಿಮೆ)",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0151-0152",
+            "relativePageNumber": 148,
             "fullText": [
                 {
                     "page": "0151",
@@ -1126,7 +1127,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 148,
             "author": [
                 {
                     "name": "ಸೌಖ್ಯಾನಂದ",
@@ -1138,6 +1138,7 @@
             "title": "ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರ ಉಪದೇಶಗಳಲ್ಲಿ ನಾಮ ಮಹತ್ವ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0153-0155",
+            "relativePageNumber": 150,
             "fullText": [
                 {
                     "page": "0153",
@@ -1152,7 +1153,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 150,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ಶಾಂತಿಚೈತನ್ಯ",
@@ -1164,6 +1164,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ನೇರ ಶಿಷ್ಯರ ಮೇಲೆ ಮಂತ್ರೋಪದೇಶದ ಪ್ರಭಾವ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0156-0163",
+            "relativePageNumber": 153,
             "fullText": [
                 {
                     "page": "0156",
@@ -1198,7 +1199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 153,
             "author": [
                 {
                     "name": "ಇ.ವಸಂತಕುಮಾರ್",
@@ -1210,6 +1210,7 @@
             "title": "ಸ್ವಾಮಿ ಅದ್ಭುತಾನಂದರ ಜೀವನ ಮುತ್ತು ಸಾಧನೆ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0164-0166",
+            "relativePageNumber": 161,
             "fullText": [
                 {
                     "page": "0164",
@@ -1224,7 +1225,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 161,
             "author": [
                 {
                     "name": "ಗಿರಿಜಾದೇವಿ",
@@ -1236,6 +1236,7 @@
             "title": "ಸ್ವಾಮಿ ವಿರಜಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ನಾಮ ಜಪದ ಮಹತ್ತ್ವ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0167-0170",
+            "relativePageNumber": 164,
             "fullText": [
                 {
                     "page": "0167",
@@ -1254,7 +1255,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 164,
             "author": [
                 {
                     "name": "ಶಾಂತಿವ್ರತಾನಂದ",
@@ -1266,6 +1266,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಪರಂಪರೆ, ಮಂತ್ರ ದೀಕ್ಷೆ, ಸಾಧನೆಗಳಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ನಾಮಮಹಿಮೆ",
             "page": "0171-0173",
+            "relativePageNumber": 168,
             "fullText": [
                 {
                     "page": "0171",
@@ -1280,7 +1281,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 168,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ",
@@ -1292,13 +1292,13 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
             "page": "0174-0174",
+            "relativePageNumber": 171,
             "fullText": [
                 {
                     "page": "0174",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 171
+            ]
         }
     ]
 }

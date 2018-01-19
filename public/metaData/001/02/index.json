@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ವಿವೇಕಪ್ರಭ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಸಿಂಗಪುರದ ಯಶೋಗಾಥೆ",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0010",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ವಿಕಾಸದ ಕಥೆ",
             "feature": "",
             "page": "0013-0015",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0013",
@@ -94,7 +95,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಸುನಿರ್ಮಲಾನಂದ",
@@ -106,6 +106,7 @@
             "title": "ಮನಸ್ಸು ಮತ್ತು ಜಗತ್ತು",
             "feature": "",
             "page": "0016-0019",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0016",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿರೂಪಾನಂದ",
@@ -136,6 +136,7 @@
             "title": "ವಿಶ್ವಮಾನವ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0020-0023",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0020",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಸ್ವಾಮಿ ಪ್ರೊ. ಎನ್.",
@@ -166,6 +166,7 @@
             "title": "ಆತ್ಮಪ್ರಜ್ಞೆ ಎಂದರೇನು?",
             "feature": "",
             "page": "0024-0025",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0024",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -188,6 +188,7 @@
             "title": "ಮುಕುಂದುರು ಸ್ವಾಮಿಗಳು - ಸಂತನ ಜೀವನ",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0026",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಈರೇಗೌಡ ಡಿ. ಕೆ.",
@@ -210,13 +210,13 @@
             "title": "ದಿವ್ಯಪ್ರಭೆಯ ಭವ್ಯ ಬೈರಾಗಿ - ಕವನ",
             "feature": "",
             "page": "0028-0028",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ವಿಜಯ ಭಾರತಿ",
@@ -228,6 +228,7 @@
             "title": "ಪ್ರಶ್ನೋತ್ತರ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0029-0031",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -254,13 +254,13 @@
             "title": "ಸಾಂಸ್ಕೃತಿಕ ಏಕೀಕರಣ, ಕಂಪ್ಯೂಟರ್ ಗುರು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0032-0032",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -272,13 +272,13 @@
             "title": "ಬುದ್ಧಿಯ ವೃದ್ಧಿ, ಶಾಶ್ವತ ದೇಹ",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -290,13 +290,13 @@
             "title": "ಭಾವೊದ್ವೇಗಗಳ ಗೂಂಡಗಿರಿ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0034-0034",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -308,13 +308,13 @@
             "title": "ಮನವೆಂಬ ಮರ್ಕಟ",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -326,13 +326,13 @@
             "title": "ಅಲೆಗ್ಸಂಡರ್ ಸಂದೇಶ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -344,13 +344,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -362,6 +362,7 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0038-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
@@ -376,7 +377,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

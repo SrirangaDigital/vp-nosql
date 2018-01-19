@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಆತ್ಮ ಪ್ರಜ್ಞೆ - ಸಂಪಾದಕೀಯ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0008",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಮಹಾಭಕ್ತೆ ಗೋಪಾಲೇರ್ ಮಾ",
             "feature": "",
             "page": "0009-0011",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0009",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಶಂಕರನಾರಾಯಣ ಭಟ್ ಎದುರ್ಕಳ ಕೆ.",
@@ -84,6 +84,7 @@
             "title": "ಭಯ- ವರವೋ, ಶಾಪವೋ?",
             "feature": "",
             "page": "0012-0014",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0012",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಚಂದ್ರಾ ಕೆ. ಎಸ್.",
@@ -110,6 +110,7 @@
             "title": "ಸ್ವಾಮಿ ವಿರಜಾನಂದರು",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0015",
@@ -128,7 +129,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಮೀನಾ ವಿ.",
@@ -140,6 +140,7 @@
             "title": "ವಾಷಿಂಗ್ಟನ್ ಕಾರ್ವರ್",
             "feature": "",
             "page": "0019-0022",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0019",
@@ -158,7 +159,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -170,6 +170,7 @@
             "title": "ದೇಹವೇ ದೇವಾಲಯ",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0023",
@@ -180,7 +181,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ವಿಶ್ವನಾಥಯ್ಯ ಎಂ. ಟಿ.",
@@ -192,6 +192,7 @@
             "title": "ಮಹಾಪ್ರವಾದಿ ಗುರುನಾನಕ್",
             "feature": "",
             "page": "0025-0028",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0025",
@@ -210,7 +211,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ದತ್ ಎಚ್. ಎಲ್. ಎಸ್.",
@@ -222,6 +222,7 @@
             "title": "ಮಕ್ಕಳ ಜೀವನವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ತಂದೆ-ತಾಯಿಗಳ ಪಾತ್ರ - ಓದುಗರ ಸ್ಪಂದನ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
             "page": "0029-0031",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
@@ -236,7 +237,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -248,13 +248,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ಸಚ್ಚಿದಾನಂದ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0032-0032",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -266,6 +266,7 @@
             "title": "ಜೀವನ ಕೌಶಲಗಳು",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0033-0035",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
@@ -280,7 +281,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ವಿಜಯ ಕುಮಾರ",
@@ -292,13 +292,13 @@
             "title": "ದಾನಶೂರ ಭಾರತ, ಸ್ಮಶಾನ ಸೇವೆ - ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -310,6 +310,7 @@
             "title": "ಚಿನ್ನ ಎಷ್ಟು ಚೆನ್ನ?",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0037-0038",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
@@ -320,7 +321,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -332,13 +332,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

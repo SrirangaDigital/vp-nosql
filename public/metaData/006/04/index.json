@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,13 +28,13 @@
             "title": "ಶ್ರೀಮತ್ ಸ್ವಾಮಿ ಪುರುಷೋತ್ತಮಾನಂದಜಿ ಮಹಾರಾಜ್- ಒಂದು ಶ್ರದ್ಧಾಂಜಲಿ",
             "feature": "",
             "page": "0006-0006",
+            "relativePageNumber": 5,
             "fullText": [
                 {
                     "page": "0006",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -46,6 +46,7 @@
             "title": "ಬ್ರಹ್ಮ ಬಾಯ್ಮಾತಲ್ಲ",
             "feature": "",
             "page": "0007-0008",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -56,7 +57,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -68,6 +68,7 @@
             "title": "ತ್ಯಾಗಮೂರ್ತಿ ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0009-0011",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0009",
@@ -82,7 +83,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -94,6 +94,7 @@
             "title": "ದಾರ್ಶನಿಕ ಅನ್ವೇಷಣೆ",
             "feature": "",
             "page": "0012-0014",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0012",
@@ -108,7 +109,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ರಾಮಾನುಜಾನಂದ",
@@ -120,6 +120,7 @@
             "title": "ಆಧುನಿಕ ಮಹಿಳೆಯ ಪ್ರೇರಕಶಕ್ತಿ ಶ್ರೀಮಾತೆ ಶಾರದಾದೇವಿ",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -138,7 +139,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಧರ್ಮಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -150,6 +150,7 @@
             "title": "ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ ತತ್ವಜಿಜ್ಞಾಸೆ",
             "feature": "",
             "page": "0019-0023",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -172,7 +173,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -184,13 +184,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0024-0024",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -202,6 +202,7 @@
             "title": "ಶ್ರೀನಾರಾಯಣ ಗುರು ಸ್ವಾಮಿಗಳು",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -216,7 +217,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಶಾಶ್ವತಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -228,6 +228,7 @@
             "title": "ಮರ್ಯಾದಾ ಪುರುಷೋತ್ತಮ ಶ್ರೀರಾಮ",
             "feature": "",
             "page": "0028-0029",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
@@ -238,7 +239,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಗೋಪಾಲನ್ ಪ್ರೊ. ಎಂ. ಎನ್.",
@@ -250,6 +250,7 @@
             "title": "ಸಂಸ್ಕೃತಿಯ ಅಳಿವು- ಉಳಿವು",
             "feature": "",
             "page": "0030-0031",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
@@ -260,7 +261,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ವಸಂತ ಕುಮಾರ್ ಡಾ. ಬಿ. ವಿ.",
@@ -272,6 +272,7 @@
             "title": "ಅಮರನಾಥ ಯಾತ್ರೆ",
             "feature": "",
             "page": "0032-0033",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -282,7 +283,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸತ್ಯನಾರಾಯಣ ಎನ್. ಕೆ.",
@@ -294,13 +294,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮಹಿಮಾ",
             "feature": "",
             "page": "0034-0034",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -312,6 +312,7 @@
             "title": "ಉನ್ನತ ಜೀವನ- ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನದಸಾಧನೆ -೧",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0035-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
@@ -326,7 +327,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ವಸಂತ ಕುಮಾರ ಡಾ. ಇ.",
@@ -338,13 +338,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ನಿಸ್ವಾರ್ಥತೆಯ ನೈಜ ಬದುಕು ನಕ್ಸಲಬಾರಿಯಿಂದ ಮೆಲೆನಾಡಿನವರೆಗೆ ಮೃತ್ಯುಮಾರ್ಗ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -356,13 +356,13 @@
             "title": "ಬಯಸಿದಂತೆ ಪ್ರಾಪ್ತಿ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -374,13 +374,13 @@
             "title": "ಅಶ್ವಮೇಧದ ಫಲ",
             "feature": "",
             "page": "0040-0040",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -392,13 +392,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0041-0041",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

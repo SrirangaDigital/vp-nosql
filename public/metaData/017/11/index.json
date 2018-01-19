@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ:ಶ್ರೀರಾಮಕೃಷ್ಣ ಸುಪ್ರಭಾತಮ್ - ೧",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಬುದ್ಧಿ , ಹೃದಯಗಳು ಒಂದಾದಾಗ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ರಾಗಾಭಕ್ತಿ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0011-0014",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಶ್ರದ್ಧಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ಏಕಾಗ್ರತೆ ಮತ್ತು ಅದನ್ನು ಸಾಧಿಸುವ ಮಾರ್ಗ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0015-0018",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿರೂಪಾನಂದ",
@@ -114,6 +114,7 @@
             "title": "ಬದುಕಿ ಬಾಳಬೇಕಾಗಿದೆ ನಾವು - ನೀವು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0019-0022",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -132,7 +133,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್. ಜಯದೇವ",
@@ -144,6 +144,7 @@
             "title": "ಚಿತ್",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0023-0027",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -166,7 +167,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಶಿವಾಕಾಂತಾನಂದ",
@@ -178,6 +178,7 @@
             "title": "ಪವಿತ್ರತೆ ಮತ್ತು ಸಂಸ್ಕಾರ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0028-0029",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಪುಷ್ಪಾ ಶೇಷಾದ್ರಿ",
@@ -200,6 +200,7 @@
             "title": "ಸ್ವಸ್ಥ ಬದುಕಿಗೆ ಭಗವದ್ಗೀತೆ... ಮತ್ತು ಸಹಸ್ರ ಕಿರಣ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0030-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -209,13 +210,13 @@
                     "page": "0031",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 27
+            ]
         },
         {
             "title": "ದೀನ ಸಂತನ ಪವಿತ್ರ ಕಥೆ",
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0032-0036",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -238,7 +239,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -250,6 +250,7 @@
             "title": "ಚಂದ್ರ ಕುಮಾರಿ",
             "feature": "ಜಪಾನಿನ ಕಥೆಗಳು",
             "page": "0036-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -260,7 +261,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ರಾಜಕೃಷ್ಣ ಭಟ್ಟಾಚಾರ್ಯ",
@@ -272,6 +272,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ ಭಾಗ-3",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -289,20 +290,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

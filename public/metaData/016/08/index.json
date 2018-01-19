@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ - ದಕ್ಷಿಣೇಶ್ವರದ ದೇವಿಯನ್ನು ಕುರಿತು ಸೂಕ್ತಿಪ್ರಭ - ಕಬೀರನ ಸೂಕ್ತಿಗಳು",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಅನಂತ ಪಯಣ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಓಂಕಾರ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ಜವಾಬ್ದಾರಿಯ ಪ್ರಜ್ಞೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0015",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಕೆ.ವಿ.ಸ್ವರ್ಣಗೌರಿ",
@@ -88,6 +88,7 @@
             "title": "ಗುರುವಿನ ರೂಪದಲ್ಲಿ ಗುರುಮಹಾರಾಜರು",
             "feature": "",
             "page": "0016-0017",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -97,13 +98,13 @@
                     "page": "0017",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 13
+            ]
         },
         {
             "title": "ಕೈಲಾಸ-ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ - ಭಾಗ ೩",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0018-0020",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -118,7 +119,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ದಾಮೋದರಾನಂದ",
@@ -130,6 +130,7 @@
             "title": "ವಿಶ್ವವ್ಯಾಪೀ ವಿವೇಕಾನಂದರು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0021-0022",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -140,7 +141,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಸಿ.ಎಸ್.ಶಾಸ್ತ್ರೀ",
@@ -152,6 +152,7 @@
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೧೦",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0023-0026",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -170,7 +171,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -182,6 +182,7 @@
             "title": "ಗುಣತ್ರಯ",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0027-0031",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -204,7 +205,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -216,6 +216,7 @@
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ",
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0032-0034",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -229,13 +230,13 @@
                     "page": "0034",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 29
+            ]
         },
         {
             "title": "ಸಿದ್ಧನ ಕಥೆ",
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",
             "page": "0035-0037",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -262,6 +262,7 @@
             "title": "ರಥದಿಂದ ಯಾರು ಇಳಿಯಬೇಕು",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -279,20 +280,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

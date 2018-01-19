@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಮಕ್ಕಳಿಗೆ ಏನನ್ನು ಹೇಳಬೇಕು?",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರ ನೆನಪುಗಳು",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ನಿರ್ವಾಣಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು -೪",
             "feature": "",
             "page": "0013-0016",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0013",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ತಪಸ್ಯಾನಂದ",
@@ -110,13 +110,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0016-0016",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0016",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -128,6 +128,7 @@
             "title": "ಶಂಕರಭಾಷ್ಯಾನುಸಾರೀ ಚತುಸ್ಸುತ್ರೀ ವಿವರಣಮ್ -೧",
             "feature": "",
             "page": "0017-0018",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0017",
@@ -138,7 +139,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -150,6 +150,7 @@
             "title": "ಕಥಾಚಿತ್ರ - ಕೃಷ್ಣನ ಸಮಯ ಬುದ್ಧಿ",
             "feature": "",
             "page": "0019-0021",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -176,6 +176,7 @@
             "title": "ಬೇಲೂರು ಮಠದಲ್ಲಿರುವ ಶ್ರೀರಾಮಕೃಷ್ಣ ದೇವಾಲಯ -೧",
             "feature": "",
             "page": "0022-0025",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0022",
@@ -194,7 +195,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ವಿಮಲಾತ್ಮಾನಂದ",
@@ -206,13 +206,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ಸಂಸ್ಕಾರ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0026-0026",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -224,6 +224,7 @@
             "title": "ವಿಜ್ಞಾನಿಗಳ ಸಂಶೋಧನೆಗಳಲ್ಲಿ, ವಿಚಾರಗಳಲ್ಲಿ ವೇದಾಂತ",
             "feature": "",
             "page": "0027-0030",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0027",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ದೇಸಾಯಿ ಡಾ. ಎನ್. ಬಿ.",
@@ -254,6 +254,7 @@
             "title": "ಜೀವನಪ್ರಭ- ಮಿಲರೇಪ -೨",
             "feature": "",
             "page": "0031-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0031",
@@ -268,7 +269,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಅದ್ವೈತ ಚೈತನ್ಯ ಬ್ರ.",
@@ -280,6 +280,7 @@
             "title": "ಯುವ ವೇದಿಕೆ - ಪರಿವರ್ತನೆಯ ಪ್ರಬುದ್ಧತೆ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0034-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -294,7 +295,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -306,13 +306,13 @@
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -324,13 +324,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ವೃಂದಾವನವಾಯಿತೀ ಕನ್ನಡನಾಡು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -342,13 +342,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

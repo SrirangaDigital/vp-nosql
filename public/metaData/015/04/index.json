@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಹಿಂದೂಧರ್ಮದಲ್ಲಿ ಅನುಭೂತಿ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,13 +36,13 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ರಾಷ್ಟ್ರಜಾಗೃತಿಯ ಹರಿಕಾರ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0010-0013",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -72,6 +72,7 @@
             "title": "ಭಗವಂತನ ಅಸ್ತಿತ್ವದ ಪ್ರಮಾಣಪುರುಷರಾಗಿ ಶ್ರೀರಾಮಕೃಷ್ಣರು",
             "feature": "",
             "page": "0014-0016",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -98,6 +98,7 @@
             "title": "ಮಂತ್ರಾಲಯದಿಂದ ಓಂಕಾರೇಶ್ವರದವರೆಗೆ",
             "feature": "",
             "page": "0017-0020",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -116,7 +117,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ತೀರ್ಥಕರಾನಂದ",
@@ -128,6 +128,7 @@
             "title": "ಯುಗಾದಿಯ ಮಹತ್ವ",
             "feature": "",
             "page": "0021-0022",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -138,7 +139,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಕೆ.ಎಲ್.ಪ್ರಸನ್ನಾಕ್ಷಿ",
@@ -150,6 +150,7 @@
             "title": "ಕರ್ನಾಟಕದ ಹರಿದಾಸ ಪರಂಪರೆ",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಕೆ.ಶಾರದಾಬಾಯಿ",
@@ -176,6 +176,7 @@
             "title": "ಸ್ನೇಹಿತರೆ, ಭಷ್ಟಾಚಾರವನ್ನು ಕೊನೆಗಾಣಿಸೋಣ ಬನ್ನಿ",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -186,7 +187,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಟಿಪ್ಪುಸುಲ್ತಾನ ಜೆ.ನಾಯ್ಕವಾಡಿ",
@@ -198,6 +198,7 @@
             "title": "ಜೀವನ ಮಕರಂದ",
             "feature": "",
             "page": "0028-0030",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -212,7 +213,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -224,18 +224,19 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ: ರಾಮಾಯಣ, ಭಾರತ, ಭಾಗವತ",
             "feature": "",
             "page": "0030-0030",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 27
+            ]
         },
         {
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ",
             "feature": "",
             "page": "0031-0033",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಎ.ಮುರಳೀಧರ",
@@ -262,6 +262,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0034-0035",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -272,7 +273,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಕೆ.ಆರ್.ಮೋಹನ್",
@@ -284,6 +284,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0036-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -294,7 +295,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -306,6 +306,7 @@
             "title": "ಚಿತ್ರಕಥೆ:ಜಗನ್ಮಾತೆಯಿಂದ ಅನುಗ್ರಹ ಪಡೆದ ಸರಳಾದಾಸ",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -323,20 +324,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

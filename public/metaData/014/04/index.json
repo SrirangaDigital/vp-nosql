@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ-ಸೂಕ್ತಿಪ್ರಭ, ವಿವೇಕವಾಣಿ, ಡಿ.ವಿ.ಜಿ ವಾಣಿ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಮೌಲ್ಯ - ನೀತಿ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0008",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -31,20 +32,19 @@
                     "page": "0008",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ರಸಬೋಧೆ",
             "feature": "",
             "page": "0009-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0009",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -56,6 +56,7 @@
             "title": "ಶ್ರೀರಾಮನಾಮ ಸಂಕೀರ್ತನೆಯ ರೋಚಕ ಇತಿಹಾಸ",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
@@ -70,7 +71,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ವಿದೇಹಾತ್ಮಾನಂದ",
@@ -82,13 +82,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ: ಪ್ರವ್ರಾಜಿಕಾ ಭಾರತೀಪ್ರಾಣಾ",
             "feature": "",
             "page": "0013-0013",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0013",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಪಾರ್ವತಮ್ಮ ಚಂದ್ರಣ್ಣ",
@@ -100,6 +100,7 @@
             "title": "ವಿವೇಕಾನಂದಮಯ ವಿಶ್ವಕವಿ ಕುವೆಂಪು",
             "feature": "",
             "page": "0014-0016",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -114,7 +115,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ವಾಗೀಶ್ವರಿ",
@@ -126,18 +126,19 @@
             "title": "ಕಳ್ಳನು ಸಂನ್ಯಾಸಿಯಾದದ್ದು",
             "feature": "",
             "page": "0017-0017",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 14
+            ]
         },
         {
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ: ಬುದ್ಧಿಭೇದವನ್ನು ಮಾಡಬಾರದು",
             "feature": "",
             "page": "0018-0021",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -156,7 +157,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -168,18 +168,19 @@
             "title": "ಪೋಷಕರೇ ಗಮನಿಸಿ: ಮಗುವಿನ ಚಾರಿತ್ರ್ಯನಿರ್ಮಾಣ",
             "feature": "",
             "page": "0022-0022",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 19
+            ]
         },
         {
             "title": "ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯದಲ್ಲಿ ವಸಂತ ಖತುವಿನ ವರ್ಣನೆ",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -190,7 +191,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಎಚ್. ವಿ. ನಾಗರಾಜರಾವ್",
@@ -202,18 +202,19 @@
             "title": "ಶಿಕ್ಷಕರೇ ಗಮನಿಸಿ: ತರಗತಿಗಳಲ್ಲಿ ಮೌಲ್ಯಶಿಕ್ಷಣ",
             "feature": "",
             "page": "0025-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 22
+            ]
         },
         {
             "title": "ಸರ್ವಜ್ಞಮೂರ್ತಿ ವೇಮನ",
             "feature": "",
             "page": "0026-0028",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -228,7 +229,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ರಾಜಶೇಖರ ಮಲ್ಲನಗೌಡ ಪಾಟೀಲ",
@@ -240,18 +240,19 @@
             "title": "ಜೀವನಪ್ರಭ: ಒತ್ತಡ ನಿರ್ವಹಣೆಯ ಹಲವು ವಿಧಾನಗಳು",
             "feature": "",
             "page": "0029-0029",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 26
+            ]
         },
         {
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0030-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -262,7 +263,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -274,18 +274,19 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳೇ ಗಮನಿಸಿ: ಬೇಸಿಗೆ ರಜವನ್ನು ಸದುಪಯೋಗಿಸಿಕೊಳ್ಳುವುದು ಹೇಗೆ?",
             "feature": "",
             "page": "0032-0032",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 29
+            ]
         },
         {
             "title": "ಉಪನಿಷನ್ಮಂಜರಿ: ಮುಂಡಕೋಪನಿಷತ್",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -296,7 +297,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ರಾಜೇಶ್ವರಿ ಕೃಷ್ಣ",
@@ -308,6 +308,7 @@
             "title": "ವಿವೇಕಾನಂದ ಚಿಂತನ: ತವರೂರಿನಲ್ಲಿ ಧೀರತೆಯ ದುಂದುಭಿ",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -317,20 +318,19 @@
                     "page": "0036",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 32
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಕೆ. ಆನಂತರಾಮು",
@@ -342,6 +342,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ಆಂಡಾಳ್",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -359,20 +360,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

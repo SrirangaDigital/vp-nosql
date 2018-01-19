@@ -10,18 +10,19 @@
             "title": "ನಿಜಗುಣ ಶಿವಯೋಗಿಗಳ ಕೈವಲ್ಯಪದ್ಧತಿಯಿಂದ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ವೇದಾಂತದ ಅನುಷ್ಠಾನ ಮಾನವತೆಗೊಂದು ವರದಾನ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ನಿಜಗುಣ ಶಿವಯೋಗಿಗಳ ಸಾಹಿತ್ಯ -ಒಂದು ಪಕ್ಷಿನೋಟ",
             "feature": "",
             "page": "0011-0012",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -56,7 +57,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಕುಮಾರಿ ನಯನಾ",
@@ -68,6 +68,7 @@
             "title": "ನಿಜಗುಣರ ಕೈವಲ್ಯಪದ್ಧತಿ -ಒಂದು  ಸ್ಥೂಲ ಪರಿಚಯ",
             "feature": "",
             "page": "0013-0016",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0013",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಪಾರ್ವತಮ್ಮ ಚಂದ್ರಣ್ಣ",
@@ -98,6 +98,7 @@
             "title": "ಭಗವಂತನನ್ನು ಸ್ಪರ್ಶಿಸಿದ ಸೋದರಿ ಲಲಿತಾ",
             "feature": "",
             "page": "0017-0019",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -112,7 +113,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಬ್ರಹ್ಮಪ್ರಾಣಾ",
@@ -124,6 +124,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0020-0022",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -138,7 +139,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -150,6 +150,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಕೆ.ಆರ್.ಮೋಹನ್",
@@ -176,6 +176,7 @@
             "title": "ವೃದ್ಧಾಪ್ಯದಲ್ಲೂ ಸುಖವಾಗಿರಬಹುದು, ಹೇಗೆ?",
             "feature": "",
             "page": "0026-0028",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -190,7 +191,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ರಮೇಶಚಂದ್ರಜೀ ಬಾದಲ್",
@@ -202,13 +202,13 @@
             "title": "ಚಿಕ್ಕ ಹುಡುಗಿ ತೋರಿದ ಶ್ರೀಮಾತೆಯ ಆದರ್ಶ",
             "feature": "",
             "page": "0029-0029",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ವಿಮೋಕ್ಷಾನಂದ",
@@ -220,6 +220,7 @@
             "title": "ಭಕ್ತಿಯನ್ನು ಕುರಿತು ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0030-0032",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -234,7 +235,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್.ಜಯದೇವ",
@@ -246,18 +246,19 @@
             "title": "ಮಹಾನುಭಾವರು ಯಾರು?",
             "feature": "",
             "page": "0032-0032",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 29
+            ]
         },
         {
             "title": "ತೈತ್ತಿರೀಯೋಪನಿಷತ್ತುಗಳ ಮಹತ್ವ",
             "feature": "",
             "page": "0033-0035",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -272,7 +273,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಎಸ್.ರಂಗನಾಥ ಶರ್ಮಾ",
@@ -284,30 +284,31 @@
             "title": "ಇಚ್ಛಾಶಕ್ತಿ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ಯುವ ಕುಶಲೋಪರಿ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ಚಿತ್ರಕಥೆ:ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನದರ್ಶನ-೪",
             "feature": "",
             "page": "0037-0040",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
@@ -325,20 +326,19 @@
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0041-0041",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         }
     ]
 }

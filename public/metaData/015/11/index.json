@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಶಾಂತಸಮುದ್ರದ ಅಲೆಗಳು ಮೇಲೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ:ವೈರಾಗ್ಯ",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಪ್ರೇಮಾನಂದರು",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಅಶೋಕಾನಂದ",
@@ -80,30 +80,31 @@
             "title": "ಸ್ವಾಮಿ ವಿಜ್ಞಾನಾನಂದರ ಉಪದೇಶಗಳು",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0014-0014",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 11
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಸುಬೋಧಾನಂದರ ಉಪದೇಶಗಳು",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0015-0015",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 12
+            ]
         },
         {
             "title": "ನೆನಪಿನಂಗಳದಲ್ಲಿ ಮೂವರು ಶ್ರೇಷ್ಠ ಸಂನ್ಯಾಸಿಗಳು",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0016-0017",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -114,7 +115,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಶ್ರೀಧರಾನಂದ",
@@ -126,18 +126,19 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದಿವ್ಯವಾಣಿ",
             "feature": "",
             "page": "0017-0017",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 14
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೨",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0018-0022",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -160,7 +161,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -172,6 +172,7 @@
             "title": "ವಿಶ್ವರೂಪದರ್ಶನ",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0023-0025",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -186,7 +187,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -198,6 +198,7 @@
             "title": "ಸ್ವಾಮಿ ಭೂತೇಶಾನಂದಜಿಯವರೊಂದಿಗೆ",
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0026-0027",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -207,13 +208,13 @@
                     "page": "0027",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 23
+            ]
         },
         {
             "title": "ಯುವಚೇತನ:ಒಂದು ಅಸಾಧಾರಣ ಸಾಹಸಗಾಥೆ",
             "feature": "ಒಂದು ಅಸಾಧಾರಣ ಸಾಹಸಗಾಥೆ",
             "page": "0028-0030",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -227,13 +228,13 @@
                     "page": "0030",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 25
+            ]
         },
         {
             "title": "ಇದು ನನ್ನಿಂದಲೇ",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0031-0032",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -243,25 +244,25 @@
                     "page": "0032",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 28
+            ]
         },
         {
             "title": "ಜಪಾನಿನ ಕತೆಗಳು:ಬುಗ್ಗೆಯ ನೀರು",
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0033-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 30
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0034-0035",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -272,7 +273,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -284,13 +284,13 @@
             "title": "ಅವನ ಪದ ಸೋಂಕಿದರೆ ಶಿವನಾಗನೇ ಜೀವ!",
             "feature": "ಕವನ",
             "page": "0036-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -302,18 +302,19 @@
             "title": "ಅಂತರ್ಮುಖಿ - ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರ ಸ್ಮೃತಿ ಸಂಕಲನ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ವಿಶ್ವಾಮಿತ್ರನ ಅನುಕಂಪ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -331,20 +332,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

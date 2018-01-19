@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ-ಸೂಕ್ತಿಪ್ರಭ, ಶ್ರೀರಾಮಕೃಷ್ಣ ಬೋಧಾಮೃತ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರು ನಮಗೆ ಏಕೆ ಬೇಕು?",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0008",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -31,25 +32,25 @@
                     "page": "0008",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರನ್ನು ಕುರಿತು ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0009-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ವಿವೇಕ ವೈಭವ ಗಾಥಾ",
             "feature": "",
             "page": "0010-0011",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -72,13 +72,13 @@
             "title": "ರಸಬೋಧೆ",
             "feature": "",
             "page": "0012-0012",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0012",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಭೂತೇಶಾನಂದ",
@@ -90,6 +90,7 @@
             "title": "ನರರೂಪಧರ ನಿರ್ಗುಣ ಗುಣಮಯ್",
             "feature": "",
             "page": "0013-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0013",
@@ -100,7 +101,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಚೇತನಾನಂದ",
@@ -112,18 +112,19 @@
             "title": "ಭಗವಂತ ಭಾವಗ್ರಾಹಿ",
             "feature": "",
             "page": "0015-0015",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 12
+            ]
         },
         {
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ: ಜ್ಞಾನ-ಕರ್ಮ ಸಮುಚ್ಚಯ",
             "feature": "",
             "page": "0016-0017",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0016",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -146,18 +146,19 @@
             "title": "ಪವಿತ್ರ ಪತ್ರಮಾಲೆ: ಸ್ವಾಮಿ ತುರೀಯಾನಂದಜಿ ಅವರ ಒಂದು ಪತ್ರ",
             "feature": "",
             "page": "0018-0018",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 15
+            ]
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರ ದೂರದೃಷ್ಟಿ",
             "feature": "",
             "page": "0019-0020",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಸುನಿರ್ಮಲಾನಂದ",
@@ -180,18 +180,19 @@
             "title": "ಪೋಷಕರೇ ಗಮನಿಸಿ",
             "feature": "",
             "page": "0021-0021",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 18
+            ]
         },
         {
             "title": "ಭವತಾರಿಣಿಯ ಪ್ರೀತಿಯ ಮಗು ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸ",
             "feature": "",
             "page": "0022-0024",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಎಚ್. ರಾಮಚಂದ್ರಸ್ವಾಮಿ",
@@ -218,18 +218,19 @@
             "title": "ಶಿಕ್ಷಕರೇ ಗಮನಿಸಿ",
             "feature": "",
             "page": "0025-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 22
+            ]
         },
         {
             "title": "ಸಂತ ಶ್ರೇಷ್ಠ ಕವಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -240,7 +241,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಜಯಪ್ಪ ಹೊನ್ನಾಳಿ",
@@ -252,18 +252,19 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಗಳೇ ಗಮನಿಸಿ",
             "feature": "",
             "page": "0028-0028",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 25
+            ]
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -274,7 +275,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಕೆ. ಆನಂತರಾಮು",
@@ -286,18 +286,19 @@
             "title": "ಜೀವನಪ್ರಭ: ನಿಮಗೆ ಆಯಾಸವಾಗುತ್ತಿದೆಯೇ?",
             "feature": "",
             "page": "0031-0031",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 28
+            ]
         },
         {
             "title": "ಉಪನಿಷನ್ಮಂಜರಿ: ಬೃಹದಾರಣ್ಯಕೋಪನಿಷತ್",
             "feature": "",
             "page": "0032-0034",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0032",
@@ -312,7 +313,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಗಂಗಾಧರ ವಿ. ಭಟ್ಟ",
@@ -324,6 +324,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -334,7 +335,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -346,6 +346,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ಗರುಡ ಕಲಿತ ಪಾಠ",
             "feature": "",
             "page": "0037-0040",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
@@ -363,13 +364,13 @@
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0041-0042",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
@@ -379,8 +380,7 @@
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         }
     ]
 }

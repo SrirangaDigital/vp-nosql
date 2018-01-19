@@ -10,18 +10,19 @@
             "title": "ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ರಚಿತವಾದ ಹರಿಸ್ತುತಿಗಳು",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ರಾಜಯೋಗದ ರಮಣೀಯ ಮಾರ್ಗ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,13 +40,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರ ಜೀವನ ಮತ್ತು ಸಂದೇಶದ ಮಹತ್ವ",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಕುಲಕರ್ಣಿ",
@@ -72,6 +72,7 @@
             "title": "ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರ ಜೀವಿತ ಚರಿತೆ",
             "feature": "",
             "page": "0014-0016",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಹೆಚ್.ವಿ.ಸರೋಜ",
@@ -98,6 +98,7 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "",
             "page": "0017-0018",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -108,7 +109,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ್",
@@ -120,6 +120,7 @@
             "title": "ನಿಜಗುಣರ ಕೈವಲ್ಯಪದ್ಧತಿ-ಒಂದು ಸ್ಥೂಲ ಪರಿಚಯ",
             "feature": "",
             "page": "0019-0021",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಪಾರ್ವತಮ್ಮ ಚಂದ್ರಣ್ಣ",
@@ -146,6 +146,7 @@
             "title": "ಭಗವಂತನನ್ನು ಸ್ಪರ್ಶಿಸಿದ ಸೋದರಿ ಲಲಿತಾ",
             "feature": "",
             "page": "0022-0024",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
@@ -160,7 +161,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಬ್ರಹ್ಮಪ್ರಾಣಾ",
@@ -172,6 +172,7 @@
             "title": "ಕಠೋಪನಿಷತ್",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
@@ -186,7 +187,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ವಿದ್ವಾನ್ ಗುಹ ವಿಶ್ವನಾಥ",
@@ -198,6 +198,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0028-0029",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0028",
@@ -208,7 +209,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -220,6 +220,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0030-0032",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -234,7 +235,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -246,6 +246,7 @@
             "title": "ಶ್ರದ್ಧೆ-ಶಕ್ತಿಯ ಮೂಲ",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -256,7 +257,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಡಿ.ಕೆ.ರಾಜೇಂದ್ರ",
@@ -268,6 +268,7 @@
             "title": "ಶಿಕ್ಷಣದ ಕುರಿತಾಗಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -278,7 +279,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಜಿ.ಎಸ್. ಜಯದೇವ",
@@ -290,18 +290,19 @@
             "title": "ಶಕ್ತಿ",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಚಿತ್ರಕಥೆ: ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಜೀವನದರ್ಶನ-೬",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -319,20 +320,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

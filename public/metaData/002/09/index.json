@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಗ್ರಾಹಕ ಮನೋಭಾವ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಬದುಕಿನಲ್ಲಿ ಸುಖ ದುಃಖಗಳ ಅರ್ಥ",
             "feature": "",
             "page": "0011-0013",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0011",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ವೈಜ್ಞಾನಿಕ ಮನೋಭಾವ",
             "feature": "",
             "page": "0014-0017",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0014",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಸ್ವಾಮಿ ಪ್ರೊ. ಎನ್.",
@@ -114,6 +114,7 @@
             "title": "ಶ್ರದ್ಧಾಂ ಹವಾಮಹೇ",
             "feature": "",
             "page": "0018-0019",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0018",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ರಮಾ ಡಾ. ಕೆ. ಎಸ್.",
@@ -136,6 +136,7 @@
             "title": "ಗುರು ಕಂಡ ಕನಸು ಲೋಕ ಕಂಡ ನನಸು",
             "feature": "",
             "page": "0020-0023",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0020",
@@ -154,7 +155,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ವಿಶ್ವನಾಥರೆಡ್ಡಿ ಎಂ. ಆರ್.",
@@ -166,6 +166,7 @@
             "title": "ಭಾರತೀಯ ಹಬ್ಬ",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0023",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಪ್ರಸನ್ನಾಕ್ಷಿ ಡಾ. ಕೆ. ಎಲ್.",
@@ -188,6 +188,7 @@
             "title": "ಕಾರೈಕ್ಕಾಲ್ ಅಮ್ಮೈಯಾರ್",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0025",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -210,13 +210,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0027-0027",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0027",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -228,13 +228,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ ಲೋಕ ಶಿಕ್ಷಣ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0028-0028",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -246,6 +246,7 @@
             "title": "ಶಿಕ್ಷಣ ಮತ್ತು ಸಂಸ್ಕೃತಿ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0029-0032",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -276,6 +276,7 @@
             "title": "ಬದುಕಿನಲ್ಲಿ ಸೃಜನಶೀಲತೆ",
             "feature": "",
             "page": "0033-0035",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
@@ -290,7 +291,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ವಿಜಯ ಕುಮಾರ",
@@ -302,13 +302,13 @@
             "title": "ಶಿಕ್ಷಣ-ಮೂಲಭೂತ ಹಕ್ಕು, ಭ್ರಷ್ಟಾಚಾರದ ಉಚ್ಛಾಟನೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -320,13 +320,13 @@
             "title": "ಸ್ವರ್ಗೀಯ ಗಾನ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -338,13 +338,13 @@
             "title": "ನಮ್ಮಲ್ಲೇಕೆ ಒಮ್ಮತವಿಲ್ಲ?",
             "feature": "",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -356,13 +356,13 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -374,13 +374,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0040-0040",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 41,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

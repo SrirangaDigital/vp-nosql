@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ: ಶ್ರೀ ಗೋವಿಂದಾಷ್ಟಕಮ್ - ೧",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಸ್ವಾತಂತ್ರ್ಯ ದ ಮುಂಬೆಳಗು",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,13 +36,13 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "`ಅಪಿ ಚೇತ್ಸು ದುರಾಚಾರೋ..'",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -56,7 +57,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ವಿ. ವೀನಾ",
@@ -68,6 +68,7 @@
             "title": "ಶರಣಾಗತಿ",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0014-0018",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -102,18 +102,19 @@
             "title": "ಭಗವದ್ರೂಪಗಳು",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0019-0019",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 16
+            ]
         },
         {
             "title": "`ಅನ್ಯಥಾ ಶರಣಂ ನಾಸ್ತಿ..' - ಶರಣಾಗತಿಯ ವ್ವೆ ಭವ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0020-0024",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -136,7 +137,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -148,13 +148,13 @@
             "title": "ರಣಜಿತ್ ಸಿಂಗ್",
             "feature": "ಲೇಖನ",
             "page": "0025-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0025",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಅನಂತರಾಮು",
@@ -166,6 +166,7 @@
             "title": "ಪಂಚಕೇದಾರ ಯಾತ್ರೆ - ೫",
             "feature": "ಪ್ರವಾಸ ಲೇಖನ",
             "page": "0027-0032",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -192,7 +193,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಜ್ಞಾನಯೋಗಾನಂದ",
@@ -204,6 +204,7 @@
             "title": "ದೇವರ ಹಾದಿಯಲ್ಲಿ ನಡೆದ ಅವಿಲಾದ ತೆರೆಸಾ",
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0033-0036",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -222,7 +223,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -234,6 +234,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಸಂದೇಶ  ಕೌಮುದಿ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0036-0037",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0036",
@@ -243,13 +244,13 @@
                     "page": "0037",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 33
+            ]
         },
         {
             "title": "ಲಂಕಾಲಕ್ಷ್ಮಿ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -267,20 +268,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 2,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಸ್ಮರಣೆ ಒಂದೇ ಸಾಲದೆ ಗೋವಿಂದನ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯಲ್ಲಿ ಆತ್ಮಶ್ರದ್ಧೆ ಮತ್ತು ಚಾರಿತ್ರ್ಯಗಳ ಮಹತ್ವ",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಆತ್ಮಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ರಾಷ್ಟ್ರೀಯ ಹೆಮ್ಮೆಯಲ್ಲಿ ಹಸ್ತಕ್ಷೇಪ",
             "feature": "",
             "page": "0013-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0013",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -102,18 +102,19 @@
             "title": "ಸ್ನೇಹಪ್ರಭ",
             "feature": "",
             "page": "0014-0014",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 11
+            ]
         },
         {
             "title": "ವೇದಾಂತ ಮತ್ತು ರಾಮಕೃಷ್ಣ ವಿವೇಕಾನಂದ ದರ್ಶನ",
             "feature": "",
             "page": "0015-0017",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0015",
@@ -128,7 +129,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -140,6 +140,7 @@
             "title": "ಸಾಧನೆಯ ನಿಧಿಗಳು",
             "feature": "",
             "page": "0018-0021",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -158,7 +159,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಶಿವಕಾಂತಾನಂದ",
@@ -170,6 +170,7 @@
             "title": "ಆಯ್ಕೆ ನಿಮ್ಮದೇ",
             "feature": "",
             "page": "0022-0025",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0022",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮಚಾರಿ ನಿಷ್ಪಾಪಚೈತನ್ಯ",
@@ -200,6 +200,7 @@
             "title": "ಮೌನ ಸಂದೇಶ",
             "feature": "",
             "page": "0026-0028",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0026",
@@ -214,7 +215,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -226,6 +226,7 @@
             "title": "ಪಾತಂಜಲ ಯೋಗದರ್ಶನ",
             "feature": "",
             "page": "0029-0030",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -236,7 +237,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಕೇಶವಮೂರ್ತಿ",
@@ -248,6 +248,7 @@
             "title": "ವಿಶ್ವಸದಾಚಾರ ಸಂಹಿತೆ",
             "feature": "",
             "page": "0031-0034",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0031",
@@ -266,7 +267,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ರಾಮಾಜೋಯಿಸ್",
@@ -278,18 +278,19 @@
             "title": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0034-0034",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 31
+            ]
         },
         {
             "title": "ಭ್ರಷ್ಟಾಚಾರದ ಬಾಗಿಲುಗಳು",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -300,7 +301,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಅನಂತರಾಮು ಡಾ. ಕೆ.",
@@ -312,6 +312,7 @@
             "title": "ಬನ್ನಿ, ಬೇಲೂರು ಮಠಕ್ಕೆ",
             "feature": "",
             "page": "0037-0038",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
@@ -322,7 +323,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -334,6 +334,7 @@
             "title": "ವಿಜ್ಞಾನ ಬೆಳೆದುಬಂದ ರೋಮಾಂಚಕ ಕಥೆ",
             "feature": "",
             "page": "0039-0040",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0039",
@@ -344,7 +345,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಚಿದಾನಂದ ಗೌಡ",
@@ -356,25 +356,25 @@
             "title": "ಕಥೋಪದೇಶ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0041-0041",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 38
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

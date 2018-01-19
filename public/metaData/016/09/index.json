@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ - ಶ್ರೀಗಣೇಶ ಪ್ರಾರ್ಥನಾ ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಪೂರ್ಣ ಮಾನವ- ಪೂರ್ಣಾವತಾರ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,25 +36,25 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಲೋಕಶಿಕ್ಷಣ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 7
+            ]
         },
         {
             "title": "ಅಸಾಧಾರಣ ವ್ಯಕ್ತಿತ್ವದ ರಾಷ್ಟ್ರಪತಿ ಡಾ. ಅಬ್ದುಲ್ ಕಲಾಂ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0013",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -67,13 +68,13 @@
                     "page": "0013",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 8
+            ]
         },
         {
             "title": "ಅಮರನಾಥನ ಸನ್ನಿಧಿಯತ್ತ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0014-0019",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0014",
@@ -100,7 +101,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಜ್ಞಾನಯೋಗಾನಂದ",
@@ -112,6 +112,7 @@
             "title": "ವಿಶ್ವಾಶ್ವತ್ಥ",
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0020-0023",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0020",
@@ -130,7 +131,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -142,6 +142,7 @@
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೧೧",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0024-0028",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -176,6 +176,7 @@
             "title": "ಶಿಕ್ಷಣ ಮತ್ತು ನೈತಿಕತೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0029-0032",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -194,7 +195,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಹೆಚ್.ಪಾಂಡುರಂಗ ವಿಠಲ",
@@ -206,13 +206,13 @@
             "title": "ಭಾರತದ ಯುವಜನತೆಗೆ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಆದರ್ಶಗಳು",
             "feature": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಆದರ್ಶಗಳು",
             "page": "0033-0033",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಹಳೇಕೋಟೆ ಎನ್.ರಮೇಶ್",
@@ -224,6 +224,7 @@
             "title": "ಭಗವದ್ಗೀತೆ:ಸೃಷ್ಟಿಯ ವಿಜ್ಞಾನ ಕೋಶ",
             "feature": "ಭಗವದ್ಗೀತೆ",
             "page": "0034-0037",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0034",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಎಸ್.ಪಿ.ಯೋಗಣ್ಣ",
@@ -254,6 +254,7 @@
             "title": "ಕುರುಕ್ಷೇತ್ರ ಉಗಮ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -271,20 +272,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

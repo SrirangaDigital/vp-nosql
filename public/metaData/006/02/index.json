@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ನವವೇದಾಂತ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಆಪದ್ಭಾಂಧವ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0011-0012",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -68,7 +69,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -80,6 +80,7 @@
             "title": "ಶ್ರೀ ಭಾಗವತ ಬೋಧಾಮೃತ ಬಿಂದು -೧",
             "feature": "",
             "page": "0013-0016",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0013",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ನಾರಾಯಣಾಚಾರ್ಯ ಪ್ರೊ. ಕೆ. ಎಸ್.",
@@ -110,6 +110,7 @@
             "title": "ಆರಾಧ್ಯದೈವ ಬಾಳಿ ಬದುಕಿದ ನೆಲಕ್ಕೆ ತೀರ್ಥಯಾತ್ರೆ -೨",
             "feature": "",
             "page": "0017-0020",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0017",
@@ -128,7 +129,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಕುವೆಂಪು",
@@ -140,6 +140,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಮಾತೃಪ್ರೇಮ",
             "feature": "",
             "page": "0021-0025",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಉಷಾ ಪಿ.",
@@ -174,6 +174,7 @@
             "title": "ಪರಿಸರ-ಪ್ರಜ್ಞೆ",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -184,7 +185,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -196,13 +196,13 @@
             "title": "ಪ್ರಹಸನಪ್ರಸಂಗ",
             "feature": "",
             "page": "0028-0028",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -214,13 +214,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮಹಿಮಾ",
             "feature": "",
             "page": "0029-0029",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -232,6 +232,7 @@
             "title": "ಜಂತೂನಾಂ ನರಜನ್ಮ ದುರ್ಲಭಮ್",
             "feature": "",
             "page": "0030-0033",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -262,6 +262,7 @@
             "title": "ನಿರ್ಲಿಪ್ತ ಸಜ್ಜನ-ಕೆಡುಕಿನ ಮೂಲ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0034-0035",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -272,7 +273,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ನಿರಂಜನ ವಾನಳ್ಳಿ ಡಾ.",
@@ -284,13 +284,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಮತಾಂತರವೆಂಬ ಮತಾಂಧತೆ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -302,13 +302,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಮೊಬೈಲ್ ಫೋನಿನಿಂದ ಮಾರಕ ರೋಗಗಳು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0036-0036",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -320,13 +320,13 @@
             "title": "ಲೋಭವೇ ಪಾಪಕ್ಕೆ ಮೂಲ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -338,13 +338,13 @@
             "title": "ಭಯದಿಂದ ನಿಜವಾದ ಭಕ್ತಿಗೆ ಹಾನಿ",
             "feature": "",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -356,6 +356,7 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0040",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
@@ -366,7 +367,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

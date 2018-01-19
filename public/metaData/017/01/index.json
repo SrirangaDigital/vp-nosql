@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ದಿವ್ಯ ಗ್ರಂಥಗಳ ಉಪಯುಕ್ತತೆ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0008",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -31,13 +32,13 @@
                     "page": "0008",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಗ್ರಂಥಗಳು ಮತ್ತು ಅಧ್ಯಾತ್ಮ (ಸಂಕಲನ)",
             "feature": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "page": "0009-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0009",
@@ -48,7 +49,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ವಿವೇಕಾನಂದ",
@@ -60,6 +60,7 @@
             "title": "ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ",
             "feature": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "page": "0011-0016",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 8,
             "author": [
                 {
                     "name": "ಜಪಸಿದ್ಧಾನಂದ",
@@ -98,6 +98,7 @@
             "title": "ಭಗವದ್ಗೀತೆ:ಸಾಧಕರ ಅತ್ಯುತ್ತಮ ಕೈಪಿಡಿ",
             "feature": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "page": "0017-0022",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -124,7 +125,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಕೆ.ಎಲ್.ಪ್ರಸನ್ನಾಕ್ಷೀ",
@@ -136,6 +136,7 @@
             "title": "ಭಾಗವತದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ",
             "feature": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "page": "0023-0028",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0023",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -174,6 +174,7 @@
             "title": "ಪಾತಂಜಲ ಯೋಗ ದರ್ಶನದ ಸಾಧನ ಮಾರ್ಗ",
             "feature": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "page": "0029-0037",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -212,7 +213,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -224,6 +224,7 @@
             "title": "ನಾರದ ಭಕ್ತಿ ಸೂತ್ರ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ",
             "feature": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "page": "0038-0039",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -234,7 +235,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಆತ್ಮವಿದಾನಂದ",
@@ -246,6 +246,7 @@
             "title": "ಯೋಗವಾಸಿಷ್ಠದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಚಿಂತನೆ",
             "feature": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "page": "0040-0046",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0040",
@@ -276,7 +277,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಟಿ.ವಿ.ಸತ್ಯನಾರಾಯಣ",
@@ -288,6 +288,7 @@
             "title": "ವಿವೇಕಚೂಡಾಮಣಿಯಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ",
             "feature": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "page": "0047-0053",
+            "relativePageNumber": 44,
             "fullText": [
                 {
                     "page": "0047",
@@ -318,7 +319,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 44,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -330,6 +330,7 @@
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ ಮತ್ತು ವಿದ್ಯಾರಣ್ಯರ ಜೀವನ್ಮುಕ್ತಿವಿವೇಕ",
             "feature": "ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು",
             "page": "0054-0058",
+            "relativePageNumber": 51,
             "fullText": [
                 {
                     "page": "0054",
@@ -352,7 +353,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 51,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -364,6 +364,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯ ಮೂಲಗ್ರಂಥ",
             "feature": "ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ",
             "page": "0059-0062",
+            "relativePageNumber": 56,
             "fullText": [
                 {
                     "page": "0059",
@@ -382,7 +383,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 56,
             "author": [
                 {
                     "name": "ಮಂಗಳನಾಥಾನಂದ",
@@ -394,6 +394,7 @@
             "title": "ಶ್ರೀಶಾರದಾದೇವಿ ವಚನವೇದದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ",
             "feature": "ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ",
             "page": "0063-0069",
+            "relativePageNumber": 60,
             "fullText": [
                 {
                     "page": "0063",
@@ -424,7 +425,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 60,
             "author": [
                 {
                     "name": "ಶಿವಾಕಾಂತಾನಂದ",
@@ -436,6 +436,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಕೃತಿಶ್ರೇಣಿ",
             "feature": "ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ",
             "page": "0071-0075",
+            "relativePageNumber": 68,
             "fullText": [
                 {
                     "page": "0071",
@@ -458,7 +459,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 68,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -470,6 +470,7 @@
             "title": "ಬ್ರಹ್ಮಾನಂದ ವಚನಸುಧೆ",
             "feature": "ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ",
             "page": "0076-0081",
+            "relativePageNumber": 73,
             "fullText": [
                 {
                     "page": "0076",
@@ -496,7 +497,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 73,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -508,6 +508,7 @@
             "title": "ಸಾಧನೆಯ ಮಾರ್ಗದರ್ಶಿ:ಗುರುವಿನೊಡನೆ ದೇವರಡಿಗೆ",
             "feature": "ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ",
             "page": "0082-0086",
+            "relativePageNumber": 79,
             "fullText": [
                 {
                     "page": "0082",
@@ -530,7 +531,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 79,
             "author": [
                 {
                     "name": "ಮಾತಾ ತ್ಯಾಗಮಯೀ",
@@ -542,6 +542,7 @@
             "title": "ಪರಮಾರ್ಥ ಪ್ರಸಂಗ",
             "feature": "ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ",
             "page": "0087-0090",
+            "relativePageNumber": 84,
             "fullText": [
                 {
                     "page": "0087",
@@ -560,7 +561,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 84,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -572,6 +572,7 @@
             "title": "ಸಾಧಕನ ಕೈದೀವಿಗೆ",
             "feature": "ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ",
             "page": "0091-0094",
+            "relativePageNumber": 88,
             "fullText": [
                 {
                     "page": "0091",
@@ -590,7 +591,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 88,
             "author": [
                 {
                     "name": "ರಘುವೀರಾನಂದ",
@@ -602,6 +602,7 @@
             "title": "ಧ್ಯಾನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಜೀವನ",
             "feature": "ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ ಸಾಹಿತ್ಯ",
             "page": "0095-0100",
+            "relativePageNumber": 92,
             "fullText": [
                 {
                     "page": "0095",
@@ -628,7 +629,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 92,
             "author": [
                 {
                     "name": "ಜ್ಞಾನಸುಧಾನಂದ",

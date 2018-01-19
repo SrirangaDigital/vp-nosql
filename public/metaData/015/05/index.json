@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 2,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 2
+            ]
         },
         {
             "title": "ಬುದ್ಧ ತೋರಿದ ಮಾರ್ಗ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,13 +36,13 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ: ಅಭ್ಯಾಸ ಮತ್ತು ವೈರಾಗ್ಯ",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0010",
@@ -56,7 +57,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -68,6 +68,7 @@
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯ ವಿಷಯದಲ್ಲಿ ಬುದ್ಧನ ಸಲಹೆಗಳು",
             "feature": "",
             "page": "0013-0017",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0013",
@@ -90,7 +91,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -102,6 +102,7 @@
             "title": "ಬುದ್ಧ ಹಾಗೂ ಅವನ ಸಾಧನ ಮಾರ್ಗ",
             "feature": "",
             "page": "0018-0020",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0018",
@@ -116,7 +117,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಎಚ್.ರಾಮಚಂದ್ರಸ್ವಾಮಿ",
@@ -128,6 +128,7 @@
             "title": "ಜೀವನ ಮಕರಂದ: ಚಿಂತೆಯ ಚಿತೆಯಿಂದ ಪಾರಾಗಿ",
             "feature": "",
             "page": "0021-0023",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0021",
@@ -142,7 +143,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -154,6 +154,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ಧರ್ಮ ಮತ್ತು ವೈಜ್ಞಾನಿಕತೆ",
             "feature": "",
             "page": "0024-0026",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಪಿ.ಅರುಳಪ್ಪ",
@@ -180,6 +180,7 @@
             "title": "ಶ್ರೀಮದ್ಭಾಗವತ ಸಾರ",
             "feature": "",
             "page": "0027-0029",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -194,7 +195,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಎ.ಮುರಳೀಧರ",
@@ -206,6 +206,7 @@
             "title": "ಯಶಸ್ಸಿನ ಮೂರು ಕೀಲಿ ಕೈಗಳು",
             "feature": "",
             "page": "0030-0032",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0030",
@@ -220,7 +221,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಡಿ.ಕೆ.ರಾಜೇಂದ್ರ",
@@ -232,6 +232,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0033",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಕೆ.ಅನಂತರಾಮು",
@@ -254,6 +254,7 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಕೆ.ಆರ್.ಮೋಹನ್",
@@ -276,18 +276,19 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ: ೧೦೮ ಉಪನಿಷತ್ ಸರ್ವಸ್ವ",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 34
+            ]
         },
         {
             "title": "ಚಿತ್ರಕಥೆ:ಮಹಾತ್ಮ ಮಾಂಡವ್ಯ",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -305,20 +306,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

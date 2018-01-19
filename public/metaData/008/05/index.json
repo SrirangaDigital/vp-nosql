@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ, ಸೂಕ್ತಿಪ್ರಭ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಏಕಾಂತದ ಸೆಳೆತ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಶ್ರೀಚೈತನ್ಯ ಮಹಾಪ್ರಭು -೩",
             "feature": "",
             "page": "0010-0013",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ತಪಸ್ಯಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ಸೇವಾದೀಕ್ಷೆ",
             "feature": "",
             "page": "0014-0017",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ಗೌತಮಾನಂದ",
@@ -114,13 +114,13 @@
             "title": "ಮಾತು",
             "feature": "",
             "page": "0018-0018",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0018",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಗುಂಡಣ್ಣ ಕಲಬುರ್ಗಿ ಡಾ.",
@@ -132,13 +132,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ಸಂನ್ಯಾಸಿಯ ತ್ಯಾಗ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0019-0019",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -150,6 +150,7 @@
             "title": "ಕಥಾಚಿತ್ರ- ಸೂರದಾಸ",
             "feature": "",
             "page": "0020-0022",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -176,6 +176,7 @@
             "title": "ಜೀವನಪ್ರಭ- ಮಿಲರೇಪ -೧",
             "feature": "",
             "page": "0023-0024",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
@@ -186,7 +187,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಅದ್ವೈತ ಚೈತನ್ಯ ಬ್ರ.",
@@ -198,6 +198,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ಮತ್ತು ಉಪನಿಷತ್ತುಗಳು -೨",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -212,7 +213,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -224,6 +224,7 @@
             "title": "ಈ ಜಗತ್ತು ಕಂಡ ಬುದ್ಧ",
             "feature": "",
             "page": "0028-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಸಂಗನಾಳಮಠ ಯು. ಎನ್.",
@@ -254,6 +254,7 @@
             "title": "ಯೋಗಪ್ರಭ- ಸಾಧನ ಶರೀರ-ಯೋಗದರ್ಶನ -೨",
             "feature": "",
             "page": "0032-0033",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ರಾಘವೇಂದ್ರ ಪೈ ಡಾ. ಕೆ.",
@@ -276,6 +276,7 @@
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ- ತಂಬೂರಿ ಮೀಟಿದವ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0034-0035",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -286,7 +287,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -298,6 +298,7 @@
             "title": "ಯುವ ವೇದಿಕೆ - ಸತತ ಪ್ರಯತ್ನ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0036-0037",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
@@ -308,7 +309,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -320,13 +320,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0037-0037",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -338,13 +338,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಕತ್ತಲಿನಿಂದ ಬೆಳಕು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -356,6 +356,7 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0040",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
@@ -366,7 +367,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಸೂಕ್ತಿಪ್ರಭ:ಮನೀಷಾ ಪಂಚಕದಿಂದ: ಮಹಾವ್ಯಕ್ತಿಯ ಲಕ್ಷಣ",
             "feature": "",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ದಿವ್ಯತ್ರಯರು ಕಂಡ ಶಿವ-ಶಕ್ತಿ ಭಾವ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -35,13 +36,13 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "ವಾಮನಾಕೃತಿಯ ತ್ರಿವಿಕ್ರಮ ವ್ಯಕ್ತಿತ್ವ",
             "feature": "",
             "page": "0010-0013",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0010",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಸ್ಮರಣಾನಂದ",
@@ -72,18 +72,19 @@
             "title": "ಪವಿತ್ರ ಪತ್ರಮಾಲೆ: ಸ್ವಾಮಿ ಶಿವಾನಂದಜಿ ಅವರ ಒಂದು ಪತ್ರ",
             "feature": "",
             "page": "0014-0014",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0014",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 13
+            ]
         },
         {
             "title": "ಸ್ಫೂರ್ತಿಚೇತನರ ಚಿರ ನೆನಪುಗಳು",
             "feature": "",
             "page": "0015-0018",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಹರ್ಷಾನಂದ",
@@ -114,18 +114,19 @@
             "title": "ಪೋಷಕರೇ, ಗಮನಿಸಿ: ಹದಿಹರೆಯದ ಮಕ್ಕಳ ನಿಯಂತ್ರಣ",
             "feature": "",
             "page": "0019-0019",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0019",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 18
+            ]
         },
         {
             "title": "ತಪಸ್ಯೆಯಲ್ಲಿಯೇ ಆನಂದವನ್ನು ಕಂಡ ಮಹಾಚೇತನ",
             "feature": "",
             "page": "0020-0023",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
@@ -144,7 +145,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಆಶುತೋಷಾನಂದ",
@@ -156,6 +156,7 @@
             "title": "ಧನ್ಯತೆಯ ಸಾಕಾರ - ಸ್ವಾಮಿ ಸೋಮನಾಥಾನಂದಜಿ ಅವರ ನೆನಪುಗಳು",
             "feature": "",
             "page": "0024-0027",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0024",
@@ -173,13 +174,13 @@
                     "page": "0027",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 23
+            ]
         },
         {
             "title": "ಹರಿಕ್ಷೇತ್ರದಿಂದ ಹರಕ್ಷೇತ್ರಕ್ಕೆ",
             "feature": "",
             "page": "0028-0031",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0028",
@@ -198,7 +199,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -210,13 +210,13 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರಿಂದ ನಾನು ಪ್ರಭಾವಿತನಾಗಿದ್ದು ಹೀಗೆ!",
             "feature": "",
             "page": "0032-0032",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಎಂ.ಎ.ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ",
@@ -228,6 +228,7 @@
             "title": "ಬುದ್ಧ ಮರಳಿ ತಾಯ್ನಾಡಿಗೆ",
             "feature": "",
             "page": "0033-0034",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0033",
@@ -238,7 +239,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -250,13 +250,13 @@
             "title": "ಛಾಯಾಚಿತ್ರಗಳಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0035-0035",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಕೆ. ಆರ್. ಮೋಹನ್",
@@ -268,6 +268,7 @@
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ನಿರೂಪಿಸಿದ ನೀತಿಕಥೆಗಳು",
             "feature": "",
             "page": "0036-0037",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
@@ -278,7 +279,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -290,6 +290,7 @@
             "title": "ಚಿತ್ರಕಥೆ: ರಾಜಗುರುಗಳು ಒಡ್ಡಿದ ಪರೀಕ್ಷೆ",
             "feature": "",
             "page": "0038-0041",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0038",
@@ -307,20 +308,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 37
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 41
+            ]
         }
     ]
 }

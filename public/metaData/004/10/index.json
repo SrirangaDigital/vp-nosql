@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ನೈತಿಕ ಚಿಂತನೆ - ಸಂಪಾದಕೀಯ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0009",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -50,7 +51,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -62,6 +62,7 @@
             "title": "ಮೈಸೂರಿನಲ್ಲಿ ದಸರಾ ಹಬ್ಬ",
             "feature": "",
             "page": "0010-0012",
+            "relativePageNumber": 11,
             "fullText": [
                 {
                     "page": "0010",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 11,
             "author": [
                 {
                     "name": "ಆತ್ಮಜ್ಞಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ಭಾಗವತದ ಸಾರತತ್ತ್ವ",
             "feature": "",
             "page": "0013-0017",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0013",
@@ -110,7 +111,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ರಂಗನಾಥಾನಂದಜಿ ಮಹರಾಜ್",
@@ -122,6 +122,7 @@
             "title": "ಮಧುರ ಗಾಯಕ ರಾಮಪ್ರಸಾದ",
             "feature": "",
             "page": "0018-0020",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0018",
@@ -136,7 +137,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -148,6 +148,7 @@
             "title": "ವಿವೇಕಾನಂದರ ನವ್ಯವೇದಾಂತ",
             "feature": "",
             "page": "0021-0024",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0021",
@@ -166,7 +167,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -178,6 +178,7 @@
             "title": "ಕಷ್ಟ- ಒಂದು ಅನಿಸಿಕೆ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0025",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಸೀತಾ ನಾಗರಾಜ್",
@@ -200,6 +200,7 @@
             "title": "ದಕ್ಷಿಣ ಕಾಶಿ-ಕೊಲ್ಹಾಪುರ",
             "feature": "",
             "page": "0027-0029",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0027",
@@ -214,7 +215,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಪಾಂಡುರಂಗ ವಿಠಲ ಡಾ. ಹೆಚ್.",
@@ -226,13 +226,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0029-0029",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -244,13 +244,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ಬ್ರಹ್ಮ ಶಕ್ತಿ ಅಭೇದ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0030-0030",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0030",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -262,6 +262,7 @@
             "title": "ಯಶಸ್ಸು",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0031-0034",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0031",
@@ -280,7 +281,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ನಂದಕುಮಾರ್ ಕೆ. ಎಸ್.",
@@ -292,13 +292,13 @@
             "title": "ಭೂತಾಪ-ಸಂತಾಪ ಸಂಸ್ಕಾರಗಳ ಸಂಸ್ಕರಣ - ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -310,13 +310,13 @@
             "title": "ಸ್ವರ್ಗ-ನರಕ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -328,13 +328,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,13 +28,13 @@
             "title": "ಪ್ರೇಮೋನ್ಮಾದ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0004-0004",
+            "relativePageNumber": 5,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -46,6 +46,7 @@
             "title": "ರಾಮಕೃಷ್ಣಾವತಾರದ ಮೂರು ಮುಖಗಳು",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0007",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -60,7 +61,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -72,6 +72,7 @@
             "title": "ಮಾತೃ ಸಾನ್ನಿಧ್ಯದಲ್ಲಿ",
             "feature": "",
             "page": "0008-0010",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0008",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ನಿರ್ವಾಣಾನಂದ",
@@ -98,6 +98,7 @@
             "title": "ಅಮೃತತತ್ವದ ಅನುಶಾಸನ",
             "feature": "",
             "page": "0011-0012",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0011",
@@ -108,7 +109,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ಶಾಸ್ತ್ರಿ ಪ್ರೊ. ಸಿ. ಎಸ್.",
@@ -120,6 +120,7 @@
             "title": "ಕ್ರೈಸ್ತಧರ್ಮದ ಮೂಲಪುರುಷ ಸಂತ ಪಾಲ್",
             "feature": "",
             "page": "0013-0014",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0013",
@@ -130,7 +131,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಜಯದೇವ ಜಿ. ಎಸ್.",
@@ -142,6 +142,7 @@
             "title": "ಊಟಿಯಲ್ಲಿನ ರಾಮಕೃಷ್ಣ ಮಠ",
             "feature": "",
             "page": "0015-0019",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0015",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ವಿಜಯ ಕುಮಾರ",
@@ -176,6 +176,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ಕೊನೆಯ ಮಾತು",
             "feature": "",
             "page": "0020-0021",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0020",
@@ -186,7 +187,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಈರೇಗೌಡ ಡಿ. ಕೆ.",
@@ -198,6 +198,7 @@
             "title": "ಗೌರಿಬಾಯಿ",
             "feature": "",
             "page": "0022-0023",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0022",
@@ -208,7 +209,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ ಕೆ. ವಿ.",
@@ -220,13 +220,13 @@
             "title": "ಸತ್ಯವೆ ಸೌಂದರ್ಯ ಸೌಂದರ್ಯವೆ ಸತ್ಯ",
             "feature": "",
             "page": "0024-0024",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0024",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಚೆನ್ನಬಸಪ್ಪ ಕೋ.",
@@ -238,6 +238,7 @@
             "title": "ನಳಿನಿಯ ಮಡಿಯ ಗೀಳು ಮತ್ತು ಗೋಳು",
             "feature": "",
             "page": "0025-0027",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0025",
@@ -252,7 +253,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಗೋಪೀನಾಥ ಎನ್.",
@@ -264,13 +264,13 @@
             "title": "ಹಿಂದೆಯೂ ಹೀಗೆಯೇ ಮಾಡಿದ್ದಿ.",
             "feature": "",
             "page": "0028-0028",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಜಗದಾತ್ಮಾನಂದ",
@@ -282,6 +282,7 @@
             "title": "ಯುವಜನತೆಗೆ ಆದರ್ಶ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0029-0032",
+            "relativePageNumber": 30,
             "fullText": [
                 {
                     "page": "0029",
@@ -300,7 +301,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 30,
             "author": [
                 {
                     "name": "ವಸಂತ ಕುಮಾರ ಡಾ. ಇ.",
@@ -312,13 +312,13 @@
             "title": "ದುರ್ಘಟನೆಯಲ್ಲಿ ಸಂಘಟನೆ,",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0033-0033",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -330,13 +330,13 @@
             "title": "ಜಲವಿವಾದ",
             "feature": "",
             "page": "0033-0033",
+            "relativePageNumber": 34,
             "fullText": [
                 {
                     "page": "0033",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 34,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -348,6 +348,7 @@
             "title": "ಮಾತೃಭಾವ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0034-0038",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
@@ -370,7 +371,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -382,13 +382,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

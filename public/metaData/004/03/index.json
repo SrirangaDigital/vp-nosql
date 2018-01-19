@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,13 +28,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ಮಹಾಮಾಯೆ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0004-0004",
+            "relativePageNumber": 5,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 5,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -46,6 +46,7 @@
             "title": "ಬಹುರೂಪಿ ಶ್ರೀರಾಮಕೃಷ್ಣ - ಸಂಪಾದಕೀಯ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0008",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -64,7 +65,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -76,6 +76,7 @@
             "title": "ಶ್ರೀ ರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದರು",
             "feature": "",
             "page": "0009-0010",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0009",
@@ -86,7 +87,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
@@ -98,6 +98,7 @@
             "title": "ಶ್ರೀ ರಾಮಕೃಷ್ಣರ ಅವತಾರ ವೈಶಿಷ್ಟ್ಯ",
             "feature": "",
             "page": "0011-0012",
+            "relativePageNumber": 12,
             "fullText": [
                 {
                     "page": "0011",
@@ -108,7 +109,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 12,
             "author": [
                 {
                     "name": "ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಡಾ. ಹೆಚ್.",
@@ -120,6 +120,7 @@
             "title": "ರಸನ್ ಆಲೀ ಖಾನರ ಮಹಾಭಾಗ್ಯ",
             "feature": "",
             "page": "0013-0015",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0013",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಸತ್ಯೇಶಾನಂದ",
@@ -146,6 +146,7 @@
             "title": "ದೈವೀ ವೀಣೆ-ಮಾನುಷೀ ವೀಣೆ",
             "feature": "",
             "page": "0016-0019",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0016",
@@ -164,7 +165,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ ಶ್ರೀಧರ್",
@@ -176,13 +176,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0020-0020",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0020",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -194,6 +194,7 @@
             "title": "ದ್ವಾದಶ ಜ್ಯೋತಿರ್ಲಿಂಗಗಳು",
             "feature": "",
             "page": "0021-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0021",
@@ -216,7 +217,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ಲಕ್ಷ್ಮಣದಾಸ ವೇಲಣಕರ್",
@@ -228,6 +228,7 @@
             "title": "ಸಮರ್ಥ ರಾಮದಾಸರು",
             "feature": "",
             "page": "0026-0030",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0026",
@@ -250,7 +251,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಗೌರಿ ಎಂ.",
@@ -262,6 +262,7 @@
             "title": "ಮಕ್ಕಳ ಜೀವನವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ತಂದೆ-ತಾಯಿಗಳ ಪಾತ್ರ - ಓದುಗರ ಸ್ಪಂದನ",
             "feature": "ಓದುಗರ ಸ್ಪಂದನ",
             "page": "0031-0033",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0031",
@@ -276,7 +277,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -288,13 +288,13 @@
             "title": "ಆರೊಗ್ಯ ಜೀವನಕ್ಕಾಗಿ ಪರಿವರ್ತನೆ",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0034-0034",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಯೋಗೇಂದ್ರ ಎಂ. ಸಿ.",
@@ -306,6 +306,7 @@
             "title": "ಸೃಜನಶೀಲ ವ್ವಕ್ತಿತ್ವ",
             "feature": "",
             "page": "0035-0036",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
@@ -316,7 +317,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಗುಂಡಣ್ಣ ಕಲಬುರ್ಗಿ ಡಾ.",
@@ -328,13 +328,13 @@
             "title": "ಕದಿಯುವ ಕಲೆ,ವಿತ್ತದಿಂದ ವಿಪತ್ತು - ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -346,13 +346,13 @@
             "title": "ಕೃತಜ್ಞತೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -364,13 +364,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ದೃಷ್ಟಾಂತ ಚಿತ್ರ",
             "feature": "",
             "page": "0039-0039",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -382,13 +382,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0040-0040",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0040",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 41,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

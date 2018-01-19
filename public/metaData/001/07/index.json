@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಸೇವೆಯ ಸರ್ವಸ್ವ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0006-0008",
+            "relativePageNumber": 7,
             "fullText": [
                 {
                     "page": "0006",
@@ -42,7 +43,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 7,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -54,6 +54,7 @@
             "title": "ಅಮೆರಿಕೆಯಲ್ಲಿ ವೇದಾಂತ",
             "feature": "",
             "page": "0009-0013",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0009",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ವ್ರಜಪ್ರಾಣಾ ಪ್ರವ್ರಾಜಿಕಾ",
@@ -88,6 +88,7 @@
             "title": "ಗುರಿಯನ್ನು ಸೇರುವವರೆಗೂ ನಿಲ್ಲದಿರು",
             "feature": "",
             "page": "0014-0016",
+            "relativePageNumber": 15,
             "fullText": [
                 {
                     "page": "0014",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 15,
             "author": [
                 {
                     "name": "ಶಿವದೇವಾನಂದ",
@@ -114,6 +114,7 @@
             "title": "ಅಮೃತಮಹೋತ್ಸವದ ಭಕ್ತಸಮ್ಮೇಳನ",
             "feature": "",
             "page": "0017-0024",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0017",
@@ -148,7 +149,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ಪಾರ್ಥಸಾರಥಿ ಸತ್ಯಾಗಾಲಂ",
@@ -160,6 +160,7 @@
             "title": "ಕಾತ್ಯಾಯಿನೀ ಮತ್ತು ಮೈತ್ರೇಯೀ",
             "feature": "",
             "page": "0025-0026",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0025",
@@ -170,7 +171,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ರಮಾ ಡಾ. ಕೆ. ಎಸ್.",
@@ -182,13 +182,13 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ವಿವೇಕ",
             "feature": "",
             "page": "0027-0027",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0027",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -200,6 +200,7 @@
             "title": "ಸ್ಯಾನ್ ಪ್ರಾನ್ಸಿಸ್ಕೋ ವೇದಾಂತ ಸಂಘದ ಸಾರ್ಥಕ ಶತಮಾನೋತ್ಸವ",
             "feature": "",
             "page": "0028-0032",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
@@ -222,7 +223,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಪ್ರಭುಶಂಕರ ಡಾ.",
@@ -234,6 +234,7 @@
             "title": "ನನ್ನ ಗುರುದೇವ ಸ್ವಾಮೀ ರಾಮಕೃಷ್ಣಾನಂದ",
             "feature": "",
             "page": "0032-0033",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0032",
@@ -244,7 +245,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಚಿದ್ಘನಾನಂದೇಂದ್ರ ಸರಸ್ವತಿ",
@@ -256,6 +256,7 @@
             "title": "ವ್ಯಕ್ತಿತ್ವದ ಬೆಳವಣಿಗೆ-೧",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0034-0037",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
@@ -274,7 +275,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -286,13 +286,13 @@
             "title": "ಬೆಳಗಾವಿಯಲ್ಲಿ ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ನೂತನ ಕೇಂದ್ರ",
             "feature": "",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -304,13 +304,13 @@
             "title": "ಅಮೇರಿಕೆಯಲ್ಲಿ ಭಾರತೀಯರು",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -322,13 +322,13 @@
             "title": "ಮಾನವ ಸ್ಮೃತಿ",
             "feature": "",
             "page": "0038-0038",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0038",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -340,13 +340,13 @@
             "title": "ಎಲ್ಲ ಭಗವದಿಚ್ಛೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0039",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -358,6 +358,7 @@
             "title": "ನನಗೆ ನಾನೇ ಹೊಣೆ",
             "feature": "",
             "page": "0039-0040",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0039",
@@ -368,7 +369,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

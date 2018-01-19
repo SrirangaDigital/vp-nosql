@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0003",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಒತ್ತಡ ನಿವಾರಣೆ - ಸಂಪಾದಕೀಯ",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0008",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0005",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಸಂಘಟನೆ ಸುಲಭವಲ್ಲ",
             "feature": "",
             "page": "0009-0011",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0009",
@@ -72,7 +73,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಪುರುಷೋತ್ತಮಾನಂದ",
@@ -84,6 +84,7 @@
             "title": "ಭಾಗವತದ ಸಾರತತ್ತ್ವ",
             "feature": "",
             "page": "0012-0016",
+            "relativePageNumber": 13,
             "fullText": [
                 {
                     "page": "0012",
@@ -106,7 +107,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 13,
             "author": [
                 {
                     "name": "ರಂಗನಾಥಾನಂದಜಿ ಮಹರಾಜ್",
@@ -118,13 +118,13 @@
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0016-0016",
+            "relativePageNumber": 17,
             "fullText": [
                 {
                     "page": "0016",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 17,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -136,6 +136,7 @@
             "title": "ಜ್ಯೋತಿಸ್ಸಂತ ಜರತುಷ್ಟ್ರ",
             "feature": "",
             "page": "0017-0021",
+            "relativePageNumber": 18,
             "fullText": [
                 {
                     "page": "0017",
@@ -158,7 +159,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 18,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -170,6 +170,7 @@
             "title": "ಉತ್ಕೃಷ್ಟಕಲಾವಿದ- ಶ್ರೀರಾಮಕೃಷ್ಣ",
             "feature": "",
             "page": "0022-0025",
+            "relativePageNumber": 23,
             "fullText": [
                 {
                     "page": "0022",
@@ -188,7 +189,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 23,
             "author": [
                 {
                     "name": "ಪ್ರಭುಪ್ರಸಾದ್ ಡಾ. ಕೆ. ಬಿ.",
@@ -200,6 +200,7 @@
             "title": "ನೆಮ್ಮದಿಯನ್ನು ನುಚ್ಚುನೂರು ಮಾಡುವ ಚಿಲ್ಲರೆ ವಿಷಯಗಳು",
             "feature": "",
             "page": "0026-0027",
+            "relativePageNumber": 27,
             "fullText": [
                 {
                     "page": "0026",
@@ -210,7 +211,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 27,
             "author": [
                 {
                     "name": "ಶಿವಶಂಕರ್ ಎಸ್. ಜಿ.",
@@ -222,6 +222,7 @@
             "title": "ದಾಸರೆಂದರೆ ಪುರಂದರದಾಸರಯ್ಯ",
             "feature": "",
             "page": "0028-0030",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0028",
@@ -236,7 +237,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸರಸ್ವತಿ ವಿಜಯನಾರಸಿಂಹ",
@@ -248,13 +248,13 @@
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ- ಆತ್ಮಜಾಗೃತಿ",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0031-0031",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0031",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -266,6 +266,7 @@
             "title": "ರಾಷ್ಟ್ರಚೇತನ ಜಾಗ್ರತಗೊಳಿಸಿದ ವಿವೇಕಾನಂದರು",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0032-0033",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0032",
@@ -276,7 +277,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಗನಾಳಮಠ ಯು. ಎನ್.",
@@ -288,13 +288,13 @@
             "title": "ಮತ್ತೆ ಅದೇ ರಾಮಾಯಣ, ಸುಖಕ್ಕಾಗಿ ದುಃಖ - ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0034-0034",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0034",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -306,13 +306,13 @@
             "title": "ಮುಕ್ತಿಮಾರ್ಗ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0035-0035",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0035",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -324,13 +324,13 @@
             "title": "ಪರರ ಬಗ್ಗೆ ಕಳಕಳಿ",
             "feature": "",
             "page": "0036-0036",
+            "relativePageNumber": 37,
             "fullText": [
                 {
                     "page": "0036",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 37,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -342,13 +342,13 @@
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0037-0037",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0037",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

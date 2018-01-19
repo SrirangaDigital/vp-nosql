@@ -10,42 +10,43 @@
             "title": "ಪ್ರಾರ್ಥನೆ:ಶ್ರೀರಾಮಕೃಷ್ಣ ಸುಪ್ರಭಾತಮ್ - ೩ ಸೂಕ್ತಿಪ್ರಭ: ನಿವೇದಿತಾ ಸೂಕ್ತಿಗಳು",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ನಿವೇದಿತಾ ಕುರಿತು ಕವಿತೆಗಳು (`ಆಶೀರ್ವಾದ' ಮತ್ತು `ಮಂಡನ')‌",
             "feature": "",
             "page": "0006-0006",
+            "relativePageNumber": 5,
             "fullText": [
                 {
                     "page": "0006",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 5
+            ]
         },
         {
             "title": "ಅಧ್ಯಕ್ಷರ ಮಾತು",
             "feature": "",
             "page": "0007-0007",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 6
+            ]
         },
         {
             "title": "`ಲೋಕಮಾತೆ' ನಿವೇದಿತಾ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0009-0010",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0009",
@@ -55,13 +56,13 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 8
+            ]
         },
         {
             "title": "ನಿವೇದಿತಾ (ಸಂಕ್ಷಿತ ಜೀವನ ಚರಿತ್ರೆ)",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0011-0019",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -100,7 +101,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಸೋಮನಾಥಾನಂದ",
@@ -112,6 +112,7 @@
             "title": "`ಅವರು ಮಾಧುರ್ಯದ ಅಂತರಾತ್ಮವೇ ಆಗಿರುವರು' ಸೋದರಿ ನಿವೇದಿತಾ ಕಂಡಂತೆ ಶ್ರೀಮಾತೆಯವರು",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0020-0024",
+            "relativePageNumber": 19,
             "fullText": [
                 {
                     "page": "0020",
@@ -134,7 +135,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 19,
             "author": [
                 {
                     "name": "ನಿತ್ಯಸ್ಥಾನಂದ",
@@ -146,6 +146,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ‌ ಕಂಡ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0025-0029",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0025",
@@ -168,7 +169,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಧರ್ಮಪ್ರಾಣಾ",
@@ -180,6 +180,7 @@
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘ ಹಾಗೂ ಸೋದರಿ ನಿವೇದಿತಾ‌",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0030-0035",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
@@ -206,7 +207,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಕರುಣಾಕರಾನಂದ",
@@ -218,6 +218,7 @@
             "title": "ಹಿಂದೂಧರ್ಮ ಮತ್ತು ಸಂಸ್ಕೃತಿ ಕುರಿತು ನಿವೇದಿತಾ",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0036-0039",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0036",
@@ -236,7 +237,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 35,
             "author": [
                 {
                     "name": "ಕೆ. ಎಲ್. ಪ್ರಸನ್ನಾಕ್ಷೀ",
@@ -248,6 +248,7 @@
             "title": "ನಿವೇದಿತಾ‌ ಶಿಕ್ಷಣ ದೃಷ್ಟಿ  (ನಿವೇದಿತಾ‌ ಕಂಡಂತೆ ರಾಷ್ಟ್ರೀಯ ಶಿಕ್ಷಣ)",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0040-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0040",
@@ -262,7 +263,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 39,
             "author": [
                 {
                     "name": "ಹೆಚ್. ಪಾಂಡುರಂಗ ವಿಠಲ",
@@ -274,6 +274,7 @@
             "title": "ನಿವೇದಿತಾ ಕಂಡಂತೆ ಭಾರತೀಯ ಮಹಿಳೆ",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0043-0047",
+            "relativePageNumber": 42,
             "fullText": [
                 {
                     "page": "0043",
@@ -296,7 +297,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 42,
             "author": [
                 {
                     "name": "ವಿ. ಶ್ರೀಮತಿ",
@@ -308,6 +308,7 @@
             "title": "ನಿವೇದಿತಾ ಹಾಗೂ ಭಾರತೀಯ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0048-0054",
+            "relativePageNumber": 47,
             "fullText": [
                 {
                     "page": "0048",
@@ -338,7 +339,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 47,
             "author": [
                 {
                     "name": "ಸಿ. ಎಸ್. ಮಂಗಳಮ್ಮ",
@@ -350,6 +350,7 @@
             "title": "ನಿವೇದಿತಾ ಹಾಗೂ ಭಾರತದ ಮಹಾವ್ಯಕ್ತಿಗಳು",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0056-0066",
+            "relativePageNumber": 55,
             "fullText": [
                 {
                     "page": "0056",
@@ -396,7 +397,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 55,
             "author": [
                 {
                     "name": "ಕೆ. ಅನಂತರಾಮು",
@@ -408,6 +408,7 @@
             "title": "ನಿಷ್ಕಾಮಕರ್ಮಿ ಸೋದರಿ ನಿವೇದಿತಾ",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0067-0070",
+            "relativePageNumber": 66,
             "fullText": [
                 {
                     "page": "0067",
@@ -426,7 +427,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 66,
             "author": [
                 {
                     "name": "ಡಿ. ಕೆ. ರಾಜೇಂದ್ರ",
@@ -438,6 +438,7 @@
             "title": "ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯ ಪುನರುತ್ಥಾನಕ್ಕಾಗಿ ಹೋರಾಡಿದ ಪಾಶ್ಚಿಮಾತ್ಯ ಮಹಿಳೆ",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0071-0075",
+            "relativePageNumber": 70,
             "fullText": [
                 {
                     "page": "0071",
@@ -460,7 +461,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 70,
             "author": [
                 {
                     "name": "ಮುಕ್ತಿದಾನಂದ",
@@ -472,6 +472,7 @@
             "title": "`ನಿವೇದಿತಾ'‌",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0076-0080",
+            "relativePageNumber": 75,
             "fullText": [
                 {
                     "page": "0076",
@@ -494,7 +495,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 75,
             "author": [
                 {
                     "name": "ಡಿ. ರೈ. ಸೇವಂತಿ",
@@ -506,6 +506,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ ಮತ್ತು ಪಾಶ್ಚಾತ್ಯ ಮಹಿಳೆಯರು",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0081-0083",
+            "relativePageNumber": 80,
             "fullText": [
                 {
                     "page": "0081",
@@ -520,7 +521,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 80,
             "author": [
                 {
                     "name": "ಮಾತಾ‌ ತ್ಯಾಗಮಯೀ",
@@ -532,6 +532,7 @@
             "title": "ಭಾರತೀಯ ಆದರ್ಶಗಳನ್ನ್ನು ಸ್ವೀಕರಿಸುವಲ್ಲಿ ನಿವೇದಿತಾ ಹೋರಾಟಗಳು",
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0084-0089",
+            "relativePageNumber": 83,
             "fullText": [
                 {
                     "page": "0084",
@@ -558,7 +559,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 83,
             "author": [
                 {
                     "name": "ಡಾ. ಇ. ವಸಂತ ಕುಮಾರ್",
@@ -570,6 +570,7 @@
             "title": "ನಿವೇದಿತಾಳ  `ನಾ ಕಂಡಂತೆ ನನ್ನ ಗುರುದೇವ': ಒಂದು ಅವಲೋಕನ",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0090-0093",
+            "relativePageNumber": 89,
             "fullText": [
                 {
                     "page": "0090",
@@ -588,7 +589,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 89,
             "author": [
                 {
                     "name": "ಎಸ್. ಎಸ್. ರಮೇಶ್",
@@ -600,6 +600,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾರ ಪ್ರವಾಸ ಕೃತಿಗಳು",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0094-0100",
+            "relativePageNumber": 93,
             "fullText": [
                 {
                     "page": "0094",
@@ -630,7 +631,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 93,
             "author": [
                 {
                     "name": "ಕೆ. ಬಿ. ಪ್ರಭುಪ್ರಸಾದ್",
@@ -642,6 +642,7 @@
             "title": "ತೀಕ್ಷ್ಣಮತಿ ಸೂಕ್ಷ್ಮಮತಿ! (`Kali the Mother') ಕೃತಿಯನ್ನು ಕುರಿತು",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0101-0103",
+            "relativePageNumber": 100,
             "fullText": [
                 {
                     "page": "0101",
@@ -656,7 +657,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 100,
             "author": [
                 {
                     "name": "ಯುಕ್ತೇಶಾನಂದ",
@@ -668,6 +668,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾಳ  ``The Web of Indian Life'' ಒಂದು ಅವಲೋಕನ",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0105-0107",
+            "relativePageNumber": 104,
             "fullText": [
                 {
                     "page": "0105",
@@ -682,7 +683,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 104,
             "author": [
                 {
                     "name": "ಮಂಗಳನಾಥಾನಂದ",
@@ -694,6 +694,7 @@
             "title": "ನಿವೇದಿತಾ ಮತ್ತು ಭಾರತೀಯ ಕಲಾಪ್ರಪಂಚ",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0108-0116",
+            "relativePageNumber": 107,
             "fullText": [
                 {
                     "page": "0108",
@@ -732,7 +733,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 107,
             "author": [
                 {
                     "name": "ಶಶಿಕಲಾ‌ ಶ್ರೀಧರ್",
@@ -744,6 +744,7 @@
             "title": "ನಿವೇದಿತಾ ಕೃತಿ: `Cradle Tales of Hinduism'",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0117-0120",
+            "relativePageNumber": 116,
             "fullText": [
                 {
                     "page": "0117",
@@ -762,7 +763,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 116,
             "author": [
                 {
                     "name": "ಸ್ವರ್ಣಗೌರಿ",
@@ -774,6 +774,7 @@
             "title": "`ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಶಿಕ್ಷಣದ  ಬಗ್ಗೆ ಕೆಲವು ಸೂಚನೆಗಳು' ನಿವೇದಿತಾ‌ ಅವರ `Hints on National Education in India' ಗ್ರಂಥವನ್ನು ಕುರಿತು",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0121-0125",
+            "relativePageNumber": 120,
             "fullText": [
                 {
                     "page": "0121",
@@ -796,7 +797,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 120,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಯೋಗಾತ್ಮಪ್ರಾಣಾ",
@@ -808,6 +808,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾಳ ಸಮಗ್ರ ಕೃತಿಶ್ರೇಣಿ - ಒಂದು ಪಕ್ಷಿನೋಟ",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0126-0130",
+            "relativePageNumber": 125,
             "fullText": [
                 {
                     "page": "0126",
@@ -830,7 +831,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 125,
             "author": [
                 {
                     "name": "ಸರಗೂರು ರಮೇಶ್",
@@ -842,6 +842,7 @@
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ‌ ಮತ್ತು ಶ್ರೀಆನಂದ ಕುಮಾರಸ್ವಾಮಿ ಸಹಸಂಪಾದಿತ  `Myths and Legends of Hindus and Budhists\" ಒಂದು ಪರಿಚಾಯಾತ್ಮಕ ಪರಾಮರ್ಶೆ",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0131-0140",
+            "relativePageNumber": 130,
             "fullText": [
                 {
                     "page": "0131",
@@ -884,7 +885,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 130,
             "author": [
                 {
                     "name": "`ವಿನಾಭ' ಮೈಸೂರು",
@@ -896,6 +896,7 @@
             "title": "ನಿವೇದಿತಾ ರಚಿತ `ರಿಲಿಜನ್ ಮತ್ತು ಧರ್ಮ'",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0141-0144",
+            "relativePageNumber": 140,
             "fullText": [
                 {
                     "page": "0141",
@@ -914,7 +915,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 140,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -926,6 +926,7 @@
             "title": "ಶಿವ ಮತ್ತು ಬುದ್ಧ: ನಿವೇದಿತೆಯ ಕಥನಕೌಶಲ",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0145-0147",
+            "relativePageNumber": 144,
             "fullText": [
                 {
                     "page": "0145",
@@ -940,7 +941,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 144,
             "author": [
                 {
                     "name": "ಹೆಚ್. ಎನ್. ಮುರಳೀಧರ",
@@ -952,6 +952,7 @@
             "title": "ನಿವೇದಿತಾ ಕೃತಿ: Footfalls of Indian History",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0149-0150",
+            "relativePageNumber": 148,
             "fullText": [
                 {
                     "page": "0149",
@@ -962,7 +963,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 148,
             "author": [
                 {
                     "name": "ರಾಘವೇಶಾನಂದ",
@@ -974,6 +974,7 @@
             "title": "ಧೀರೋದಾತ್ತ ಹಿಂದೂಧರ್ಮ",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0151-0154",
+            "relativePageNumber": 150,
             "fullText": [
                 {
                     "page": "0151",
@@ -992,7 +993,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 150,
             "author": [
                 {
                     "name": "ಶಾಂತಿವ್ರತಾನಂದ",
@@ -1004,6 +1004,7 @@
             "title": "ಸ್ವಾಮೀಜಿ ಪತ್ರಗಳಲ್ಲಿ ನಿವೇದಿತಾ",
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0156-0159",
+            "relativePageNumber": 155,
             "fullText": [
                 {
                     "page": "0156",
@@ -1022,7 +1023,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 155,
             "author": [
                 {
                     "name": "ಸಿ. ಪಿ. ಕೃಷ್ಣಕುಮಾರ್",

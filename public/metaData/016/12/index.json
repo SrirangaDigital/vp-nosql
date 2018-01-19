@@ -10,18 +10,19 @@
             "title": "ಪ್ರಾರ್ಥನೆ: ಶ್ರೀಶಾರದಾದೇವ್ಯಷ್ಟಕದಿಂದ ಸೂಕ್ತಿಪ್ರಭ: ಶ್ರೀಮಾತೆಯವರ ಉಪದೇಶಾವಳಿ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
+            "relativePageNumber": 1,
             "fullText": [
                 {
                     "page": "0004",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 1
+            ]
         },
         {
             "title": "ಭಾವನಿರ್ಭರ ಭಕ್ತಿ",
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0007",
@@ -39,25 +40,25 @@
                     "page": "0010",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 4
+            ]
         },
         {
             "title": "ಏಕಾಂತವಾಸ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0011-0011",
+            "relativePageNumber": 8,
             "fullText": [
                 {
                     "page": "0011",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 8
+            ]
         },
         {
             "title": "`ಶ್ರೀಮಾತೆ'ಯವರು:ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ",
             "feature": "ಶ್ರೀಮಾತೆಯವರು",
             "page": "0012-0016",
+            "relativePageNumber": 9,
             "fullText": [
                 {
                     "page": "0012",
@@ -80,7 +81,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 9,
             "author": [
                 {
                     "name": "ಪೂರ್ಣಾತ್ಮಾನಂದ",
@@ -92,6 +92,7 @@
             "title": "ಅಮ್ಮನಿಗೊಂದು ಪತ್ರ",
             "feature": "ಶ್ರೀಮಾತೆಯವರು",
             "page": "0017-0018",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0017",
@@ -102,7 +103,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಸದಾಶಿವ ಹಿರೇಮಠ",
@@ -114,6 +114,7 @@
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಸ್ಮೃತಿಸಂಚಯ - ಭಾಗ ೧೪",
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0019-0023",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0019",
@@ -136,7 +137,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ನಿರಾಮಯಾನಂದ",
@@ -148,6 +148,7 @@
             "title": "ಮಾಯೆಯೊಳಗೆ ಮಹಾಮಾಯೆ",
             "feature": "ಶ್ರೀಮಾತೆಯವರು",
             "page": "0024-0026",
+            "relativePageNumber": 21,
             "fullText": [
                 {
                     "page": "0024",
@@ -162,7 +163,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 21,
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ ಧರ್ಮಪ್ರಾಣಾ",
@@ -174,6 +174,7 @@
             "title": "ಒರಟ ಸಂನ್ಯಾಸಿ ಹಾಗೂ ಶ್ರೀಮಾತೆ",
             "feature": "ಶ್ರೀಮಾತೆಯವರು",
             "page": "0027-0028",
+            "relativePageNumber": 24,
             "fullText": [
                 {
                     "page": "0027",
@@ -184,7 +185,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 24,
             "author": [
                 {
                     "name": "ಶಾಂತಾನಂದ ಪುರಿ",
@@ -196,6 +196,7 @@
             "title": "ಶ್ರೀಮಾತೆಯವರ ಕೃಪೆ - ಬಾಗ ೧",
             "feature": "ಶ್ರೀಮಾತೆಯವರು",
             "page": "0029-0034",
+            "relativePageNumber": 26,
             "fullText": [
                 {
                     "page": "0029",
@@ -222,7 +223,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 26,
             "author": [
                 {
                     "name": "ಅಪೂರ್ವಾನಂದ",
@@ -234,6 +234,7 @@
             "title": "ರಾಜಾ ಜನಕನ ಕಥೆ",
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು",
             "page": "0035-0037",
+            "relativePageNumber": 32,
             "fullText": [
                 {
                     "page": "0035",
@@ -248,7 +249,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 32,
             "author": [
                 {
                     "name": "ವೀರೇಶಾನಂದ",
@@ -260,6 +260,7 @@
             "title": "ಅಷ್ಟಾವಕ್ರ ಗೀತೆಯ ಉಗಮ",
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
+            "relativePageNumber": 35,
             "fullText": [
                 {
                     "page": "0038",
@@ -277,20 +278,19 @@
                     "page": "0041",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 35
+            ]
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
             "feature": "",
             "page": "0042-0042",
+            "relativePageNumber": 39,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
-            ],
-            "relativePageNumber": 39
+            ]
         }
     ]
 }

@@ -10,13 +10,13 @@
             "title": "ಪ್ರಾರ್ಥನೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
+            "relativePageNumber": 4,
             "fullText": [
                 {
                     "page": "0005",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 4,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -28,6 +28,7 @@
             "title": "ಹೃದಯ ದೌರ್ಬಲ್ಯವನ್ನು ಬಿಡು",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
+            "relativePageNumber": 6,
             "fullText": [
                 {
                     "page": "0007",
@@ -46,7 +47,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 6,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -58,6 +58,7 @@
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಮತ್ತು ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ಧರ್ಮಸಮನ್ವಯ -೧",
             "feature": "",
             "page": "0011-0014",
+            "relativePageNumber": 10,
             "fullText": [
                 {
                     "page": "0011",
@@ -76,7 +77,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 10,
             "author": [
                 {
                     "name": "ಭಜನಾನಂದ",
@@ -88,6 +88,7 @@
             "title": "ವಿದ್ಯೆ- ಮಾನವನಲ್ಲಿನ ಪರಿಪೂರ್ಣತೆಯ ಅಭಿವ್ಯಕ್ತಿ",
             "feature": "",
             "page": "0015-0016",
+            "relativePageNumber": 14,
             "fullText": [
                 {
                     "page": "0015",
@@ -98,7 +99,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 14,
             "author": [
                 {
                     "name": "ಆತ್ಮವಿದಾನಂದ",
@@ -110,6 +110,7 @@
             "title": "ವಿವೇಕಾನಂದರ ದೃಷ್ಟಿಯಲ್ಲಿ ಧರ್ಮ ಮತ್ತು ಶಿಕ್ಷಣ",
             "feature": "",
             "page": "0017-0020",
+            "relativePageNumber": 16,
             "fullText": [
                 {
                     "page": "0017",
@@ -128,7 +129,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 16,
             "author": [
                 {
                     "name": "ಹೃದಾನಂದ",
@@ -140,6 +140,7 @@
             "title": "ವಿವೇಕಾನಂದರು ಮತ್ತು ಯೋಗ ಸಮನ್ವಯ",
             "feature": "",
             "page": "0021-0022",
+            "relativePageNumber": 20,
             "fullText": [
                 {
                     "page": "0021",
@@ -150,7 +151,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 20,
             "author": [
                 {
                     "name": "ಅನುಪಮಾನಂದ",
@@ -162,6 +162,7 @@
             "title": "ಜಾಗತೀಕರಣವೆಂಬ ಜಂಝಾವಾತ -೨",
             "feature": "",
             "page": "0023-0025",
+            "relativePageNumber": 22,
             "fullText": [
                 {
                     "page": "0023",
@@ -176,7 +177,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 22,
             "author": [
                 {
                     "name": "ರಾಮಸ್ವಾಮಿ ಎಸ್. ಆರ್.",
@@ -188,6 +188,7 @@
             "title": "ಹರ್ಷಚಿತ್ತ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ",
             "feature": "",
             "page": "0026-0028",
+            "relativePageNumber": 25,
             "fullText": [
                 {
                     "page": "0026",
@@ -202,7 +203,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 25,
             "author": [
                 {
                     "name": "ಕೃಷ್ಣಸ್ವಾಮಿ ಪ್ರೊ. ಎನ್.",
@@ -214,13 +214,13 @@
             "title": "ಶ್ರೀಮಾತೆಯವರೊಡನೆ ಮಾತುಕತೆ",
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
             "page": "0029-0029",
+            "relativePageNumber": 28,
             "fullText": [
                 {
                     "page": "0029",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 28,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -232,6 +232,7 @@
             "title": "ಶಿಕ್ಷಣಪ್ರಭ",
             "feature": "",
             "page": "0030-0031",
+            "relativePageNumber": 29,
             "fullText": [
                 {
                     "page": "0030",
@@ -242,7 +243,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 29,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -254,6 +254,7 @@
             "title": "ಕಥಾಪ್ರಭ",
             "feature": "",
             "page": "0032-0033",
+            "relativePageNumber": 31,
             "fullText": [
                 {
                     "page": "0032",
@@ -264,7 +265,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 31,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -276,6 +276,7 @@
             "title": "ವಿಚಾರಪ್ರಭ",
             "feature": "",
             "page": "0034-0036",
+            "relativePageNumber": 33,
             "fullText": [
                 {
                     "page": "0034",
@@ -290,7 +291,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 33,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -302,6 +302,7 @@
             "title": "ವಿದ್ಯಾರ್ಥಿಪ್ರಭ",
             "feature": "",
             "page": "0037-0038",
+            "relativePageNumber": 36,
             "fullText": [
                 {
                     "page": "0037",
@@ -312,7 +313,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 36,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -324,6 +324,7 @@
             "title": "ಪಂಚತಂತ್ರ ಕಥೆ",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0040",
+            "relativePageNumber": 38,
             "fullText": [
                 {
                     "page": "0039",
@@ -334,7 +335,6 @@
                     "text": ""
                 }
             ],
-            "relativePageNumber": 38,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -346,13 +346,13 @@
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0041-0041",
+            "relativePageNumber": 40,
             "fullText": [
                 {
                     "page": "0041",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 40,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",
@@ -364,13 +364,13 @@
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0042-0042",
+            "relativePageNumber": 41,
             "fullText": [
                 {
                     "page": "0042",
                     "text": ""
                 }
             ],
-            "relativePageNumber": 41,
             "author": [
                 {
                     "name": "ಸಂಪಾದಕರು",

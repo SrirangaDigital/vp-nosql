@@ -9,41 +9,77 @@
         {
             "title": "ಕನ್ನಡ ತಾಯಿ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0004-0004",
-            "relativePageNumber": 1,
+            "relativePageNumber": 4,
             "fullText": [
-
+                {
+                    "page": "0004",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ನುಡಿಯೆಂಬ ಬೆಳಕು",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
             "page": "0007-0009",
-            "relativePageNumber": 1,
+            "relativePageNumber": 7,
             "fullText": [
-
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಬ್ರಹ್ಮ ಅನಿರ್ವಚನೀಯ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
-            "text": "",
             "page": "0010-0010",
-            "relativePageNumber": 1,
+            "relativePageNumber": 10,
             "fullText": [
-
+                {
+                    "page": "0010",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಆಧ್ಯಾತ್ಮಿಕ ಪಥದಲ್ಲಿ ವಿಜ್ಞಾನಿ-೧",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0011-0016",
-            "relativePageNumber": 1,
+            "relativePageNumber": 11,
             "fullText": [
-
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -55,11 +91,29 @@
         {
             "title": "ಕೈಲಾಸ ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ-೨",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0017-0021",
-            "relativePageNumber": 1,
+            "relativePageNumber": 17,
             "fullText": [
-
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -71,11 +125,25 @@
         {
             "title": "ಶ್ರೀಮಾತೆ ಭಾಗ-೧೧",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0022-0025",
-            "relativePageNumber": 1,
+            "relativePageNumber": 22,
             "fullText": [
-
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -87,11 +155,21 @@
         {
             "title": "ಸೋಲುಗಳೇ ಜೀವನದ ಸೊಬಗು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0026-0028",
-            "relativePageNumber": 1,
+            "relativePageNumber": 26,
             "fullText": [
-
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -103,11 +181,25 @@
         {
             "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೨",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0029-0032",
-            "relativePageNumber": 1,
+            "relativePageNumber": 29,
             "fullText": [
-
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -119,41 +211,73 @@
         {
             "title": "ಡಾ.ಸಿ.ಪಿ.ಕೆ.ಯವರ ಮೂರು ಕೃತಿಗಳು",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0033-0034",
-            "relativePageNumber": 1,
+            "relativePageNumber": 33,
             "fullText": [
-
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಕಾಶ್ಮೀರದ ಶೈವಭಕ್ತೆ ಲಲ್ಲೇಶ್ವರಿ",
             "feature": "ಸಂತರ ಜೀವನ",
-            "text": "",
             "page": "0035-0037",
-            "relativePageNumber": 1,
+            "relativePageNumber": 35,
             "fullText": [
-
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಗಣೇಶ ಮತ್ತು ಆತ್ಮಲಿಂಗ",
             "feature": "ಚಿತ್ರಕಥೆ",
-            "text": "",
             "page": "0038-0041",
-            "relativePageNumber": 1,
+            "relativePageNumber": 38,
             "fullText": [
-
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
-            "text": "",
             "page": "0042-0042",
-            "relativePageNumber": 1,
+            "relativePageNumber": 42,
             "fullText": [
-
+                {
+                    "page": "0042",
+                    "text": ""
+                }
             ]
         }
     ]

@@ -80,7 +80,7 @@ class dataModel extends Model {
 
 	public function xml2Json() {
 
-		$xml = simplexml_load_file(BASE_URL . 'vp.xml');
+		$xml = simplexml_load_file(PHY_METADATA_URL . 'vp.xml');
 
 		foreach ($xml->volume as $volume) {
 			

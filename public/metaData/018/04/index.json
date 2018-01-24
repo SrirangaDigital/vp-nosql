@@ -9,41 +9,73 @@
         {
             "title": "ಉಪನಿಷನ್ಮಾತೆ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0004-0004",
-            "relativePageNumber": 1,
+            "relativePageNumber": 4,
             "fullText": [
-
+                {
+                    "page": "0004",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ನಾದಾಂತರಂಗ",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
             "page": "0007-0009",
-            "relativePageNumber": 1,
+            "relativePageNumber": 7,
             "fullText": [
-
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ದಾಸ್ಯಭಕ್ತಿ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
-            "text": "",
             "page": "0010-0010",
-            "relativePageNumber": 1,
+            "relativePageNumber": 10,
             "fullText": [
-
+                {
+                    "page": "0010",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಮನಃಶಾಂತಿ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0011-0015",
-            "relativePageNumber": 1,
+            "relativePageNumber": 11,
             "fullText": [
-
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -55,11 +87,29 @@
         {
             "title": "ಚೈತನ್ಯ ದೇವನ ಭಕ್ತಿಮಾರ್ಗ-೨",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0016-0020",
-            "relativePageNumber": 1,
+            "relativePageNumber": 16,
             "fullText": [
-
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -71,11 +121,25 @@
         {
             "title": "ಶ್ರೀಮಾತೆ ಭಾಗ-೪",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0021-0024",
-            "relativePageNumber": 1,
+            "relativePageNumber": 21,
             "fullText": [
-
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -87,11 +151,21 @@
         {
             "title": "ನಿವೇದಿತಾ ದೃಷ್ಟಿಯಲ್ಲಿ ಶ್ರೀಮಾತೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0025-0027",
-            "relativePageNumber": 1,
+            "relativePageNumber": 25,
             "fullText": [
-
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -103,11 +177,25 @@
         {
             "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೫",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0028-0031",
-            "relativePageNumber": 1,
+            "relativePageNumber": 28,
             "fullText": [
-
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -119,21 +207,41 @@
         {
             "title": "ಸೌಂದರ್ಯಾಮೃತಮ್",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0032-0032",
-            "relativePageNumber": 1,
+            "relativePageNumber": 32,
             "fullText": [
-
+                {
+                    "page": "0032",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಭಕ್ತಿ ಸೌಂದರ್ಯದ ಸುರೂಪಿ ಸುಂದರಮೂರ್ತಿ ನಾಯನಾರ್",
             "feature": "ಸಂತರ ಜೀವನ",
-            "text": "",
             "page": "0033-0037",
-            "relativePageNumber": 1,
+            "relativePageNumber": 33,
             "fullText": [
-
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -145,21 +253,37 @@
         {
             "title": "ಸೋದರಿ ನಿವೇದಿತಾ ಭಾ‌ಗ-೭",
             "feature": "ಚಿತ್ರಕಥೆ",
-            "text": "",
             "page": "0038-0041",
-            "relativePageNumber": 1,
+            "relativePageNumber": 38,
             "fullText": [
-
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
-            "text": "",
             "page": "0042-0042",
-            "relativePageNumber": 1,
+            "relativePageNumber": 42,
             "fullText": [
-
+                {
+                    "page": "0042",
+                    "text": ""
+                }
             ]
         }
     ]

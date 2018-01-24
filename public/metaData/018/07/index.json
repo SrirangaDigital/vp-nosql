@@ -9,41 +9,69 @@
         {
             "title": "ಮನೀಷಾ ಪಂಚಕಮ್-೧",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0006-0006",
-            "relativePageNumber": 1,
+            "relativePageNumber": 6,
             "fullText": [
-
+                {
+                    "page": "0006",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಬೆಳಕ ಬೀರುವ ಹಾದಿ-೨",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
             "page": "0009-0011",
-            "relativePageNumber": 1,
+            "relativePageNumber": 9,
             "fullText": [
-
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಸಾಧು ಜೀವನ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
-            "text": "",
             "page": "0012-0012",
-            "relativePageNumber": 1,
+            "relativePageNumber": 12,
             "fullText": [
-
+                {
+                    "page": "0012",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಅಘೋರಮಣಿ ದೇವಿ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0013-0016",
-            "relativePageNumber": 1,
+            "relativePageNumber": 13,
             "fullText": [
-
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -55,11 +83,25 @@
         {
             "title": "ಶ್ರೀಮಾತೆ ಭಾಗ-೭",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0017-0020",
-            "relativePageNumber": 1,
+            "relativePageNumber": 17,
             "fullText": [
-
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -71,11 +113,29 @@
         {
             "title": "ನಿವೇದಿತಾ‌ ಕಲಿಸುವಂತೆ `ರಾಷ್ಟ್ರೀಯ ಶಿಕ್ಷಣ'",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0021-0025",
-            "relativePageNumber": 1,
+            "relativePageNumber": 21,
             "fullText": [
-
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -87,11 +147,17 @@
         {
             "title": "ಯಶೋದಾ ಮಯಿ `ವೈಷ್ಣವ ಮೇರಿ'",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0026-0027",
-            "relativePageNumber": 1,
+            "relativePageNumber": 26,
             "fullText": [
-
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -103,21 +169,41 @@
         {
             "title": "ಶ್ರೀಮಾತೆಯವರ ಪತ್ರಗಳು-೪",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0028-0029",
-            "relativePageNumber": 1,
+            "relativePageNumber": 28,
             "fullText": [
-
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೮",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0030-0033",
-            "relativePageNumber": 1,
+            "relativePageNumber": 30,
             "fullText": [
-
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                },
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -129,21 +215,33 @@
         {
             "title": "ಸುಮಧುರ ಶೈಲಿಯ ರಾಮಾಯಣ ಕೃತಿ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0034-0034",
-            "relativePageNumber": 1,
+            "relativePageNumber": 34,
             "fullText": [
-
+                {
+                    "page": "0034",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಕೃಷ್ಣ ಸಖ ಸಂತ ನರಸೀ ಮೆಹ್ತಾ",
             "feature": "ಸಂತರ ಜೀವನ",
-            "text": "",
             "page": "0035-0037",
-            "relativePageNumber": 1,
+            "relativePageNumber": 35,
             "fullText": [
-
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -155,21 +253,45 @@
         {
             "title": "ತ್ರ್ಯಂಬಕೇಶ್ವರದ ಜ್ಯೋತಿರ್ಲಿಂಗ",
             "feature": "ಚಿತ್ರಕಥೆ",
-            "text": "",
             "page": "0038-0041",
-            "relativePageNumber": 1,
+            "relativePageNumber": 38,
             "fullText": [
-
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
-            "text": "",
             "page": "0042-0044",
-            "relativePageNumber": 1,
+            "relativePageNumber": 42,
             "fullText": [
-
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                },
+                {
+                    "page": "0044",
+                    "text": ""
+                }
             ]
         }
     ]

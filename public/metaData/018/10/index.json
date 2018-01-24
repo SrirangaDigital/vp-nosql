@@ -9,41 +9,77 @@
         {
             "title": "ಭ್ರಮರಾಂಬಾಷ್ಟಕದಿಂದ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0004-0004",
-            "relativePageNumber": 1,
+            "relativePageNumber": 4,
             "fullText": [
-
+                {
+                    "page": "0004",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಬೆಳಕ ಬೀರುವ ಹಾದಿ-೫",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
             "page": "0007-0009",
-            "relativePageNumber": 1,
+            "relativePageNumber": 7,
             "fullText": [
-
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ರಾಮಾವತಾರ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
-            "text": "",
             "page": "0010-0010",
-            "relativePageNumber": 1,
+            "relativePageNumber": 10,
             "fullText": [
-
+                {
+                    "page": "0010",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಕೈಲಾಸ ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0011-0016",
-            "relativePageNumber": 1,
+            "relativePageNumber": 11,
             "fullText": [
-
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -55,11 +91,25 @@
         {
             "title": "ಶ್ರೀಮಾತೆ ಭಾಗ-೧೦",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0017-0020",
-            "relativePageNumber": 1,
+            "relativePageNumber": 17,
             "fullText": [
-
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -71,11 +121,17 @@
         {
             "title": "ಕೂರೇಶರ ಗುರುಭಕ್ತಿ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0021-0022",
-            "relativePageNumber": 1,
+            "relativePageNumber": 21,
             "fullText": [
-
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -87,11 +143,13 @@
         {
             "title": "ಜಾನಕಿ ಷಾ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0023-0023",
-            "relativePageNumber": 1,
+            "relativePageNumber": 23,
             "fullText": [
-
+                {
+                    "page": "0023",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -103,11 +161,17 @@
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣಸಂಘಸ್ತೋತ್ರಮ್",
             "feature": "ಸ್ತೋತ್ರ ರಚನೆ",
-            "text": "",
             "page": "0024-0025",
-            "relativePageNumber": 1,
+            "relativePageNumber": 24,
             "fullText": [
-
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -119,11 +183,25 @@
         {
             "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೧",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0026-0029",
-            "relativePageNumber": 1,
+            "relativePageNumber": 26,
             "fullText": [
-
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -135,11 +213,17 @@
         {
             "title": "ಶ್ರೀ ಮಾತೆಯವರ ಪತ್ರಗಳು-೬",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0030-0031",
-            "relativePageNumber": 1,
+            "relativePageNumber": 30,
             "fullText": [
-
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -151,41 +235,77 @@
         {
             "title": "ದಿವ್ಯ ಸ್ಪರ್ಶದಿಂದ ಬೆಳಗಿದ ಬದುಕು",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0032-0032",
-            "relativePageNumber": 1,
+            "relativePageNumber": 32,
             "fullText": [
-
+                {
+                    "page": "0032",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ತ್ಯಾಗಿ ವೀರ ಸಂತ ತೇಗ್ ಬಹದ್ದೂರ್",
             "feature": "ಸಂತರ ಜೀವನ",
-            "text": "",
             "page": "0033-0037",
-            "relativePageNumber": 1,
+            "relativePageNumber": 33,
             "fullText": [
-
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಕಲಿಕಾಮ ನಾಯನಾರ್",
             "feature": "ಚಿತ್ರಕಥೆ",
-            "text": "",
             "page": "0038-0041",
-            "relativePageNumber": 1,
+            "relativePageNumber": 38,
             "fullText": [
-
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
-            "text": "",
             "page": "0042-0042",
-            "relativePageNumber": 1,
+            "relativePageNumber": 42,
             "fullText": [
-
+                {
+                    "page": "0042",
+                    "text": ""
+                }
             ]
         }
     ]

@@ -9,41 +9,65 @@
         {
             "title": "ಶ್ರೀದುರ್ಗಾಚಂದ್ರ ಕಲಾ ಸ್ತುತಿಯಿಂದ",
             "feature": "ಪ್ರಾರ್ಥನೆ",
-            "text": "",
             "page": "0006-0006",
-            "relativePageNumber": 1,
+            "relativePageNumber": 6,
             "fullText": [
-
+                {
+                    "page": "0006",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಬೆಳಕ ಬೀರುವ ಹಾದಿ-೪",
             "feature": "ಸಂಪಾದಕೀಯ",
-            "text": "",
             "page": "0009-0011",
-            "relativePageNumber": 1,
+            "relativePageNumber": 9,
             "fullText": [
-
+                {
+                    "page": "0009",
+                    "text": ""
+                },
+                {
+                    "page": "0010",
+                    "text": ""
+                },
+                {
+                    "page": "0011",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಪ್ರಕೃತಿ",
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
-            "text": "",
             "page": "0012-0012",
-            "relativePageNumber": 1,
+            "relativePageNumber": 12,
             "fullText": [
-
+                {
+                    "page": "0012",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಸಮಾಜದ ಬೆಳವಣಿಗೆಗೆ ಸಾಮೂಹಿಕ ಭಾವನೆಯ ಅಗತ್ಯ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0013-0015",
-            "relativePageNumber": 1,
+            "relativePageNumber": 13,
             "fullText": [
-
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                },
+                {
+                    "page": "0015",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -55,11 +79,25 @@
         {
             "title": "ಶ್ರೀಮಾತೆ ಮತ್ತು ಶ್ರೀರಾಮಕೃಷ್ಣರ ಸಂನ್ಯಾಸಿ ಶಿಷ್ಯರು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0016-0019",
-            "relativePageNumber": 1,
+            "relativePageNumber": 16,
             "fullText": [
-
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -71,11 +109,25 @@
         {
             "title": "ಶ್ರೀಮಾತೆ ಭಾಗ-೯",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0020-0023",
-            "relativePageNumber": 1,
+            "relativePageNumber": 20,
             "fullText": [
-
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -87,11 +139,25 @@
         {
             "title": "ಜಾನಪದ ತ್ರಿಪದಿಗಳಲ್ಲಿ ಬಸವಣ್ಣ ವಿಚಾರಗಳು",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0024-0027",
-            "relativePageNumber": 1,
+            "relativePageNumber": 24,
             "fullText": [
-
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -103,11 +169,25 @@
         {
             "title": "ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೦",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0028-0031",
-            "relativePageNumber": 1,
+            "relativePageNumber": 28,
             "fullText": [
-
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -119,11 +199,17 @@
         {
             "title": "ಶ್ರೀ ಮಾತೆಯವರ ಪತ್ರಗಳು-೫",
             "feature": "ಧಾರಾವಾಹಿ",
-            "text": "",
             "page": "0032-0033",
-            "relativePageNumber": 1,
+            "relativePageNumber": 32,
             "fullText": [
-
+                {
+                    "page": "0032",
+                    "text": ""
+                },
+                {
+                    "page": "0033",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -135,21 +221,25 @@
         {
             "title": "ರಸರಾಮಾಯಣ ಮತ್ತು ಲೋಕ ಶಂಕರ",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
-            "text": "",
             "page": "0034-0034",
-            "relativePageNumber": 1,
+            "relativePageNumber": 34,
             "fullText": [
-
+                {
+                    "page": "0034",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಅರಣ್ಯಮಾಲಿ ರೈನಾ",
             "feature": "ವಿಶೇಷ ಲೇಖನ",
-            "text": "",
             "page": "0035-0035",
-            "relativePageNumber": 1,
+            "relativePageNumber": 35,
             "fullText": [
-
+                {
+                    "page": "0035",
+                    "text": ""
+                }
             ],
             "author": [
                 {
@@ -161,31 +251,61 @@
         {
             "title": "ಅನುಭಾವಿ ರವಿದಾಸರು",
             "feature": "ಸಂತರ ಜೀವನ",
-            "text": "",
             "page": "0036-0039",
-            "relativePageNumber": 1,
+            "relativePageNumber": 36,
             "fullText": [
-
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                },
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಶಿವಶರಣ ದೇವರ ದಾಸಿಮಯ್ಯ",
             "feature": "ಚಿತ್ರಕಥೆ",
-            "text": "",
             "page": "0040-0043",
-            "relativePageNumber": 1,
+            "relativePageNumber": 40,
             "fullText": [
-
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                },
+                {
+                    "page": "0042",
+                    "text": ""
+                },
+                {
+                    "page": "0043",
+                    "text": ""
+                }
             ]
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
             "feature": "",
-            "text": "",
             "page": "0044-0044",
-            "relativePageNumber": 1,
+            "relativePageNumber": 44,
             "fullText": [
-
+                {
+                    "page": "0044",
+                    "text": ""
+                }
             ]
         }
     ]

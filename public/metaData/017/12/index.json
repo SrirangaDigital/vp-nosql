@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
             "relativePageNumber": 4,
+            "relativePageRange": "4-4",
             "fullText": [
                 {
                     "page": "0004",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "relativePageNumber": 7,
+            "relativePageRange": "7-9",
             "fullText": [
                 {
                     "page": "0007",
@@ -43,6 +45,7 @@
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
             "relativePageNumber": 10,
+            "relativePageRange": "10-10",
             "fullText": [
                 {
                     "page": "0010",
@@ -55,6 +58,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0011-0014",
             "relativePageNumber": 11,
+            "relativePageRange": "11-14",
             "fullText": [
                 {
                     "page": "0011",
@@ -85,6 +89,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0015-0020",
             "relativePageNumber": 15,
+            "relativePageRange": "15-20",
             "fullText": [
                 {
                     "page": "0015",
@@ -123,6 +128,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0021-0024",
             "relativePageNumber": 21,
+            "relativePageRange": "21-24",
             "fullText": [
                 {
                     "page": "0021",
@@ -153,6 +159,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0025-0026",
             "relativePageNumber": 25,
+            "relativePageRange": "25-26",
             "fullText": [
                 {
                     "page": "0025",
@@ -175,6 +182,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0027-0032",
             "relativePageNumber": 27,
+            "relativePageRange": "27-32",
             "fullText": [
                 {
                     "page": "0027",
@@ -213,6 +221,7 @@
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0033-0037",
             "relativePageNumber": 33,
+            "relativePageRange": "33-37",
             "fullText": [
                 {
                     "page": "0033",
@@ -247,6 +256,7 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
             "relativePageNumber": 38,
+            "relativePageRange": "38-41",
             "fullText": [
                 {
                     "page": "0038",
@@ -271,6 +281,7 @@
             "feature": "",
             "page": "0042-0042",
             "relativePageNumber": 42,
+            "relativePageRange": "42-42",
             "fullText": [
                 {
                     "page": "0042",

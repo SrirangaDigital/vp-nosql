@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
             "relativePageNumber": 3,
+            "relativePageRange": "3-3",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "relativePageNumber": 5,
+            "relativePageRange": "5-7",
             "fullText": [
                 {
                     "page": "0007",
@@ -43,6 +45,7 @@
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
             "relativePageNumber": 8,
+            "relativePageRange": "8-8",
             "fullText": [
                 {
                     "page": "0010",
@@ -55,6 +58,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0013",
             "relativePageNumber": 9,
+            "relativePageRange": "9-11",
             "fullText": [
                 {
                     "page": "0011",
@@ -75,6 +79,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0014-0019",
             "relativePageNumber": 12,
+            "relativePageRange": "12-17",
             "fullText": [
                 {
                     "page": "0014",
@@ -113,6 +118,7 @@
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0020-0023",
             "relativePageNumber": 18,
+            "relativePageRange": "18-21",
             "fullText": [
                 {
                     "page": "0020",
@@ -143,6 +149,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0024-0028",
             "relativePageNumber": 22,
+            "relativePageRange": "22-26",
             "fullText": [
                 {
                     "page": "0024",
@@ -177,6 +184,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0029-0032",
             "relativePageNumber": 27,
+            "relativePageRange": "27-30",
             "fullText": [
                 {
                     "page": "0029",
@@ -207,6 +215,7 @@
             "feature": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಆದರ್ಶಗಳು",
             "page": "0033-0033",
             "relativePageNumber": 31,
+            "relativePageRange": "31-31",
             "fullText": [
                 {
                     "page": "0033",
@@ -225,6 +234,7 @@
             "feature": "ಭಗವದ್ಗೀತೆ",
             "page": "0034-0037",
             "relativePageNumber": 32,
+            "relativePageRange": "32-35",
             "fullText": [
                 {
                     "page": "0034",
@@ -255,6 +265,7 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
             "relativePageNumber": 36,
+            "relativePageRange": "36-39",
             "fullText": [
                 {
                     "page": "0038",
@@ -279,6 +290,7 @@
             "feature": "",
             "page": "0042-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-40",
             "fullText": [
                 {
                     "page": "0042",

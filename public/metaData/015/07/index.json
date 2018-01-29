@@ -11,6 +11,7 @@
             "feature": "",
             "page": "0005-0005",
             "relativePageNumber": 3,
+            "relativePageRange": "3-3",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "relativePageNumber": 5,
+            "relativePageRange": "5-7",
             "fullText": [
                 {
                     "page": "0007",
@@ -43,6 +45,7 @@
             "feature": "ಗುರುತತ್ತ್ವ - ಪರಂಪರೆ",
             "page": "0010-0012",
             "relativePageNumber": 8,
+            "relativePageRange": "8-10",
             "fullText": [
                 {
                     "page": "0010",
@@ -69,6 +72,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0013-0017",
             "relativePageNumber": 11,
+            "relativePageRange": "11-15",
             "fullText": [
                 {
                     "page": "0013",
@@ -103,6 +107,7 @@
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0018-0021",
             "relativePageNumber": 16,
+            "relativePageRange": "16-19",
             "fullText": [
                 {
                     "page": "0018",
@@ -133,6 +138,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0022-0024",
             "relativePageNumber": 20,
+            "relativePageRange": "20-22",
             "fullText": [
                 {
                     "page": "0022",
@@ -159,6 +165,7 @@
             "feature": "ಪುಸ್ತಕ ಸಂಗ್ರಹ",
             "page": "0025-0028",
             "relativePageNumber": 23,
+            "relativePageRange": "23-26",
             "fullText": [
                 {
                     "page": "0025",
@@ -189,6 +196,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0029-0032",
             "relativePageNumber": 27,
+            "relativePageRange": "27-30",
             "fullText": [
                 {
                     "page": "0029",
@@ -219,6 +227,7 @@
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0033-0033",
             "relativePageNumber": 31,
+            "relativePageRange": "31-31",
             "fullText": [
                 {
                     "page": "0033",
@@ -231,6 +240,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0034-0035",
             "relativePageNumber": 32,
+            "relativePageRange": "32-33",
             "fullText": [
                 {
                     "page": "0034",
@@ -253,6 +263,7 @@
             "feature": "ಗುರುತತ್ತ್ವ - ಪರಂಪರೆ",
             "page": "0036-0037",
             "relativePageNumber": 34,
+            "relativePageRange": "34-35",
             "fullText": [
                 {
                     "page": "0036",
@@ -275,6 +286,7 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
             "relativePageNumber": 36,
+            "relativePageRange": "36-39",
             "fullText": [
                 {
                     "page": "0038",
@@ -299,6 +311,7 @@
             "feature": "",
             "page": "0042-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-40",
             "fullText": [
                 {
                     "page": "0042",

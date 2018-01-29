@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
             "relativePageNumber": 3,
+            "relativePageRange": "3-3",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "relativePageNumber": 5,
+            "relativePageRange": "5-7",
             "fullText": [
                 {
                     "page": "0007",
@@ -43,6 +45,7 @@
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
             "relativePageNumber": 8,
+            "relativePageRange": "8-8",
             "fullText": [
                 {
                     "page": "0010",
@@ -55,6 +58,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0016",
             "relativePageNumber": 9,
+            "relativePageRange": "9-14",
             "fullText": [
                 {
                     "page": "0011",
@@ -93,6 +97,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0017-0020",
             "relativePageNumber": 15,
+            "relativePageRange": "15-18",
             "fullText": [
                 {
                     "page": "0017",
@@ -123,6 +128,7 @@
             "feature": "ಮಾನಸ ಸರೋವರ ಯಾತ್ರೆ",
             "page": "0021-0024",
             "relativePageNumber": 19,
+            "relativePageRange": "19-22",
             "fullText": [
                 {
                     "page": "0021",
@@ -153,6 +159,7 @@
             "feature": "",
             "page": "0025-0025",
             "relativePageNumber": 23,
+            "relativePageRange": "23-23",
             "fullText": [
                 {
                     "page": "0025",
@@ -165,6 +172,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0026-0029",
             "relativePageNumber": 24,
+            "relativePageRange": "24-27",
             "fullText": [
                 {
                     "page": "0026",
@@ -195,6 +203,7 @@
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0030-0032",
             "relativePageNumber": 28,
+            "relativePageRange": "28-30",
             "fullText": [
                 {
                     "page": "0030",
@@ -215,6 +224,7 @@
             "feature": "ಜಪಾನಿನ ನೀತಿಕಥೆಗಳು",
             "page": "0033-0033",
             "relativePageNumber": 31,
+            "relativePageRange": "31-31",
             "fullText": [
                 {
                     "page": "0033",
@@ -233,6 +243,7 @@
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು:ಕಥಾಗುಚ್ಛ ೪",
             "page": "0034-0036",
             "relativePageNumber": 32,
+            "relativePageRange": "32-34",
             "fullText": [
                 {
                     "page": "0034",
@@ -259,6 +270,7 @@
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0037-0037",
             "relativePageNumber": 35,
+            "relativePageRange": "35-35",
             "fullText": [
                 {
                     "page": "0037",
@@ -271,6 +283,7 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
             "relativePageNumber": 36,
+            "relativePageRange": "36-39",
             "fullText": [
                 {
                     "page": "0038",
@@ -295,6 +308,7 @@
             "feature": "",
             "page": "0042-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-40",
             "fullText": [
                 {
                     "page": "0042",

@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
             "relativePageNumber": 5,
+            "relativePageRange": "5-5",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "",
             "page": "0006-0006",
             "relativePageNumber": 6,
+            "relativePageRange": "6-6",
             "fullText": [
                 {
                     "page": "0006",
@@ -35,6 +37,7 @@
             "feature": "",
             "page": "0007-0007",
             "relativePageNumber": 7,
+            "relativePageRange": "7-7",
             "fullText": [
                 {
                     "page": "0007",
@@ -47,6 +50,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0009-0010",
             "relativePageNumber": 9,
+            "relativePageRange": "9-10",
             "fullText": [
                 {
                     "page": "0009",
@@ -63,6 +67,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0011-0019",
             "relativePageNumber": 11,
+            "relativePageRange": "11-19",
             "fullText": [
                 {
                     "page": "0011",
@@ -113,6 +118,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0020-0024",
             "relativePageNumber": 20,
+            "relativePageRange": "20-24",
             "fullText": [
                 {
                     "page": "0020",
@@ -147,6 +153,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0025-0029",
             "relativePageNumber": 25,
+            "relativePageRange": "25-29",
             "fullText": [
                 {
                     "page": "0025",
@@ -181,6 +188,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0030-0035",
             "relativePageNumber": 30,
+            "relativePageRange": "30-35",
             "fullText": [
                 {
                     "page": "0030",
@@ -219,6 +227,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0036-0039",
             "relativePageNumber": 36,
+            "relativePageRange": "36-39",
             "fullText": [
                 {
                     "page": "0036",
@@ -249,6 +258,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0040-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-42",
             "fullText": [
                 {
                     "page": "0040",
@@ -275,6 +285,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0043-0047",
             "relativePageNumber": 43,
+            "relativePageRange": "43-47",
             "fullText": [
                 {
                     "page": "0043",
@@ -309,6 +320,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0048-0054",
             "relativePageNumber": 48,
+            "relativePageRange": "48-54",
             "fullText": [
                 {
                     "page": "0048",
@@ -351,6 +363,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0056-0066",
             "relativePageNumber": 56,
+            "relativePageRange": "56-66",
             "fullText": [
                 {
                     "page": "0056",
@@ -409,6 +422,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0067-0070",
             "relativePageNumber": 67,
+            "relativePageRange": "67-70",
             "fullText": [
                 {
                     "page": "0067",
@@ -439,6 +453,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0071-0075",
             "relativePageNumber": 71,
+            "relativePageRange": "71-75",
             "fullText": [
                 {
                     "page": "0071",
@@ -473,6 +488,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0076-0080",
             "relativePageNumber": 76,
+            "relativePageRange": "76-80",
             "fullText": [
                 {
                     "page": "0076",
@@ -507,6 +523,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0081-0083",
             "relativePageNumber": 81,
+            "relativePageRange": "81-83",
             "fullText": [
                 {
                     "page": "0081",
@@ -533,6 +550,7 @@
             "feature": "ಜೀವನ ಮತ್ತು ಸಾಧನೆ",
             "page": "0084-0089",
             "relativePageNumber": 84,
+            "relativePageRange": "84-89",
             "fullText": [
                 {
                     "page": "0084",
@@ -571,6 +589,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0090-0093",
             "relativePageNumber": 90,
+            "relativePageRange": "90-93",
             "fullText": [
                 {
                     "page": "0090",
@@ -601,6 +620,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0094-0100",
             "relativePageNumber": 94,
+            "relativePageRange": "94-100",
             "fullText": [
                 {
                     "page": "0094",
@@ -643,6 +663,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0101-0103",
             "relativePageNumber": 101,
+            "relativePageRange": "101-103",
             "fullText": [
                 {
                     "page": "0101",
@@ -669,6 +690,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0105-0107",
             "relativePageNumber": 105,
+            "relativePageRange": "105-107",
             "fullText": [
                 {
                     "page": "0105",
@@ -695,6 +717,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0108-0116",
             "relativePageNumber": 108,
+            "relativePageRange": "108-116",
             "fullText": [
                 {
                     "page": "0108",
@@ -745,6 +768,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0117-0120",
             "relativePageNumber": 117,
+            "relativePageRange": "117-120",
             "fullText": [
                 {
                     "page": "0117",
@@ -775,6 +799,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0121-0125",
             "relativePageNumber": 121,
+            "relativePageRange": "121-125",
             "fullText": [
                 {
                     "page": "0121",
@@ -809,6 +834,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0126-0130",
             "relativePageNumber": 126,
+            "relativePageRange": "126-130",
             "fullText": [
                 {
                     "page": "0126",
@@ -843,6 +869,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0131-0140",
             "relativePageNumber": 131,
+            "relativePageRange": "131-140",
             "fullText": [
                 {
                     "page": "0131",
@@ -897,6 +924,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0141-0144",
             "relativePageNumber": 141,
+            "relativePageRange": "141-144",
             "fullText": [
                 {
                     "page": "0141",
@@ -927,6 +955,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0145-0147",
             "relativePageNumber": 145,
+            "relativePageRange": "145-147",
             "fullText": [
                 {
                     "page": "0145",
@@ -953,6 +982,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0149-0150",
             "relativePageNumber": 149,
+            "relativePageRange": "149-150",
             "fullText": [
                 {
                     "page": "0149",
@@ -975,6 +1005,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0151-0154",
             "relativePageNumber": 151,
+            "relativePageRange": "151-154",
             "fullText": [
                 {
                     "page": "0151",
@@ -1005,6 +1036,7 @@
             "feature": "ನಿವೇದಿತಾ‌ ಕೃತಿಗಳು",
             "page": "0156-0159",
             "relativePageNumber": 156,
+            "relativePageRange": "156-159",
             "fullText": [
                 {
                     "page": "0156",

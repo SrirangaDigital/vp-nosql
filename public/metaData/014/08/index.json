@@ -11,6 +11,7 @@
             "feature": "",
             "page": "0005-0005",
             "relativePageNumber": 3,
+            "relativePageRange": "3-3",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "relativePageNumber": 5,
+            "relativePageRange": "5-7",
             "fullText": [
                 {
                     "page": "0007",
@@ -43,6 +45,7 @@
             "feature": "",
             "page": "0010-0010",
             "relativePageNumber": 8,
+            "relativePageRange": "8-8",
             "fullText": [
                 {
                     "page": "0010",
@@ -61,6 +64,7 @@
             "feature": "",
             "page": "0011-0012",
             "relativePageNumber": 9,
+            "relativePageRange": "9-10",
             "fullText": [
                 {
                     "page": "0011",
@@ -83,6 +87,7 @@
             "feature": "",
             "page": "0013-0013",
             "relativePageNumber": 11,
+            "relativePageRange": "11-11",
             "fullText": [
                 {
                     "page": "0013",
@@ -95,6 +100,7 @@
             "feature": "",
             "page": "0014-0017",
             "relativePageNumber": 12,
+            "relativePageRange": "12-15",
             "fullText": [
                 {
                     "page": "0014",
@@ -125,6 +131,7 @@
             "feature": "",
             "page": "0018-0019",
             "relativePageNumber": 16,
+            "relativePageRange": "16-17",
             "fullText": [
                 {
                     "page": "0018",
@@ -147,6 +154,7 @@
             "feature": "",
             "page": "0020-0020",
             "relativePageNumber": 18,
+            "relativePageRange": "18-18",
             "fullText": [
                 {
                     "page": "0020",
@@ -165,6 +173,7 @@
             "feature": "",
             "page": "0021-0024",
             "relativePageNumber": 19,
+            "relativePageRange": "19-22",
             "fullText": [
                 {
                     "page": "0021",
@@ -195,6 +204,7 @@
             "feature": "",
             "page": "0025-0025",
             "relativePageNumber": 23,
+            "relativePageRange": "23-23",
             "fullText": [
                 {
                     "page": "0025",
@@ -207,6 +217,7 @@
             "feature": "",
             "page": "0026-0026",
             "relativePageNumber": 24,
+            "relativePageRange": "24-24",
             "fullText": [
                 {
                     "page": "0026",
@@ -225,6 +236,7 @@
             "feature": "",
             "page": "0027-0028",
             "relativePageNumber": 25,
+            "relativePageRange": "25-26",
             "fullText": [
                 {
                     "page": "0027",
@@ -247,6 +259,7 @@
             "feature": "",
             "page": "0029-0029",
             "relativePageNumber": 27,
+            "relativePageRange": "27-27",
             "fullText": [
                 {
                     "page": "0029",
@@ -265,6 +278,7 @@
             "feature": "",
             "page": "0030-0032",
             "relativePageNumber": 28,
+            "relativePageRange": "28-30",
             "fullText": [
                 {
                     "page": "0030",
@@ -291,6 +305,7 @@
             "feature": "",
             "page": "0033-0034",
             "relativePageNumber": 31,
+            "relativePageRange": "31-32",
             "fullText": [
                 {
                     "page": "0033",
@@ -307,6 +322,7 @@
             "feature": "",
             "page": "0035-0037",
             "relativePageNumber": 33,
+            "relativePageRange": "33-35",
             "fullText": [
                 {
                     "page": "0035",
@@ -333,6 +349,7 @@
             "feature": "",
             "page": "0037-0037",
             "relativePageNumber": 35,
+            "relativePageRange": "35-35",
             "fullText": [
                 {
                     "page": "0037",
@@ -351,6 +368,7 @@
             "feature": "",
             "page": "0038-0041",
             "relativePageNumber": 36,
+            "relativePageRange": "36-39",
             "fullText": [
                 {
                     "page": "0038",
@@ -375,6 +393,7 @@
             "feature": "",
             "page": "0042-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-40",
             "fullText": [
                 {
                     "page": "0042",

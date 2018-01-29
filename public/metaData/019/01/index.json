@@ -11,6 +11,7 @@
             "feature": "",
             "page": "0005-0005",
             "relativePageNumber": 5,
+            "relativePageRange": "5-5",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "",
             "page": "0007-0007",
             "relativePageNumber": 7,
+            "relativePageRange": "7-7",
             "fullText": [
                 {
                     "page": "0007",
@@ -35,6 +37,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0009-00011",
             "relativePageNumber": 9,
+            "relativePageRange": "9-1",
             "fullText": [
                 {
                     "page": "0009",
@@ -415,6 +418,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0013-0015",
             "relativePageNumber": 13,
+            "relativePageRange": "13-15",
             "fullText": [
                 {
                     "page": "0013",
@@ -441,6 +445,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0016-0020",
             "relativePageNumber": 16,
+            "relativePageRange": "16-20",
             "fullText": [
                 {
                     "page": "0016",
@@ -475,6 +480,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0021-0024",
             "relativePageNumber": 21,
+            "relativePageRange": "21-24",
             "fullText": [
                 {
                     "page": "0021",
@@ -505,6 +511,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0025-0029",
             "relativePageNumber": 25,
+            "relativePageRange": "25-29",
             "fullText": [
                 {
                     "page": "0025",
@@ -539,6 +546,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0030-0035",
             "relativePageNumber": 30,
+            "relativePageRange": "30-35",
             "fullText": [
                 {
                     "page": "0030",
@@ -577,6 +585,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0036-0039",
             "relativePageNumber": 36,
+            "relativePageRange": "36-39",
             "fullText": [
                 {
                     "page": "0036",
@@ -607,6 +616,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0040-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-42",
             "fullText": [
                 {
                     "page": "0040",
@@ -633,6 +643,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0043-0045",
             "relativePageNumber": 43,
+            "relativePageRange": "43-45",
             "fullText": [
                 {
                     "page": "0043",
@@ -659,6 +670,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0046-0049",
             "relativePageNumber": 46,
+            "relativePageRange": "46-49",
             "fullText": [
                 {
                     "page": "0046",
@@ -689,6 +701,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0050-0053",
             "relativePageNumber": 50,
+            "relativePageRange": "50-53",
             "fullText": [
                 {
                     "page": "0050",
@@ -719,6 +732,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0054-0057",
             "relativePageNumber": 54,
+            "relativePageRange": "54-57",
             "fullText": [
                 {
                     "page": "0054",
@@ -749,6 +763,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0058-0063",
             "relativePageNumber": 58,
+            "relativePageRange": "58-63",
             "fullText": [
                 {
                     "page": "0058",
@@ -787,6 +802,7 @@
             "feature": "ಭಾರತೀಯ ಸಂಗೀತ",
             "page": "0064-0065",
             "relativePageNumber": 64,
+            "relativePageRange": "64-65",
             "fullText": [
                 {
                     "page": "0064",
@@ -809,6 +825,7 @@
             "feature": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",
             "page": "0066-0069",
             "relativePageNumber": 66,
+            "relativePageRange": "66-69",
             "fullText": [
                 {
                     "page": "0066",
@@ -839,6 +856,7 @@
             "feature": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",
             "page": "0070-0075",
             "relativePageNumber": 70,
+            "relativePageRange": "70-75",
             "fullText": [
                 {
                     "page": "0070",
@@ -877,6 +895,7 @@
             "feature": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",
             "page": "0076-0079",
             "relativePageNumber": 76,
+            "relativePageRange": "76-79",
             "fullText": [
                 {
                     "page": "0076",
@@ -907,6 +926,7 @@
             "feature": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",
             "page": "0080-0082",
             "relativePageNumber": 80,
+            "relativePageRange": "80-82",
             "fullText": [
                 {
                     "page": "0080",
@@ -933,6 +953,7 @@
             "feature": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",
             "page": "0084-0089",
             "relativePageNumber": 84,
+            "relativePageRange": "84-89",
             "fullText": [
                 {
                     "page": "0084",
@@ -971,6 +992,7 @@
             "feature": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದಲ್ಲಿ ಸಂಗೀತ -ಭಜನೆ",
             "page": "0090-0095",
             "relativePageNumber": 90,
+            "relativePageRange": "90-95",
             "fullText": [
                 {
                     "page": "0090",
@@ -1009,6 +1031,7 @@
             "feature": "",
             "page": "0105-0106",
             "relativePageNumber": 105,
+            "relativePageRange": "105-106",
             "fullText": [
                 {
                     "page": "0105",

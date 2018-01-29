@@ -11,6 +11,7 @@
             "feature": "",
             "page": "0005-0005",
             "relativePageNumber": 3,
+            "relativePageRange": "3-3",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "relativePageNumber": 5,
+            "relativePageRange": "5-7",
             "fullText": [
                 {
                     "page": "0007",
@@ -43,6 +45,7 @@
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0010-0010",
             "relativePageNumber": 8,
+            "relativePageRange": "8-8",
             "fullText": [
                 {
                     "page": "0010",
@@ -55,6 +58,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0011-0013",
             "relativePageNumber": 9,
+            "relativePageRange": "9-11",
             "fullText": [
                 {
                     "page": "0011",
@@ -81,6 +85,7 @@
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0014-0014",
             "relativePageNumber": 12,
+            "relativePageRange": "12-12",
             "fullText": [
                 {
                     "page": "0014",
@@ -93,6 +98,7 @@
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0015-0015",
             "relativePageNumber": 13,
+            "relativePageRange": "13-13",
             "fullText": [
                 {
                     "page": "0015",
@@ -105,6 +111,7 @@
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0016-0017",
             "relativePageNumber": 14,
+            "relativePageRange": "14-15",
             "fullText": [
                 {
                     "page": "0016",
@@ -127,6 +134,7 @@
             "feature": "",
             "page": "0017-0017",
             "relativePageNumber": 15,
+            "relativePageRange": "15-15",
             "fullText": [
                 {
                     "page": "0017",
@@ -139,6 +147,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0018-0022",
             "relativePageNumber": 16,
+            "relativePageRange": "16-20",
             "fullText": [
                 {
                     "page": "0018",
@@ -173,6 +182,7 @@
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0023-0025",
             "relativePageNumber": 21,
+            "relativePageRange": "21-23",
             "fullText": [
                 {
                     "page": "0023",
@@ -199,6 +209,7 @@
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0026-0027",
             "relativePageNumber": 24,
+            "relativePageRange": "24-25",
             "fullText": [
                 {
                     "page": "0026",
@@ -215,6 +226,7 @@
             "feature": "ಒಂದು ಅಸಾಧಾರಣ ಸಾಹಸಗಾಥೆ",
             "page": "0028-0030",
             "relativePageNumber": 26,
+            "relativePageRange": "26-28",
             "fullText": [
                 {
                     "page": "0028",
@@ -235,6 +247,7 @@
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0031-0032",
             "relativePageNumber": 29,
+            "relativePageRange": "29-30",
             "fullText": [
                 {
                     "page": "0031",
@@ -251,6 +264,7 @@
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0033-0033",
             "relativePageNumber": 31,
+            "relativePageRange": "31-31",
             "fullText": [
                 {
                     "page": "0033",
@@ -263,6 +277,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0034-0035",
             "relativePageNumber": 32,
+            "relativePageRange": "32-33",
             "fullText": [
                 {
                     "page": "0034",
@@ -285,6 +300,7 @@
             "feature": "ಕವನ",
             "page": "0036-0036",
             "relativePageNumber": 34,
+            "relativePageRange": "34-34",
             "fullText": [
                 {
                     "page": "0036",
@@ -303,6 +319,7 @@
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0037-0037",
             "relativePageNumber": 35,
+            "relativePageRange": "35-35",
             "fullText": [
                 {
                     "page": "0037",
@@ -315,6 +332,7 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
             "relativePageNumber": 36,
+            "relativePageRange": "36-39",
             "fullText": [
                 {
                     "page": "0038",
@@ -339,6 +357,7 @@
             "feature": "",
             "page": "0042-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-40",
             "fullText": [
                 {
                     "page": "0042",

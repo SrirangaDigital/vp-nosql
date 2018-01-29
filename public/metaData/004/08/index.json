@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
             "relativePageNumber": 5,
+            "relativePageRange": "5-5",
             "fullText": [
                 {
                     "page": "0003",
@@ -29,6 +30,7 @@
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0007",
             "relativePageNumber": 7,
+            "relativePageRange": "7-9",
             "fullText": [
                 {
                     "page": "0005",
@@ -55,6 +57,7 @@
             "feature": "",
             "page": "0008-0012",
             "relativePageNumber": 10,
+            "relativePageRange": "10-14",
             "fullText": [
                 {
                     "page": "0008",
@@ -89,6 +92,7 @@
             "feature": "",
             "page": "0013-0016",
             "relativePageNumber": 15,
+            "relativePageRange": "15-18",
             "fullText": [
                 {
                     "page": "0013",
@@ -119,6 +123,7 @@
             "feature": "",
             "page": "0017-0019",
             "relativePageNumber": 19,
+            "relativePageRange": "19-21",
             "fullText": [
                 {
                     "page": "0017",
@@ -145,6 +150,7 @@
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0020-0020",
             "relativePageNumber": 22,
+            "relativePageRange": "22-22",
             "fullText": [
                 {
                     "page": "0020",
@@ -163,6 +169,7 @@
             "feature": "",
             "page": "0021-0023",
             "relativePageNumber": 23,
+            "relativePageRange": "23-25",
             "fullText": [
                 {
                     "page": "0021",
@@ -189,6 +196,7 @@
             "feature": "",
             "page": "0024-0027",
             "relativePageNumber": 26,
+            "relativePageRange": "26-29",
             "fullText": [
                 {
                     "page": "0024",
@@ -219,6 +227,7 @@
             "feature": "",
             "page": "0028-0029",
             "relativePageNumber": 30,
+            "relativePageRange": "30-31",
             "fullText": [
                 {
                     "page": "0028",
@@ -241,6 +250,7 @@
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0030-0030",
             "relativePageNumber": 32,
+            "relativePageRange": "32-32",
             "fullText": [
                 {
                     "page": "0030",
@@ -259,6 +269,7 @@
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0031-0033",
             "relativePageNumber": 33,
+            "relativePageRange": "33-35",
             "fullText": [
                 {
                     "page": "0031",
@@ -285,6 +296,7 @@
             "feature": "",
             "page": "0033-0034",
             "relativePageNumber": 35,
+            "relativePageRange": "35-36",
             "fullText": [
                 {
                     "page": "0033",
@@ -307,6 +319,7 @@
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
             "relativePageNumber": 37,
+            "relativePageRange": "37-37",
             "fullText": [
                 {
                     "page": "0035",
@@ -325,6 +338,7 @@
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
             "relativePageNumber": 38,
+            "relativePageRange": "38-38",
             "fullText": [
                 {
                     "page": "0036",
@@ -343,6 +357,7 @@
             "feature": "",
             "page": "0037-0037",
             "relativePageNumber": 39,
+            "relativePageRange": "39-39",
             "fullText": [
                 {
                     "page": "0037",
@@ -361,6 +376,7 @@
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0038-0038",
             "relativePageNumber": 40,
+            "relativePageRange": "40-40",
             "fullText": [
                 {
                     "page": "0038",

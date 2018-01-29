@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
             "relativePageNumber": 2,
+            "relativePageRange": "2-2",
             "fullText": [
                 {
                     "page": "0004",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0006-0009",
             "relativePageNumber": 4,
+            "relativePageRange": "4-7",
             "fullText": [
                 {
                     "page": "0006",
@@ -47,6 +49,7 @@
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
             "relativePageNumber": 8,
+            "relativePageRange": "8-8",
             "fullText": [
                 {
                     "page": "0010",
@@ -59,6 +62,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0017",
             "relativePageNumber": 9,
+            "relativePageRange": "9-15",
             "fullText": [
                 {
                     "page": "0011",
@@ -101,6 +105,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0018-0022",
             "relativePageNumber": 16,
+            "relativePageRange": "16-20",
             "fullText": [
                 {
                     "page": "0018",
@@ -135,6 +140,7 @@
             "feature": "ಪ್ರವಾಸ ಲೇಖನ",
             "page": "0023-0029",
             "relativePageNumber": 21,
+            "relativePageRange": "21-27",
             "fullText": [
                 {
                     "page": "0023",
@@ -177,6 +183,7 @@
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0030-0033",
             "relativePageNumber": 28,
+            "relativePageRange": "28-31",
             "fullText": [
                 {
                     "page": "0030",
@@ -207,6 +214,7 @@
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0034-0037",
             "relativePageNumber": 32,
+            "relativePageRange": "32-35",
             "fullText": [
                 {
                     "page": "0034",
@@ -237,6 +245,7 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
             "relativePageNumber": 36,
+            "relativePageRange": "36-39",
             "fullText": [
                 {
                     "page": "0038",
@@ -261,6 +270,7 @@
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0042-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-40",
             "fullText": [
                 {
                     "page": "0042",

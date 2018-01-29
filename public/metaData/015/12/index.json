@@ -11,6 +11,7 @@
             "feature": "",
             "page": "0005-0005",
             "relativePageNumber": 3,
+            "relativePageRange": "3-3",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
             "relativePageNumber": 5,
+            "relativePageRange": "5-8",
             "fullText": [
                 {
                     "page": "0007",
@@ -47,6 +49,7 @@
             "feature": "ಶ್ರೀಮಾತೆ:ದಕ್ಷಿಣೇಶ್ವರದಲ್ಲಿ ನಾನು ಕಂಡಂತೆ",
             "page": "0011-0017",
             "relativePageNumber": 9,
+            "relativePageRange": "9-15",
             "fullText": [
                 {
                     "page": "0011",
@@ -89,6 +92,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0018-0020",
             "relativePageNumber": 16,
+            "relativePageRange": "16-18",
             "fullText": [
                 {
                     "page": "0018",
@@ -115,6 +119,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0021-0023",
             "relativePageNumber": 19,
+            "relativePageRange": "19-21",
             "fullText": [
                 {
                     "page": "0021",
@@ -141,6 +146,7 @@
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0024-0027",
             "relativePageNumber": 22,
+            "relativePageRange": "22-25",
             "fullText": [
                 {
                     "page": "0024",
@@ -171,6 +177,7 @@
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0028-0028",
             "relativePageNumber": 26,
+            "relativePageRange": "26-26",
             "fullText": [
                 {
                     "page": "0028",
@@ -183,6 +190,7 @@
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0029-0031",
             "relativePageNumber": 27,
+            "relativePageRange": "27-29",
             "fullText": [
                 {
                     "page": "0029",
@@ -203,6 +211,7 @@
             "feature": "ಬಿಡಿ ಲೇಖನಗಳು",
             "page": "0031-0033",
             "relativePageNumber": 29,
+            "relativePageRange": "29-31",
             "fullText": [
                 {
                     "page": "0031",
@@ -223,6 +232,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0034-0036",
             "relativePageNumber": 32,
+            "relativePageRange": "32-34",
             "fullText": [
                 {
                     "page": "0034",
@@ -249,6 +259,7 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0037-0040",
             "relativePageNumber": 35,
+            "relativePageRange": "35-38",
             "fullText": [
                 {
                     "page": "0037",
@@ -273,6 +284,7 @@
             "feature": "",
             "page": "0041-0042",
             "relativePageNumber": 39,
+            "relativePageRange": "39-40",
             "fullText": [
                 {
                     "page": "0041",

@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
             "relativePageNumber": 3,
+            "relativePageRange": "3-3",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "relativePageNumber": 5,
+            "relativePageRange": "5-7",
             "fullText": [
                 {
                     "page": "0007",
@@ -43,6 +45,7 @@
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
             "relativePageNumber": 8,
+            "relativePageRange": "8-8",
             "fullText": [
                 {
                     "page": "0010",
@@ -55,6 +58,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0012",
             "relativePageNumber": 9,
+            "relativePageRange": "9-10",
             "fullText": [
                 {
                     "page": "0011",
@@ -77,6 +81,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0013-0015",
             "relativePageNumber": 11,
+            "relativePageRange": "11-13",
             "fullText": [
                 {
                     "page": "0013",
@@ -103,6 +108,7 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0016-0020",
             "relativePageNumber": 14,
+            "relativePageRange": "14-18",
             "fullText": [
                 {
                     "page": "0016",
@@ -137,6 +143,7 @@
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವಸೌರಭ",
             "page": "0021-0024",
             "relativePageNumber": 19,
+            "relativePageRange": "19-22",
             "fullText": [
                 {
                     "page": "0021",
@@ -167,6 +174,7 @@
             "feature": "ಜಪಾನಿನ ನೀತಿಕಥೆಗಳು",
             "page": "0025-0025",
             "relativePageNumber": 23,
+            "relativePageRange": "23-23",
             "fullText": [
                 {
                     "page": "0025",
@@ -185,6 +193,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0026-0029",
             "relativePageNumber": 24,
+            "relativePageRange": "24-27",
             "fullText": [
                 {
                     "page": "0026",
@@ -215,6 +224,7 @@
             "feature": "ಆಧ್ಯಾತ್ಮಿಕ ಸಂಭಾಷಣೆ",
             "page": "0030-0031",
             "relativePageNumber": 28,
+            "relativePageRange": "28-29",
             "fullText": [
                 {
                     "page": "0030",
@@ -231,6 +241,7 @@
             "feature": "ಯೋಗವಾಸಿಷ್ಠದ ಕಥೆಗಳು:ಕಥಾಗುಚ್ಛ ೩",
             "page": "0032-0034",
             "relativePageNumber": 30,
+            "relativePageRange": "30-32",
             "fullText": [
                 {
                     "page": "0032",
@@ -257,6 +268,7 @@
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0035-0035",
             "relativePageNumber": 33,
+            "relativePageRange": "33-33",
             "fullText": [
                 {
                     "page": "0035",
@@ -269,6 +281,7 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0036-0039",
             "relativePageNumber": 34,
+            "relativePageRange": "34-37",
             "fullText": [
                 {
                     "page": "0036",
@@ -293,6 +306,7 @@
             "feature": "",
             "page": "0040-0040",
             "relativePageNumber": 38,
+            "relativePageRange": "38-38",
             "fullText": [
                 {
                     "page": "0040",

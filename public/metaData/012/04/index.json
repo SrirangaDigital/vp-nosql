@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
             "relativePageNumber": 3,
+            "relativePageRange": "3-3",
             "fullText": [
                 {
                     "page": "0005",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0010",
             "relativePageNumber": 5,
+            "relativePageRange": "5-8",
             "fullText": [
                 {
                     "page": "0007",
@@ -47,6 +49,7 @@
             "feature": "",
             "page": "0011-0014",
             "relativePageNumber": 9,
+            "relativePageRange": "9-12",
             "fullText": [
                 {
                     "page": "0011",
@@ -77,6 +80,7 @@
             "feature": "",
             "page": "0015-0017",
             "relativePageNumber": 13,
+            "relativePageRange": "13-15",
             "fullText": [
                 {
                     "page": "0015",
@@ -103,6 +107,7 @@
             "feature": "",
             "page": "0018-0021",
             "relativePageNumber": 16,
+            "relativePageRange": "16-19",
             "fullText": [
                 {
                     "page": "0018",
@@ -133,6 +138,7 @@
             "feature": "",
             "page": "0022-0025",
             "relativePageNumber": 20,
+            "relativePageRange": "20-23",
             "fullText": [
                 {
                     "page": "0022",
@@ -163,6 +169,7 @@
             "feature": "ದಿವ್ಯಸ್ಮೃತಿಪ್ರಭ",
             "page": "0026-0028",
             "relativePageNumber": 24,
+            "relativePageRange": "24-26",
             "fullText": [
                 {
                     "page": "0026",
@@ -189,6 +196,7 @@
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ಪುಷ್ಪೋದ್ಯಾನ",
             "page": "0029-0032",
             "relativePageNumber": 27,
+            "relativePageRange": "27-30",
             "fullText": [
                 {
                     "page": "0029",
@@ -219,6 +227,7 @@
             "feature": "",
             "page": "0033-0035",
             "relativePageNumber": 31,
+            "relativePageRange": "31-33",
             "fullText": [
                 {
                     "page": "0033",
@@ -245,6 +254,7 @@
             "feature": "ಶಿಕ್ಷಣಪ್ರಭ",
             "page": "0036-0039",
             "relativePageNumber": 34,
+            "relativePageRange": "34-37",
             "fullText": [
                 {
                     "page": "0036",
@@ -275,6 +285,7 @@
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0040-0041",
             "relativePageNumber": 38,
+            "relativePageRange": "38-39",
             "fullText": [
                 {
                     "page": "0040",
@@ -297,6 +308,7 @@
             "feature": "",
             "page": "0042-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-40",
             "fullText": [
                 {
                     "page": "0042",

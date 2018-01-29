@@ -11,6 +11,7 @@
             "feature": "",
             "page": "0004-0004",
             "relativePageNumber": 3,
+            "relativePageRange": "3-3",
             "fullText": [
                 {
                     "page": "0004",
@@ -29,6 +30,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
             "relativePageNumber": 4,
+            "relativePageRange": "4-4",
             "fullText": [
                 {
                     "page": "0005",
@@ -47,6 +49,7 @@
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
             "relativePageNumber": 6,
+            "relativePageRange": "6-9",
             "fullText": [
                 {
                     "page": "0007",
@@ -77,6 +80,7 @@
             "feature": "",
             "page": "0011-0013",
             "relativePageNumber": 10,
+            "relativePageRange": "10-12",
             "fullText": [
                 {
                     "page": "0011",
@@ -103,6 +107,7 @@
             "feature": "",
             "page": "0013-0013",
             "relativePageNumber": 12,
+            "relativePageRange": "12-12",
             "fullText": [
                 {
                     "page": "0013",
@@ -121,6 +126,7 @@
             "feature": "",
             "page": "0014-0016",
             "relativePageNumber": 13,
+            "relativePageRange": "13-15",
             "fullText": [
                 {
                     "page": "0014",
@@ -147,6 +153,7 @@
             "feature": "",
             "page": "0017-0019",
             "relativePageNumber": 16,
+            "relativePageRange": "16-18",
             "fullText": [
                 {
                     "page": "0017",
@@ -173,6 +180,7 @@
             "feature": "",
             "page": "0020-0021",
             "relativePageNumber": 19,
+            "relativePageRange": "19-20",
             "fullText": [
                 {
                     "page": "0020",
@@ -195,6 +203,7 @@
             "feature": "",
             "page": "0022-0023",
             "relativePageNumber": 21,
+            "relativePageRange": "21-22",
             "fullText": [
                 {
                     "page": "0022",
@@ -217,6 +226,7 @@
             "feature": "",
             "page": "0023-0023",
             "relativePageNumber": 22,
+            "relativePageRange": "22-22",
             "fullText": [
                 {
                     "page": "0023",
@@ -235,6 +245,7 @@
             "feature": "",
             "page": "0024-0026",
             "relativePageNumber": 23,
+            "relativePageRange": "23-25",
             "fullText": [
                 {
                     "page": "0024",
@@ -261,6 +272,7 @@
             "feature": "ಶಾರದಾದೇವಿಯವರೊಡನೆ ಮಾತುಕತೆ",
             "page": "0027-0027",
             "relativePageNumber": 26,
+            "relativePageRange": "26-26",
             "fullText": [
                 {
                     "page": "0027",
@@ -279,6 +291,7 @@
             "feature": "",
             "page": "0028-0029",
             "relativePageNumber": 27,
+            "relativePageRange": "27-28",
             "fullText": [
                 {
                     "page": "0028",
@@ -301,6 +314,7 @@
             "feature": "",
             "page": "0030-0031",
             "relativePageNumber": 29,
+            "relativePageRange": "29-30",
             "fullText": [
                 {
                     "page": "0030",
@@ -323,6 +337,7 @@
             "feature": "",
             "page": "0032-0034",
             "relativePageNumber": 31,
+            "relativePageRange": "31-33",
             "fullText": [
                 {
                     "page": "0032",
@@ -349,6 +364,7 @@
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0035-0035",
             "relativePageNumber": 34,
+            "relativePageRange": "34-34",
             "fullText": [
                 {
                     "page": "0035",
@@ -367,6 +383,7 @@
             "feature": "",
             "page": "0036-0037",
             "relativePageNumber": 35,
+            "relativePageRange": "35-36",
             "fullText": [
                 {
                     "page": "0036",
@@ -389,6 +406,7 @@
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0038-0038",
             "relativePageNumber": 37,
+            "relativePageRange": "37-37",
             "fullText": [
                 {
                     "page": "0038",
@@ -407,6 +425,7 @@
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0039-0039",
             "relativePageNumber": 38,
+            "relativePageRange": "38-38",
             "fullText": [
                 {
                     "page": "0039",
@@ -425,6 +444,7 @@
             "feature": "",
             "page": "0039-0039",
             "relativePageNumber": 38,
+            "relativePageRange": "38-38",
             "fullText": [
                 {
                     "page": "0039",
@@ -443,6 +463,7 @@
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0040-0041",
             "relativePageNumber": 39,
+            "relativePageRange": "39-40",
             "fullText": [
                 {
                     "page": "0040",
@@ -465,6 +486,7 @@
             "feature": "",
             "page": "0042-0042",
             "relativePageNumber": 41,
+            "relativePageRange": "41-41",
             "fullText": [
                 {
                     "page": "0042",

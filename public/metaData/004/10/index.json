@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
             "relativePageNumber": 5,
+            "relativePageRange": "5-5",
             "fullText": [
                 {
                     "page": "0003",
@@ -29,6 +30,7 @@
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0009",
             "relativePageNumber": 7,
+            "relativePageRange": "7-11",
             "fullText": [
                 {
                     "page": "0005",
@@ -63,6 +65,7 @@
             "feature": "",
             "page": "0010-0012",
             "relativePageNumber": 12,
+            "relativePageRange": "12-14",
             "fullText": [
                 {
                     "page": "0010",
@@ -89,6 +92,7 @@
             "feature": "",
             "page": "0013-0017",
             "relativePageNumber": 15,
+            "relativePageRange": "15-19",
             "fullText": [
                 {
                     "page": "0013",
@@ -123,6 +127,7 @@
             "feature": "",
             "page": "0018-0020",
             "relativePageNumber": 20,
+            "relativePageRange": "20-22",
             "fullText": [
                 {
                     "page": "0018",
@@ -149,6 +154,7 @@
             "feature": "",
             "page": "0021-0024",
             "relativePageNumber": 23,
+            "relativePageRange": "23-26",
             "fullText": [
                 {
                     "page": "0021",
@@ -179,6 +185,7 @@
             "feature": "",
             "page": "0025-0026",
             "relativePageNumber": 27,
+            "relativePageRange": "27-28",
             "fullText": [
                 {
                     "page": "0025",
@@ -201,6 +208,7 @@
             "feature": "",
             "page": "0027-0029",
             "relativePageNumber": 29,
+            "relativePageRange": "29-31",
             "fullText": [
                 {
                     "page": "0027",
@@ -227,6 +235,7 @@
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0029-0029",
             "relativePageNumber": 31,
+            "relativePageRange": "31-31",
             "fullText": [
                 {
                     "page": "0029",
@@ -245,6 +254,7 @@
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0030-0030",
             "relativePageNumber": 32,
+            "relativePageRange": "32-32",
             "fullText": [
                 {
                     "page": "0030",
@@ -263,6 +273,7 @@
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0031-0034",
             "relativePageNumber": 33,
+            "relativePageRange": "33-36",
             "fullText": [
                 {
                     "page": "0031",
@@ -293,6 +304,7 @@
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
             "relativePageNumber": 37,
+            "relativePageRange": "37-37",
             "fullText": [
                 {
                     "page": "0035",
@@ -311,6 +323,7 @@
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
             "relativePageNumber": 38,
+            "relativePageRange": "38-38",
             "fullText": [
                 {
                     "page": "0036",
@@ -329,6 +342,7 @@
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0037-0037",
             "relativePageNumber": 39,
+            "relativePageRange": "39-39",
             "fullText": [
                 {
                     "page": "0037",

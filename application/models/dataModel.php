@@ -109,6 +109,7 @@ class dataModel extends Model {
 					$articleEndOffset = array_search($jsonFilePath . 'text/' . $splitPage[1] . '.txt', $files) + 1;
 					$textFiles = array_slice($files, $articleStartOffset, $articleEndOffset - $articleStartOffset);
 					$array['relativePageNumber'] = (array_search($jsonFilePath . 'text/' . $splitPage[0] . '.txt', $files)) ? array_search($jsonFilePath . 'text/' . $splitPage[0] . '.txt', $files)+1 : 1;
+					$array['relativePageRange'] = $array['relativePageNumber'] . '-' . (array_search($jsonFilePath . 'text/' . $splitPage[1] . '.txt', $files)+1);
 
 					$textArray = [];
 					$array['fullText'] = [];

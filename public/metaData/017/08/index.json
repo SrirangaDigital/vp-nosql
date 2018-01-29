@@ -11,6 +11,7 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
             "relativePageNumber": 2,
+            "relativePageRange": "2-2",
             "fullText": [
                 {
                     "page": "0004",
@@ -23,6 +24,7 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "relativePageNumber": 5,
+            "relativePageRange": "5-7",
             "fullText": [
                 {
                     "page": "0007",
@@ -43,6 +45,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0013",
             "relativePageNumber": 9,
+            "relativePageRange": "9-11",
             "fullText": [
                 {
                     "page": "0011",
@@ -69,6 +72,7 @@
             "feature": "ಭಗವದ್ಗೀತಾ ತತ್ತ್ವ ಸೌರಭ",
             "page": "0014-0018",
             "relativePageNumber": 12,
+            "relativePageRange": "12-16",
             "fullText": [
                 {
                     "page": "0014",
@@ -103,6 +107,7 @@
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0019-0019",
             "relativePageNumber": 17,
+            "relativePageRange": "17-17",
             "fullText": [
                 {
                     "page": "0019",
@@ -115,6 +120,7 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0020-0024",
             "relativePageNumber": 18,
+            "relativePageRange": "18-22",
             "fullText": [
                 {
                     "page": "0020",
@@ -149,6 +155,7 @@
             "feature": "ಲೇಖನ",
             "page": "0025-0025",
             "relativePageNumber": 23,
+            "relativePageRange": "23-23",
             "fullText": [
                 {
                     "page": "0025",
@@ -167,6 +174,7 @@
             "feature": "ಪ್ರವಾಸ ಲೇಖನ",
             "page": "0027-0032",
             "relativePageNumber": 25,
+            "relativePageRange": "25-30",
             "fullText": [
                 {
                     "page": "0027",
@@ -205,6 +213,7 @@
             "feature": "ಸಂತರ ಜೀವನ ಕಥೆ",
             "page": "0033-0036",
             "relativePageNumber": 31,
+            "relativePageRange": "31-34",
             "fullText": [
                 {
                     "page": "0033",
@@ -235,6 +244,7 @@
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0036-0037",
             "relativePageNumber": 34,
+            "relativePageRange": "34-35",
             "fullText": [
                 {
                     "page": "0036",
@@ -251,6 +261,7 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
             "relativePageNumber": 36,
+            "relativePageRange": "36-39",
             "fullText": [
                 {
                     "page": "0038",
@@ -275,6 +286,7 @@
             "feature": "",
             "page": "0042-0042",
             "relativePageNumber": 40,
+            "relativePageRange": "40-40",
             "fullText": [
                 {
                     "page": "0042",

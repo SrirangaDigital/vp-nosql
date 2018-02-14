@@ -11,6 +11,12 @@ class article extends Controller {
 
 		// article/text?volume=001&part=02&page=234&search=sumne
 	}
+
+	public function download($query = []) {
+
+		var_dump($query);
+		// article/text?volume=001&part=02&page=234&search=sumne
+	}
 }
 
 ?>

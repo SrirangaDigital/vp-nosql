@@ -74,6 +74,11 @@ Primary style
   font-weight: 300;
   font-style: italic;
 }
+.mainpage .full-width-card .downloadpdf{
+  font-size: 0.9em;
+  color: #1565C0;
+  font-weight: 300;
+}
 .mainpage .full-width-card h3.author span:not(:first-of-type):not(:last-of-type):before{
  content: ', ';
 }

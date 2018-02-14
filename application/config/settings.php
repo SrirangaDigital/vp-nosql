@@ -50,5 +50,6 @@ define('FEATURE', 'ಸ್ಥಿರ ಶೀರ್ಷಿಕೆ');
 define('SEARCH', 'ಹುಡುಕಿ');
 define('SERIES', 'ಸರಣಿ ಲೇಖನಗಳು');
 define('TOC', 'ಪರಿವಿಡಿ');
+define('DOWNLOAD_PDF', 'ಡೌನ್ಲೋಡ್ ಪಿಡಿಎಫ್');
 
 ?>

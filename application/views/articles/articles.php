@@ -33,7 +33,7 @@
         <?php } ?>
                 </h3>
     <?php } ?>
-                <a class="downloadpdf" target="_blank" href="<?=BASE_URL?>article/download?volume=<?=$article['volume']?>&issue=<?=$article['issue']?>&pageRange=<?=$article['relativePageRange']?>"><?=DOWNLOAD_PDF?></a>
+                <a class="downloadpdf" target="_blank" href="<?=BASE_URL?>article/download/<?=$article['volume']?>/<?=$article['issue']?>/<?=$article['relativePageRange']?>"><?=DOWNLOAD_PDF?></a>
             </div>
 <?php } ?>
 

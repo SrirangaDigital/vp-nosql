@@ -358,7 +358,6 @@ function isDataSchema(url) {
 }
 function getPDFFileNameFromURL(url) {
   var defaultFilename = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'document.pdf';
-
   if (isDataSchema(url)) {
     console.warn('getPDFFileNameFromURL: ' + 'ignoring "data:" URL for performance reasons.');
     return defaultFilename;
@@ -1941,7 +1940,10 @@ function webViewerInitialized() {
   if(pdfURL.match('article/text')) {
 	file = pdfURL.replace(/(.*)\/article\/text\/(.*)\/(.*)\/#(.*)/, '$1/public/data/$2/$3/index.pdf#$4');
   }
-
+  if(pdfURL.match('article/download')) {
+	file = pdfURL.replace(/(.*)\/article\/download\/(.*)\/(.*)\/(.*)/, '$1/public/downloads/$2_$3_$4.pdf');
+  }
+	
   validateFileURL(file);
   var waitForBeforeOpening = [];
   var fileInput = document.createElement('input');

@@ -3,6 +3,7 @@
 define('BASE_URL', 'http://192.168.1.101/vp-nosql/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('DATA_URL', PUBLIC_URL . 'data/');
+define('DOWNLOAD_URL', PUBLIC_URL . 'downloads/');
 define('METADATA_URL', PUBLIC_URL . 'metaData/');
 define('FOREIGN_KEYS_URL', PUBLIC_URL . 'foreignKeys/');
 define('JSON_PRECAST_URL', BASE_URL . 'json-precast/');
@@ -13,6 +14,7 @@ define('IMAGE_URL', PUBLIC_URL . 'images/');
 define('PHY_BASE_URL', '/var/www/html/vp-nosql/');
 define('PHY_PUBLIC_URL', PHY_BASE_URL . 'public/');
 define('PHY_DATA_URL', PHY_PUBLIC_URL . 'data/');
+define('PHY_DOWNLOAD_URL', PHY_PUBLIC_URL . 'downloads/');
 define('PHY_METADATA_URL', PHY_PUBLIC_URL . 'metaData/');
 define('PHY_FOREIGN_KEYS_URL', PHY_PUBLIC_URL . 'foreignKeys/');
 define('PHY_JSON_PRECAST_URL', PHY_BASE_URL . 'json-precast/');

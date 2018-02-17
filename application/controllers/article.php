@@ -12,10 +12,9 @@ class article extends Controller {
 		// article/text?volume=001&part=02&page=234&search=sumne
 	}
 
-	public function download($query = []) {
+	public function download($query= [], $volume, $issue, $pageRange) {
 
-		var_dump($query);
-		// article/text?volume=001&part=02&page=234&search=sumne
+		(!($this->model->generatePDF($volume, $issue, $pageRange))) ? $this->redirect('article/download/' . $volume . '/' . $issue . '/' . $pageRange) : $this->view('error/index');
 	}
 }
 

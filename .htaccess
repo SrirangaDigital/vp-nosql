@@ -3,26 +3,30 @@ RewriteEngine On
 
 RewriteBase /vp-nosql
 
-RewriteCond %{REQUEST_URI}  article/text/.*/build.*
-RewriteRule article/text/.*/(build.*) public/pdfjs/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  article/.*build.*
+RewriteRule article/.*(build.*) public/pdfjs/$1 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  article/text/.*/locale/.*
-RewriteRule article/text/.*/locale/(.*) public/pdfjs/web/locale/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  article/.*locale/.*
+RewriteRule article/.*locale/(.*) public/pdfjs/web/locale/$1 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  article/text/.*/cmaps/.*
-RewriteRule article/text/.*/cmaps/(.*) public/pdfjs/web/cmaps/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  article/.*cmaps/.*
+RewriteRule article/.*cmaps/(.*) public/pdfjs/web/cmaps/$1 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  article/text/.*/images/.*
-RewriteRule article/text/.*/images/(.*) public/pdfjs/web/images/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  article/.*images/.*
+RewriteRule article/.*images/(.*) public/pdfjs/web/images/$1 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  article/text/.*/viewer.*
-RewriteRule article/text/.*/(viewer.*) public/pdfjs/web/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  article/.*viewer.*
+RewriteRule article/.*(viewer.*) public/pdfjs/web/$1 [QSA,L]
 
-RewriteCond %{REQUEST_URI}  article/text/.*/debugger.*
-RewriteRule article/text/.*/(debugger.*) public/pdfjs/web/$1 [QSA,L]
+RewriteCond %{REQUEST_URI}  article/.*debugger.*
+RewriteRule article/.*(debugger.*) public/pdfjs/web/$1 [QSA,L]
 
 RewriteCond %{REQUEST_URI}  /article/text/.*
 RewriteRule article/text/(.*?)/(.*?) public/pdfjs/web/viewer.html?file=../../data/$1/$2/index.pdf [QSA,L]
+
+RewriteCond %{REQUEST_URI} /article/download/(\d\d\d)/(\d\d)/(\d+-\d+)
+RewriteCond %{DOCUMENT_ROOT}/vp-nosql/public/downloads/%1_%2_%3.pdf -f
+RewriteRule ^(.*)$ public/pdfjs/web/viewer.html?file=../../downloads/%1_%2_%3.pdf [QSA]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f

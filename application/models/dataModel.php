@@ -124,7 +124,7 @@ class dataModel extends Model {
 					foreach ($entry->allauthors->author as $author) {
 
 						$arrayArthor = [];
-						$arrayArthor['name'] = $author->__toString();
+						$arrayArthor['name'] = ((string)$author['salut'] != '') ? $author->__toString() . ', ' . (string)$author['salut'] : $author->__toString();
 						$arrayArthor['salutation'] = (string)$author['salut'];
 						$array['author'][] = $arrayArthor;
 					}

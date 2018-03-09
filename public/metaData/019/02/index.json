@@ -25,12 +25,6 @@
                     "page": "0006",
                     "text": ""
                 }
-            ],
-            "author": [
-                {
-                    "name": "",
-                    "salutation": ""
-                }
             ]
         },
         {
@@ -52,12 +46,6 @@
                     "page": "0009",
                     "text": ""
                 }
-            ],
-            "author": [
-                {
-                    "name": "",
-                    "salutation": ""
-                }
             ]
         },
         {
@@ -70,12 +58,6 @@
                 {
                     "page": "0010",
                     "text": ""
-                }
-            ],
-            "author": [
-                {
-                    "name": "",
-                    "salutation": ""
                 }
             ]
         },
@@ -257,12 +239,6 @@
                     "page": "0035",
                     "text": ""
                 }
-            ],
-            "author": [
-                {
-                    "name": "",
-                    "salutation": ""
-                }
             ]
         },
         {
@@ -288,12 +264,6 @@
                     "page": "0040",
                     "text": ""
                 }
-            ],
-            "author": [
-                {
-                    "name": "",
-                    "salutation": ""
-                }
             ]
         },
         {
@@ -310,12 +280,6 @@
                 {
                     "page": "0042",
                     "text": ""
-                }
-            ],
-            "author": [
-                {
-                    "name": "",
-                    "salutation": ""
                 }
             ]
         }

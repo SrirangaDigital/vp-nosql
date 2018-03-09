@@ -54,7 +54,7 @@
                 </ul>
                 <ul class="navbar-nav nav flex-row ml-auto text-bold">
                     <li><a href="<?=BASE_URL?>">ವಿವೇಕಪ್ರಭ</a></li>
-                    <li><a href="<?=BASE_URL?>About">ಧ್ಯೇಯ</a></li>
+                    <li><a href="<?=BASE_URL?>Dheiya">ಧ್ಯೇಯ</a></li>
                     <li><a href="<?=BASE_URL?>listing/distinct/volume">ಸಂಪುಟಗಳು</a></li>
                     <li><a href="<?=BASE_URL?>listing/volumes">ಸಹಾಯ</a></li>
                 </ul>

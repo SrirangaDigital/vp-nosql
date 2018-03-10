@@ -155,7 +155,7 @@ Primary style
   padding: 10px 0 10px 0;
 }
 .gap-above{
-  margin-top: 50px;
+  margin-top: 60px;
 }
 .gap-above-large{
   margin-top: 100px;
@@ -320,4 +320,55 @@ Primary style
 a.goBack{
   cursor: pointer;
   color: #1565C0 !important;
+}
+
+
+/*Home page style*/
+.mainArticle .title{
+  font-size: 1.5em;
+}
+.mainArticle .author{
+  margin-top: -10px;
+  font-size: .9em;
+  color : #800000;
+}
+.subArticle .title{
+  font-size: 1.2em;
+  line-height: 1.25em;
+}
+.subArticle .author{
+  margin-top: -10px;
+  line-height: 1.25em;
+  font-size: .8em;
+  color : #800000;
+}
+.subArticle .content{
+  line-height: 1.25em;
+  margin-top: -10px;
+  font-size: 0.9em;
+}
+.author.by:before{
+  content: '—  ';
+  margin-left: 20px;
+ }
+.cards-wrapper {
+  font-size: 0.9em;
+}
+ .cards-wrapper img{
+  float: left;
+  height : 110px;
+}
+.cards-wrapper .title{
+  font-size: 1.2em;
+  margin-left: 140px;
+}
+.cards-wrapper .content{
+  line-height: 1em;
+  margin-top: -10px;
+  margin-left: 140px;
+}
+.cards-wrapper .author{
+  margin-top: -12px;
+  font-size: .9em;
+  color : #800000;
 }

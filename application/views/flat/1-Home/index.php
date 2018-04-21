@@ -1,6 +1,7 @@
 <div class="container-fluid dynamic-page">
     <div class="row justify-content-center">
         <div class="col-md-9 gap-above">
+            <h3 class="text-left">ಪ್ರಸ್ತುತ ಸಂಚಿಕೆ (ಏಪ್ರಿಲ್)</h3><br />
             <div class="row">
             	<div class="col-md-5 mainArticle">
                         <div class="row">

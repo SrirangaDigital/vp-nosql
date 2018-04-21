@@ -8,7 +8,12 @@ Primary style
 	src: url('NUDIUNI01K.ttf');
 	unicode-range: U+0C80-0CFF;
 }
-
+.clear-margins {
+  margin: 0;
+}
+.clear-paddings {
+  padding: 0;
+}
 .mainpage{
   margin-top: 72px;
   margin-bottom: 100px;
@@ -324,6 +329,14 @@ a.goBack{
 
 
 /*Home page style*/
+.row a{
+  text-decoration: none;
+  color: inherit;
+}
+.mainArticle div{
+  margin: 0px;
+  padding-right: 10px: 
+}
 .mainArticle .title{
   font-size: 1.5em;
 }
@@ -331,44 +344,63 @@ a.goBack{
   margin-top: -10px;
   font-size: .9em;
   color : #800000;
+  text-align: right;
+}
+.subArticle div{
+  margin: 0px;
 }
 .subArticle .title{
-  font-size: 1.2em;
+  font-size: 1.3em;
   line-height: 1.25em;
 }
 .subArticle .author{
-  margin-top: -10px;
-  line-height: 1.25em;
+  line-height: 1.35em;
   font-size: .8em;
   color : #800000;
+  text-align: right;
 }
 .subArticle .content{
   line-height: 1.25em;
-  margin-top: -10px;
   font-size: 0.9em;
 }
 .author.by:before{
   content: '—  ';
   margin-left: 20px;
  }
+ .cardArticle div:not(:first-child){
+  margin: 10px 0px 5px 0px;
+ }
+ .cardArticle {
+  margin: 0px;
+  padding-left: 10px;
+  line-height: 1em;
+ }
 .cards-wrapper {
+  width: 100%;
   font-size: 0.9em;
+  border-bottom: 1px solid #ccc;
 }
- .cards-wrapper img{
+.cards-wrapper img{
   float: left;
-  height : 110px;
+  height: 80px;
+  margin: 0;
+  margin-right: 10px
+}
+.cards-wrapper a{
+  text-decoration: none;
+  color: inherit;
 }
 .cards-wrapper .title{
+  padding-top: 8px; 
   font-size: 1.2em;
-  margin-left: 140px;
+  line-height: 0em;
 }
 .cards-wrapper .content{
-  line-height: 1em;
-  margin-top: -10px;
-  margin-left: 140px;
+  margin-bottom: 5px;
 }
 .cards-wrapper .author{
-  margin-top: -12px;
+  text-align: right;
+  margin-bottom: 5px;
   font-size: .9em;
   color : #800000;
 }

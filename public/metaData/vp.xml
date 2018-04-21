@@ -31579,14 +31579,14 @@
 			<entry>
 				<title>ರಾಮಕೃಷ್ಣ ರಕ್ಷಿಸೈ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
-				<text></text>
+				<text />
 				<page>0004-0006</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>ಆಧುನಿಕ ಪ್ರವೃತ್ತಿ ಮತ್ತು ಸನಾತನ ತತ್ತ್ವ </title>
 				<feature>ಸಂಪಾದಕೀಯ</feature>
-				<text></text>
+				<text />
 				<page>0007-0009</page>
 				<allauthors />
 			</entry>
@@ -31658,8 +31658,138 @@
 			</entry>
 			<entry>
 				<title>ಸುದ್ದಿ ಸಂಚಯ</title>
-				<feature></feature>
-				<text></text>
+				<feature />
+				<text />
+				<page>0041-0042</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="03" month="03" year="2018" theme="">
+			<entry>
+				<title>ಶ್ರೀರಾಮಮಾನಸ ಸ್ತೋತ್ರಮ್-೧</title>
+				<feature>ಪ್ರಾರ್ಥನೆ</feature>
+				<text />
+				<page>0004-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆತ್ಮಭಾವದ ಬದುಕು</title>
+				<feature>ಸಂಪಾದಕೀಯ</feature>
+				<text />
+				<page>0007-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಾಧನೆಯ ಮಾರ್ಗಗಳು</title>
+				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
+				<text>ಮನುಷ್ಯನಿಗೆ ಜಾಗ್ರತ್, ಸ್ವಪ್ನ, ಸುಷುಪ್ತಿ ಎಂಬ ಮೂರು ಅವಸ್ಥೆಗಳು ಉಂಟಾಗುತ್ತವೆ</text>
+				<page>0010-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನಾ ಕಂಡಂತೆ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರೊಡನೆ ನನ್ನ ಮೊದಲ ಭೇಟಿ ಅವರ ಅಮೆರಿಕದ ದ್ವಿತೀಯ ಭೇಟಿಯ ಸಂದರ್ಭದಲ್ಲಿ</text>
+				<page>0011-0012</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಅತುಲಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮಜ್ಞಾನಿ ಯಾಜ್ಞವಲ್ಕ್ಯರು</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಉಜ್ವಲ ಸೂರ್ಯನಂತೆ ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದ ಏಕೈಕ ಋಷಿವರ್ಯರೆಂದರೆ ಮಹರ್ಹಿ ಯಾಜ್ಞವಲ್ಕ್ಯರು</text>
+				<page>0013-0014</page>
+				<allauthors>
+					<author salut="">ಕೆ. ಆರ್. ಮಂಡಗದ್ದೆ ಪ್ರಕಾಶ ಬಾಬು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಾಧಕನಿಗೆ ಗೆಲ್ಲಲು ಏಕಾಗ್ರತೆಯ ಮೂಲಮಂತ್ರ</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಶ್ರೀಮದ್ಭಗವದ್ಗೀತೆಯ ಸಾಂಖ್ಯಯೋಗದ ೬೬ನೇ ಶ್ಲೋಕದಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣ ಪರಮಾತ್ಮ ನಮ್ಮ ಏಕಾಗ್ರತೆ ಮತ್ತು ಧ್ಯಾನ</text>
+				<page>0015-0016</page>
+				<allauthors>
+					<author salut="">ವಿವೇಕ ಪ್ರದೀಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೋದರಿ ನಿವೇದಿತಾ (ನಾಟಕ)-ಭಾಗ ೧</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಸೋದರಿ ನಿವೇದಿತಾಳ ಜೀವನವನ್ನು ಆಧರಿಸಿದ ನಾಟಕವನ್ನು ಮೈಸೂರು ಶ್ರೀರಾಮಕೃಷ್ಣ ವಿದ್ಯಾಶಾಲೆಯ</text>
+				<page>0017-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮಾತೆಯವರ ಪತ್ರಗಳು-೮</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ನೀನು ಕಳುಹಿಸಿರುವ ಒಂದು ಜೋಡಿ ಸೀರೆಗಳು ಇಂದು ಸಿಕ್ಕಿದವು. ಸೀರೆಗಳು ಅತ್ಯಂತ ಸುಂದರವಾಗಿದೆ</text>
+				<page>0020-0021</page>
+				<allauthors>
+					<author salut="">ಪ್ರವ್ರಾಜಿಕಾ ಧರ್ಮಪ್ರಾಣಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮಾತೆ-ಭಾಗ ೧೪</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಗಾಡಿಯಲ್ಲಿ ಕುಳಿತು ಹೋಗುವಾಗ ಶ್ರೀಮಾತೆಯವರ ಒಂದು ಕಾಲಿ ಈ ಕಡೆ, ಇನ್ನೊಂದು ಕಾಲು ಆ ಕಡೆ ಜೋತು ಬೀಳತೊಡಗಿತು</text>
+				<page>0022-0025</page>
+				<allauthors>
+					<author salut="">ಆಶುತೋಷ್ ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಧಿಕಾ ರಾಣಿ - `ಉಮೆ'</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಒಂದು ದಿನ ಬೆಳಗ್ಗೆ ಕ್ಷೀರಭವಾನಿಯ ಮಂದಿರದಲ್ಲಿ ಯುವ ಸಂನ್ಯಾಸಿಯೊಬ್ಬ ಗಾಢವಾದ ಧ್ಯಾನದಲ್ಲಿ ಲೀನವಾಗಿದ್ದುದನ್ನು</text>
+				<page>0026-0026</page>
+				<allauthors>
+					<author salut="">ಸ್ವರ್ಣಗೌರಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅರುಹೇ ಆರೋಗ್ಯ ಮರಹೇ ರೋಗ!</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಹೌದು ಇಂದಿನ ಸಂಕೀರ್ಣ ಸಂಘರ್ಷಗಳ ಅನಿಶ್ಚಿತ ಪರಿಸರದಲ್ಲಿ ಅಸ್ಥಿರತೆ ನಮ್ಮನ್ನು ತೊತ್ತಳದುಳಿದು</text>
+				<page>0027-0028</page>
+				<allauthors>
+					<author salut="ಪ್ರೊ">ಜಿ. ಎಚ್. ಹನ್ನೆರಡುಮಠ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೫</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಮಾರನೇ ದಿನ ಬಿದ್ದಿದ ೧೨ ಇಂಚು ಮಂಜಿನ ಮೇಲೆ ನಡೆಯುತ್ತ ಎಲ್ಲರೂ ಹೊರಟರು</text>
+				<page>0029-0031</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಶ್ರದ್ಧಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸ್ವಾಮೀಜಿ-ಶಿಷ್ಯ ಸಂವಾದ</title>
+				<feature />
+				<text />
+				<page>0032-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು-೨</title>
+				<feature>ಸಂತರ ಜೀವನ</feature>
+				<text>ಉಡುಪಿ ಸುತ್ತಮುತ್ತ ಅವರಿಗೆ ಗೌರವ ಸಮ್ಮಾನಗಳು ದೊರೆತವು. ಇದರಿಂದ ಆಚಾರ್ಯರು ಉತ್ತೇಜಿತರಾಗಿ ಇನ್ನೂ ವಿಶಾಲ</text>
+				<page>0033-0036</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಚೋಖಾಮೇಳ</title>
+				<feature>ಚಿತ್ರಕಥೆ</feature>
+				<text>ಚೋಖಾಮೇಳನು ಕೆಳಜಾತಿಯಲ್ಲಿ ಹುಟ್ಟಿದ ಸಂತ. ಪಂಡರಾಪುರದ ವಿಠಲನನ್ನು ಕುರಿತು</text>
+				<page>0037-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸುದ್ದಿ ಸಂಚಯ</title>
+				<feature />
+				<text />
 				<page>0041-0042</page>
 				<allauthors />
 			</entry>

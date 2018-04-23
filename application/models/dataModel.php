@@ -99,8 +99,12 @@ class dataModel extends Model {
 					
 					$array = [];
 					$array['title'] = $entry->title->__toString();
+					$array['text'] = $entry->text->__toString();
 					$array['feature'] = $entry->feature->__toString();
 					$array['page'] = $entry->page->__toString();
+					if(isset($entry['type']) && $entry['type'] != "")
+						$array['articleType'] = (string)$entry['type'];
+
 					$splitPage = explode('-', $array['page']);
 
 					$jsonFilePath = PHY_METADATA_URL . $completeIssue['volume'] . '/' . $completeIssue['issue'] . '/';

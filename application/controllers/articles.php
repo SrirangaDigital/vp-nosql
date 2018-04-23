@@ -39,7 +39,7 @@ class articles extends Controller {
 		$url = BASE_URL . 'api/articles?' . $filter;
 		$result = json_decode($this->model->getDataFromApi($url), true);
 		$result['pageTitle'] = ARCHIVE . ' > ' . TOC . ' > ' . ARCHIVE_VOLUME . ' ' . $viewHelper->roman2Kannada($viewHelper->rlZero($query['volume'])) . ', ' . ARCHIVE_ISSUE . ' '. $viewHelper->roman2Kannada($viewHelper->rlZero($query['issue']));
-		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
+		($query['volume'] >= '019' AND $query['issue'] >= '02') ? $this->view('articles/newArticles', json_encode($result)) : $this->view('articles/articles', json_encode($result));
 	}
 
 	public function author($query = [], $author = DEFAULT_STRING) {

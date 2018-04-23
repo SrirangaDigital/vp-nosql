@@ -8,6 +8,7 @@
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
+            "text": "",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
             "relativePageNumber": 5,
@@ -27,6 +28,7 @@
         },
         {
             "title": "ನಾನು-ವಿನ ನಾನಾಮುಖ",
+            "text": "",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0008",
             "relativePageNumber": 7,
@@ -58,6 +60,7 @@
         },
         {
             "title": "ಗುರು",
+            "text": "",
             "feature": "",
             "page": "0009-0013",
             "relativePageNumber": 11,
@@ -93,6 +96,7 @@
         },
         {
             "title": "ಕೃತಿಯಂತೆ ಗತಿ",
+            "text": "",
             "feature": "",
             "page": "0014-0018",
             "relativePageNumber": 16,
@@ -128,6 +132,7 @@
         },
         {
             "title": "ಸನಾತನ ಹಿಂದೂಧರ್ಮ",
+            "text": "",
             "feature": "",
             "page": "0019-0021",
             "relativePageNumber": 21,
@@ -155,6 +160,7 @@
         },
         {
             "title": "ವಿವೇಕಾನಂದರ ದಿವ್ಯಸ್ಮೃತಿ",
+            "text": "",
             "feature": "",
             "page": "0022-0023",
             "relativePageNumber": 24,
@@ -178,6 +184,7 @@
         },
         {
             "title": "ಗತವೈಭವದ ಪುನರ್ನಿಮಾಣ",
+            "text": "",
             "feature": "",
             "page": "0024-0028",
             "relativePageNumber": 26,
@@ -213,6 +220,7 @@
         },
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
+            "text": "",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0028-0028",
             "relativePageNumber": 30,
@@ -232,6 +240,7 @@
         },
         {
             "title": "ದಿವ್ಯಚ್ಛೆತನದ ಮಹಾಸಮಾಧಿ",
+            "text": "",
             "feature": "",
             "page": "0029-0030",
             "relativePageNumber": 31,
@@ -255,6 +264,7 @@
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ ಗುರುವಾಕ್ಯದಲ್ಲಿ ಶ್ರದ್ಧೆ",
+            "text": "",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0031-0031",
             "relativePageNumber": 33,
@@ -274,6 +284,7 @@
         },
         {
             "title": "ಯುವಸ್ಪಂದನ",
+            "text": "",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0032-0034",
             "relativePageNumber": 34,
@@ -301,6 +312,7 @@
         },
         {
             "title": "ಜ್ಯೋತಿಷ್ಯದ ಭವಿಷ್ಯ ನೀರೇ ನಾರಾಯಣ",
+            "text": "",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0036",
             "relativePageNumber": 37,
@@ -324,6 +336,7 @@
         },
         {
             "title": "ಕತ್ತರಿ ಮತ್ತು ಸೂಜಿ",
+            "text": "",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
             "relativePageNumber": 38,
@@ -343,6 +356,7 @@
         },
         {
             "title": "ಮಹಾಮಂತ್ರ-ಕಥಾಚಿತ್ರ",
+            "text": "",
             "feature": "",
             "page": "0037-0037",
             "relativePageNumber": 39,
@@ -362,6 +376,7 @@
         },
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
+            "text": "",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0038-0038",
             "relativePageNumber": 40,
@@ -381,6 +396,7 @@
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
+            "text": "",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
             "relativePageNumber": 41,

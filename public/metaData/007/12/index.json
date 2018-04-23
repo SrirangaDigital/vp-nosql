@@ -8,6 +8,7 @@
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
+            "text": "",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
             "relativePageNumber": 5,
@@ -27,6 +28,7 @@
         },
         {
             "title": "ಶ್ರೀಮಾತೆಯ ಅಂತರಾಳ",
+            "text": "",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0010",
             "relativePageNumber": 7,
@@ -58,6 +60,7 @@
         },
         {
             "title": "ಭಾರತೀಯ ನಾರಿ ನಡೆದು ಬಂದ ದಾರಿ",
+            "text": "",
             "feature": "",
             "page": "0011-0014",
             "relativePageNumber": 11,
@@ -89,6 +92,7 @@
         },
         {
             "title": "ಯಾರು ದೇವಿ ಭಗವತಿಯೋ, ಅವರೇ ಶಾರದಾ, ಸರಸ್ವತಿ-೨",
+            "text": "",
             "feature": "",
             "page": "0015-0018",
             "relativePageNumber": 15,
@@ -120,6 +124,7 @@
         },
         {
             "title": "ಜೀವದ ಗೆಳೆಯರು- ನಿಮ್ಮ ಬದುಕಿನಲ್ಲಿ ಅಂತಹವರು ಇದ್ದಾರೆಯೆ?",
+            "text": "",
             "feature": "",
             "page": "0019-0021",
             "relativePageNumber": 19,
@@ -147,6 +152,7 @@
         },
         {
             "title": "ಜೀವನಪ್ರಭ- ಹರಿಹರ",
+            "text": "",
             "feature": "",
             "page": "0022-0023",
             "relativePageNumber": 22,
@@ -170,6 +176,7 @@
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣರಿಗೆ ಕ್ರಿಸ್ತನ ದರ್ಶನವಾದಾಗ",
+            "text": "",
             "feature": "",
             "page": "0024-0024",
             "relativePageNumber": 24,
@@ -189,6 +196,7 @@
         },
         {
             "title": "ವನಸುಮದೊಲೆನ್ನ ಜೀವನವು ವಿಕಸಿಸುವಂತೆ",
+            "text": "",
             "feature": "",
             "page": "0025-0026",
             "relativePageNumber": 25,
@@ -212,6 +220,7 @@
         },
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
+            "text": "",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0026-0026",
             "relativePageNumber": 26,
@@ -231,6 +240,7 @@
         },
         {
             "title": "ಶ್ರೀಮಾತೆ ಶಾರದಾದೇವಿಯವರ ಕೆಲವು ಭಾವಚಿತ್ರಗಳು",
+            "text": "",
             "feature": "",
             "page": "0027-0027",
             "relativePageNumber": 27,
@@ -244,6 +254,7 @@
         },
         {
             "title": "ಶ್ರೀಮಾತೆ ಶಾರದಾದೇವಿ- ಶ್ರೀರಾಮಕೃಷ್ಣರ ಸಂನ್ಯಾಸಿ ಶಿಷ್ಯರ ದೃಷ್ಟಿಯಲ್ಲಿ -೨",
+            "text": "",
             "feature": "",
             "page": "0028-0032",
             "relativePageNumber": 28,
@@ -279,6 +290,7 @@
         },
         {
             "title": "ಶಿಕ್ಷಕ-ಬದಲಾವಣೆಯ ಹರಿಕಾರ-೩",
+            "text": "",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0033-0034",
             "relativePageNumber": 33,
@@ -302,6 +314,7 @@
         },
         {
             "title": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
+            "text": "",
             "feature": "ಕೇಳಿ ತಿಳಿಯಿರಿ",
             "page": "0035-0035",
             "relativePageNumber": 35,
@@ -321,6 +334,7 @@
         },
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಎಚ್ಚೆತ್ತ ಭಾರತ",
+            "text": "",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0036-0036",
             "relativePageNumber": 36,
@@ -340,6 +354,7 @@
         },
         {
             "title": "ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ- ಜೀವ ರಹಸ್ಯ",
+            "text": "",
             "feature": "",
             "page": "0036-0036",
             "relativePageNumber": 36,
@@ -359,6 +374,7 @@
         },
         {
             "title": "ದೊಡ್ಡ ಭಿಕ್ಷುಕರು",
+            "text": "",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0037-0037",
             "relativePageNumber": 37,
@@ -378,6 +394,7 @@
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
+            "text": "",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0038-0038",
             "relativePageNumber": 38,

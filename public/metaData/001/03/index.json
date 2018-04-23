@@ -8,6 +8,7 @@
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
+            "text": "",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
             "relativePageNumber": 7,
@@ -27,6 +28,7 @@
         },
         {
             "title": "ಸ್ವಕೇಂದ್ರಿತ ಮತ್ತು ಪರಕೇಂದ್ರಿತ ನೈತಿಕತೆ",
+            "text": "",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0006-0008",
             "relativePageNumber": 8,
@@ -54,6 +56,7 @@
         },
         {
             "title": "ಶಂಕರಾಚಾರ್ಯರ ಸ್ತೋತ್ರ ಕೃತಿಗಳಲ್ಲಿ ಭಕ್ತಿಭಾವ",
+            "text": "",
             "feature": "",
             "page": "0009-0012",
             "relativePageNumber": 11,
@@ -85,6 +88,7 @@
         },
         {
             "title": "ಅಹಂ(ನಾನು) ತತ್ತ್ವದ ಸ್ಥೂಲ ಪರಿಚಯ",
+            "text": "",
             "feature": "",
             "page": "0013-0014",
             "relativePageNumber": 15,
@@ -108,6 +112,7 @@
         },
         {
             "title": "ಸಮಾಜದ ಸಮತೋಲನದಲ್ಲಿ ಸೇವಾಸಂಸ್ಥೆಗಳ ಪಾತ್ರ",
+            "text": "",
             "feature": "",
             "page": "0014-0016",
             "relativePageNumber": 16,
@@ -135,6 +140,7 @@
         },
         {
             "title": "ಚೆನ್ನೈನಲ್ಲಿ ರಾಮಕೃಷ್ಣ ಭಾವಧಾರೆ",
+            "text": "",
             "feature": "",
             "page": "0017-0020",
             "relativePageNumber": 19,
@@ -166,6 +172,7 @@
         },
         {
             "title": "ಯುಗಧರ್ಮದ ಹರಿಕಾರರು ರಾಮಕೃಷ್ಣ - ವಿವೇಕಾನಂದ",
+            "text": "",
             "feature": "",
             "page": "0021-0023",
             "relativePageNumber": 23,
@@ -193,6 +200,7 @@
         },
         {
             "title": "ಕಲ್ಪತರು",
+            "text": "",
             "feature": "",
             "page": "0024-0024",
             "relativePageNumber": 26,
@@ -212,6 +220,7 @@
         },
         {
             "title": "ಸಮನ್ವಯ ಭಾವ",
+            "text": "",
             "feature": "",
             "page": "0025-0025",
             "relativePageNumber": 27,
@@ -231,6 +240,7 @@
         },
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
+            "text": "",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0026-0026",
             "relativePageNumber": 28,
@@ -250,6 +260,7 @@
         },
         {
             "title": "ಶಿವರಾತ್ರಿ ಸಂದೇಶ",
+            "text": "",
             "feature": "",
             "page": "0027-0028",
             "relativePageNumber": 29,
@@ -273,6 +284,7 @@
         },
         {
             "title": "ವ್ಯಾಧನ ಶಿವರಾತ್ರಿ",
+            "text": "",
             "feature": "",
             "page": "0028-0029",
             "relativePageNumber": 30,
@@ -296,6 +308,7 @@
         },
         {
             "title": "ಏಕಾಗ್ರತೆ ಕಲೆ - ಯುವ ವೇದಿಕೆ",
+            "text": "",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0030-0032",
             "relativePageNumber": 32,
@@ -323,6 +336,7 @@
         },
         {
             "title": "ನಾವೆಲ್ಲ ಒಂದೇ, ಔಷಧವೇ ವಿಷ",
+            "text": "",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0033-0033",
             "relativePageNumber": 35,
@@ -342,6 +356,7 @@
         },
         {
             "title": "ಪ್ರೀತಿಯಿಂದ ಪ್ರೀತಿ ಪ್ರಾಮಾಣಿಕತೆ",
+            "text": "",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0034-0035",
             "relativePageNumber": 36,
@@ -365,6 +380,7 @@
         },
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
+            "text": "",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0036-0036",
             "relativePageNumber": 38,
@@ -384,6 +400,7 @@
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
+            "text": "",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0037-0038",
             "relativePageNumber": 39,

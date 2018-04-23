@@ -8,6 +8,7 @@
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
+            "text": "",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
             "relativePageNumber": 5,
@@ -27,6 +28,7 @@
         },
         {
             "title": "ನೈತಿಕ ಚಿಂತನೆ - ಸಂಪಾದಕೀಯ",
+            "text": "",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0009",
             "relativePageNumber": 7,
@@ -62,6 +64,7 @@
         },
         {
             "title": "ಮೈಸೂರಿನಲ್ಲಿ ದಸರಾ ಹಬ್ಬ",
+            "text": "",
             "feature": "",
             "page": "0010-0012",
             "relativePageNumber": 12,
@@ -89,6 +92,7 @@
         },
         {
             "title": "ಭಾಗವತದ ಸಾರತತ್ತ್ವ",
+            "text": "",
             "feature": "",
             "page": "0013-0017",
             "relativePageNumber": 15,
@@ -124,6 +128,7 @@
         },
         {
             "title": "ಮಧುರ ಗಾಯಕ ರಾಮಪ್ರಸಾದ",
+            "text": "",
             "feature": "",
             "page": "0018-0020",
             "relativePageNumber": 20,
@@ -151,6 +156,7 @@
         },
         {
             "title": "ವಿವೇಕಾನಂದರ ನವ್ಯವೇದಾಂತ",
+            "text": "",
             "feature": "",
             "page": "0021-0024",
             "relativePageNumber": 23,
@@ -182,6 +188,7 @@
         },
         {
             "title": "ಕಷ್ಟ- ಒಂದು ಅನಿಸಿಕೆ",
+            "text": "",
             "feature": "",
             "page": "0025-0026",
             "relativePageNumber": 27,
@@ -205,6 +212,7 @@
         },
         {
             "title": "ದಕ್ಷಿಣ ಕಾಶಿ-ಕೊಲ್ಹಾಪುರ",
+            "text": "",
             "feature": "",
             "page": "0027-0029",
             "relativePageNumber": 29,
@@ -232,6 +240,7 @@
         },
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
+            "text": "",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0029-0029",
             "relativePageNumber": 31,
@@ -251,6 +260,7 @@
         },
         {
             "title": "ರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ಬ್ರಹ್ಮ ಶಕ್ತಿ ಅಭೇದ",
+            "text": "",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0030-0030",
             "relativePageNumber": 32,
@@ -270,6 +280,7 @@
         },
         {
             "title": "ಯಶಸ್ಸು",
+            "text": "",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0031-0034",
             "relativePageNumber": 33,
@@ -301,6 +312,7 @@
         },
         {
             "title": "ಭೂತಾಪ-ಸಂತಾಪ ಸಂಸ್ಕಾರಗಳ ಸಂಸ್ಕರಣ - ವಾರ್ತಾ ವಿಶ್ಲೇಷಣೆ",
+            "text": "",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
             "relativePageNumber": 37,
@@ -320,6 +332,7 @@
         },
         {
             "title": "ಸ್ವರ್ಗ-ನರಕ",
+            "text": "",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
             "relativePageNumber": 38,
@@ -339,6 +352,7 @@
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
+            "text": "",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0037-0037",
             "relativePageNumber": 39,

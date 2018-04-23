@@ -8,6 +8,7 @@
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
+            "text": "",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
             "relativePageNumber": 5,
@@ -27,6 +28,7 @@
         },
         {
             "title": "ಪಂಚಕೋಶ ವಿಚಾರ",
+            "text": "",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0008",
             "relativePageNumber": 7,
@@ -58,6 +60,7 @@
         },
         {
             "title": "ಶರಣಾಗತಿಯ ಆರು ಲಕ್ಷಣಗಳು",
+            "text": "",
             "feature": "",
             "page": "0009-0012",
             "relativePageNumber": 11,
@@ -89,6 +92,7 @@
         },
         {
             "title": "ಗ್ರಾಮದೇವಾ ಯಜ್ಞ",
+            "text": "",
             "feature": "",
             "page": "0013-0017",
             "relativePageNumber": 15,
@@ -124,6 +128,7 @@
         },
         {
             "title": "ಗಾಂಧೀಜಿ ದೃಷ್ಟಿಯಲ್ಲಿ ಸತ್ಯ",
+            "text": "",
             "feature": "",
             "page": "0018-0020",
             "relativePageNumber": 20,
@@ -151,6 +156,7 @@
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ವೈಜ್ಞಾನಿಕ ಮನೋಭಾವ",
+            "text": "",
             "feature": "",
             "page": "0020-0022",
             "relativePageNumber": 22,
@@ -178,6 +184,7 @@
         },
         {
             "title": "ವಚನವೇದ-ದ ಓದು ಅಧ್ಯಯನಯೋಗ",
+            "text": "",
             "feature": "",
             "page": "0022-0023",
             "relativePageNumber": 24,
@@ -201,6 +208,7 @@
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ - ಭಗವತಿ ಲೀಲಾಮಯಿ",
+            "text": "",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0024-0024",
             "relativePageNumber": 26,
@@ -220,6 +228,7 @@
         },
         {
             "title": "ಪೋಸ್ತಾಂ ಪರ್ಬು",
+            "text": "",
             "feature": "",
             "page": "0025-0025",
             "relativePageNumber": 27,
@@ -239,6 +248,7 @@
         },
         {
             "title": "ನೇಪಾಳ ಒಂದು ದರ್ಶನ",
+            "text": "",
             "feature": "",
             "page": "0026-0028",
             "relativePageNumber": 28,
@@ -266,6 +276,7 @@
         },
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
+            "text": "",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0029-0029",
             "relativePageNumber": 31,
@@ -285,6 +296,7 @@
         },
         {
             "title": "ಸ್ವಾಮಿ ಅಖಂಡಾನಂದರ ಒಂದು ಪತ್ರ",
+            "text": "",
             "feature": "",
             "page": "0030-0031",
             "relativePageNumber": 32,
@@ -308,6 +320,7 @@
         },
         {
             "title": "ಸದಾಚಾರದಿಂದ ಉದ್ಧಾರ",
+            "text": "",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0032-0033",
             "relativePageNumber": 34,
@@ -331,6 +344,7 @@
         },
         {
             "title": "ಶಾಲೆಯ ಪಠ್ಯಕ್ರಮದಲ್ಲಿ ಇರಬೇಕಾದ ಮುಖ್ಯಾಂಶಗಳು",
+            "text": "",
             "feature": "",
             "page": "0034-0034",
             "relativePageNumber": 36,
@@ -350,6 +364,7 @@
         },
         {
             "title": "ಧರ್ಮದಲ್ಲಿ ಪ್ರಜಾಸತ್ತೆ, ಸತ್ಯದೂರ ಸುದ್ದಿ",
+            "text": "",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
             "relativePageNumber": 37,
@@ -369,6 +384,7 @@
         },
         {
             "title": "ಮೂಕವೃಕ್ಷದ ದಾನ",
+            "text": "",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
             "relativePageNumber": 38,
@@ -388,6 +404,7 @@
         },
         {
             "title": "ಶಿಬಿಯ ದಾನ-ಕಥಾಚಿತ್ರ",
+            "text": "",
             "feature": "",
             "page": "0037-0037",
             "relativePageNumber": 39,
@@ -407,6 +424,7 @@
         },
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
+            "text": "",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0038-0038",
             "relativePageNumber": 40,
@@ -426,6 +444,7 @@
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
+            "text": "",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
             "relativePageNumber": 41,

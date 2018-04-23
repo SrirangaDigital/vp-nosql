@@ -8,6 +8,7 @@
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
+            "text": "",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0003-0003",
             "relativePageNumber": 5,
@@ -27,6 +28,7 @@
         },
         {
             "title": "ಗುರುದೇವರ ಶ್ರೀಪಾದಗಳಿಗೆ ಮಣಿದ ಮನ",
+            "text": "",
             "feature": "",
             "page": "0004-0004",
             "relativePageNumber": 6,
@@ -46,6 +48,7 @@
         },
         {
             "title": "ಸ್ವಾತಂತ್ರ್ಯಾನ್ವೇಷಣೆ",
+            "text": "",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0005-0008",
             "relativePageNumber": 7,
@@ -77,6 +80,7 @@
         },
         {
             "title": "ಸಿಂಡೂಲಿಪಿಯ ಅರ್ಥಗ್ರಹಣ ಮತ್ತು ವೈದಿಕ ನಾಗರೀಕತೆ",
+            "text": "",
             "feature": "",
             "page": "0009-0011",
             "relativePageNumber": 11,
@@ -104,6 +108,7 @@
         },
         {
             "title": "ರಾಮುವಿನ ಕಥೆ",
+            "text": "",
             "feature": "",
             "page": "0012-0014",
             "relativePageNumber": 14,
@@ -131,6 +136,7 @@
         },
         {
             "title": "ಸಂನ್ಯಸಿ ಮತ್ತು ಬ್ರಹ್ಮಚರ್ಯ",
+            "text": "",
             "feature": "",
             "page": "0015-0018",
             "relativePageNumber": 17,
@@ -162,6 +168,7 @@
         },
         {
             "title": "ಪ್ರಹಸನ ಪ್ರಸಂಗ",
+            "text": "",
             "feature": "ಪ್ರಹಸನ ಪ್ರಸಂಗ /ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಹಸನ",
             "page": "0018-0018",
             "relativePageNumber": 20,
@@ -181,6 +188,7 @@
         },
         {
             "title": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ದಿವ್ಯಸ್ಮೃತಿ",
+            "text": "",
             "feature": "",
             "page": "0019-0021",
             "relativePageNumber": 21,
@@ -208,6 +216,7 @@
         },
         {
             "title": "ಪವಿತ್ರ ಯಾತ್ರೆ",
+            "text": "",
             "feature": "",
             "page": "0022-0023",
             "relativePageNumber": 24,
@@ -231,6 +240,7 @@
         },
         {
             "title": "ಠಾಕುರರ ಐದು ಆದರ್ಶಗಳು",
+            "text": "",
             "feature": "",
             "page": "0023-0024",
             "relativePageNumber": 25,
@@ -254,6 +264,7 @@
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ತೀರ್ಥಸ್ಥಾನಗಳು",
+            "text": "",
             "feature": "",
             "page": "0025-0029",
             "relativePageNumber": 27,
@@ -289,6 +300,7 @@
         },
         {
             "title": "ಜಗತ್ತೆಲ್ಲ ನಿನ್ನದೇ",
+            "text": "",
             "feature": "",
             "page": "0029-0030",
             "relativePageNumber": 31,
@@ -312,6 +324,7 @@
         },
         {
             "title": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ-ತೀರ್ಥಯಾತ್ರೆ",
+            "text": "",
             "feature": "ರಾಮಕೃಷ್ಣರ ವಚನ ವೇದದಿಂದ",
             "page": "0031-0031",
             "relativePageNumber": 33,
@@ -331,6 +344,7 @@
         },
         {
             "title": "ಮತ್ತೊಮ್ಮೆ ಶಿಕ್ಷಣ ಪಡೆಯುವಂತಾದರೆ",
+            "text": "",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0032-0034",
             "relativePageNumber": 34,
@@ -358,6 +372,7 @@
         },
         {
             "title": "ಮಿದುಳಿನಲ್ಲಿ ಧ್ಯಾನಕೇಂದ್ರ ನಮ್ಮ ಪೂರ್ವಸ್ಥಾನ",
+            "text": "",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0035-0035",
             "relativePageNumber": 37,
@@ -377,6 +392,7 @@
         },
         {
             "title": "ಪ್ರೇರಕ ಶಕ್ತಿ",
+            "text": "",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0036-0036",
             "relativePageNumber": 38,
@@ -396,6 +412,7 @@
         },
         {
             "title": "ತತ್ತ್ವಮಸಿ-ಕಥಾಚಿತ್ರ",
+            "text": "",
             "feature": "",
             "page": "0037-0037",
             "relativePageNumber": 39,
@@ -415,6 +432,7 @@
         },
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
+            "text": "",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0038-0038",
             "relativePageNumber": 40,
@@ -434,6 +452,7 @@
         },
         {
             "title": "ಸುದ್ದಿಸಂಚಯ",
+            "text": "",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0039-0039",
             "relativePageNumber": 41,

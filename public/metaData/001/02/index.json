@@ -8,6 +8,7 @@
     "toc": [
         {
             "title": "ಪ್ರಾರ್ಥನೆ",
+            "text": "",
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0005-0005",
             "relativePageNumber": 7,
@@ -27,6 +28,7 @@
         },
         {
             "title": "ವಿವೇಕಪ್ರಭ",
+            "text": "",
             "feature": "ಸಂಪಾದಕರು",
             "page": "0007-0009",
             "relativePageNumber": 9,
@@ -54,6 +56,7 @@
         },
         {
             "title": "ಸಿಂಗಪುರದ ಯಶೋಗಾಥೆ",
+            "text": "",
             "feature": "",
             "page": "0010-0012",
             "relativePageNumber": 12,
@@ -81,6 +84,7 @@
         },
         {
             "title": "ವಿಕಾಸದ ಕಥೆ",
+            "text": "",
             "feature": "",
             "page": "0013-0015",
             "relativePageNumber": 15,
@@ -108,6 +112,7 @@
         },
         {
             "title": "ಮನಸ್ಸು ಮತ್ತು ಜಗತ್ತು",
+            "text": "",
             "feature": "",
             "page": "0016-0019",
             "relativePageNumber": 18,
@@ -139,6 +144,7 @@
         },
         {
             "title": "ವಿಶ್ವಮಾನವ ವಿವೇಕಾನಂದ",
+            "text": "",
             "feature": "",
             "page": "0020-0023",
             "relativePageNumber": 22,
@@ -170,6 +176,7 @@
         },
         {
             "title": "ಆತ್ಮಪ್ರಜ್ಞೆ ಎಂದರೇನು?",
+            "text": "",
             "feature": "",
             "page": "0024-0025",
             "relativePageNumber": 26,
@@ -193,6 +200,7 @@
         },
         {
             "title": "ಮುಕುಂದುರು ಸ್ವಾಮಿಗಳು - ಸಂತನ ಜೀವನ",
+            "text": "",
             "feature": "",
             "page": "0026-0027",
             "relativePageNumber": 28,
@@ -216,6 +224,7 @@
         },
         {
             "title": "ದಿವ್ಯಪ್ರಭೆಯ ಭವ್ಯ ಬೈರಾಗಿ - ಕವನ",
+            "text": "",
             "feature": "",
             "page": "0028-0028",
             "relativePageNumber": 30,
@@ -235,6 +244,7 @@
         },
         {
             "title": "ಪ್ರಶ್ನೋತ್ತರ",
+            "text": "",
             "feature": "ಯುವವೇದಿಕೆ",
             "page": "0029-0031",
             "relativePageNumber": 31,
@@ -262,6 +272,7 @@
         },
         {
             "title": "ಸಾಂಸ್ಕೃತಿಕ ಏಕೀಕರಣ, ಕಂಪ್ಯೂಟರ್ ಗುರು",
+            "text": "",
             "feature": "ವಾರ್ತಾವಿಶ್ಲೇಷಣೆ",
             "page": "0032-0032",
             "relativePageNumber": 34,
@@ -281,6 +292,7 @@
         },
         {
             "title": "ಬುದ್ಧಿಯ ವೃದ್ಧಿ, ಶಾಶ್ವತ ದೇಹ",
+            "text": "",
             "feature": "",
             "page": "0033-0033",
             "relativePageNumber": 35,
@@ -300,6 +312,7 @@
         },
         {
             "title": "ಭಾವೊದ್ವೇಗಗಳ ಗೂಂಡಗಿರಿ",
+            "text": "",
             "feature": "ಕಥೋಪದೇಶ",
             "page": "0034-0034",
             "relativePageNumber": 36,
@@ -319,6 +332,7 @@
         },
         {
             "title": "ಮನವೆಂಬ ಮರ್ಕಟ",
+            "text": "",
             "feature": "",
             "page": "0035-0035",
             "relativePageNumber": 37,
@@ -338,6 +352,7 @@
         },
         {
             "title": "ಅಲೆಗ್ಸಂಡರ್ ಸಂದೇಶ",
+            "text": "",
             "feature": "",
             "page": "0036-0036",
             "relativePageNumber": 38,
@@ -357,6 +372,7 @@
         },
         {
             "title": "ಪುಸ್ತಕ ಪರಿಚಯ",
+            "text": "",
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0037-0037",
             "relativePageNumber": 39,
@@ -376,6 +392,7 @@
         },
         {
             "title": "ಸುದ್ದಿ ಸಂಚಯ",
+            "text": "",
             "feature": "ಸುದ್ದಿಸಂಚಯ",
             "page": "0038-0040",
             "relativePageNumber": 40,

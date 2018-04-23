@@ -31576,92 +31576,94 @@
 			</entry>
 		</issue>
 		<issue inum="02" month="02" year="2018" theme="">
-			<entry>
+			<entry type="3">
 				<title>ರಾಮಕೃಷ್ಣ ರಕ್ಷಿಸೈ</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
-				<text />
+				<text>ಪರಮಹಂಸ ರಾಮಕೃಷ್ಣ ಕರುಣೆದೋರಿ ಸಲಹು ಬೇಗ ಶಿರವ ಬಾಗಿ ಬೇಡುತಿರ್ಪೆ ಗುರುವೇ ರಕ್ಷಿಸೈ...</text>
 				<page>0004-0006</page>
 				<allauthors />
 			</entry>
-			<entry>
+			<entry type="1">
 				<title>ಆಧುನಿಕ ಪ್ರವೃತ್ತಿ ಮತ್ತು ಸನಾತನ ತತ್ತ್ವ </title>
 				<feature>ಸಂಪಾದಕೀಯ</feature>
-				<text />
+				<text>ಬದಕು ನಿಂತ ನೀರಲ್ಲ. ಸದಾ ಹರಿಯುತ್ತಿರುವುದೇ ನದಿಯ ಸ್ವಭಾವ. ಜೀವನವೆಂಬುದು ನದಿಯಂತೆ; ಪ್ರತಿ ಕ್ಷಣವೂ ಬದಲಾಗುತ್ತಿರುವುದು ಅದರ ಲಕ್ಷಣ. ಹಾಗಿದ್ದರೂ...</text>
 				<page>0007-0009</page>
 				<allauthors />
 			</entry>
-			<entry>
+			<entry type="2">
 				<title>ಮನಸ್ಸು ಮತ್ತು ಸಾಧನೆ</title>
 				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
-				<text>ಚಿತ್ತಶುದ್ಧಿ ಆಗುವವರೆಗೂ ಭಗವಂತನ ದರ್ಶನ ದೊರೆಯುವ ಹಾಗಿಲ್ಲ</text>
+				<text>ಚಿತ್ತಶುದ್ಧಿ ಆಗುವವರೆಗೂ ಭಗವಂತನ ದರ್ಶನ ದೊರೆಯುವ ಹಾಗಿಲ್ಲ....</text>
 				<page>0010-0010</page>
 				<allauthors />
 			</entry>
-			<entry>
+			<entry type="2">
 				<title>ಶ್ರೀರಾಮಕೃಷ್ಣರ ನುಡಿಗಳ ತಾತ್ಪರ್ಯ</title>
 				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
-				<text>ಯುಗಾಚಾರ್ಯ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರನ್ನು ವರ್ಣಿಸುವದೆಂದರೆ ಸೂರ್ಯನ ತೇಜಸ್ಸನ್ನು</text>
+				<text>ಯುಗಾಚಾರ್ಯ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರನ್ನು ವರ್ಣಿಸುವದೆಂದರೆ ಸೂರ್ಯನ ತೇಜಸ್ಸನ್ನು....</text>
 				<page>0011-0016</page>
 				<allauthors>
 					<author salut="ಸ್ವಾಮಿ">ವಿಶ್ವರೂಪಾನಂದ</author>
 				</allauthors>
 			</entry>
-			<entry>
+			<entry type="3">
 				<title>ಆಧ್ಯಾತ್ಮಿಕ ಪಥದಲ್ಲಿ ವಿಜ್ಞಾನಿ-೩</title>
 				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
-				<text>ಆಲ್ಮೋರಾದಲ್ಲಿ ನೆಲೆಸಿ ಕೆಲಸವನ್ನು ಆರಂಭಿಸಿದ ನಂತರ ದೇಶದ ಲಕ್ಷಾಂತರ ಬಡಜನಗಳ ಹಸಿದ</text>
+				<text>ಆಲ್ಮೋರಾದಲ್ಲಿ ನೆಲೆಸಿ ಕೆಲಸವನ್ನು ಆರಂಭಿಸಿದ ನಂತರ ದೇಶದ ಲಕ್ಷಾಂತರ ಬಡಜನಗಳ ಹಸಿದ....</text>
 				<page>0017-0021</page>
 				<allauthors>
 					<author salut="">ಪ್ರವ್ರಾಜಿಕಾ ಪರಮಪ್ರಾಣಾ</author>
 				</allauthors>
 			</entry>
-			<entry>
+			<entry type="3">
 				<title>ತನ್ಮೇ ಮನಃ ಶಿವಸಂಕಲ್ಪಮಸ್ತು</title>
 				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
-				<text>ಶಿವನಾಗಪುರವೆಂಬ ಗ್ರಾಮದಲ್ಲಿ ತಾರಾಪ್ರಿಯನೆಂಬ ಒಬ್ಬ ದೈವಜ್ಞನಿದ್ದನು ದೈವಭಕ್ತನಾದ</text>
+				<text>ಶಿವನಾಗಪುರವೆಂಬ ಗ್ರಾಮದಲ್ಲಿ ತಾರಾಪ್ರಿಯನೆಂಬ ಒಬ್ಬ ದೈವಜ್ಞನಿದ್ದನು ದೈವಭಕ್ತನಾದ....</text>
 				<page>0022-0023</page>
 				<allauthors>
 					<author salut="">ವೆಂ. ಲಕ್ಷ್ಮೀಶ</author>
 				</allauthors>
 			</entry>
-			<entry>
+			<entry type="3">
 				<title>ಶ್ರೀಮಾತೆ-ಭಾಗ ೧೩</title>
 				<feature>ಧಾರಾವಾಹಿ</feature>
-				<text>ಡಾಕ್ಟರ್ ಕಂಜೀಲಾಲ್ ಕಲ್ಕತ್ತೆಗೆ ಹೊರಡುವ ದಿನ ಮಧ್ಯಾಹ್ನದ ಹೊತ್ತು ನನ್ನನ್ನು ಕರೆದು</text>
+				<text>ಡಾಕ್ಟರ್ ಕಂಜೀಲಾಲ್ ಕಲ್ಕತ್ತೆಗೆ ಹೊರಡುವ ದಿನ ಮಧ್ಯಾಹ್ನದ ಹೊತ್ತು ನನ್ನನ್ನು ಕರೆದು....</text>
 				<page>0025-0027</page>
 				<allauthors>
 					<author salut="">ಆಶುತೋಷ್ ಮಿತ್ರ</author>
 				</allauthors>
 			</entry>
-			<entry>
+			<entry type="1">
 				<title>ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೪</title>
 				<feature>ಧಾರಾವಾಹಿ</feature>
-				<text>ಆ ವಯಸ್ಕ ದಂಪತಿಗಳೇ ಕ್ಯಾಪ್ಟನ್ ಹಾಗೂ ಮಿಸೆಸ್ ಸೇವಿಯರ್; ಸ್ವರೂಪರೇ ಸ್ವಾಮಿ ಸ್ವರೂಪಾನಂದರು</text>
+				<text>ಆ ವಯಸ್ಕ ದಂಪತಿಗಳೇ ಕ್ಯಾಪ್ಟನ್ ಹಾಗೂ ಮಿಸೆಸ್ ಸೇವಿಯರ್; ಸ್ವರೂಪರೇ ಸ್ವಾಮಿ ಸ್ವರೂಪಾನಂದರು....</text>
 				<page>0028-0031</page>
 				<allauthors>
 					<author salut="ಸ್ವಾಮಿ">ಶ್ರದ್ಧಾನಂದ</author>
 				</allauthors>
 			</entry>
-			<entry>
+			<entry type="3">
 				<title>ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು</title>
 				<feature>ಸಂತರ ಜೀವನ</feature>
-				<text>ತರು ಬಹು ದೊಡ್ಡ ಅದ್ವೈತ ವಿದ್ವಾಂಸರಾಗಿದ್ದರು ಆಚಾರ್ಯರ ಜೊತೆ ವಾದ ಮಾಡಿ ಸೋತುಹೋದ</text>
+				<text>ತರು ಬಹು ದೊಡ್ಡ ಅದ್ವೈತ ವಿದ್ವಾಂಸರಾಗಿದ್ದರು ಆಚಾರ್ಯರ ಜೊತೆ ವಾದ ಮಾಡಿ ಸೋತುಹೋದ....</text>
 				<page>0032-0035</page>
 				<allauthors />
 			</entry>
-			<entry>
+			<entry type="3">
 				<title>ಪಂಡರಾಪುರದ ಇತಿಹಾಸ</title>
 				<feature>ಚಿತ್ರಕಥೆ</feature>
-				<text>ಮಹಾರಾಷ್ಟ್ರದಲ್ಲಿ ಪುಂಡಲೀಕನೆಂಬುವನೊಬ್ಬನಿದ್ದ ಅವನು ತನ್ನ ಪತ್ನಿಯ ಮಾತು</text>
+				<text>ಮಹಾರಾಷ್ಟ್ರದಲ್ಲಿ ಪುಂಡಲೀಕನೆಂಬುವನೊಬ್ಬನಿದ್ದ ಅವನು ತನ್ನ ಪತ್ನಿಯ ಮಾತು....</text>
 				<page>0037-0040</page>
 				<allauthors />
 			</entry>
-			<entry>
+			<entry type="3">
 				<title>ಸುದ್ದಿ ಸಂಚಯ</title>
 				<feature />
-				<text />
+				<text>ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ಆಡಳಿತ ಮಂಡಳಿಯ ೧೦೮ ನೇ ವಾರ್ಷಿಕ ಸಾಧಾರಣ ಸಭೆಯು ರವಿವಾರ....</text>
 				<page>0041-0042</page>
-				<allauthors />
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಸುವೀರಾನಂದ</author>
+				</allauthors>
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2018" theme="">

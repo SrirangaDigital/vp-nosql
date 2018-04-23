@@ -82,6 +82,66 @@ class viewHelper extends View {
 		$str = str_replace('9', '೯', $str);
 		return $str;
 	}
+
+	public function displayArticles($articles, $level){
+
+		if(preg_match('/1|2/', $level)){
+
+			foreach ($articles as $article) {
+
+				if($article['articleType'] == $level){
+
+					echo '<div class="row">';
+					echo '	<div col-md-12>';
+					echo '		<a href="' . BASE_URL . 'article/text/' . $article['volume'] . '/' . $article['issue'] . '/#page=' . $article['relativePageNumber'] . '" target="_blank">';
+					echo '	      <img class="img-fluid" src="' . DATA_URL . $article['volume'] . '/' . $article['issue'] . '/' . $article['page'] . '.jpg">';
+					echo '	      <p class="title">' . $article['title'] . '</p>';
+
+					if(isset($article['text']))
+						echo '	      <p class="content">' . $article['text'] . '</p>';
+
+					if(isset($article['author'])){
+
+						if(isset($article['author'])){
+							foreach ($article['author'] as $author) {
+								echo '<span><a class="author by" href="' . BASE_URL . 'articles/author/' . $author['name'] . '">' . $author['name'] . '</a></span>';
+							}
+						}
+					}
+					echo '		</a>';
+					echo '	</div>';
+					echo '</div>';
+				}
+			}
+		}
+		elseif (preg_match('/3/', $level)) {
+
+			foreach ($articles as $article) {
+
+				if($article['articleType'] == $level){
+
+					echo '<div class="cards-wrapper">';
+					echo '		<a href="' . BASE_URL . 'article/text/' . $article['volume'] . '/' . $article['issue'] . '/#page=' . $article['relativePageNumber'] . '" target="_blank">';
+					echo '	      <img class="img-fluid" src="' . DATA_URL . $article['volume'] . '/' . $article['issue'] . '/' . $article['page'] . '.jpg">';
+					echo '            <p class="title">' . $article['title'] . '</p>';
+
+					if(isset($article['text']))
+						echo '	      <p class="content">' . $article['text'] . '</p>';
+
+					if(isset($article['author'])){
+
+						if(isset($article['author'])){
+							foreach ($article['author'] as $author) {
+								echo '<span><a class="author by" href="' . BASE_URL . 'articles/author/' . $author['name'] . '">' . $author['name'] . '</a></span>';
+							}
+						}
+					}
+					echo '		</a>';
+					echo '</div>';
+				}
+			}
+		}
+	}
 }
 
 ?>

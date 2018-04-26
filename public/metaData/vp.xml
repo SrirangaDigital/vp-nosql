@@ -31667,37 +31667,28 @@
 			</entry>
 		</issue>
 		<issue inum="03" month="03" year="2018" theme="">
-			<entry>
-				<title>ಶ್ರೀರಾಮಮಾನಸ ಸ್ತೋತ್ರಮ್-೧</title>
+			<entry type="3">
+				<title>ಶ್ರೀರಾಮಮಾನಸ ಸ್ತೋತ್ರಮ್ - ೧</title>
 				<feature>ಪ್ರಾರ್ಥನೆ</feature>
-				<text />
+				<text>ಕೋಟಿಸೂರ್ಯ ತೇಜಸ್ಸುಳ್ಳ, ಮಂದಸ್ಮಿತನಾದ, ಶ್ಯಾಮಲಾ ವರ್ಣದ, ಸೀತಾದೇವಿ...</text>
 				<page>0004-0006</page>
 				<allauthors />
 			</entry>
-			<entry>
+			<entry type="1">
 				<title>ಆತ್ಮಭಾವದ ಬದುಕು</title>
 				<feature>ಸಂಪಾದಕೀಯ</feature>
-				<text />
+				<text>ವೇದಾಂತದ ಭಾವನೆಗಳು ಹೊರಗೆ ಬರಬೇಕು. ಅವು ಕೇವಲ ಅರಣ್ಯದಲ್ಲಿ ಮತ್ತು ಗಿರಿಗುಹೆಗಳಲ್ಲಿ ಮಾತ್ರ ಇರುವುದಲ್ಲ. ನ್ಯಾಯ ಸ್ಥಾನದಲ್ಲಿ....</text>
 				<page>0007-0009</page>
 				<allauthors />
 			</entry>
-			<entry>
+			<entry type="3">
 				<title>ಸಾಧನೆಯ ಮಾರ್ಗಗಳು</title>
 				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
-				<text>ಮನುಷ್ಯನಿಗೆ ಜಾಗ್ರತ್, ಸ್ವಪ್ನ, ಸುಷುಪ್ತಿ ಎಂಬ ಮೂರು ಅವಸ್ಥೆಗಳು ಉಂಟಾಗುತ್ತವೆ</text>
+				<text>ಮನುಷ್ಯನಿಗೆ ಜಾಗ್ರತ್, ಸ್ವಪ್ನ, ಸುಷುಪ್ತಿ ಎಂಬ ಮೂರು ಅವಸ್ಥೆಗಳು ಉಂಟಾಗುತ್ತವೆ....</text>
 				<page>0010-0010</page>
 				<allauthors />
-			</entry>
-			<entry>
-				<title>ನಾ ಕಂಡಂತೆ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು</title>
-				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
-				<text>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರೊಡನೆ ನನ್ನ ಮೊದಲ ಭೇಟಿ ಅವರ ಅಮೆರಿಕದ ದ್ವಿತೀಯ ಭೇಟಿಯ ಸಂದರ್ಭದಲ್ಲಿ</text>
-				<page>0011-0012</page>
-				<allauthors>
-					<author salut="ಸ್ವಾಮಿ">ಅತುಲಾನಂದ</author>
-				</allauthors>
-			</entry>
-			<entry>
+			</entry>			
+			<entry type="3">
 				<title>ಬ್ರಹ್ಮಜ್ಞಾನಿ ಯಾಜ್ಞವಲ್ಕ್ಯರು</title>
 				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
 				<text>ಉಜ್ವಲ ಸೂರ್ಯನಂತೆ ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದ ಏಕೈಕ ಋಷಿವರ್ಯರೆಂದರೆ ಮಹರ್ಹಿ ಯಾಜ್ಞವಲ್ಕ್ಯರು</text>
@@ -31706,7 +31697,7 @@
 					<author salut="">ಕೆ. ಆರ್. ಮಂಡಗದ್ದೆ ಪ್ರಕಾಶ ಬಾಬು</author>
 				</allauthors>
 			</entry>
-			<entry>
+			<entry type="1">
 				<title>ಸಾಧಕನಿಗೆ ಗೆಲ್ಲಲು ಏಕಾಗ್ರತೆಯ ಮೂಲಮಂತ್ರ</title>
 				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
 				<text>ಶ್ರೀಮದ್ಭಗವದ್ಗೀತೆಯ ಸಾಂಖ್ಯಯೋಗದ ೬೬ನೇ ಶ್ಲೋಕದಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣ ಪರಮಾತ್ಮ ನಮ್ಮ ಏಕಾಗ್ರತೆ ಮತ್ತು ಧ್ಯಾನ</text>
@@ -31715,41 +31706,41 @@
 					<author salut="">ವಿವೇಕ ಪ್ರದೀಪ</author>
 				</allauthors>
 			</entry>
-			<entry>
-				<title>ಸೋದರಿ ನಿವೇದಿತಾ (ನಾಟಕ)-ಭಾಗ ೧</title>
+			<entry type="3">
+				<title>ಸೋದರಿ ನಿವೇದಿತಾ (ನಾಟಕ) - ಭಾಗ ೧</title>
 				<feature>ಧಾರಾವಾಹಿ</feature>
-				<text>ಸೋದರಿ ನಿವೇದಿತಾಳ ಜೀವನವನ್ನು ಆಧರಿಸಿದ ನಾಟಕವನ್ನು ಮೈಸೂರು ಶ್ರೀರಾಮಕೃಷ್ಣ ವಿದ್ಯಾಶಾಲೆಯ</text>
+				<text>ಸೋದರಿ ನಿವೇದಿತಾಳ ಜೀವನವನ್ನು ಆಧರಿಸಿದ ನಾಟಕವನ್ನು ಮೈಸೂರು ಶ್ರೀರಾಮಕೃಷ್ಣ....</text>
 				<page>0017-0019</page>
 				<allauthors />
 			</entry>
-			<entry>
-				<title>ಶ್ರೀಮಾತೆಯವರ ಪತ್ರಗಳು-೮</title>
+			<entry type="3">
+				<title>ಶ್ರೀಮಾತೆಯವರ ಪತ್ರಗಳು - ೮</title>
 				<feature>ಧಾರಾವಾಹಿ</feature>
-				<text>ನೀನು ಕಳುಹಿಸಿರುವ ಒಂದು ಜೋಡಿ ಸೀರೆಗಳು ಇಂದು ಸಿಕ್ಕಿದವು. ಸೀರೆಗಳು ಅತ್ಯಂತ ಸುಂದರವಾಗಿದೆ</text>
+				<text>ನೀನು ಕಳುಹಿಸಿರುವ ಒಂದು ಜೋಡಿ ಸೀರೆಗಳು ಇಂದು ಸಿಕ್ಕಿದವು. ಸೀರೆಗಳು ಅತ್ಯಂತ....</text>
 				<page>0020-0021</page>
 				<allauthors>
 					<author salut="">ಪ್ರವ್ರಾಜಿಕಾ ಧರ್ಮಪ್ರಾಣಾ</author>
 				</allauthors>
 			</entry>
-			<entry>
-				<title>ಶ್ರೀಮಾತೆ-ಭಾಗ ೧೪</title>
+			<entry type="3">
+				<title>ಶ್ರೀಮಾತೆ - ಭಾಗ ೧೪</title>
 				<feature>ಧಾರಾವಾಹಿ</feature>
-				<text>ಗಾಡಿಯಲ್ಲಿ ಕುಳಿತು ಹೋಗುವಾಗ ಶ್ರೀಮಾತೆಯವರ ಒಂದು ಕಾಲಿ ಈ ಕಡೆ, ಇನ್ನೊಂದು ಕಾಲು ಆ ಕಡೆ ಜೋತು ಬೀಳತೊಡಗಿತು</text>
+				<text>ಗಾಡಿಯಲ್ಲಿ ಕುಳಿತು ಹೋಗುವಾಗ ಶ್ರೀಮಾತೆಯವರ ಒಂದು ಕಾಲಿ ಈ ಕಡೆ,...</text>
 				<page>0022-0025</page>
 				<allauthors>
 					<author salut="">ಆಶುತೋಷ್ ಮಿತ್ರ</author>
 				</allauthors>
 			</entry>
-			<entry>
-				<title>ರಾಧಿಕಾ ರಾಣಿ - `ಉಮೆ'</title>
+			<entry type="3">
+				<title>ರಾಧಿಕಾ ರಾಣಿ - ಉಮೆ</title>
 				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
-				<text>ಒಂದು ದಿನ ಬೆಳಗ್ಗೆ ಕ್ಷೀರಭವಾನಿಯ ಮಂದಿರದಲ್ಲಿ ಯುವ ಸಂನ್ಯಾಸಿಯೊಬ್ಬ ಗಾಢವಾದ ಧ್ಯಾನದಲ್ಲಿ ಲೀನವಾಗಿದ್ದುದನ್ನು</text>
+				<text>ಒಂದು ದಿನ ಬೆಳಗ್ಗೆ ಕ್ಷೀರಭವಾನಿಯ ಮಂದಿರದಲ್ಲಿ ಯುವ ಸಂನ್ಯಾಸಿಯೊಬ್ಬ ಗಾಢವಾದ....</text>
 				<page>0026-0026</page>
 				<allauthors>
 					<author salut="">ಸ್ವರ್ಣಗೌರಿ</author>
 				</allauthors>
 			</entry>
-			<entry>
+			<entry type="3">
 				<title>ಅರುಹೇ ಆರೋಗ್ಯ ಮರಹೇ ರೋಗ!</title>
 				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
 				<text>ಹೌದು ಇಂದಿನ ಸಂಕೀರ್ಣ ಸಂಘರ್ಷಗಳ ಅನಿಶ್ಚಿತ ಪರಿಸರದಲ್ಲಿ ಅಸ್ಥಿರತೆ ನಮ್ಮನ್ನು ತೊತ್ತಳದುಳಿದು</text>
@@ -31758,8 +31749,8 @@
 					<author salut="ಪ್ರೊ">ಜಿ. ಎಚ್. ಹನ್ನೆರಡುಮಠ</author>
 				</allauthors>
 			</entry>
-			<entry>
-				<title>ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೧೫</title>
+			<entry type="3">
+				<title>ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು - ೧೫</title>
 				<feature>ಧಾರಾವಾಹಿ</feature>
 				<text>ಮಾರನೇ ದಿನ ಬಿದ್ದಿದ ೧೨ ಇಂಚು ಮಂಜಿನ ಮೇಲೆ ನಡೆಯುತ್ತ ಎಲ್ಲರೂ ಹೊರಟರು</text>
 				<page>0029-0031</page>
@@ -31767,32 +31758,153 @@
 					<author salut="ಸ್ವಾಮಿ">ಶ್ರದ್ಧಾನಂದ</author>
 				</allauthors>
 			</entry>
-			<entry>
-				<title>ಸ್ವಾಮೀಜಿ-ಶಿಷ್ಯ ಸಂವಾದ</title>
+			<entry type="3">
+				<title>ಸ್ವಾಮೀಜಿ - ಶಿಷ್ಯ ಸಂವಾದ</title>
 				<feature />
-				<text />
+				<text>ಶಿಷ್ಯ: ಪ್ರರಬ್ರಹ್ಮ ಅಂಶವೇ ನಮ್ಮಲ್ಲೂ ಇದ್ದ ಪಕ್ಷಕೆ ನಾವೇಕೆ ಆ ಆನಂದವನ್ನು ಪಡೆಯಲು....</text>
 				<page>0032-0032</page>
 				<allauthors />
 			</entry>
-			<entry>
-				<title>ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು-೨</title>
+			<entry type="2">
+				<title>ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು - ೨</title>
 				<feature>ಸಂತರ ಜೀವನ</feature>
-				<text>ಉಡುಪಿ ಸುತ್ತಮುತ್ತ ಅವರಿಗೆ ಗೌರವ ಸಮ್ಮಾನಗಳು ದೊರೆತವು. ಇದರಿಂದ ಆಚಾರ್ಯರು ಉತ್ತೇಜಿತರಾಗಿ ಇನ್ನೂ ವಿಶಾಲ</text>
+				<text>ಉಡುಪಿ ಸುತ್ತಮುತ್ತ ಅವರಿಗೆ ಗೌರವ ಸಮ್ಮಾನಗಳು ದೊರೆತವು. ಇದರಿಂದ ಆಚಾರ್ಯರು....</text>
 				<page>0033-0036</page>
 				<allauthors />
 			</entry>
-			<entry>
+			<entry type="2">
+				<title>ನಾ ಕಂಡಂತೆ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರೊಡನೆ ನನ್ನ ಮೊದಲ ಭೇಟಿ ಅವರ ಅಮೆರಿಕದ ದ್ವಿತೀಯ ಭೇಟಿಯ....</text>
+				<page>0011-0012</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಅತುಲಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry type="3">
 				<title>ಚೋಖಾಮೇಳ</title>
 				<feature>ಚಿತ್ರಕಥೆ</feature>
-				<text>ಚೋಖಾಮೇಳನು ಕೆಳಜಾತಿಯಲ್ಲಿ ಹುಟ್ಟಿದ ಸಂತ. ಪಂಡರಾಪುರದ ವಿಠಲನನ್ನು ಕುರಿತು</text>
+				<text>ಚೋಖಾಮೇಳನು ಕೆಳಜಾತಿಯಲ್ಲಿ ಹುಟ್ಟಿದ ಸಂತ. ಪಂಡರಾಪುರದ ವಿಠಲನನ್ನು ಕುರಿತು....</text>
 				<page>0037-0040</page>
 				<allauthors />
 			</entry>
-			<entry>
+			<entry type="3">
 				<title>ಸುದ್ದಿ ಸಂಚಯ</title>
 				<feature />
-				<text />
+				<text>ಮೈಸೂರು ಶ್ರೀರಾಮಕೃಷ್ಣ ಆಶ್ರಮವು ಹಮ್ಮಿಕೊಂಡಿದ್ದ ೪೦ ವಾರಗಳ 'ಸ್ವಚ್ಛತಾ.....</text>
 				<page>0041-0042</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="04" month="04" year="2018" theme="">
+			<entry type="3">
+				<title>ಶ್ರೀರಾಮಮಾನಸ ಸ್ತೋತ್ರಮ್ - ೨</title>
+				<feature>ಪ್ರಾರ್ಥನೆ</feature>
+				<text>ಹೇ ರಘುವರನೆ, ಸ್ವರ್ಣದ ಮೂರು ತಂತುಗಳ ಯಜ್ಞೋಪವೀತವನ್ನು ನೀರಿನಿಂದ ಕೂಡಿದ ಮೋಡದಂತಿರುವ....</text>
+				<page>0004-0004</page>
+				<allauthors />
+			</entry>
+			<entry type="1">
+				<title>ಹೊಸ ಬದುಕಿಗೆ ಬೆಳಕು</title>
+				<feature>ಸಂಪಾದಕೀಯ</feature>
+				<text>ಓಲ್ಲರ ಬದುಕೂ ಏರುಪೇರುಗಳಿಂದ ಕೂಡಿರುತ್ತವೆ. ಪ್ರಯತ್ನಗಳು ಎಷ್ಟಿದ್ದರೂ ಸರಿ, ಹಲವು ಬಾರಿ ಸೋತು....</text>
+				<page>0007-0009</page>
+				<allauthors />
+			</entry>
+			<entry type="3">
+				<title>ಮುಕ್ತಿಗೆ ದಾರಿ</title>
+				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
+				<text>ಬಂಧನಕ್ಕೆ ಕಾರಣ ಕಾಮಕಾಂಚನ. ಕಾಮಕಾಂಚನವೇ ಸಂಸಾರ ಕಾಮಕಾಂಚನವೇ....</text>
+				<page>0010-0010</page>
+				<allauthors />
+			</entry>
+			<entry type="2">
+				<title>`ನೀವೆಲ್ಲ ನನ್ನವರು'</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಜಗತ್ತಿನಲ್ಲಿ ಪ್ರೀತಿ ಒಂದು ಅಪರಾಜಿತವಾದ ಶಕ್ತಿ. ಜೀವವೊಂದು ತನ್ನ ಸ್ವಭಾವಕ್ಕನುಗುಣವಾಗಿ....</text>
+				<page>0011-0015</page>
+				<allauthors>
+					<author salut="">ಶಿವನೀ</author>
+				</allauthors>
+			</entry>
+			<entry type="3">
+				<title>ಸೋದರಿ ನಿವೇದಿತಾ (ನಾಟಕ) - ಭಾಗ ೨</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಶ್ರೀಮಾತೆ ಮಂಚದ ಮೇಲೆ, ಮಾರ್ಗರೆಟ್ ಕೆಳಗೆ ಜನರಿಗೆ ಆಶ್ಚರ್ಯ....</text>
+				<page>0016-0017</page>
+				<allauthors />
+			</entry>
+			<entry type="3">
+				<title>ಶ್ರೀಮಾತೆ - ಭಾಗ ೧೫</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ವಿಲಾಸನ ಹೆಸರು ಬ್ರಹ್ಮಚಾರಿ ಕಪಿಲ ಎಂದಾಗಿತ್ತು. ಹುಡುಗ ತುಂಬ ಒಳ್ಳೆಯವನು....</text>
+				<page>0018-0021</page>
+				<allauthors>
+					<author salut="">ಆಶುತೋಷ್ ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry type="3">
+				<title>ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಯೋಗ!</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>`ದೈನಂದಿನ ಜೀವನ' ಎಂದರೇನು ಎಂದು ಎಲ್ಲರಿಗೂ ಗೊತ್ತೇ ಇದೆ. ಆದರೆ ಯೋಗ ಎಂಬ....</text>
+				<page>0022-0024</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ರಾಘವೇಶಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry type="2">
+				<title>ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು - ೧೬</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ತಂದೆಯ ಮರಣಾನಂತರ ಸಂಸಾರದಲ್ಲಿ ಅವ್ಯವಸ್ಥೆ, ಗೊಂದಲಗಳುಂಟಾಗಿವೆ....</text>
+				<page>0025-0028</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಶ್ರದ್ಧಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry type="3">
+				<title>ಕರ್ಮಯೋಗ ಮತ್ತು ಶರಣಾಗತಿ</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಭಗವದ್ಗೀತೆಯಲ್ಲಿ ಕರ್ಮಯೋಗಕ್ಕೆ ಬಹಳ ಪ್ರಾಮುಖ್ಯತೆ ಇದೆ ಪ್ರತಿಯೊಬ್ಬ ಮಾನವನು....</text>
+				<page>0029-0030</page>
+				<allauthors>
+					<author salut="">ಪುಷ್ಪಾ ಶೇಷಾದ್ರಿ</author>
+				</allauthors>
+			</entry>
+			<entry type="3">
+				<title>ತನ್ನ ಮುಕ್ತಿಯೂ ಜಗದ ಹಿತವೂ</title>
+				<feature>ಪುಸ್ತಕ ಪರಿಚಯ</feature>
+				<text>ಬೇರೆ ಬೇರೆ ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಬಂದ ಲೇಖನಗಳ ಸಂಕಲನ ಇದು. ಶ್ರೀರಾಮಕೃಷ್ಣ ಸ್ವಾಮಿ ....</text>
+				<page>0031-0032</page>
+				<allauthors />
+			</entry>
+			<entry type="3">
+				<title>ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು - ೩</title>
+				<feature>ಸಂತರ ಜೀವನ</feature>
+				<text>ಇದಲ್ಲದೆ ಸ್ವತಃ ಮದಧ್ವಾಚಾರ್ಯರೇ `ಅನುವ್ಯಾಖ್ಯಾನ' ಎಂಬ ಬ್ರಹ್ಮಸೂತ್ರಗಳ ಮೇಲಿನ ....</text>
+				<page>0033-0035</page>
+				<allauthors />
+			</entry>
+			<entry type="2">
+				<title>ನಗುವ ಬುದ್ಧ</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ದೊಡ್ಡ ಹೊಟ್ಟೆಯ, ಜೋರಗಿ ನಗುವ ಬುದ್ಧನ ಪ್ರತಿಮೆಯನ್ನು ನೀವೆಲ್ಲರೂ ನೋಡಿರಬಹುದು....</text>
+				<page>0036-0036</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಪುಣ್ಯಾತ್ಮಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry type="3">
+				<title>ಭಕ್ತ ನಿಳೋಬ</title>
+				<feature>ಚಿತ್ರಕಥೆ</feature>
+				<text>ಅದು ಸಂತ ತುಕಾರಾಮನ ಮಹಿಮೆ ಹೆಚ್ಚು ಪ್ರಚಾರವಾಗುತ್ತಿದ್ದ ಕಾಲ. ಮಹಾರಾಷ್ಟ್ರದ ಪಿಂಪಳ್ನೇರ್....</text>
+				<page>0037-0040</page>
+				<allauthors />
+			</entry>
+			<entry type="1">
+				<title>ಸುದ್ದಿ ಸಂಚಯ</title>
+				<feature></feature>
+				<text>ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸರ ೧೮೩ನೇ  ಜಯಂತಿಯ ಶುಭ ಸಂದರ್ಭದಲ್ಲಿ ದಾವಣಗೆರೆ ಶ್ರೀ ರಾಮಕೃಷ್ಣ...</text>
+				<page>0041-0041</page>
 				<allauthors />
 			</entry>
 		</issue>

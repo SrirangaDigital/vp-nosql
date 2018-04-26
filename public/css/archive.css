@@ -18,7 +18,7 @@ Primary style
   margin-top: 72px;
   margin-bottom: 100px;
 }
-.mainpage h1{
+.mainpage h1, .dynamic-page h1{
   font-size: 1.5em;
   font-family: 'Nudi', 'Lato', sans-serif;
   color: #1565C0;
@@ -160,7 +160,7 @@ Primary style
   padding: 10px 0 10px 0;
 }
 .gap-above{
-  margin-top: 60px;
+  margin-top: 72px;
 }
 .gap-above-large{
   margin-top: 100px;
@@ -172,7 +172,7 @@ Primary style
   margin-top: 30px;
 }
  .gap-above-small{
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 /*Search styles*/
@@ -339,20 +339,26 @@ a.goBack{
   padding-left: 0px:
 }
 .mainArticle .title{
+  margin-bottom: 5px;
   font-size: 1.5em;
+}
+.mainArticle .author span:not(:first-of-type):not(:last-of-type):before{
+ content: ', ';
 }
 .mainArticle .author{
   margin-top: -10px;
   font-size: .9em;
   color : #800000;
   text-align: right;
+  padding-bottom: 15px;
 }
 .subArticle div{
-  margin: 0px;
+  margin: 0px 0px 5px 0px;
   padding-right: 5px:
   padding-left: 0px:
 }
 .subArticle .title{
+  margin-bottom: 6px;
   font-size: 1.3em;
   line-height: 1.25em;
 }
@@ -365,6 +371,10 @@ a.goBack{
 .subArticle .content{
   line-height: 1.25em;
   font-size: 0.9em;
+}
+.author {
+  display: block;
+  width: 100%;
 }
 .author.by:before{
   content: '—  ';

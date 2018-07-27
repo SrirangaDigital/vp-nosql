@@ -2,12 +2,12 @@
 
 <div class="container dynamic-page">
       <div class="row justify-content-center">
-            <div class="col-md-12 gap-above">
+            <div class="col-md-12 gap-above-med">
                   <h1><?=$data['pageTitle']?></h1>
             </div>
       </div>
     <div class="row justify-content-center">
-        <div class="col-md-12 gap-above-small">
+        <div class="col-md-12">
             <div class="row">
             	<div class="col-md-5 mainArticle">
                         <?= $viewHelper->displayArticles($data['articles'], 1)?>

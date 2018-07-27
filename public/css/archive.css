@@ -333,6 +333,9 @@ a.goBack{
   text-decoration: none;
   color: inherit;
 }
+.mainArticle img{
+  min-height: 275px;
+}
 .mainArticle div{
   margin: 0px;
   padding-right: 5px:
@@ -367,6 +370,7 @@ a.goBack{
   font-size: .8em;
   color : #800000;
   text-align: right;
+  padding: 0px 0px 3px 0px;
 }
 .subArticle .content{
   line-height: 1.25em;

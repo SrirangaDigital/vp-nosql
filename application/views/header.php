@@ -56,7 +56,6 @@
                     <li><a href="<?=BASE_URL?>">ವಿವೇಕಪ್ರಭ</a></li>
                     <li><a href="<?=BASE_URL?>Dheiya">ಧ್ಯೇಯ</a></li>
                     <li><a href="<?=BASE_URL?>listing/structure/Journal?select=volume">ಸಂಪುಟಗಳು</a></li>
-                    <li><a href="#">ಸಹಾಯ</a></li>
                 </ul>
             </div>
         </div>

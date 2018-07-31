@@ -1,7 +1,7 @@
 <div class="container dynamic-page">
       <div class="row justify-content-center">
             <div class="col-md-12 gap-above-med">
-                  <h1 class="text-left">ಪ್ರಸ್ತುತ ಸಂಚಿಕೆ (ಜೂಲೈ)</h1>
+                  <h1 class="text-left">ಪ್ರಸ್ತುತ ಸಂಚಿಕೆ (ಜುಲೈ - ೨೦೧೮)</h1>
             </div>
       </div>
       <div class="row justify-content-center">
@@ -29,6 +29,16 @@
                               </div>
                         </div>
                         <div class="col-md-3 subArticle">
+                              <div class="row">
+                                    <div col-md-12="">
+                                          <a href="http://192.168.1.101/vp-nosql/article/text/019/07/#page=14" target="_blank">
+                                                <img class="img-fluid" src="http://192.168.1.101/vp-nosql/public/data/019/07/0014-0017.jpg">
+                                                <p class="title">ಭಾರತೀಯ ನಾರಿಯರ ಆದರ್ಶಗಳು</p>
+                                                <p class="content">ಎಳ್ಳು ಒಂದು ಅತ್ಯಂತ ಸಣ್ಣ ಕಾಳು ಅಷ್ಟು ಸಣ್ಣದರ ಒಳಗೆ ಹೊರಗೆ ಕಣಕಣದಲ್ಲಿ</p>
+                                          </a>
+                                          <a class="author by" href="http://192.168.1.101/vp-nosql/articles/author/ಕೆ. ಎಲ್. ಪ್ರಸನ್ನಾಕ್ಷೀ, ಡಾ">ಕೆ. ಎಲ್. ಪ್ರಸನ್ನಾಕ್ಷೀ, ಡಾ</a>
+                                    </div>
+                              </div>
                               <div class="row">
                                     <div col-md-12="">
                                           <a href="http://192.168.1.101/vp-nosql/article/text/019/07/#page=18" target="_blank">

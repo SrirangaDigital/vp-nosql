@@ -1,7 +1,7 @@
 <div class="container dynamic-page">
       <div class="row justify-content-center">
             <div class="col-md-12 gap-above-med">
-                  <h1 class="text-left">ಪ್ರಸ್ತುತ ಸಂಚಿಕೆ (ಜುಲೈ - ೨೦೧೮)</h1>
+                  <h1 class="text-left">ಪ್ರಸ್ತುತ ಸಂಚಿಕೆ (ಆಗಸ್ಟ್ - ೨೦೧೮)</h1>
             </div>
       </div>
       <div class="row justify-content-center">

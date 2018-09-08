@@ -32330,5 +32330,101 @@
 				<allauthors />
 			</entry>
 		</issue>
+		<issue inum="09" month="09" year="2018" theme="">
+			<entry type="2">
+				<title>ಶ್ರೀಕೃಷ್ಣಸ್ತುತಿಯಿಂದ</title>
+				<feature>ಪ್ರಾರ್ಥನೆ</feature>
+				<text>ವಿಶ್ವದ ಸ್ವರೂಪನೂ, ವಿಶ್ವದ ಸ್ಥಿತಿ ಹಾಗೂ ಸಂಹಾರಕ್ಕೆ ಕಾರಣನೂ ಆದ, ಸಮಸ್ತ ವಿಶ್ವಕ್ಕೆ</text>
+				<page>0004-0004</page>
+				<allauthors />
+			</entry>
+			<entry type="2">
+				<title>ಚಿಕಾಗೋ ಉಪನ್ಯಾಸಗಳು:೧೨೫ನೇ ವಾರ್ಷಿಕೋತ್ಸವ</title>
+				<feature>ಪ್ರಸ್ತುತ</feature>
+				<text>ಸೆಪ್ಟೆಂಬರ್ ೧೧ ಎಂದ ಕೊಡಲೇ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು ೧೮೯೩ ರಲ್ಲಿ ಮಾಡಿದ ಚಿಕಾಗೋ</text>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry type="1">
+				<title>ನಮ್ಮ ಅರಿವಿನ ಮಿತಿ</title>
+				<feature>ಸಂಪಾದಕೀಯ</feature>
+				<text>ನಮ್ಮ ಬದುಕಿನಲ್ಲಿ ಅರಿವು ಎಂಬುದು ಬಹಳ ಮಹತ್ವದ ಪಾತ್ರ ವಹಿಸುತ್ತದೆ. ಶಿಕ್ಷಣ, ವೃತ್ತಿ, ಬೆಳವಣಿಗೆ, ಜ್ಞಾನದ ಆವಿಷ್ಕಾರ - ಎಲ್ಲವೂ ಒಂದಲ್ಲ ಒಂದು ರೀತಿ...</text>
+				<page>0009-0011</page>
+				<allauthors />
+			</entry>
+			<entry type="3">
+				<title>ಸಾಧನೆ ಮತ್ತು ಶ್ರಮ</title>
+				<feature>ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ</feature>
+				<text>ಒಂದು ಸ್ವಲ್ಪ ಸಾಧನೆ ಮಾಡಲೇಬೇಕು. ಸಾಧನೆ ಮಾಡುತ್ತ ಮಾಡುತ್ತ ಮುಂದುವರಿದರೆ, ಕ್ರಮೇಣ</text>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry type="3">
+				<title>ಸತ್ಸಂಗದಿಂದ ನಿಸ್ಸಂಗ</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಸತ್ಸಂಗತ್ವೇ ನಿಸ್ಸಂಗತ್ವಂ ಎಂಬುದು ಶ್ರೀಶಂಕರಾಚಾರ್ಯರ ಪ್ರಸಿದ್ಧವಾದ ಹೇಳಿಕೆ...</text>
+				<page>0013-0016</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ನಿತ್ಯಸ್ಥಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry type="3">
+				<title>ಶ್ರೀಮಾತೆ-ಭಾಗ ೨೦</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ದೈವೀ ಸಂಕಲ್ಪದಂತೆ ದುರದೃಷ್ಟವಶಾತ್ ಶ್ರೀಮಾತೆಯವರ ಒಬ್ಬ ಶಿಷ್ಯನು ಶಾಶ್ವತವಾಗಿ</text>
+				<page>0017-0020</page>
+				<allauthors>
+					<author salut="">ಆಶುತೋಷ್ ಮಿತ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry type="1">
+				<title>ಮಾತಾಪಿತರ ಮಹಾಲಯದಲ್ಲಿ</title>
+				<feature>ವಿಶೇಷ ಲೇಖನ</feature>
+				<text>ಒಡಲ ಭಾವ - ಮಡಿಲ ಭಾವಗಳು ಎಲ್ಲ ಜೀವಿಗಳಲ್ಲಿಯೂ ಸಮಾನುವಾಗಿದ್ದು ಸ್ವಂತ ಅನುಭವಕ್ಕೆ ಮಾತ್ರ ಅಕ್ಕುವವಿಶಿಷ್ಟಅನುಭೂತಿ. ಆದರೆ ಭಾರತಿಯ್ಯರು....</text> 
+				<page>0021-0026</page>
+				<allauthors>
+					<author salut="">ನಾರಾಯಣಿ ದಾಮೋದರ್</author>
+				</allauthors>
+			</entry>
+			<entry type="2">
+				<title>ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು-೨೧</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಗಿರೀಶ್ ಬಾಬು ಮತ್ತು ನಿರಂಜನ್ ಮಹಾರಾಜ ರೊಂದಿಗೆ ನಾನೊಮ್ಮೆ ಶ್ರೀಮಾತೆಯವರ ದರ್ಶನಕ್ಕೆ.</text>
+				<page>0027-0030</page>
+				<allauthors>
+					<author salut="ಸ್ವಾಮಿ">ಶ್ರದ್ಧಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry type="3">
+				<title>ಶ್ರೀಮಾತೆಯವರ ಪತ್ರಗಳು-೧೩</title>
+				<feature>ಧಾರಾವಾಹಿ</feature>
+				<text>ಮಗೂ, ಈಗ ತಾನೇ ನೀನು ಕಳುಹಿಸಿರುವ ೧೦ ರೂಪಾಯಿ ಮನಿಯಾರ್ಡರ್ ಸಿಕ್ಕಿತು</text>
+				<page>0031-0032</page>
+				<allauthors>
+					<author salut="">ಪ್ರವ್ರಾಜಿಕಾ ಧರ್ಮಪ್ರಾಣಾ</author>
+				</allauthors>
+			</entry>
+			<entry type="3">
+				<title>ಉಪನಿಷತ್ತಿನ ಕಥೆಗಳು</title>
+				<feature>ಸಂತರ ಜೀವನ</feature>
+				<text>ದೇವದತ್ತನೆಂಬ ಬ್ರಾಹ್ಮಣನಿದ್ದನು ಅಂದಿನ ಕಾಲದ ವಾಡಿಕೆಯಂತೆ ವೇದಗಳ ಅಭ್ಯಾಸವನ್ನು ಮಾಡಿದ್ದನು</text>
+				<page>0033-0037</page>
+				<allauthors />
+			</entry>
+			<entry type="3">
+				<title>ಭಕ್ತ ರಾಖಾ</title>
+				<feature>ಚಿತ್ರಕಥೆ</feature>
+				<text>ಹಿಂದೆ ಪಂಡರಾಪುರಲ್ಲಿ ಪಾಂಡುರಂಗನ ಭಕ್ತನೊಬ್ಬ ಇದ್ದ ಅವನ ಹೆಸರು ರಾಖಾ ಅವನ ಪತ್ನಿ ಪಾಖಾ ಅವರಿಗೆ</text>
+				<page>0038-0041</page>
+				<allauthors />
+			</entry>
+			<entry type="3">
+				<title>ಬ್ರಿಸ್ಬೇನಿನಲ್ಲಿ ವೇದಾಂತ ಸೆಂಟರ್ ಹಾಗೂ...</title>
+				<feature>ಸುದ್ದಿ ಸಂಚಯ</feature>
+				<text>ಆಸ್ಟ್ರೇಲಿಯಾದ ಸಿಡ್ನಿಯಲ್ಲಿರುವ ವೇದಾಂತ ಸೆಂಟರ್ನ ಬ್ರಿಸ್ಟೇನ್ ಶಾಖೆ ಹಾಗೂ ಅಲ್ಲಿನ ಬಹೂಪಯೋಗಿ ಕಟ್ಟಡದ</text>
+				<page>0042-0042</page>
+				<allauthors />
+			</entry>
+		</issue>
 	</volume>
 </vp>

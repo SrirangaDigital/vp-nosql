@@ -12,9 +12,14 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 4,
+            "relativePageRange": "4-4",
+            "fullText": [
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಹೊಸ ಜೀವನ ಕ್ರಮ:ಆಧ್ಯಾತ್ಮಿಕ ಮಾರ್ಗ",
@@ -22,9 +27,22 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "articleType": "1",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 7,
+            "relativePageRange": "7-9",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಬೋಧಕ ಮತ್ತು ವಿನಯ",
@@ -32,9 +50,14 @@
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 10,
+            "relativePageRange": "10-10",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಮಾತಿನ ಮಹತ್ವ",
@@ -42,9 +65,26 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0014",
             "articleType": "1",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 11,
+            "relativePageRange": "11-14",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಜೆ. ಶಶಿಧರ್",
@@ -58,9 +98,34 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0016-0021",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 16,
+            "relativePageRange": "16-21",
+            "fullText": [
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                },
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಆಶುತೋಷ್ ಮಿತ್ರ",
@@ -74,9 +139,22 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0022-0024",
             "articleType": "1",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 22,
+            "relativePageRange": "22-24",
+            "fullText": [
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                },
+                {
+                    "page": "0024",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸಿ. ಎಸ್. ಮಂಗಳಮ್ಮ",
@@ -90,9 +168,26 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0025-0028",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 25,
+            "relativePageRange": "25-28",
+            "fullText": [
+                {
+                    "page": "0025",
+                    "text": ""
+                },
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರದ್ಧಾನಂದ, ಸ್ವಾಮಿ",
@@ -106,9 +201,18 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0029-0030",
             "articleType": "2",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 29,
+            "relativePageRange": "29-30",
+            "fullText": [
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ‌ಧರ್ಮಪ್ರಾಣಾ",
@@ -122,9 +226,14 @@
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0031-0031",
             "articleType": "2",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 31,
+            "relativePageRange": "31-31",
+            "fullText": [
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ನಿಜವಾದ ಸಾಧು",
@@ -132,9 +241,14 @@
             "feature": "ದೃಷ್ಟಾಂತ ಕಥೆ",
             "page": "0032-0032",
             "articleType": "2",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 32,
+            "relativePageRange": "32-32",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಮಯಿನಾಬಾಯಿ ಮತ್ತು..",
@@ -142,9 +256,14 @@
             "feature": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರಿಂದ ಸ್ಫೂರ್ತಿ ಪಡೆದ ಮಹಿಳೆಯರು",
             "page": "0033-0033",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 33,
+            "relativePageRange": "33-33",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಯಕ್ಷನು ಯಾರು?",
@@ -152,9 +271,26 @@
             "feature": "ಪರಂಪರೆಯ ಕಥೆಗಳು",
             "page": "0034-0037",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 34,
+            "relativePageRange": "34-37",
+            "fullText": [
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಶ್ರೀಜಯದೇವ -೨",
@@ -162,9 +298,26 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 38,
+            "relativePageRange": "38-41",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಚಂಡೀಗಢದಲ್ಲಿ ಹೊಸ ಧ್ಯಾನಮಂದಿರದ..",
@@ -172,9 +325,14 @@
             "feature": "ಸುದ್ದಿ ಸಂಚಯ",
             "page": "0042-0042",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 42,
+            "relativePageRange": "42-42",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

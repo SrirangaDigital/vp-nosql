@@ -12,9 +12,14 @@
             "feature": "ಪ್ರಾರ್ಥನೆ",
             "page": "0004-0004",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 4,
+            "relativePageRange": "4-4",
+            "fullText": [
+                {
+                    "page": "0004",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಸಾಧನೆಯ ಬಗೆಗಳು",
@@ -22,9 +27,22 @@
             "feature": "ಸಂಪಾದಕೀಯ",
             "page": "0007-0009",
             "articleType": "1",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 7,
+            "relativePageRange": "7-9",
+            "fullText": [
+                {
+                    "page": "0007",
+                    "text": ""
+                },
+                {
+                    "page": "0008",
+                    "text": ""
+                },
+                {
+                    "page": "0009",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಸಾಧಕನ ಭಾವಗಳು",
@@ -32,9 +50,14 @@
             "feature": "ಶ್ರೀರಾಮಕೃಷ್ಣ ವಚನವೇದದಿಂದ",
             "page": "0010-0010",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 10,
+            "relativePageRange": "10-10",
+            "fullText": [
+                {
+                    "page": "0010",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಕರುಣಾಮಯಿ",
@@ -42,9 +65,26 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0011-0014",
             "articleType": "2",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 11,
+            "relativePageRange": "11-14",
+            "fullText": [
+                {
+                    "page": "0011",
+                    "text": ""
+                },
+                {
+                    "page": "0012",
+                    "text": ""
+                },
+                {
+                    "page": "0013",
+                    "text": ""
+                },
+                {
+                    "page": "0014",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಸತ್ ಸ್ವರೂಪಾನಂದ, ಸ್ವಾಮಿ",
@@ -58,9 +98,30 @@
             "feature": "ವಿಶೇಷ ಲೇಖನ",
             "page": "0015-0019",
             "articleType": "2",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 15,
+            "relativePageRange": "15-19",
+            "fullText": [
+                {
+                    "page": "0015",
+                    "text": ""
+                },
+                {
+                    "page": "0016",
+                    "text": ""
+                },
+                {
+                    "page": "0017",
+                    "text": ""
+                },
+                {
+                    "page": "0018",
+                    "text": ""
+                },
+                {
+                    "page": "0019",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಕೆ. ಎಲ್. ಪದ್ಮಿನಿ",
@@ -74,9 +135,26 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0020-0023",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 20,
+            "relativePageRange": "20-23",
+            "fullText": [
+                {
+                    "page": "0020",
+                    "text": ""
+                },
+                {
+                    "page": "0021",
+                    "text": ""
+                },
+                {
+                    "page": "0022",
+                    "text": ""
+                },
+                {
+                    "page": "0023",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಶ್ರದ್ಧಾನಂದ, ಸ್ವಾಮಿ",
@@ -90,9 +168,18 @@
             "feature": "ಪುಸ್ತಕ ಪರಿಚಯ",
             "page": "0024-0025",
             "articleType": "2",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 24,
+            "relativePageRange": "24-25",
+            "fullText": [
+                {
+                    "page": "0024",
+                    "text": ""
+                },
+                {
+                    "page": "0025",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಆನಂದದ ಹುಡುಕಾಟ-ಭಾಗ ೧",
@@ -100,9 +187,34 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0026-0031",
             "articleType": "1",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 26,
+            "relativePageRange": "26-31",
+            "fullText": [
+                {
+                    "page": "0026",
+                    "text": ""
+                },
+                {
+                    "page": "0027",
+                    "text": ""
+                },
+                {
+                    "page": "0028",
+                    "text": ""
+                },
+                {
+                    "page": "0029",
+                    "text": ""
+                },
+                {
+                    "page": "0030",
+                    "text": ""
+                },
+                {
+                    "page": "0031",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಬ್ರಹ್ಮೇಶಾನಂದ, ಸ್ವಾಮಿ",
@@ -116,9 +228,14 @@
             "feature": "ಧಾರಾವಾಹಿ",
             "page": "0032-0032",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": [],
+            "relativePageNumber": 32,
+            "relativePageRange": "32-32",
+            "fullText": [
+                {
+                    "page": "0032",
+                    "text": ""
+                }
+            ],
             "author": [
                 {
                     "name": "ಪ್ರವ್ರಾಜಿಕಾ‌ಧರ್ಮಪ್ರಾಣಾ",
@@ -132,9 +249,30 @@
             "feature": "ಪರಂಪರೆಯ ಕಥೆಗಳು",
             "page": "0033-0037",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 33,
+            "relativePageRange": "33-37",
+            "fullText": [
+                {
+                    "page": "0033",
+                    "text": ""
+                },
+                {
+                    "page": "0034",
+                    "text": ""
+                },
+                {
+                    "page": "0035",
+                    "text": ""
+                },
+                {
+                    "page": "0036",
+                    "text": ""
+                },
+                {
+                    "page": "0037",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ಶಿವಾಜಿಯ ಮೇಲೆ ವಿಠಲನ ಕೃಪೆ",
@@ -142,9 +280,26 @@
             "feature": "ಚಿತ್ರಕಥೆ",
             "page": "0038-0041",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 38,
+            "relativePageRange": "38-41",
+            "fullText": [
+                {
+                    "page": "0038",
+                    "text": ""
+                },
+                {
+                    "page": "0039",
+                    "text": ""
+                },
+                {
+                    "page": "0040",
+                    "text": ""
+                },
+                {
+                    "page": "0041",
+                    "text": ""
+                }
+            ]
         },
         {
             "title": "ರಾಮಕೃಷ್ಣ ಮಹಾಸಂಘದ ಅಕ್ಟೋಬರ್..",
@@ -152,9 +307,14 @@
             "feature": "ಸುದ್ದಿ ಸಂಚಯ",
             "page": "0042-0042",
             "articleType": "3",
-            "relativePageNumber": 1,
-            "relativePageRange": "1-1",
-            "fullText": []
+            "relativePageNumber": 42,
+            "relativePageRange": "42-42",
+            "fullText": [
+                {
+                    "page": "0042",
+                    "text": ""
+                }
+            ]
         }
     ]
 }

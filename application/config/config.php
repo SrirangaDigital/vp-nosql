@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://192.168.1.101/vp-nosql/');
+define('BASE_URL', 'http://192.168.1.69/vp-nosql/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('DATA_URL', PUBLIC_URL . 'data/');
 define('DOWNLOAD_URL', PUBLIC_URL . 'downloads/');

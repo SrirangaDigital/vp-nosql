@@ -9,7 +9,7 @@ class data extends Controller {
 
 	public function buildDBFromXml() {
 
-		$this->model->xml2Json();
+		// $this->model->xml2Json();
 		$db = $this->model->db->useDB();
 		$collection = $this->model->db->createCollection($db, ARTEFACT_COLLECTION);
 		$this->model->insertEntries($collection);

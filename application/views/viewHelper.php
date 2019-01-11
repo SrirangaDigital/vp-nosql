@@ -94,7 +94,8 @@ class viewHelper extends View {
 					echo '<div class="row">';
 					echo '	<div col-md-12>';
 					echo '		<a href="' . BASE_URL . 'article/text/' . $article['volume'] . '/' . $article['issue'] . '/#page=' . $article['relativePageNumber'] . '" target="_blank">';
-					echo '	      <img class="img-fluid" src="' . DATA_URL . $article['volume'] . '/' . $article['issue'] . '/' . $article['page'] . '.jpg">';
+					if(file_exists(PHY_DATA_URL . $article['volume'] . '/' . $article['issue'] . '/' . $article['page'] . '.jpg'))
+						echo '	      <img class="img-fluid" src="' . DATA_URL . $article['volume'] . '/' . $article['issue'] . '/' . $article['page'] . '.jpg">';
 					echo '	      <p class="title">' . $article['title'] . '</p>';
 
 					if(isset($article['text']))
@@ -122,7 +123,8 @@ class viewHelper extends View {
 
 					echo '<div class="cards-wrapper">';
 					echo '		<a href="' . BASE_URL . 'article/text/' . $article['volume'] . '/' . $article['issue'] . '/#page=' . $article['relativePageNumber'] . '" target="_blank">';
-					echo '	      <img class="img-fluid" src="' . DATA_URL . $article['volume'] . '/' . $article['issue'] . '/' . $article['page'] . '.jpg">';
+					if(file_exists(PHY_DATA_URL . $article['volume'] . '/' . $article['issue'] . '/' . $article['page'] . '.jpg'))
+						echo '<img class="img-fluid" src="' . DATA_URL . $article['volume'] . '/' . $article['issue'] . '/' . $article['page'] . '.jpg">';
 					echo '            <p class="title">' . $article['title'] . '</p>';
 
 					if(isset($article['text']))

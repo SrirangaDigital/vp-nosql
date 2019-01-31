@@ -7,7 +7,7 @@ class data extends Controller {
 		parent::__construct();
 	}
 
-	public function buildDBFromXml() {
+	public function buildDBFromJson() {
 
 		$db = $this->model->db->useDB();
 		$collection = $this->model->db->createCollection($db, ARTEFACT_COLLECTION);

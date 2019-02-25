@@ -1,7 +1,7 @@
 <div class="container dynamic-page">
   <div class="row justify-content-center">
     <div class="col-md-12 gap-above-med">
-      <h1>ಸಂಗ್ರಹ &gt; ಪರಿವಿಡಿ &gt; ಸಂಪುಟ ೨೦, ಸಂಚಿಕೆ ೨</h1>
+      <h1>ಪ್ರಸ್ತುತ ಸಂಚಿಕೆ: ಫೆಬ್ರುವರಿ</h1>
     </div>
   </div>
   <div class="row justify-content-center">

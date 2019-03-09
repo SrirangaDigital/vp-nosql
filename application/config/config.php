@@ -27,11 +27,4 @@ define('DB_NAME', 'vpARCHIVES');
 define('DB_USER', 'vpUSER');
 define('DB_PASSWORD', 'vp123');
 
-//~ // Git config
-//~ define('GIT_USER_NAME', 'shruthisdst');
-//~ define('GIT_PASSWORD', 'shruthitr14');
-//~ define('GIT_REPO', 'github.com/SrirangaDigital/vp-nosql.git');
-//~ define('GIT_REMOTE', 'https://' . GIT_USER_NAME . ':' . GIT_PASSWORD . '@' . GIT_REPO);
-//~ define('GIT_EMAIL', 'shruthitr.nayak@gmail.com');
-
 ?>

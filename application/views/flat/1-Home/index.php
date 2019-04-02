@@ -11,7 +11,7 @@
           <div class="row">
             <div col-md-12>
               <a href="<?=BASE_URL?>article/text/020/03/#page=24" target="_blank">
-                <img class="img-fluid" src="<?=PHY_DATA_URL?>020/03/0024-0028.jpg" />
+                <img class="img-fluid" src="<?=DATA_URL?>020/03/0024-0028.jpg" />
                 <p class="title">ಆನಂದದ ಹುಡುಕಾಟ - ೩</p>
                 <p class="content">ಭಗವಾನ್ ಬುದ್ಧನ ಉಪದೇಶವು ದುಃಖದ ಸತ್ಯತೆ ಮತ್ತು ಅದರಿಂದ ಪಾರಾಗುವ ಉಪಾಯವನ್ನು ಆಧರಿಸಿದೆ. ಅವನ ಪ್ರಕಾರ ರೋಗ, ಜರೆ, ಮೃತ್ಯು – ಇವೆಲ್ಲವೂ ....</p>
                 <span>
@@ -23,7 +23,7 @@
           <div class="row">
             <div col-md-12>
               <a href="<?=BASE_URL?>article/text/020/03/#page=7" target="_blank">
-                <img class="img-fluid" src="<?=PHY_DATA_URL?>020/03/0007-0009.jpg" />
+                <img class="img-fluid" src="<?=DATA_URL?>020/03/0007-0009.jpg" />
                 <p class="title">ಸಂನ್ಯಾಸ ಮತ್ತು ಗೃಹಸ್ಥ ಜೀವನ</p>
                 <p class="content">ಪ್ರಪಂಚದ ಪ್ರಮುಖ ಧರ್ಮಗಳೆಲ ಸಂನ್ಯಾಸ ಜೀವನಕೆ ವವರು ಅಸಾಧಾರಣ ಮನೋಬಲ, ವೈರಾಗ್ಯ ಹಾಗೂ ನಿಶ್ಚಿತ ಮಹತ್ವ ಕೊಟ್ಟಿರುವುದನ್ನು ನಾವು ...</p>
               </a>
@@ -34,7 +34,7 @@
           <div class="row">
             <div col-md-12>
               <a href="<?=BASE_URL?>article/text/020/03/#page=11" target="_blank">
-                <img class="img-fluid" src="<?=PHY_DATA_URL?>020/03/0011-0014.jpg" />
+                <img class="img-fluid" src="<?=DATA_URL?>020/03/0011-0014.jpg" />
                 <p class="title">ಶ್ರೀಮಾತೆಯವರೊಂದಿಗೆ - ಭಾಗ ೧</p>
                 <p class="content">ಶ್ರೀಮಾತೆಯವರ ಶಿಷ್ಯರೂ, ಅವರ ಆತ್ಮೀಯ ಸೇವಕರೂ ಆಗಿದ್ದ ಲೇಖಕರು ರಾಮಕೃಷ್ಣ ...</p>
                 <span>
@@ -49,7 +49,7 @@
           <div class="row">
             <div col-md-12>
               <a href="<?=BASE_URL?>article/text/020/03/#page=15" target="_blank">
-                <img class="img-fluid" src="<?=PHY_DATA_URL?>020/03/0015-0017.jpg" />
+                <img class="img-fluid" src="<?=DATA_URL?>020/03/0015-0017.jpg" />
                 <p class="title">ಕಳೆದ ದಿನಗಳ ನೆನಪುಗಳು - ೨೬</p>
                 <p class="content">ಶ್ರೀರಾಮಕೃಷ್ಣರ ಸಂನ್ಯಾಸಿ ಶಿಷ್ಯರಲ್ಲೊಬ್ಬರಾದ ಸ್ವಾಮಿ ಅದ್ದುತಾ ಕೊಂಡರು ನಂದರು ೧೯೨೦ರ ಏಪ್ರಿಲ್ ...</p>
                 <span>
@@ -62,7 +62,7 @@
         <div class="col-md-4 cardArticle">
           <div class="cards-wrapper">
             <a href="<?=BASE_URL?>article/text/020/03/#page=4" target="_blank">
-              <img class="img-fluid" src="<?=PHY_DATA_URL?>020/03/0004-0006.jpg" />
+              <img class="img-fluid" src="<?=DATA_URL?>020/03/0004-0006.jpg" />
               <p class="title">ಶ್ರೀರಾಮಕೃಷ್ಣರ ಭಜನೆ</p>
               <p class="content">ಅರೂಪ ಸಾಯರೆ ಲೀಲಾ ಲಹರಿ ಉಠಿಲೊ ಮೃದುಲ ಕರುಣಾಬಾಯ್ ಆದಿ ಅಂತಹೀನ ಅಖಂಡೇ ವಿಲೀನ, ಮಾಯಾಯ್ ಥ್ರಿಲೇ...</p>
               <span>
@@ -72,7 +72,7 @@
           </div>
           <div class="cards-wrapper">
             <a href="<?=BASE_URL?>article/text/020/03/#page=10" target="_blank">
-              <img class="img-fluid" src="<?=PHY_DATA_URL?>020/03/0010-0010.jpg" />
+              <img class="img-fluid" src="<?=DATA_URL?>020/03/0010-0010.jpg" />
               <p class="title">ಆಧ್ಯಾತ್ಮಿಕ ಜೀವನದ ಸಾರ</p>
               <p class="content">ನಿಮ್ಮ ಚೀಲ' ಎಂಬುದಾಗಿ ಆ ನೀರು ಹೊರುವ ತಿನ್ನುವುದು, ತಂಬಾಕು ಸೇವಿಸುವುದು, ಮೈಗೆ ವ್ಯಕ್ತಿ ಹೇಳಿದುದರ ಅರ್ಥ ದೇಹ, ಹೊಟ್ಟೆ ಇತ್ಯಾದಿ....</p>
               <span>
@@ -82,7 +82,7 @@
           </div>
           <div class="cards-wrapper">
             <a href="<?=BASE_URL?>article/text/020/03/#page=29" target="_blank">
-              <img class="img-fluid" src="<?=PHY_DATA_URL?>020/03/0029-0032.jpg" />
+              <img class="img-fluid" src="<?=DATA_URL?>020/03/0029-0032.jpg" />
               <p class="title">ಶರತ್‌ಚಂದ್ರ ಚಕ್ರವರ್ತಿ - ಭಾಗ ೧</p>
               <p class="content">ದಿವ್ಯತೆಯ ಸರ್ಶದಿಂದ ಅತ್ಯಂತ ಸಾಮಾನ್ಯ ವ್ಯಕ್ತಿಯೂ ಅತಿಶ್ರೇಷ್ಠ ಪದವಿಯನ್ನು ಹೊಂದುವನು ಎನ್ನುವ ಮಾತಿಗೆ ಉತ್ತಮ ನಿದರ್ಶನವೇ ...</p>
               <span>
@@ -92,7 +92,7 @@
           </div>
           <div class="cards-wrapper">
             <a href="<?=BASE_URL?>article/text/020/03/#page=38" target="_blank">
-              <img class="img-fluid" src="<?=PHY_DATA_URL?>020/03/0038-0041.jpg" />
+              <img class="img-fluid" src="<?=DATA_URL?>020/03/0038-0041.jpg" />
               <p class="title">ಕೃಪೆ ತಂದ ವಿಜಯ</p>
               <p class="content">ಶ್ರೀರಾಮಕೃಷ್ಣರು ಆಗ ದಕ್ಷಿಣೇಶ್ವರದಲ್ಲಿ ವಾಸವಾಗಿದ್ದರು. ಒಂದು ದಿನ ಮಧುರ ಬಾಬುವಿನ ಅರಮನೆಯಲ್ಲಿ ಸ್ವಾಮಿ, ನಮ್ಮ ದೇವಾಲಯದ...</p>
               <span>
@@ -102,7 +102,7 @@
           </div>
           <div class="cards-wrapper">
             <a href="<?=BASE_URL?>article/text/020/03/#page=42" target="_blank">
-              <img class="img-fluid" src="<?=PHY_DATA_URL?>020/03/0042-0042.jpg" />
+              <img class="img-fluid" src="<?=DATA_URL?>020/03/0042-0042.jpg" />
               <p class="title">ಮೈಸೂರು ಆಶ್ರಮದ ಕಾರ್ಯಕ್ರಮಗಳು</p>
               <p class="content">'ವಿವೇಕ ಶಿಕ್ಷಣ'ದ ವಾರ್ಷಿಕೋತ್ಸವ : ಮೈಸೂರು ಶ್ರೀರಾಮಕೃಷ್ಣ ಆಶ್ರಮವು ಕಳೆದ ೧೯ ವರ್ಷಗಳಿಂದ ನಡೆಸಿಕೊಂಡು ಬರುತ್ತಿರುವ, ಆರ್ಥಿಕ ಹಾಗೂ...</p>
             </a>

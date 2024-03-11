@@ -21,7 +21,7 @@
     
     <?php if(isset($row['item'])) { ?>
             <div class="full-width-card red-edge">
-                <h3 class="author"><a href="<?=$data['nextUrl']?><?=$row['item']?>"><?=$row['item']?></a></h3>
+                <h3 class="author"><a href="<?=$data['nextUrl']?><?=urlencode($row['item'])?>"><?=$row['item']?></a></h3>
             </div>
     <?php } ?>
 <?php } ?>

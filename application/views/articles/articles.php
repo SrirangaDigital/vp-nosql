@@ -19,8 +19,8 @@
     
             <div class="full-width-card blue-edge">
                 <h4 class="publication-details">
-                    <?php if(isset($article['feature'])) { ?><span class="red"><a href="<?=BASE_URL?>articles/category/feature/<?=$article['feature']?>"><?=$article['feature']?></a></span><?php } ?>
-                    <?php if(isset($article['series'])) { ?><span class="brown"><a href="<?=BASE_URL?>articles/category/series/<?=$article['series']?>"><?=$article['series']?></a></span><?php } ?>
+                    <?php if(isset($article['feature'])) { ?><span class="red"><a href="<?=BASE_URL?>articles/category/feature/<?=urlencode($article['feature'])?>"><?=$article['feature']?></a></span><?php } ?>
+                    <?php if(isset($article['series'])) { ?><span class="brown"><a href="<?=BASE_URL?>articles/category/series/<?=urlencode($article['series'])?>"><?=$article['series']?></a></span><?php } ?>
                     <span class="gray"><a href="<?=BASE_URL?>articles/toc?volume=<?=$article['volume']?>&issue=<?=$article['issue']?>"><?=$viewHelper->kannadaMonth($article['month'])?>, <?=$viewHelper->roman2Kannada($article['year'])?> (<?=ARCHIVE_VOLUME?> <?=$viewHelper->roman2Kannada($viewHelper->rlZero($article['volume']))?>, <?=ARCHIVE_ISSUE?> <?=$viewHelper->roman2Kannada($viewHelper->rlZero($article['issue']))?>)</a></span>
                 </h4>
                 <h2 class="title">

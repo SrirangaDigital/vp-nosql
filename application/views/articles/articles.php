@@ -29,7 +29,7 @@
     <?php if(isset($article['author'])) { ?>
                 <h3 class="author by">
         <?php foreach($article['author'] as $author) { ?>
-                    <span><a href="<?=BASE_URL?>articles/author/<?=$author['name']?>"><?=$author['name']?></a></span>
+                    <span><a href="<?=BASE_URL?>articles/author/<?=urlencode($author['name'])?>"><?=$author['name']?></a></span>
         <?php } ?>
                 </h3>
     <?php } ?>
